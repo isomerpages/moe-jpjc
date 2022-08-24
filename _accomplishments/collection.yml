@@ -2,5 +2,6 @@ collections:
   accomplishments:
     output: true
     order:
+      - Staff/Ms Estelle Chia.md
       - Staff/.keep
       - Accomplishments Overview.md
