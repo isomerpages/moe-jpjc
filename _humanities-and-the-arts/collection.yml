@@ -2,5 +2,6 @@ collections:
   humanities-and-the-arts:
     output: true
     order:
+      - Geography/.keep
       - History/.keep
       - Literature in English/.keep
