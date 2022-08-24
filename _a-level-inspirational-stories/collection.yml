@@ -2,6 +2,7 @@ collections:
   a-level-inspirational-stories:
     output: true
     order:
+      - 2022/.keep
       - Lim Wai Keong, Deca (20S20).md
       - Xu Zhetai (20A05).md
       - Lim Khai Loei Joshua (20A05).md
