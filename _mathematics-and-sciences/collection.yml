@@ -2,5 +2,5 @@ collections:
   mathematics-and-sciences:
     output: true
     order:
-      - Mathematics and Further Maths/.keep
+      - Maths and Further Maths/.keep
       - Physics/.keep
