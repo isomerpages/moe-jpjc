@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2022 Events/NTU SCSE Computing Challenge.md
       - 2022 Events/OGL Camp.md
       - 2022 Events/2022 Events Overview.md
       - 2022 Events/.keep
