@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum Framework.md
+      - Curriculum/Humanities & the Arts.md
       - Curriculum/Physical Education.md
       - Curriculum/Mathematics & Sciences.md
       - Curriculum/Languages.md
