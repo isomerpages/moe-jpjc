@@ -2,11 +2,11 @@ collections:
   mathematics-and-sciences:
     output: true
     order:
+      - Biology/.keep
+      - Biology/Biology Overview.md
       - Biology/Enrichment Programmes.md
       - Biology/Syllabus & Assessment.md
       - Biology/Curriculum.md
-      - Biology/Biology Overview.md
-      - Biology/.keep
       - Chemistry/.keep
       - Computing/.keep
       - Maths and Further Maths/.keep
