@@ -1,5 +1,4 @@
 collections:
   talent-and-leadership:
     output: true
-    order:
-      - Talent and Leadership Overview.md
+    order: []
