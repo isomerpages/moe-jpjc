@@ -4,9 +4,9 @@ collections:
     order:
       - Biology/.keep
       - Biology/Biology Overview.md
-      - Biology/Enrichment Programmes.md
-      - Biology/Syllabus & Assessment.md
       - Biology/Curriculum.md
+      - Biology/Syllabus & Assessment.md
+      - Biology/Enrichment Programmes.md
       - Chemistry/.keep
       - Computing/.keep
       - Maths and Further Maths/.keep
