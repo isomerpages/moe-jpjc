@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Talent and Leadership Overview.md
       - Arts and Aesthetics.md
       - Arts and Social Sciences Interest Programme.md
       - Co Curricular Activities.md
