@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Arts and Social Sciences Interest Programme.md
       - Co Curricular Activities.md
       - House System.md
       - Scholars Development Programme.md
