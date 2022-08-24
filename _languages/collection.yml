@@ -2,5 +2,6 @@ collections:
   languages:
     output: true
     order:
+      - H1 Mother Tongue Languages.md
       - Mother Tongue Languages Syllabus B.md
       - Enrichment Programmes/.keep
