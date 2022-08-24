@@ -1,4 +1,5 @@
 collections:
   talent-and-leadership:
     output: true
-    order: []
+    order:
+      - Student Leadership.md
