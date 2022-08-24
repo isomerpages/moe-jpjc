@@ -2,6 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
+      - Students/MOE Teaching Award.md
       - Students/NUS Global Merit Scholarship.md
       - Students/.keep
       - Staff/Dr Hang Kim Hoo.md
