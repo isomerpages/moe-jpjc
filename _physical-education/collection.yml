@@ -1,4 +1,5 @@
 collections:
   physical-education:
     output: true
-    order: []
+    order:
+      - Enrichment Programme.md
