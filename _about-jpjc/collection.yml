@@ -1,4 +1,5 @@
 collections:
   about-jpjc:
     output: true
-    order: []
+    order:
+      - Direct School Admission 2022.md
