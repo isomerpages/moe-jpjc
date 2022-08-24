@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - H2 Translation (Chinese)/Assessment.md
       - H2 Translation (Chinese)/.keep
       - H1 Mother Tongue Languages.md
       - Mother Tongue Languages Syllabus B.md
