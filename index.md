@@ -17,6 +17,15 @@ sections:
   - infopic:
       title: Deepening knowledge
       description: Nurturing creative thinkers of today, scholars of tomorrow
-      button: Button Text
+      button: click here
+      alt: Image alt text
+      url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/total-curriculum-framework/
+      image: /images/deepening-knowledge2.png
+  - infopic:
+      title: Pursing Passion
+      description: Discovering PASSION through seeking, inspiring PURPOSE through
+        discovering.
+      button: click here
+      url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/
       alt: Image alt text
 ---
