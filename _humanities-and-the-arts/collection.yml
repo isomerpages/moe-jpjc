@@ -2,6 +2,7 @@ collections:
   humanities-and-the-arts:
     output: true
     order:
+      - China Studies in English/.keep
       - Economics/.keep
       - Geography/.keep
       - History/.keep
