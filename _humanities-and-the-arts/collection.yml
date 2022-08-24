@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Art/.keep
+      - China Studies in English/Curriculum.md
       - China Studies in English/Syllabus & Assessment.md
       - China Studies in English/Enrichment Programmes.md
       - China Studies in English/.keep
