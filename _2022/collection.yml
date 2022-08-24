@@ -1,4 +1,5 @@
 collections:
   "2022":
     output: true
-    order: []
+    order:
+      - Lim Wai Keong, Deca (20S20).md
