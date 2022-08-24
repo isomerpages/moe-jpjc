@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum Framework.md
+      - Curriculum/Languages.md
       - Curriculum/Language Elective Programmes.md
       - Curriculum/Knowledge Skills.md
       - Curriculum/.keep
