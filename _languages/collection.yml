@@ -1,0 +1,4 @@
+collections:
+  languages:
+    output: true
+    order: []
