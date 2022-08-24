@@ -2,6 +2,7 @@ collections:
   mathematics-and-sciences:
     output: true
     order:
+      - Biology/Syllabus & Assessment.md
       - Biology/Curriculum.md
       - Biology/Biology Overview.md
       - Biology/.keep
