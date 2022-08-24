@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - Curriculum/Humanities & the Arts.md
       - Total Curriculum Framework.md
       - Curriculum.md
       - Co Curriculum.md
