@@ -2,4 +2,5 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group.md
       - JPJC Alumni.md
