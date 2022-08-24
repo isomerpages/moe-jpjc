@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2022 Events/Staff Learning Day.md
       - 2022 Events/Total Defence Day Commemoration.md
       - 2022 Events/Matriculation & Orientation.md
       - 2022 Events/JC2 Enrichment Week.md
