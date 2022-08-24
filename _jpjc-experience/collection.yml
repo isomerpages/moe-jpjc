@@ -2,12 +2,12 @@ collections:
   jpjc-experience:
     output: true
     order:
-      - Co Curriculum.md
       - Total Curriculum Framework.md
+      - Curriculum/.keep
       - Curriculum/Humanities & the Arts.md
       - Curriculum/Physical Education.md
       - Curriculum/Mathematics & Sciences.md
       - Curriculum/Languages.md
       - Curriculum/Language Elective Programmes.md
       - Curriculum/Knowledge Skills.md
-      - Curriculum/.keep
+      - Co Curriculum.md
