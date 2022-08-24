@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Total Curriculum Framework.md
+      - Curriculum/Knowledge Skills.md
       - Curriculum/.keep
       - Co Curriculum/.keep
