@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Jurong Pioneer Junior College
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/jpjc_logo.png
 permalink: /
 notification: ""
 sections:
@@ -30,3 +30,4 @@ sections:
       alt: Image alt text
       image: /images/Pursue-passion.png
 ---
+
