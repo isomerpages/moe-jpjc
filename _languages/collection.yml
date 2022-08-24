@@ -1,4 +1,5 @@
 collections:
   languages:
     output: true
-    order: []
+    order:
+      - Enrichment Programmes/.keep
