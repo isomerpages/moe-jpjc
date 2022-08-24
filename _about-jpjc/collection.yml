@@ -2,5 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - History/.keep
       - Direct School Admission 2022.md
