@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - China Studies in Chinese/.keep
       - H2 Translation (Chinese)/H2 Translation (Chinese) Overview.md
       - H2 Translation (Chinese)/Assessment.md
       - H2 Translation (Chinese)/.keep
