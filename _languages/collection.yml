@@ -2,4 +2,5 @@ collections:
   languages:
     output: true
     order:
+      - Mother Tongue Languages Syllabus B.md
       - Enrichment Programmes/.keep
