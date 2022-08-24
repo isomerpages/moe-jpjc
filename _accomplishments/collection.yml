@@ -2,13 +2,13 @@ collections:
   accomplishments:
     output: true
     order:
-      - "'A' Lvl Inspirational Stories/.keep"
-      - Students/MOE Teaching Award.md
-      - Students/NUS Global Merit Scholarship.md
-      - Students/.keep
+      - Accomplishments Overview.md
+      - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
       - Staff/Madam Lim Sok Koon.md
       - Staff/Ms Siti Khadijah.md
       - Staff/Ms Estelle Chia.md
-      - Staff/.keep
-      - Accomplishments Overview.md
+      - Students/.keep
+      - Students/MOE Teaching Award.md
+      - Students/NUS Global Merit Scholarship.md
+      - "'A' Lvl Inspirational Stories/.keep"
