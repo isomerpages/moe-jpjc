@@ -1,4 +1,5 @@
 collections:
   jpjc-experience:
     output: true
-    order: []
+    order:
+      - Co Curriculum/.keep
