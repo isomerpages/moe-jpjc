@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2022 Events/JP Spotlight.md
       - 2022 Events/House Bonding Day 1.md
       - 2022 Events/J1 Parent Engagement Session.md
       - 2022 Events/GCE A Level Results Release Day.md
