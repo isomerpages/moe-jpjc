@@ -1,6 +1,23 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About JPJC
+    url: /about/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about/principals-message/
+      - title: College Identity
+        url: /about/college-identity/
+      - title: Organisation Chart
+        url: /about/organisation-chart/
+      - title: College Calender
+        url: /about/college-calender/
+      - title: Subject Combination
+        url: /about/subject-combination/
+      - title: Admission Matters
+        url: /about/admission-matters/
+      - title: Financial Assistance Scheme
+        url: /about/fas/
+      - title: History
+        url: /about/history/
+      - title: Direct School Admission 2022
+        url: /about/dsa-2022/
