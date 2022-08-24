@@ -1,5 +1,5 @@
 collections:
-  character-and-citizenship-edu:
+  co-curriculum:
     output: true
     order:
       - Character and Citizenship Edu/Further Education and Career Guidance.md
