@@ -2,6 +2,7 @@ collections:
   humanities-and-the-arts:
     output: true
     order:
+      - Art/Enrichment Programmes.md
       - Art/.keep
       - China Studies in English/China Studies in English Overview.md
       - China Studies in English/Curriculum.md
