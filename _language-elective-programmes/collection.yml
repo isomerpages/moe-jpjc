@@ -1,4 +1,5 @@
 collections:
   language-elective-programmes:
     output: true
-    order: []
+    order:
+      - Malay Language Elective Programme.md
