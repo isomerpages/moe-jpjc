@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
+      - Character and Citizenship Edu/Citizen Education.md
       - Character and Citizenship Edu/Social Emotional Learning and Life
         Skills.md
       - Character and Citizenship Edu/Sexuality Education Programme.md
