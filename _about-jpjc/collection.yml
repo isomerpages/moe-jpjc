@@ -2,4 +2,5 @@ collections:
   about-jpjc:
     output: true
     order:
+      - History/.keep
       - Direct School Admission 2022.md
