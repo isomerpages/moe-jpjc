@@ -41,16 +41,18 @@ links:
         url: /life-at-jpjc/2020-events/
       - title: 2019 Events
         url: /life-at-jpjc/2019-events/
-      - title: Accomplishments
-        url: /accomplishments/staff/
+  - title: Accomplishments
+    url: /accomplishments/staff/
+    sublinks:
       - title: Staff
         url: /accomplishments/staff/
       - title: Students
         url: /accomplishments/students/
       - title: "'A' Lvl Inspirational Stories"
         url: /accomplishments/a-level-inspirational-stories/
-      - title: Partnerships
-        url: /partnerships/jpjc-advisory-committee/
+  - title: Partnerships
+    url: /partnerships/jpjc-advisory-committee/
+    sublinks:
       - title: JPJC Advisory Committee
         url: /partnerships/jpjc-advisory-committee/
       - title: Parent Support Group
