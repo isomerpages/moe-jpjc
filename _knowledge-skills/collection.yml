@@ -1,4 +1,5 @@
 collections:
   knowledge-skills:
     output: true
-    order: []
+    order:
+      - Project Work/.keep
