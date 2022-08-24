@@ -2,4 +2,5 @@ collections:
   knowledge-skills:
     output: true
     order:
+      - General Paper/.keep
       - Project Work/.keep
