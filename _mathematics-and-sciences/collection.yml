@@ -1,4 +1,5 @@
 collections:
   mathematics-and-sciences:
     output: true
-    order: []
+    order:
+      - Physics/.keep
