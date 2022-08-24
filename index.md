@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Jurong Pioneer Junior College
-      background: /images/hero-banner.png
+      background: /images/top-banner.jpg
       dropdown:
         title: Announcements
         options:
@@ -30,4 +30,3 @@ sections:
       alt: Image alt text
       image: /images/Pursue-passion.png
 ---
-
