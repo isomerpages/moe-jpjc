@@ -2,6 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
+      - Staff/Madam Lim Sok Koon.md
       - Staff/Ms Siti Khadijah.md
       - Staff/Ms Estelle Chia.md
       - Staff/.keep
