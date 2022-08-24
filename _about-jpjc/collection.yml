@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - College Identity/College's Vision, Mission, Values and Motto.md
       - College Identity/College Crest.md
       - College Identity/College Anthem.md
       - College Identity/.keep
