@@ -2,6 +2,7 @@ collections:
   knowledge-skills:
     output: true
     order:
+      - General Paper/Syllabus & Assessment.md
       - General Paper/Enrichment Programmes.md
       - General Paper/.keep
       - Project Work/.keep
