@@ -2,4 +2,5 @@ collections:
   accomplishments:
     output: true
     order:
+      - Staff/.keep
       - Accomplishments Overview.md
