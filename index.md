@@ -28,4 +28,5 @@ sections:
       button: click here
       url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/
       alt: Image alt text
+      image: /images/Pursue-passion.png
 ---
