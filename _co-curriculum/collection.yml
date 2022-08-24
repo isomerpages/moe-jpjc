@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Talent And Leadership/STEM.md
       - Talent And Leadership/Student Leadership.md
       - Talent And Leadership/.keep
       - Talent and Leadership Overview.md
