@@ -2,5 +2,6 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2021 Events/.keep
       - 2020 Events/.keep
       - 2019 Events/.keep
