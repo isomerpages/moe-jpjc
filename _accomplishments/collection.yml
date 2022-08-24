@@ -2,6 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
+      - "'A' Lvl Inspirational Stories/.keep"
       - Students/MOE Teaching Award.md
       - Students/NUS Global Merit Scholarship.md
       - Students/.keep
