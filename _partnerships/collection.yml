@@ -1,4 +1,5 @@
 collections:
   partnerships:
     output: true
-    order: []
+    order:
+      - JPJC Alumni.md
