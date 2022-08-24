@@ -1,0 +1,4 @@
+collections:
+  knowledge-skills:
+    output: true
+    order: []
