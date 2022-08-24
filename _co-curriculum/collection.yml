@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Talent And Leadership/Talent and Leadership Overview.md
       - Talent And Leadership/Arts and Aesthetics.md
       - Talent And Leadership/Arts and Social Sciences Interest Programme.md
       - Talent And Leadership/Co Curricular Activities.md
