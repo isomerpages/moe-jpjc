@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education.md
       - Mathematics & Sciences.md
       - Languages.md
       - Language Elective Programmes.md
