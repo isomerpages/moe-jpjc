@@ -2,5 +2,6 @@ collections:
   physical-education:
     output: true
     order:
+      - Physical Education Curriculum.md
       - Syllabus Assessment.md
       - Enrichment Programme.md
