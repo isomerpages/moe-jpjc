@@ -2,5 +2,6 @@ collections:
   knowledge-skills:
     output: true
     order:
+      - General Paper/Enrichment Programmes.md
       - General Paper/.keep
       - Project Work/.keep
