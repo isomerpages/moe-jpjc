@@ -2,6 +2,7 @@ collections:
   mathematics-and-sciences:
     output: true
     order:
+      - Biology/Biology Overview.md
       - Biology/.keep
       - Chemistry/.keep
       - Computing/.keep
