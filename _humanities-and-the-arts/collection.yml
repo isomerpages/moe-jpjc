@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Art/.keep
+      - China Studies in English/Enrichment Programmes.md
       - China Studies in English/.keep
       - Economics/Economics Overview.md
       - Economics/Curriculum.md
