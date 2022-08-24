@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - China Studies in Chinese/China Studies in Chinese Overview.md
       - China Studies in Chinese/Syllabus & Assessment.md
       - China Studies in Chinese/.keep
       - H2 Translation (Chinese)/H2 Translation (Chinese) Overview.md
