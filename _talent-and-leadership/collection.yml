@@ -2,4 +2,5 @@ collections:
   talent-and-leadership:
     output: true
     order:
+      - STEM.md
       - Student Leadership.md
