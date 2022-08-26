@@ -25,5 +25,19 @@ third_nav_title: IP Departments
 | Mr Yang Zhizhong  | Teacher  |
 |
 
+#### **Malay Language**
 
+| Name of Staff | Appointment |
+|:---:|:---:|
+| Mdm Siti Atiqah Bte Punari | Senior Teacher (Malay Language) |
+| Mdm Lorena Bte Ibrahim | Teacher |
+|  Mdm Siti Khadijah | Teacher |
+|
 
+#### **Tamil Language**
+
+| Name of Staff | Appointment |
+|:---:|:---:|
+| Mdm Subathra d/o Thangaraj | Senior Teacher (Tamil Language) |
+| Dr Velmurugan Vasanthi | Teacher |
+|
