@@ -92,7 +92,7 @@ c  MOE-Cambridge H3
 
 Students opting to do H2 Translation are required to fulfil the following:<br>
 1\.  A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR<Br>
-1\.  A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language
+2\.  A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language
 
 #### **Subject Combinations in Arts Course**
 
@@ -114,3 +114,45 @@ Students opting to do H2 Translation are required to fulfil the following:<br>
 @    Students opting to do H2 Art/ H2 Translation are required to sit and pass the selection test.<br>
 &<br>
 Students opting to do H2 Translation are required to fulfil the following:<br>
+
+1\.  A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR
+2\.  A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language
+
+##### **Note:**
+
+1. A subject cannot be taken at both H2 and H1 levels.
+2. The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.
+
+#### **Subject Combinations for Language Elective Programmes**<br>**Chinese Language Elective Programme (CLEP)\***
+
+| H2 Subjects |  |  |  | Possible H1 Subjects |
+|:---:|:---:|:---:|:---:|:---:|
+| SCIENCE COURSE |  |  |  |  |
+| Chinese Language & Literature | Mathematics | Chemistry |   | Biology, Physics, Economics, Geography, History, Literature, Art, |
+| Chinese Language & Literature | Mathematics | Physics |   | Biology, Chemistry, Economics, Geography, History, Literature, Art, |
+| **ARTS COURSE** |  |  |  |  |
+| Chinese Language & Literature | Economics | Mathematics |   | Biology, Chemistry, Physics, Geography, History, Literature, Art |
+| Chinese Language & Literature | Economics | China Studies in English/               China Studies in Chinese/ Translation / History/ Geography/ Literature |   | Mathematics |
+|
+
+\*    Students opting to offer the CLEP programme must obtain
+*   At least A2 in Chinese, OR
+*   B3 in Higher Chinese, OR
+*   B4 in Higher Chinese with B3 in Chinese Literature or equivalent.
+
+#### **Malay Language Elective Programme (MLEP)**
+
+| H2 Subjects |  |  |  | Possible H1 Subjects |
+|:---:|:---:|:---:|:---:|:---:|
+| SCIENCE COURSE |  |  |  |  |
+| Malay Language & Literature | Mathematics | Chemistry |   | Biology, Physics, Economics, Geography, History, Literature, Art |
+| Malay Language & Literature | Mathematics | Physics |   | Biology, Chemistry, Economics, Geography, History, Literature, Art |
+| **ARTS COURSE** |  |  |  |  |
+| Malay Language & Literature | Economics | Mathematics |   | Biology, Physics, Chemistry, Geography, History, Literature, Art |
+| Malay Language & Literature | Economics | Geography/ History/ Literature/ China Studies in English |   | Mathematics |
+|
+
+\*    Students opting to offer the MLEP programme must obtain
+*   At least A2 in Malay Language, OR
+*   B3 in Higher Malay, OR
+*   B4 in Higher Malay with B3 in Malay Literature or equivalent.
