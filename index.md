@@ -26,7 +26,7 @@ sections:
       description: Discovering PASSION through seeking, inspiring PURPOSE through
         discovering.
       button: click here
-      url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/
+      url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/cce/further-ecg/
       alt: Image alt text
       image: /images/Pursue-passion.png
 ---
