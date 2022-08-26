@@ -168,5 +168,5 @@ Click **_[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id
 ![](/images/memory%202.jpg)
 ##### **JJ Gallery**
 ![](/images/memory%203.jpg)
-#### *Wall Features in JJ**
+#### **Wall Features in JJ**
 ![](/images/memory%204.jpg)
