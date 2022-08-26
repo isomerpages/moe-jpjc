@@ -1,4 +1,5 @@
 collections:
   organisation-chart:
     output: true
-    order: []
+    order:
+      - Science Labs and Operations.md
