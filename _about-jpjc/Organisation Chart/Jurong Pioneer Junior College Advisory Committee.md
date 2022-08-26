@@ -16,7 +16,22 @@ third_nav_title: Organisation Chart
 ![](/images/secretary1.jpg)
 
 <img src="/images/chairman1.jpg" 
-     style="width:25%">
+     style="width:15%">
 		 
 <img src="/images/amember%201.jpg" 
-     style="width:25%">		 
+     style="width:15%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:15%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:15%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:15%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:15%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:15%">		 
