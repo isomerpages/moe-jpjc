@@ -134,11 +134,11 @@ Sincere and always true
 <img src="/images/gallery%202.jpg" 
      style="width:65%">
 <img src="/images/gallery%203.jpg" 
-     style="width:65%">
+     style="width:75%">
 <img src="/images/gallery%204.jpg" 
-     style="width:65%">
+     style="width:75%">
 <img src="/images/gallery%205.jpg" 
-     style="width:65%">
+     style="width:75%">
 <img src="/images/gallery%206.jpg" 
      style="width:65%">
 <img src="/images/gallery%207.jpg" 
@@ -170,7 +170,3 @@ Click **_[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id
 ![](/images/memory%203.jpg)
 #### *Wall Features in JJ**
 ![](/images/memory%204.jpg)
-
-
-
-		 
