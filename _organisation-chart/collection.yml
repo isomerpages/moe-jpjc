@@ -2,4 +2,5 @@ collections:
   organisation-chart:
     output: true
     order:
+      - ICT & College Library.md
       - Science Labs and Operations.md
