@@ -1,0 +1,4 @@
+collections:
+  admission-matters:
+    output: true
+    order: []
