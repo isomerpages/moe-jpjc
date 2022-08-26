@@ -2,6 +2,7 @@ collections:
   admission-matters:
     output: true
     order:
+      - JPJC e Openhouse 2022/Co Curricular Activities.md
       - JPJC e Openhouse 2022/Virtual College Tour.md
       - JPJC e Openhouse 2022/Recordings of Sharing Sessions.md
       - JPJC e Openhouse 2022/Frequently Asked Questions.md
