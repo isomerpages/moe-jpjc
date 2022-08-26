@@ -2,4 +2,5 @@ collections:
   admission-matters:
     output: true
     order:
+      - JPJC e Openhouse 2022/Frequently Asked Questions.md
       - JPJC e Openhouse 2022/.keep
