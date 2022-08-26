@@ -129,7 +129,8 @@ Sincere and always true
 
 #### **Photo Gallery**
 
-![](/images/gallery%201.jpg)
+<img src="/images/gallery%201.jpg" 
+     style="width:85%">
 ![](/images/gallery%202.jpg)
 ![](/images/gallery%203.jpg)
 ![](/images/gallery%204.jpg)
