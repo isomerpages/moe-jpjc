@@ -7,7 +7,6 @@ third_nav_title: History
 ### **Jurong Junior College**
 
 ##### History
-### 
 
 Founded in April 1981, JJ was the 9th junior college in Singapore. In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
 
@@ -54,4 +53,60 @@ Plus Ultra
 <img src="/images/revised%20crest.jpg" 
      style="width:25%">
 		 
-		 
+Much thought went into designing the college crest. The result was a unique silver ‘tear drop’ on green background. The crest was unique and differed significantly from the typical school crests of that era.
+
+During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘_Plus Ultra’_ was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
+
+##### **College Song**
+
+**-audio recording-**
+
+The road unwinds before us<br>
+And we must venture on<br>
+Towards the bright tomorrow<br>
+Which faith and hope enthrone<br>
+We shall not stay nor linger<br>
+We shall not shrink nor fail<br>
+But hand in hand together<br>
+Strike out along the trail
+
+**Chorus**
+
+Head, heart and hand we offer<br>
+That none will fail the test<br>
+“Plus Ultra” leads us farther<br>
+Until we are the best
+
+And on our backs the armour<br>
+Forged in our College days<br>
+And in our eyes the light of truth<br>
+This College sets ablaze
+
+ **Repeat Chorus**
+ 
+ **-audio recording-**
+
+JJ Spirit fills the air and lightens up our hearts<br>
+There’s a sense of happiness cos we have done our part<br>
+The fun and laughter we had together have made our dreams come true<br>
+There’s a feeling for me and you<br>
+In everything we do
+
+**Chorus**
+
+JJ you made my life complete<br>
+And taught us always be at best in what we do,<br>
+To strive and never rest<br>
+JJ spirit will always be there,<br>
+JJ spirit will be there
+
+Your wealth and colour of your skin<br>
+We don’t really care<br>
+Cos with brotherly love we will<br>
+We will always share<br>
+Disciplined we always must be devoted and loyal be<br>
+We take pride in the things we do<br>
+Sincere and always true
+
+**Repeat Chorus**
+
