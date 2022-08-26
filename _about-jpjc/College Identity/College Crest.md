@@ -9,7 +9,7 @@ third_nav_title: College Identity
 **Jurong Pioneer Junior College – Crest**
 
 <img src="/images/JPJC%20sch%20crest.jpg" 
-     style="width:35%">
+     style="width:25%">
 		 
 Jurong Pioneer Junior College’s (JPJC) crest is the fusion of the letters ‘J’ and ‘P’ – the first letter of the names of our predecessors. It is a deliberate tribute to the legacy and values upon which JPJC is established, where we inherit our unyielding dedication to the passion to learn and the spirit of seeking personal excellence.
 
