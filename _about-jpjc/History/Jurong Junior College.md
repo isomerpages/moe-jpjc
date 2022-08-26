@@ -110,3 +110,19 @@ Sincere and always true
 
 **Repeat Chorus**
 
+#### **Milestones**
+
+| Year | Key Event |
+|---|---|
+| 1981 | Establishment of Jurong Junior College |
+| 1985 | Relocation to permanent premises at 800 Corporation Road |
+| 1987 | Official opening of Jurong Junior College |
+| 1997 | Achieved coveted Top Value-Added College Award by MOE |
+| 2006 | Named 4th Language Elective Programme (Chinese) Centre |
+| 2006 | Awarded Centre of Excellence for Character Development (West Zone) and received Outstanding Development Award for Character Development |
+| 2008 | Rallied the crowd in the announcement ceremony for host city of the inaugural Youth Olympic Games |
+| 2011 | Revalidation of role as Center of Excellence for Character Development (West Zone) and MOE Outstanding Development Award for Character Development |
+| 2015 | Organised inaugural National Xinyao Competition |
+| 2017 | Celebration of Homecoming and JJ pioneer batch’s reunion lunch |
+| 2018 | Curtain Call: The Final Homecoming @ Jurong |
+|
