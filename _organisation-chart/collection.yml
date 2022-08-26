@@ -1,0 +1,4 @@
+collections:
+  organisation-chart:
+    output: true
+    order: []
