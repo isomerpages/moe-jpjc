@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - Administration & Finance.md
       - School Counsellors.md
       - ICT & College Library.md
       - Science Labs and Operations.md
