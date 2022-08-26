@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - IP Departments/Physical Education & Co Curricular Activities.md
       - IP Departments/Physics.md
       - IP Departments/Project Work.md
       - IP Departments/IP Departments.md
