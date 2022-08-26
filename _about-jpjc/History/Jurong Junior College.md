@@ -43,4 +43,15 @@ Principals:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### **Motto**
+Plus Ultra
 
+#### **Crest**
+
+<img src="/images/original%20crest.jpg" 
+     style="width:25%">
+
+<img src="/images/revised%20crest.jpg" 
+     style="width:25%">
+		 
+		 
