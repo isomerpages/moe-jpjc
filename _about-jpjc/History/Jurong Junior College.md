@@ -131,6 +131,8 @@ Sincere and always true
 
 <img src="/images/gallery%201.jpg" 
      style="width:85%">
+<img src="/images/gallery%202.jpg" 
+     style="width:80%">
 ![](/images/gallery%202.jpg)
 ![](/images/gallery%203.jpg)
 ![](/images/gallery%204.jpg)
