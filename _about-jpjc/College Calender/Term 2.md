@@ -37,11 +37,7 @@ Student Version (as of 6 January 2022)
 |  | 26 May | Thu |  JC2 Mid-Year Examination – GP (AM) & Computing Practical (PM) |
 |  | 27 May | Fri |  JC1 Mid-Year Examination – GP (AM) & Computing Practical (PM) |
 |  | 27 May – 29 May | Fri – Sun | Leadership Training Camp |
-|
-
-| Term | Date | Day | Event |
-|---|---|---|---|
-| Term 2 Vacation<br>(28 May – 26 Jun) | 30 May | Mon | GCE A Level MTL Written Examination (Mid-Year) |
+|Term 2 Vacation<br>(28 May – 26 Jun) | 30 May | Mon | GCE A Level MTL Written Examination (Mid-Year) |
 |  | 30 May – 31 May | Mon – Tue | JC1 MOE CLEP Camp (TBC) |
 |  | 30 May – 3 Jun | Mon – Fri | Internal MTL Oral Exam<br>Pre-University Seminar<br>Creative Arts Programme |
 |  | 1 Jun | Wed | GCE A Level MTLB Written Examination (Mid-Year) |
