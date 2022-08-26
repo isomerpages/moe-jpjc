@@ -9,6 +9,11 @@ third_nav_title: College Calender
 COLLEGE CALENDAR 2022<br>
 Student Version (as of 6 January 2022)
 
+| Term 1 | Term 1 Vacation |
+|---|---|
+|4 Jan – 11 Mar|12 Mar – 20 Mar|
+|
+
 | Date | Day | Event |
 |:---:|:---:|:---:|
   | 4 Jan – 6 Jan | Tue – Thu | Orientation Group Leaders (OGLs) Camp |
