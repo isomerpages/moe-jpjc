@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - IP Departments/English.md
       - IP Departments/Humanities.md
       - IP Departments/Mathematics.md
       - IP Departments/Mother Tongue Languages.md
