@@ -35,5 +35,3 @@ Successful applicants will be notified of the outcome of their appeal applicatio
 All applicants are still required to report to the college that they are posted to on Monday, 7 February 2022 at 07:30 AM, pending the outcome of their application to Jurong Pioneer Junior College.
 
 Please contact 6564 6878 if you have further enquiry regarding JAE.
-
-
