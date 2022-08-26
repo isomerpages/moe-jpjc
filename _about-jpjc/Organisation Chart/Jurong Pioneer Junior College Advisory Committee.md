@@ -6,8 +6,6 @@ third_nav_title: Organisation Chart
 ---
 ### **Jurong Pioneer Junior College Advisory Committee**
 
-![](/images/chairman1.jpg)
-![](/images/amember%201.jpg)
 ![](/images/amember%202.jpg)
 ![](/images/amember%203.jpg)
 ![](/images/amember%204.jpg)
@@ -19,3 +17,6 @@ third_nav_title: Organisation Chart
 
 <img src="/images/chairman1.jpg" 
      style="width:25%">
+		 
+<img src="/images/amember%201.jpg" 
+     style="width:25%">		 
