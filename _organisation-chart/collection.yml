@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - IP Departments/Computing.md
       - IP Departments/Economics.md
       - IP Departments/English.md
       - IP Departments/Humanities.md
