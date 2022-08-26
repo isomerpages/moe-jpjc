@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - College Management Committee.md
       - IP Departments.md
       - Administration & Finance.md
       - School Counsellors.md
