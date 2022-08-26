@@ -130,19 +130,22 @@ Sincere and always true
 #### **Photo Gallery**
 
 <img src="/images/gallery%201.jpg" 
-     style="width:85%">
+     style="width:65%">
 <img src="/images/gallery%202.jpg" 
-     style="width:80%">
-![](/images/gallery%203.jpg)
-![](/images/gallery%204.jpg)
-![](/images/gallery%205.jpg)
-![](/images/gallery%206.jpg)
-![](/images/gallery%207.jpg)
+     style="width:65%">
+<img src="/images/gallery%203.jpg" 
+     style="width:65%">
+<img src="/images/gallery%204.jpg" 
+     style="width:65%">
+<img src="/images/gallery%205.jpg" 
+     style="width:65%">
+<img src="/images/gallery%206.jpg" 
+     style="width:65%">
+<img src="/images/gallery%207.jpg" 
+     style="width:65%">		 
 
 Click **[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1004999109613821)** for more photos.
 
 #### **35th Anniversary lunch**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
