@@ -1,4 +1,5 @@
 collections:
   admission-matters:
     output: true
-    order: []
+    order:
+      - JPJC e Openhouse 2022/.keep
