@@ -149,3 +149,28 @@ Click **[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=
 #### **35th Anniversary lunch**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/images/anniversary%201.jpg" 
+     style="width:65%">	
+Click **_[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1360022297444832)_** for more photos.		 
+<img src="/images/anniversary%202.jpg" 
+     style="width:65%">	
+Click **_[here](https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1889124674534589)_** for more photos.		 
+<img src="/images/anniversary%203.jpg" 
+     style="width:65%">	
+<img src="/images/anniversary%204.jpg" 
+     style="width:65%">			 
+		 
+#### **Talk a walk down memory lane….**
+##### **800 Corporation Road Facade**
+![](/images/memory%201.jpg)
+##### **Favourite Memories of JJ**
+![](/images/memory%202.jpg)
+##### **JJ Gallery**
+![](/images/memory%203.jpg)
+#### *Wall Features in JJ**
+![](/images/memory%204.jpg)
+
+
+
+		 
