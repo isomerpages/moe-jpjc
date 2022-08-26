@@ -2,6 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
+      - IP Departments/Project Work.md
       - IP Departments/IP Departments.md
       - IP Departments/.keep
       - Jurong Pioneer Junior College Advisory Committee.md
