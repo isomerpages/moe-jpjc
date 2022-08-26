@@ -18,4 +18,3 @@ Integrity, Responsibility, Resilience, Respect, Compassion
 #### **Motto:**
 While I Live, I Learn<br>
 Plus Ultra
-
