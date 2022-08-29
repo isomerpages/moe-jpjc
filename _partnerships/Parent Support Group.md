@@ -40,3 +40,15 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
 <img src="/images/psg%203b.jpg" 
      style="width:49%" align=right>		 		 
 ![](/images/psg%20caption.jpg)
+
+##### Year 2020<br>2020 JPJC Open House
+
+<img src="/images/PSG1.jpg" 
+     style="width:65%">
+![](/images/PSG%201%20caption.png)     
+
+##### Year 2019<br>JPJC Education and Career Guidance (ECG) Parents’ Evening
+
+
+
+##### Get-to-Know Session
