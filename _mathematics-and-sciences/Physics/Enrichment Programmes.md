@@ -40,11 +40,15 @@ To enable our students to have a better understanding of different cultures and 
 #### **Singapore Science and Engineering Fair (SSEF)**
 Physics students with strong interest in Physics, and especially in research, will be given a chance to participate in the SSEF. The SSEF is a prestigious science research competition organised by MOE, A\*STAR and the Singapore Science Centre. Our students did us proud in the SSEF 2016 (Tay Chao Jie from 15S21 won the Silver Award) and SSEF 2018 (Jacqueline Png from 17S05 won the Merit Award).
 
-![](/images/physics%2016.jpg)
-![](/images/physics%2016%20caption.jpg)
+<img src="/images/physics%2016.jpg" 
+     style="width:55%">
+<img src="/images/physics%2016%20caption.jpg" 
+     style="width:75%">
 
-![](/images/physics%2017.jpg)
-![](/images/physics%2017%20caption.jpg)
+<img src="/images/physics%2017.jpg" 
+     style="width:55%">
+<img src="/images/physics%2017%20caption.jpg" 
+     style="width:75%">
 
 #### **SUTD Electric Vehicle Design Challenge 2019**
 A team of 12 JC2 students took part in the Electric Vehicle Design Challenge organised by the Singapore University of Technology and Design (SUTD). This is the first time that the college took part in this competition. The team worked tirelessly for 6 weeks to build the vehicle from scratch using simple tools. The students had to innovate and improvise along the way as they put together the different electrical components and mechanical parts of the vehicle. They had to overcome many challenges, such as the lack of advanced tools, faulty wheel alignment and a burnt circuit board. At the end, their resilience and perseverance paid off and they managed to complete a fully functioning electric vehicle. The vehicle passed all the required safety checks at SUTD and it was cleared to participate in the EV competitive races on 11 and 12 May at Heartbeat@Bedok. Even though the team vehicle did not emerge as one of the top teams in the race, it completed all the rounds with respectable timings comparable to polytechnics and other more experienced schools. Given that this was the first time the college participated in this competition, it was a commendable achievement and effort on the part of the students. Most importantly, the students gained new knowledge and hands-on skills in building the vehicle. It was a rare and enriching experience for all of them.
