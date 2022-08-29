@@ -17,3 +17,26 @@ In 2018, a group of interested students participated in the Fuel Cell workshop c
 <img src="/images/Chemistry%208.jpg" 
      style="width:65%">
 ![](/images/Chemistry%208%20caption.jpg)
+
+#### **Singapore Chemistry Olympiad (SChO)**
+The Singapore Chemistry Olympiad (SChO) is an annual competition jointly organised by the Singapore National Institute of Chemistry (SNIC), Chemistry Department of National University of Singapore and the Ministry of Education. The inaugural Singapore Chemistry Olympiad was launched in 1989 and has been an annual event since then.
+
+The competition consists of a theory test and a practical test (only for Silver and Gold medallists), each of approximately 4-5 hours, taken over two days. Participants are awarded medals (Gold, Silver and Bronze) and certificates based on their performance.
+
+The competition is open to JC1 students, with the aim to
+*   promote an interest in Chemistry,
+*   provide an opportunity for academically inclined Chemistry JC students to pit their knowledge in Chemistry and spar against each other.
+
+In 2018, seven students participated in the competition as the first batch of JPJC students. We are proud that Liaw Jin Kai Dion (18S14) and Chua Shan Hong (18S24) were awarded the Bronze medals.
+
+#### **H3 Learning Day**
+As part of their curriculum, five H3 students attended the H3 Learning Day organised by MOE Curriculum Planning and Development Division (Science Branch) and conducted by NUS Chemistry Department.
+
+During this session, students were engaged by Dr Michael Yudistira Patuwo for his insightful lecture on Introduction to Spectroscopy. Following up the lecture, the students had the opportunity to conduct experiment on the extraction of colour dyes from natural sources such as beetroot and turmeric ginger, and analysed the colour dyes in different pH with the use of UV–Vis spectroscopy. From the data collected, students then attempted to explain data using concepts and knowledge they have learnt in both H2 and H3 Chemistry.
+
+<img src="/images/Chemistry%209.jpg" 
+     style="width:70%">
+![](/images/Chemistry%209%20caption.jpg)
+<img src="/images/Chemistry%2010.jpg" 
+     style="width:65%">
+![](/images/Chemistry%2010%20caption.jpg)		 
