@@ -8,7 +8,6 @@ third_nav_title: "2022"
 
 <img src="/images/1Deca.jpg" 
      style="width:65%">
-		 
 Lim Wai Keong, Deca (20S20) who soldiered on despite going through chemotherapy and multiple surgeries.
 
 ##### **I Can’t Choose What Happens to My Health/Body, But I Can Choose My Destiny**
