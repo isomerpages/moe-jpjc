@@ -85,3 +85,11 @@ JPJC will consider direct admission for the following programmes and CCAs:
 |  Step 4 | A Letter of Offer will be sent out to successful applicants by post/email. |
 |  Step 5 | Parent/Guardian is to complete the Acceptance Form and reply the school using his/her email address.  |
 |
+
+|  | In-house Interview/Audition/Trial/Aptitude/Written Test Dates*<br>shortlisted applicants will have to attend a compulsory interview/audition trial scheduled by the college.<br>* An alternate interview date may be rescheduled by the college due to unforeseen circumstances |
+|---|---|
+| **Phase 1** | **29 June (Wed), 1 Jul (Fri), 6 Jul (Wed), 8 Jul (Fri), 13 Jul (Wed) , 15 Jul (Fri), 20 Jul (Wed), 22 Jul (Fri)** |
+| **Phase 2**  |  **10 Aug (Wed), 12 Aug (Fri), 17 Aug (Wed), 19 Aug (Fri), 24 Aug (Wed), 26 Aug (Fri)** |
+|  | Shortlisted applicants will be assessed based on the following criteria:<br>* Level of potential <br>* Confidence<br>*  Knowledge <br>* Passion<br>*  Attitude demonstrated during interview/audition/aptitude test/written test. |
+|
+
