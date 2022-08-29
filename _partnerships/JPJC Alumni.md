@@ -104,3 +104,134 @@ There was something for everyone as alumni forged strong ties with their juniors
 
 **JJC Homecoming - Welcome Home**
 ![](/images/jpjc%20alumni%2019.jpg)
+
+#### **Alumni Spotlight**
+##### **Public Service**
+**Professor Pey Kin Leong**<br>
+Associate Provost at Singapore University of Technology and Design
+
+**Dr Raghavan Nagarajan**<br>
+Assistant Professor at Singapore University of Technology and Design
+
+**Dr Ng Ngan Kee**<br>
+Lecturer at National University of Singapore
+
+**Ms Tricia Seow**<br>
+Senior Lecturer at National Institute of Education
+
+**Mr Koh Hong Wee**<br>
+Centre Director of Energy & Chemicals Training Centre at Singapore Polytechnic
+
+**Ms Francesca Phoebe Wah**<br>
+Planning Officer at MOE<br>
+Advisor at Bringing Love to Every Single Soul (BLESS)
+
+**Mr Tung Siew Hoong**<br>
+Managing Director (Fixed Income) at Government Investment Corporation
+
+**Nr Ng Swee Hoe**<br>
+F-16 Fighter Pilot at Republic of Singapore Air Force
+
+**Mr Pritam Singh**<br>
+Member of Parliament for Aljunied Group Representation Constituency
+
+**Mr Ang Hin Kee**<br>
+Former Member of Parliament for the Ang Mo Kio Group Representation Constituency
+
+##### **Insurance, Banking and Finance**<br>
+Ms Carmen Lee<br>
+Managing Director of Equity Research at Bank of Singapore (Asia's Global Private Bank)<br>
+Head of Research at OCBC Investment Research
+
+**Ms Lim Lay-Hui**<br>
+Head of Insurance at Thome Ship Management
+
+##### **Law**
+**Mr Tan Chong Huat**<br>
+Non Executive Chairman at RHT Group of Companies
+
+**Ms Rebecca Kool**<br>
+Group General Counsel at ASX Listco
+
+**Mr Noh Bin Abd Hamid**<br>
+Lawyer at Just Law LLC
+
+**Mr Ian Ong**<br>
+Lawyer at Allen & Overy
+
+##### **STEM-related field**
+**Dr Lim Yee Hwee**<br>
+Head Of Division - Functional Molecules & Polymers at Institute of Chemical and Engineering Sciences, A\*STAR
+Director of Graduate Affairs at A\*STAR Science and Engineering Research Council
+
+**Mr Daniel Tay**<br>
+Strategic Development at Temasek
+
+**Dr Vincent Choy**<br>
+Cloud Consultant for Microsoft Cloud Technology
+
+**Dr Goh Han Lin**<br>
+Senior Research Scientist at Apple
+
+**Dr Stephen Siew**<br>
+Senior Resident at Tan Tock Seng Hospital
+
+##### **Arts, Music and Media**
+**Mr Lance Alexander**<br>
+Radio & TV Presenter/Executive Editor at Channel News Asia, Mediacorp
+
+**Mr Desmond Tan**<br>
+Artist at MediaCorp<br>
+Best Actor at 24th Star Awards Ceremony (2018)
+
+**Mr Chen Jiaming**<br>
+Acclaimed songwriter and music producer
+
+**Mr Cai Yiren**<br>
+Founder of TCR Music Station
+
+**Ms Lim Sheau Wian**<br>
+President of Mus’Art Wind Orchestra
+
+##### **Business and Entrepreneurs**<br>
+**Mr Shafie Shamsuddin**<br>
+Chief Executive Officer AEON Group Malaysia/Managing Director at AEON CO. (M) BHD.
+
+**Mr Roderick Chia**<br>
+Founder of rodVENTURE<br>
+Chief Strategy Officer/Chief Technology Officer at Oyika<br>
+Director at Mighty Robot
+
+**Mr Loo Cheng Chuan**<br>
+Founder of Premiummall<br>
+Founder of 1M65 Movement
+
+**Ms Lee Bee Yee**<br>
+Founder of Premiummall
+
+**Mr Zhou Wenhan Santhe Militiya**<br>
+CEO Smart Walkie Talkie  
+  
+
+**Mr Gary Ong & Mr Johnathan Wong**<br>
+Founders of Mr Gentleman and 51 Label
+
+**Mr Wille Goh**<br>
+Founder and Director of Gymkraft
+
+**Mr Roger Yip**<br>
+Co-Founder of Hopscotch Bar, Cherki and StoryBox Collective
+
+**Mr Dean Tan**  <br>
+Deputy Director at Kallang Alive
+
+ **Mr Tan Ying Quan**<br>
+Head of People and Partnerships at Barramundi Asia  
+
+**Ms Alice Tan**<br>
+Senior Director, Head of Consultancy at Knight Frank Singapore
+
+**Mr Adamson Alagan**  <br>
+Business Development Director of Studio AG
+
+
