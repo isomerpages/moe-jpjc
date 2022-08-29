@@ -4,5 +4,6 @@ permalink: /accomplishments/students/a-level-inspirational-stories/2022/xu-zheta
 description: ""
 third_nav_title: "2022"
 ---
+### **Xu Zhetai (20A05)**
 
-
+![](/images/Zhetai.jpg)
