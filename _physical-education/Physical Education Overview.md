@@ -5,7 +5,8 @@ description: ""
 ---
 ### **Physical Education**
 
-![](/images/PE%201.jpg)
+<img src="/images/PE%201.jpg" 
+     style="width:85%">
 
 #### **Our Vision:**
 Self-directed and discerning students who seek to lead a healthy and active lifestyle.
@@ -15,6 +16,3 @@ To implement a purposeful PE programme that provides a variety of student-centre
 
 #### **Aims and Objectives of the PE Programme**
 The aims of the PE programme are to develop the physical, intellectual, social and emotional skills of the students through the medium of physical activities, health education, team-building collaboration and leadership opportunities.
-
-
-
