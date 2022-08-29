@@ -36,3 +36,5 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 ##### **Year 2021**
 **1) Mr Jeremy Chin (PJC Alumnus, Class of 2014)** PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 
+<img src="/images/jpjc%20alumni%201.jpg" 
+     style="width:75%">
