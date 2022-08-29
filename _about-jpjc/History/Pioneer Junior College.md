@@ -76,5 +76,56 @@ To be true in all that I do. <br>
 
 In crossing new frontiers, <br>
 I shall strive to lead by example, <br>
-For it is in my learning that I live 
+For it is in my learning that I live
 
+#### **College Anthem**
+
+**-audio recording-**
+
+**Verse I**<br>
+Here I stand <br>
+The dawning of a brand new day <br>
+As I look to the way ahead <br>
+In my heart burns the fire of learning <br>
+And it shines everywhere I go <br>
+Never fading and ever yearning <br>
+While I live, I learn and grow. 
+
+**Chorus:**<br>
+I will seek and explore <br>
+Open each and every door <br>
+Always caring and faithful and true <br>
+To be a guiding light <br>
+Set the future shining bright <br>
+For my college and for nation too <br>
+I am a true Pioneer <br>
+Crossing every new frontier <br>
+With conviction I take every turn <br>
+This passion I will hold <br>
+So that everyone may know<br> 
+I believe: While I live, I learn. 
+
+**Verse 2**<br>
+Here we stand <br>
+Together on this special day <br>
+Pioneers who will lead the way <br>
+All our hearts share the spirit of exploring <br>
+In our lives we will always show <br>
+How we've set our sights on soaring <br>
+While we live, we learn and grow. <br>
+
+**Chorus:**<br>
+And we'll seek and explore <br>
+Open each and every door <br>
+Always caring and faithful and true <br>
+To be a guiding light <br>
+Set the future shining bright <br>
+For our college and for nation too <br>
+Yes, we are true Pioneers <br>
+Crossing all the new frontiers <br>
+With conviction we take every turn <br>
+This passion we will hold <br>
+So that everyone may know <br>
+We believe: While we live, we learn.
+
+#### **Milestones**
