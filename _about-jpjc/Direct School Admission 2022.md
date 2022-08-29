@@ -66,15 +66,15 @@ JPJC will consider direct admission for the following programmes and CCAs:
 
 | Sports & Games | Eligibility Criteria |
 |:---:|---|
-| **Badminton<br>Basketball (Boys)<br>Football (Boys)<br>Volleyball (Boys & Girls)** | * Applicants who meet **one or more** of the following criteria will be shortlisted for interviews/ auditions:<br>- National Team Player; National Youth Team Player<br>- Representative of Singapore Schools<br>- Representative of recognised Sports Club/Sports Academy<br>- Achieved top 4 position at Zonal or National Level<br>- Demonstrated outstanding individual talent in the respective sports.<br><br>* Shortlisted candidates will be invited to attend a face-to-face trial and interview in JPJC |
+|<br> **Badminton<br>Basketball (Boys)<br>Football (Boys)<br>Volleyball (Boys & Girls)** | * Applicants who meet **one or more** of the following criteria will be shortlisted for interviews/ auditions:<br>- National Team Player; National Youth Team Player<br>- Representative of Singapore Schools<br>- Representative of recognised Sports Club/Sports Academy<br>- Achieved top 4 position at Zonal or National Level<br>- Demonstrated outstanding individual talent in the respective sports.<br><br>* Shortlisted candidates will be invited to attend a face-to-face trial and interview in JPJC |
 |
 
 ### **Phases and Stages of DSA-JC Exercise 2022**
 
 | Phase<br>(Period) | Stages |
 |:---:|---|
-| **1<br>(27 Jun to 19 Aug)** |1. **Offer Stage - 27 Jun to 11 Aug**<br>- JC to carry out selection and Phase 1 offers<br><br>2. **Acceptance Stage – 12 Aug to 16 Aug**<br>- Each student may accept only one Phase 1 offer within this stage, regardless of the number of offers received. Phase 1 offers that are not accepted expire at the end of this stage.<br><br>3. **Cooling-Off Stage – 17 Aug to 19 Aug**<br>- JC to make Phase 2 offers. Students should cancel earlier acceptance of Phase 1 offers if they wish to consider Phase 2 offers |
-| **2<br>(17 Aug to 12 Sep)** |1. **Offer Stage – 17 Aug to 6 Sep**<br>– JC to make Phase 2 offers during this stage. This overlaps with the Cooling-Off Stage of Phase 1.<br><br>2. **Acceptance Stage – 7 Sep to 12 Sep**<br>– Each student who has yet to commit to any offer may accept only one Phase 2 offer within this period, regardless of the number of offers received. |
+|<br><br> **1<br>(27 Jun to 19 Aug)** |1. **Offer Stage - 27 Jun to 11 Aug**<br>- JC to carry out selection and Phase 1 offers<br><br>2. **Acceptance Stage – 12 Aug to 16 Aug**<br>- Each student may accept only one Phase 1 offer within this stage, regardless of the number of offers received. Phase 1 offers that are not accepted expire at the end of this stage.<br><br>3. **Cooling-Off Stage – 17 Aug to 19 Aug**<br>- JC to make Phase 2 offers. Students should cancel earlier acceptance of Phase 1 offers if they wish to consider Phase 2 offers |
+| <br>**2<br>(17 Aug to 12 Sep)** |1. **Offer Stage – 17 Aug to 6 Sep**<br>– JC to make Phase 2 offers during this stage. This overlaps with the Cooling-Off Stage of Phase 1.<br><br>2. **Acceptance Stage – 7 Sep to 12 Sep**<br>– Each student who has yet to commit to any offer may accept only one Phase 2 offer within this period, regardless of the number of offers received. |
 |
 
 |  | Application Procedures |
@@ -92,4 +92,3 @@ JPJC will consider direct admission for the following programmes and CCAs:
 | **Phase 2**  |  **10 Aug (Wed), 12 Aug (Fri), 17 Aug (Wed), 19 Aug (Fri), 24 Aug (Wed), 26 Aug (Fri)** |
 |  | Shortlisted applicants will be assessed based on the following criteria:<br>* Level of potential <br>* Confidence<br>*  Knowledge <br>* Passion<br>*  Attitude demonstrated during interview/audition/aptitude test/written test. |
 |
-
