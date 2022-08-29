@@ -150,3 +150,5 @@ We believe: While we live, we learn.
 | 2017 | Celebrating our Past, Venturing Forward<br><br>* The college commissioned the Pioneer JC Heritage Wall to document the significant milestones of the college’s history and heritage. <br>* It was launched on 27 May 2017 by Minister for Health Mr Gan Kim Yong and the past Student Council Presidents.The college organised the inaugural China Studies Conference to commemorate the 10th anniversary of the introduction of China Studies in English in the MOE JC curriculum.<br> |
 | 2018 | Live, Learn, Grow<br><br>* The college commissioned the Pioneer Storybook ‘Live, Learn, Grow’ to capture the unwavering endeavor in its mission to nurture committed learners and compassionate leaders.<br>* The college also organised a college-wide carnival Pioneer Fiesta 2, and Homecoming to commemorate the illustrious journey of the college.<br>* The college bade farewell to its final cohort of students at the JC2 Farewell Assembly.<br>* Mrs Tan-Kek Lee Yong, PJC’s second and final principal, retired on 31 Dec 2019. |
 |
+
+![](/images/2000jpc.jpg)
