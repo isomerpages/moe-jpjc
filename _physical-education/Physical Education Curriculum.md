@@ -10,4 +10,3 @@ PE serves to complement other educational areas in promoting educational outcome
 
 The manner in which PE activities are taught determines how students will feel about making it a part of their lifestyle. The PE programme for students should be enjoyable to ensure that they develop a positive association with activity. 
 
-*
