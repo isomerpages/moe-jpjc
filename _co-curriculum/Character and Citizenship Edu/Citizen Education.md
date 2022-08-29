@@ -24,5 +24,8 @@ The college cultivates citizenship dispositions in students through:
 ![](/images/past%20event%203.jpg)
 ![](/images/past%20event%203%20c.jpg)
 
+![](/images/past%20event%204.jpg)
+![](/images/past%20event%204%20c.png)
+
 ![](/images/past%20event%205.jpg)
 ![](/images/past%20event%205%20c.png)
