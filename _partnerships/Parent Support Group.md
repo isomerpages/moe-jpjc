@@ -54,3 +54,19 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
 ![](/images/PSG%202%20captionn.png)
 
 ##### Get-to-Know Session
+
+<img src="/images/PSG3.jpg" 
+     style="width:75%">
+![](/images/PSG%203%20caption.png)
+
+##### JC2 Farewell Assembly
+
+<img src="/images/psg4.jpg" 
+     style="width:75%">
+![](/images/psg4%20c.png)
+
+##### Foodie Day for Night Study Programme
+
+<img src="/images/psg5.jpg" 
+     style="width:75%">
+![](/images/psg5%20c.png)
