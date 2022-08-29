@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Language Elective Programmes/Language Elective Programmes.md
       - Language Elective Programmes/.keep
       - Curriculum Overview.md
       - Humanities & the Arts.md
