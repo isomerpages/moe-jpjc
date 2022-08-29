@@ -37,4 +37,12 @@ The content for the **SOVA** is organised along two broad themes: Visual Arts 
 
 **Studio Practice,** which is **only available for the H2 students,** engages students in the creation of artworks. Students will acquire skills such as research, experimentation and exploration, idea development, personal reflection and evaluation in the process of creating artworks. Preparatory studies are an integral and important part of the Studio Practice. Through the preparatory studies, students learn to think through issues and problems and develop their abilities to translate ideas into artworks.
 
+<img src="/images/Art3.jpg" 
+     style="width:65%">
+![](/images/Art3%20caption.jpg)
 
+<img src="/images/Art4.jpg" 
+     style="width:65%">
+![](/images/Art4%20caption.jpg)
+
+To see more of our JPJC Art Programme, please follow our JPJC Art instagram Account, [@jpjc.art](https://www.instagram.com/jpjc.art/).
