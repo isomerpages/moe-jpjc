@@ -21,3 +21,4 @@ Our college also offers DSA Art to secondary school students who demonstrate str
 
 #### **Social Media**
 To see more of our JPJC Art Programme, please follow our JPJC Art instagram Account, [@jpjc.art](https://www.instagram.com/jpjc.art/).
+
