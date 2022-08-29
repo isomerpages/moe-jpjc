@@ -26,7 +26,8 @@ _Collaborating with community partners in organising interaction sessions with r
 _In view with the Safe Management Measures (SMM), our students continued to engage the community. For example, our students conducted a series of virtual workshops for the elderly of Taman Jurong, Jurong Spring and Nanyang. The topics of these workshops included the use of mobile apps for transport booking, food ordering, photo editing, and promoting awareness of scam prevention; and other hands-on workshops like terrarium-making and handicraft-making._
 ![](/images/VIA%204.jpg)
 _Student volunteers conducted a Corridor Farming Workshop for the CCK residents. Our students shared on how the corridor farming could beautify the common space and be part of our community efforts in building towards food security._
-![](/images/VIA%205.jpg)
+<img src="/images/VIA%205.jpg" 
+     style="width:75%">
 _Students from ODAC organised asynchronous Amazing Race for the residents of Jurong Spring. Participants took part in the race at their own time with their friends or family to explore their neighbourhood in Jurong Spring._
 ![](/images/VIA%206.jpg)
 _In the advocacy of care for animals, students from 20S05 initiated awareness drive in the college to promote this cause._
