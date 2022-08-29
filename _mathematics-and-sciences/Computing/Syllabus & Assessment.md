@@ -94,5 +94,5 @@ All candidates will offer Paper 1 and Paper 2. All questions are compulsory in b
 | Paper | Mode | Duration | Weighting | Marks | Description |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Written | 3 hours | 60% | 100 | 6 –8 structured questions of different lengths and marks. |
-| 2 | Lab-based practical | 3 hours | 40% | 100 |  <br>4 structured questions of different lengths and marks. |
+| 2 | Lab-based practical | 3 hours | 40% | 100 | 4 structured questions of different lengths and marks. |
 |
