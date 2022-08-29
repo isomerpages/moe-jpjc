@@ -6,7 +6,7 @@ third_nav_title: History
 ---
 ### **Jurong Junior College**
 
-##### History
+##### **History**
 
 Founded in April 1981, JJ was the 9th junior college in Singapore. In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
 
