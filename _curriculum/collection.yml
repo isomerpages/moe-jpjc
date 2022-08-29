@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Language Elective Programmes.md
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
       - Mathematics & Sciences.md
       - Languages.md
+      - Language Elective Programmes.md
       - Knowledge Skills.md
