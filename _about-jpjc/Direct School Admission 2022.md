@@ -77,7 +77,7 @@ JPJC will consider direct admission for the following programmes and CCAs:
 | **2<br>(17 Aug to 12 Sep)** |1. **Offer Stage – 17 Aug to 6 Sep**<br>– JC to make Phase 2 offers during this stage. This overlaps with the Cooling-Off Stage of Phase 1.<br><br>2. **Acceptance Stage – 7 Sep to 12 Sep**<br>– Each student who has yet to commit to any offer may accept only one Phase 2 offer within this period, regardless of the number of offers received. |
 |
 
-| Application Procedures |  |
+|  | Application Procedures |
 |:---:|---|
 | Step 1 | Interested applicants are to submit their application via https://dsa.jpjc.edu.sg  latest by:<br>Phase 1: 8 Jul 2022, Friday, 2359hrs<br>Phase 2: 17 Aug 2022, Wednesday, 2359hrs |
 | Step 2 | Shortlisted students will be invited to attend interview/audition/trial/aptitude test/written test in JPJC  if they meet the respective eligibility criteria. |
