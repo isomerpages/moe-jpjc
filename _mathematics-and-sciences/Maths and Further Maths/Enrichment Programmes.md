@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Maths and Further Maths
 ---
 ### **Enrichment Programmes**
-#### **### Singapore Mathematical Olympiad (SMO)**
+#### **Singapore Mathematical Olympiad (SMO)**
 The SMO is the largest and oldest mathematics competition in Singapore. Each year, thousands of students from all over the country take part in SMO. In Jurong Pioneer Junior College, we nominate students who have displayed outstanding aptitude for the subject to undergo at least 4 training sessions to prepare them for the competition. Through the rigour of the training programme, we aim to expose our students to abstract Mathematics and foster critical thinking amongst them.
 
 #### **Australian Mathematics Competition (AMC)**
