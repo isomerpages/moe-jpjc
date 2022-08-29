@@ -15,5 +15,3 @@ To enable our students to be future-ready, we seek to expand our students’ hor
 
 ##### **Overseas Learning Journeys/Field Trips**
 As  students of China Studies, it is important to have the opportunity for on-site learning in China. These specific experiential learning journeys deepens students’ understanding of key content by visiting significant sites that tell about the economic, political, and social development of China. These sites include museums, urban planning exhibition halls, and even political institutes such as the Party Schools. In addition, the trips include attending lectures at the local Chinese universities and half-day immersion experience at the local senior high schools. These are invaluable opportunities for CSE students to increase their understanding of the Chinese worldview.  
-
-*
