@@ -19,7 +19,9 @@ Exploring higher education and career options through experiential learning
 **3) How do I get there? (Planning and Transiting)**<br>
 Acquiring knowledge and skills to make informed decisions regarding higher education and career options
 
-![](/images/CCE1a.jpg)
-![](/images/Higher%20Education%203.jpg)
+<img src="/images/CCE1a.jpg" 
+     style="width:75%">
+<img src="/images/Higher%20Education%203.jpg" 
+     style="width:75%">		 
 
 For more information about the college's ECG programme, please visit our [JPJC ECG website](https://jpjcecg.wixsite.com/jpjcecghome).
