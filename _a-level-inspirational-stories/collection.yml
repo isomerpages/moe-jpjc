@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
+      - 2022/2022.md
       - 2022/Lim Wai Keong, Deca (20S20).md
       - 2022/Xu Zhetai (20A05).md
       - 2022/Lim Khai Loei Joshua (20A05).md
