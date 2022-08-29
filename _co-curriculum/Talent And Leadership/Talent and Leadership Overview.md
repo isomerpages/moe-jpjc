@@ -16,3 +16,16 @@ Talent and Leadership Development Framework
 		 
 The wide variety of activities are organised by different committees under the Talent and Leadership Development Council. These committees are:
 
+**[Co-Curricular Activities (CCA)](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/cca/)**
+
+<img src="/images/cca.jpg" style="width:25%;margin-right:15px;" align = "left">		 
+<br>
+Discover, Develop, Excel
+
+<br><br><br><br>
+[**House System**](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/house-system/)
+
+<img src="/images/house%20system.jpg" style="width:30%;margin-right:15px;" align = "left">		 
+<br>
+House spirit flying high
+
