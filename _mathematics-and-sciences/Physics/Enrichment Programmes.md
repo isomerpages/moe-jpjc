@@ -8,26 +8,34 @@ third_nav_title: Physics
 #### **STEM Week**
 STEM Week aims to promote and encourage students to consider Science, Technology, Engineering and Mathematics (STEM) curriculum choices in university as well as for their future career choices. The development of STEM talents and expertise in Singapore has impact on Singapore’s economic development and national security. During the week, various workshops, learning journeys to institutes of higher learning and enrichment talks were organised.
 
-![](/images/physics%201.jpg)
-![](/images/physics%201%20caption.jpg)
+<img src="/images/physics%201.jpg" 
+     style="width:75%">
+<img src="/images/physics%201%20caption.jpg" 
+     style="width:75%">
 
-![](/images/physics%2012.jpg)
-![](/images/physics%2012%20caption.jpg)
+<img src="/images/physics%2012.jpg" 
+     style="width:85%">
+<img src="/images/physics%2012%20caption.jpg" 
+     style="width:85%">
 
 #### **NUS Physics Enrichment Camp and Visit to the NUS Science Demo Lab**
 The enrichment camp promotes the understanding and appreciation of the different aspects of Physics through lectures, tours to teaching laboratories, hands-on activities and engaging Physics demonstrations. Students will have the opportunity to see and conduct experiments related to the interesting world of Physics and its applications. In addition, students get to meet and interact with NUS Physics undergraduates and researchers.
 
-![](/images/physics%2013.jpg)
+<img src="/images/physics%2013.jpg" 
+     style="width:85%">
 _Workshop at NUS Science Demo Lab showing the effects of superconductivity_
 
-![](/images/physics%2014.jpg)
+<img src="/images/physics%2014.jpg" 
+     style="width:65%">
 ![](/images/physics%2014%20caption.png)
 
 #### **Overseas Math and Science Trip**
 To enable our students to have a better understanding of different cultures and to be exposed to different ideas and thinking, the department organises a yearly Math and Science Overseas Trip. The itinerary will be specially planned to enable students to visit universities and companies that has a strong focus on STEM (Science, technology, Engineering and Mathematics).
 
-![](/images/physics%2015.jpg)
-![](/images/physics%2015%20caption.jpg)
+<img src="/images/physics%2015.jpg" 
+     style="width:75%">
+<img src="/images/physics%2015%20caption.jpg" 
+     style="width:75%">
 
 #### **Singapore Science and Engineering Fair (SSEF)**
 Physics students with strong interest in Physics, and especially in research, will be given a chance to participate in the SSEF. The SSEF is a prestigious science research competition organised by MOE, A\*STAR and the Singapore Science Centre. Our students did us proud in the SSEF 2016 (Tay Chao Jie from 15S21 won the Silver Award) and SSEF 2018 (Jacqueline Png from 17S05 won the Merit Award).
