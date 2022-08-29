@@ -26,3 +26,27 @@ The syllabus is divided into two parts, the core syllabus and the extension topi
 |:---:|
 | Impact of Climate Change on Animals and Plants <br> Infectious Diseases 
 |
+
+_Note: Topics in **bold** are in H2 syllabus only_
+Syllabuses
+*   [2020 A-Level Syllabus (H1 Biology)](/files/2020%20A-Level%20Syllabus%20(H1%20Biology).pdf)
+*   [2020A-Level Syllabus (H2 Biology)](/files/2020A-Level%20Syllabus%20(H2%20Biology).pdf)
+
+Assessment<br>
+H2 Candidates are required to enter for Papers 1, 2, 3 and 4
+
+| Paper | Type of Paper | Duration | Marks | Weighting |
+|:---:|---|:---:|:---:|:---:|
+| 1 | Multiple Choice | 1 h | 30 | 15% |
+| 2 | Structured Questions | 2 h | 100 | 30% |
+| 3 | Long Structured and Free-response Questions | 2 h | 75 | 35% |
+| 4 | Practical Paper | 2 h 30 min | 55 | 20% |
+|
+
+H1 Candidates are required to enter for Papers 1 and 2
+
+| Paper | Type of Paper | Duration | Marks | Weighting |
+|:---:|---|:---:|:---:|:---:|
+| 1 | Multiple Choice | 1 h | 30 | 33% |
+| 2 | Structured Questions | 2 h | 100 | 67% |
+|
