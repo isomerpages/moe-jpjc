@@ -33,7 +33,8 @@ _Students from ODAC organised asynchronous Amazing Race for the residents of Jur
 _In the advocacy of care for animals, students from 20S05 initiated awareness drive in the college to promote this cause._
 ![](/images/VIA%207.jpg)
 
-![](/images/VIA%208.jpg)
+<img src="/images/VIA%208.jpg" 
+     style="width:65%">
 _‘Project Care - Umbrellas’ was initiated in April 2021 by 4 students from 20A02 after observing students and staff facing the problem of having no umbrellas during rainy days when leaving the college._
 ![](/images/VIA%209.jpg)
 _In appreciation of the unwavering supports of our college unsung heroes, non-teaching staff and contract cleaners, our students from CEC organised goodie bags distribution for them during the Lunar New Year celebrations_
