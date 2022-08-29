@@ -6,4 +6,7 @@ third_nav_title: "2022"
 ---
 ### **Xu Zhetai (20A05)**
 
-![](/images/Zhetai.jpg)
+<img src="/images/Zhetai.jpg" 
+     style="width:65%">
+Xu Zhetai (20A05) faced an untimely brush of death, but took it as a second chance in life.
+
