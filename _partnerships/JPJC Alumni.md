@@ -64,3 +64,43 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 
 **3) Mr Vincent Choy (JJC Alumnus, Class of 1985)** Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
 ![](/images/jpjc%20alumni%209.jpg)
+
+**4) Mr Roderick Chia (JJC Alumnus, Class of 1990)** Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
+![](/images/jpjc%20alumni%2010.jpg)
+
+**5) Ms Alice Tan (JJC Alumna, Class of 1998)** Senior Director of Research and Consulting for Edmund Tie.
+![](/images/jpjc%20alumni%2011.jpg)
+
+**6) Mr Adamson Alagan (PJC Alumnus, Class of 2005)** Business Development Director of Studio AG.
+![](/images/jpjc%20alumni%2012.jpg)
+
+**7) Dr Stephen Siew (PJC Alumnus, Class of 2005)** Senior Resident at Tan Tock Seng Hospital.
+![](/images/jpjc%20alumni%2013.jpg)
+
+**8) Mr Tan Ying Quan (JJC Alumnus, Class of 2008)** Senior Business Manager, Barramundi Asia Pte Ltd.
+![](/images/jpjc%20alumni%2014.jpg)
+
+##### **b. Homecoming Events**
+Over the past few years, we have welcomed home many batches of alumni, together with their loved ones for various homecoming events held in both colleges. Many who turned up brought their yearbooks and old photos along, and reconnected with former college mates and teachers, recounting the good old days spent in the college campuses.
+
+The college also takes pride in organising Homecoming Games, a line-up of sports pitting alumni against current students. Each year, approximately 200 alumni and current students bonded through a variety of games such as Touch Rugby, Basketball, Badminton, Floorball, Netball, Ultimate Frisbee and Volleyball.
+
+There was something for everyone as alumni forged strong ties with their juniors and enjoyed a day of reminiscence. It was indeed heartening to receive such a massive show of support for these events from our alumni!
+
+##### **Year 2019**
+**Homecoming Games - Past vs Present**
+![](/images/jpjc%20alumni%2015.jpg)
+
+##### **Year 2018**
+**Curtain Call - JJC Final Homecoming @ Jurong**
+![](/images/jpjc%20alumni%2016.jpg)
+
+**The Pioneer Story - Our Tapestry of Memories**
+![](/images/jpjc%20alumni%2017.jpg)
+
+##### **Year 2017**
+**Class of 1982 JJC Reunion Lunch**
+![](/images/jpjc%20alumni%2018.jpg)
+
+**JJC Homecoming - Welcome Home**
+![](/images/jpjc%20alumni%2019.jpg)
