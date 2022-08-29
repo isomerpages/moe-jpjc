@@ -9,3 +9,6 @@ The Art unit seeks to nurture a love for the arts in students through delivering
 
 ![](/images/Art1.jpg)
 ![](/images/art%201%20caption.jpg)
+
+* hello
+* - hi
