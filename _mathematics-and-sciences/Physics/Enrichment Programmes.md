@@ -53,13 +53,19 @@ Physics students with strong interest in Physics, and especially in research, wi
 #### **SUTD Electric Vehicle Design Challenge 2019**
 A team of 12 JC2 students took part in the Electric Vehicle Design Challenge organised by the Singapore University of Technology and Design (SUTD). This is the first time that the college took part in this competition. The team worked tirelessly for 6 weeks to build the vehicle from scratch using simple tools. The students had to innovate and improvise along the way as they put together the different electrical components and mechanical parts of the vehicle. They had to overcome many challenges, such as the lack of advanced tools, faulty wheel alignment and a burnt circuit board. At the end, their resilience and perseverance paid off and they managed to complete a fully functioning electric vehicle. The vehicle passed all the required safety checks at SUTD and it was cleared to participate in the EV competitive races on 11 and 12 May at Heartbeat@Bedok. Even though the team vehicle did not emerge as one of the top teams in the race, it completed all the rounds with respectable timings comparable to polytechnics and other more experienced schools. Given that this was the first time the college participated in this competition, it was a commendable achievement and effort on the part of the students. Most importantly, the students gained new knowledge and hands-on skills in building the vehicle. It was a rare and enriching experience for all of them.
 
-![](/images/physics%2018.jpg)
-![](/images/physics%2019.jpg)
-![](/images/physics%2010.jpg)
-![](/images/physics%2010%20caption.jpg)
+<img src="/images/physics%2018.jpg" 
+     style="width:65%">
+<img src="/images/physics%2019.jpg" 
+     style="width:65%">
+<img src="/images/physics%2010.jpg" 
+     style="width:65%">		 
+<img src="/images/physics%2010%20caption.jpg" 
+     style="width:75%">		
 
 #### **Engineering Innovation Challenge 2020**
 The Engineering Innovation Challenge 2020 was organised by Science Centre Singapore and the Institute of Engineers, Singapore. In the challenge, JPJC students came up with novel ideas to improve food security in Singapore through the use of ionising radiation. They were also tasked to conduct research on how background radiation may vary with environmental conditions in Singapore. After months of hard work, four groups of students from JPJC were awarded the Merit Award in the category for junior college students.
 
-![](/images/physics%2011.jpg)
-![](/images/physics%2011%20caption.png)
+<img src="/images/physics%2011.jpg" 
+     style="width:65%">	
+<img src="/images/physics%2011%20caption.png" 
+     style="width:75%">	
