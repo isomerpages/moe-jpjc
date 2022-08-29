@@ -33,4 +33,22 @@ They also play an active role in the annual Chinese New Year Celebrations, Mothe
 ![](/images/CLEP%204%20caption.png)
 <img src="/images/CLEP%205.png" 
      style="width:75%">
-![](/images/CLEP%205%20caption.png)		 
+![](/images/CLEP%205%20caption.png)
+
+![](/images/CLEP%206.png)
+<img src="/images/CLEP%207.png" 
+     style="width:85%">
+![](/images/CLEP%207%20caption.png)		 
+<img src="/images/CLEP%208.jpg" 
+     style="width:85%">
+![](/images/CLEP%208%20caption.png)		 
+![](/images/CLEP%209.jpg)
+![](/images/CLEP%2010.jpg)
+<img src="/images/CLEP%2011.jpg" 
+     style="width:85%">
+<img src="/images/CLEP%2012.jpg" 
+     style="width:50%">
+<img src="/images/CLEP%2012%20caption.png" 
+     style="width:80%">
+		 
+		 
