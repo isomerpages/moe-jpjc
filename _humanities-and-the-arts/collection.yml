@@ -2,6 +2,7 @@ collections:
   humanities-and-the-arts:
     output: true
     order:
+      - Humanities & The Arts Overview.md
       - Art/Art Overview.md
       - Art/Curriculum and Syllabus.md
       - Art/Enrichment Programmes.md
