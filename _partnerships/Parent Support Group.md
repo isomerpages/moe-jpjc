@@ -27,16 +27,16 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
      style="width:49%" align=left>
 <img src="/images/psg%201b.jpg" 
      style="width:49%" align=right>		 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br><br>
 <img src="/images/psg%202a.jpg" 
      style="width:49%" align=left>
 <img src="/images/psg%202b.jpg" 
      style="width:49%" align=right>		 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br>
 <img src="/images/psg%203a.jpg" 
      style="width:49%" align=left>
 <img src="/images/psg%203b.jpg" 
      style="width:49%" align=right>		 		 
 ![](/images/psg%20caption.jpg)
-
-
