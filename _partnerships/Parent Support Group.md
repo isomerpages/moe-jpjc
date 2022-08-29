@@ -41,31 +41,31 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
      style="width:49%" align=right>		 		 
 ![](/images/psg%20caption.jpg)
 
-##### Year 2020<br>2020 JPJC Open House
+##### **Year 2020<br>2020 JPJC Open House**
 
 <img src="/images/PSG1.jpg" 
      style="width:65%">
 ![](/images/PSG%201%20caption.png)     
 
-##### Year 2019<br>JPJC Education and Career Guidance (ECG) Parents’ Evening
+##### **Year 2019<br>JPJC Education and Career Guidance (ECG) Parents’ Evening**
 
 <img src="/images/PSG2.jpg" 
      style="width:75%">
 ![](/images/PSG%202%20captionn.png)
 
-##### Get-to-Know Session
+##### **Get-to-Know Session**
 
 <img src="/images/PSG3.jpg" 
      style="width:75%">
 ![](/images/PSG%203%20caption.png)
 
-##### JC2 Farewell Assembly
+##### **JC2 Farewell Assembly**
 
 <img src="/images/psg4.jpg" 
      style="width:75%">
 ![](/images/psg4%20c.png)
 
-##### Foodie Day for Night Study Programme
+##### **Foodie Day for Night Study Programme**
 
 <img src="/images/psg5.jpg" 
      style="width:75%">
