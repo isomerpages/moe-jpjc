@@ -8,7 +8,7 @@ third_nav_title: Art
 
 The curriculum framework for the **H1 and H2 Level Art syllabus** is structured under three behavioural domains of Perceiving, Communicating and Appreciating.
 
-| erceiving | Communicating | Appreciating |
+| Perceiving | Communicating | Appreciating |
 |---|---|---|
 | <br>* Students respond to and interpret visual images and objects sensitively and informatively. | <br>* Students express their thoughts, experiences and feelings in visual, tactile, oral or literary forms.<br><br>* Students draw on artistic ideas, organise information, solve problems and express intent and purpose. | <br>* Students value the visual arts as a powerful means of expression. |
 |
