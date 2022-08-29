@@ -2,8 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Knowledge Skills/Knowledge Skills.md
-      - Knowledge Skills/.keep
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
@@ -12,3 +10,5 @@ collections:
       - Language Elective Programmes/.keep
       - Language Elective Programmes/Chinese Language Elective Programme.md
       - Language Elective Programmes/Malay Language Elective Programme.md
+      - Knowledge Skills/.keep
+      - Knowledge Skills/Knowledge Skills.md
