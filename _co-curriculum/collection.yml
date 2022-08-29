@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curriculum Overview.md
+      - Character and Citizenship Edu/CCE Overview.md
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Further Education and Career Guidance.md
       - Character and Citizenship Edu/Citizen Education.md
