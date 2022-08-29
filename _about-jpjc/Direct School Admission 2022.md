@@ -61,5 +61,5 @@ JPJC will consider direct admission for the following programmes and CCAs:
 
 | Performing Arts | Eligibility Criteria |
 |:---:|---|
-| **Concert Band<br>Choir<br>Chinese Orchestra** |* Applicants who meet one or more of the following criteria will be shortlisted for interviews/auditions:<br>Participated in any national competitions (e.g., SYF AP) or music festivals<br>Demonstrated outstanding individual talent in the respective art form<br>Showed passion in playing the respective instrument<br>Shortlisted candidates will be invited to attend a face-to-face audition and interview in JPJC |
+| **Concert Band<br>Choir<br>Chinese Orchestra** |* Applicants who meet **one or more** of the following criteria will be shortlisted for interviews/auditions:<br>- Participated in any national competitions (e.g., SYF AP) or music festivals<br>- Demonstrated outstanding individual talent in the respective art form<br>- Showed passion in playing the respective instrument<br><br>* Shortlisted candidates will be invited to attend a face-to-face audition and interview in JPJC |
 |
