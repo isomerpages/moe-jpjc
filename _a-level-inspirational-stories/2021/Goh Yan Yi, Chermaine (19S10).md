@@ -7,7 +7,7 @@ third_nav_title: "2021"
 ### **Goh Yan Yi, Chermaine (19S10)**
 
 <img src="/images/Chermaine.jpg" 
-     style="width:85%">
+     style="width:65%">
 Chermaine’s strong and indomitable spirit helped her overcome obstacles.
 
 ##### **AN EXTRAORDINARY INDIVIDUAL**
@@ -16,5 +16,3 @@ Chermaine is the epitome of a spirited and resolute individual who turned her di
 With her disability and her many doubts and fears, Chermaine bravely persevered and decided to further her studies at Jurong Pioneer Junior College (JPJC). Her Civics and Chemistry Tutor, Mrs Tan Lee Peng, quipped that what struck her about Chermaine was “her unwavering spirit of strength. She never lamented or complained.” Chermaine was heartened by the many acts of kindness she received from the JP family. “If not for the support and encouragement of my friends and teachers, I would not have been able to make it through the huge leap from secondary to tertiary education.” With her indomitable spirit, Chermaine took things in her stride and focused on the future. She envisioned an inclusive society where “the disabled could be more open in asking for and receiving help from the public; and the public would not be afraid that their kind actions may be misunderstood.” This insight came from her experience of JPJC as a “warm and caring college”.
 
 A go-getter, Chermaine did not allow her condition to hold her back. Despite having to invest significantly more time and effort to manage her studies, she sought out various opportunities to better herself. In JC2, her leadership potential was noticed by her CCA teacher, Mr Lim Weili, who offered her the position of Secretary in the Executive Committee of the Community Engagement Council (CEC), affirming her ability to lead effectively. He did not realise that she had a visual disability, citing her as “one of the key pillars of the Community Engagement Council.”  Her desire to hone her leadership skills was apparent in her taking on roles such as the Citizenship Education Representative of her class. Chermaine’s affirmative encounters with her teachers sparked a yearning to pursue teaching as her way to pay it forward. Currently, Chermaine spends her time meaningfully, interning at the Keat Hong Community Centre under the People’s Association. Chermaine is also currently involved in the Housing Development Board (HDB) Lively Places Challenge 2020, which focuses on co-creating projects alongside residents, to better suit the community’s needs.
-
-
