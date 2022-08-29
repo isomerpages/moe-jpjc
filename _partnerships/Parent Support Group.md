@@ -49,6 +49,8 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
 
 ##### Year 2019<br>JPJC Education and Career Guidance (ECG) Parents’ Evening
 
-
+<img src="/images/PSG2.jpg" 
+     style="width:75%">
+![](/images/PSG%202%20captionn.png)
 
 ##### Get-to-Know Session
