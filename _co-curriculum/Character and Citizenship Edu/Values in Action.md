@@ -36,7 +36,8 @@ _In the advocacy of care for animals, students from 20S05 initiated awareness dr
 <img src="/images/VIA%208.jpg" 
      style="width:65%">
 _‘Project Care - Umbrellas’ was initiated in April 2021 by 4 students from 20A02 after observing students and staff facing the problem of having no umbrellas during rainy days when leaving the college._
-![](/images/VIA%209.jpg)
+<img src="/images/VIA%209.jpg" 
+     style="width:65%">
 _In appreciation of the unwavering supports of our college unsung heroes, non-teaching staff and contract cleaners, our students from CEC organised goodie bags distribution for them during the Lunar New Year celebrations_
 ![](/images/VIA%2010.jpg)
 \[Photos were taken pre-COVID-19 days\]<br>
