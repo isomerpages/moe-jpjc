@@ -28,4 +28,4 @@ In 2018, our students also played their part in raising public awareness and int
 
 **-image unavailable-**
 
-These programmes are part of our Talent and Leadership Development efforts to strengthen our STEM educational pipelines. Consequently, it is hoped that our students can have the long term commitment to become highly skilled STEM professionals that contribute towards Singapore’s economic vitality. 
+These programmes are part of our Talent and Leadership Development efforts to strengthen our STEM educational pipelines. Consequently, it is hoped that our students can have the long term commitment to become highly skilled STEM professionals that contribute towards Singapore’s economic vitality.
