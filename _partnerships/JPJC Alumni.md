@@ -40,21 +40,26 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
      style="width:75%">
 		 
 **2)** **Ms Stephanie Lee (PJC Alumna, Class of 2014)** Pharmacist at Ng Teng Fong General Hospital
-![](/images/jpjc%20alumni%202.jpg)
+<img src="/images/jpjc%20alumni%202.jpg" 
+     style="width:75%">
 
 **3) Mr Jasper Chan (JJC Alumnus, Class of 2011 )** Regulatory Counsel with the Law Society of Singapore
-![](/images/jpjc%20alumni%203.jpg)
+<img src="/images/jpjc%20alumni%203.jpg" 
+     style="width:75%">
 
 ##### **Year 2020**
 **1) Mr Damien Ng (JJC Alumnus, Class of 1993)** Thematic Research Analyst at Julius Baer
-![](/images/jpjc%20alumni%204.jpg)
+<img src="/images/jpjc%20alumni%204.jpg" 
+     style="width:75%">
 
 **2) Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)** Founders of Mr G and 51 Label
-![](/images/jpjc%20alumni%205.jpg)
-
+<img src="/images/jpjc%20alumni%205.jpg" 
+     style="width:75%">
+		 
 **3) Mr Chio Wen Tian (JJC Alumnus, Class of 2006)** Principal Architect at WNVA
-![](/images/jpjc%20alumni%206.jpg)
-
+<img src="/images/jpjc%20alumni%206.jpg" 
+     style="width:75%">
+		 
 ##### **Year 2019**
 **1) Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)** CEO of Premiummall and Founder of 1M65 Movement
 ![](/images/jpjc%20alumni%207.jpg)
@@ -233,5 +238,3 @@ Senior Director, Head of Consultancy at Knight Frank Singapore
 
 **Mr Adamson Alagan**  <br>
 Business Development Director of Studio AG
-
-
