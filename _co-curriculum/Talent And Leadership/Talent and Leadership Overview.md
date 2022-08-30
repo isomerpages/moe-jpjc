@@ -34,5 +34,18 @@ House spirit flying high
 
 <img src="/images/student%20ldrship.jpg" style="width:25%;margin-right:15px;" align = "left">		 
 <br>
-Amazing Race challenges during LTC  
+Amazing Race challenges during LTC
 
+<br><br><br><br><br>
+**[Scholars Development Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/)**
+
+<img src="/images/sdprogramme.jpg" style="width:35%;margin-right:15px;" align = "left">		 
+<br>
+Grassroots engagement with Minister Grace Fu in 2017. Developing scholars with a heart for others.
+
+<br><br>
+**[STEM Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/)**
+
+<img src="/images/stem.jpg" style="width:35%;margin-right:15px;" align = "left">
+<br>
+Fun and exciting STEM activities!
