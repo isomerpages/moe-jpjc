@@ -18,4 +18,10 @@ A Scholar, A Leader, An Active Contributor
 <img src="/images/sdp%201.jpg" 
      style="width:85%">
 		 
-		 
+##### **Members of this programme are empowered through:**  
+
+<img src="/images/sdp2.jpg" style="width:15%;margin-right:15px;" align = "left">
+**Structured Mentoring Programme**<br>
+Each student will be assigned a teacher as his/her personal mentor whom he/she can look to for academic guidance and advice, developmental needs and plans, socio-emotional learning needs, insights into careers and general sharing of experiences.
+
+
