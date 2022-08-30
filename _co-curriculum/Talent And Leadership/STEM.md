@@ -13,11 +13,11 @@ JPJC’s STEM (Science, Technology, Engineering & Mathematics) Programme provide
 Through purposefully curated activities targeted mainly at the three levels—**Discover, Develop and Excel**, JPJC seeks to provide students with experiential learning experiences and expose them to knowledge and skills beyond the curriculum. Students will have opportunities to cultivate unique talents and abilities, apply what they have learnt to authentic situations, develop critical thinking & problem solving skills.
 
 <img src="/images/STEM1.jpg" 
-     style="width:85%">
+     style="width:65%">
 
 ##### **Enrichment Programmes**
 <img src="/images/STEM2.jpg" 
-     style="width:85%">
+     style="width:65%">
 		 
 Exciting learning journeys to A\*STAR agencies, Lee Kong Chian Natural Museum and Science Centre serve as experiential learning opportunities for our students. Students will learn beyond the classroom and laboratories, where we extend the teaching and learning to the field and higher institutions of learning and research. They also engage with renowned local and overseas scientists to further enhance their knowledge.
 
