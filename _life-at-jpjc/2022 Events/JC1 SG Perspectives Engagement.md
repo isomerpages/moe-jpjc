@@ -9,21 +9,21 @@ The college’s JC1 SG Perspectives Engagement 2022 took place on 25 May 2022 ag
 
 <figure>
 <img src="/images/jc1%20perspective%20engagement%201.jpg" 
-     style="width:65%">
+     style="width:75%">
 <figcaption> <strong> Ambassador Anderson giving a presentation on the key principles of Singapore’s foreign policy.  
  </strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/jc1%20perspective%20engagement%202.jpg" 
-     style="width:65%">
+     style="width:75%">
 <figcaption> <strong> Ambassador Anderson during the Q&A segment with CEC President Kong Yan Heng (22S17) as the student moderator. 
  </strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/jc1%20perspective%20engagement%203.jpg" 
-     style="width:65%">
+     style="width:75%">
 <figcaption> <strong> Dr Hang presenting a token of appreciation to Ambassador Anderson on behalf of the college.  
  </strong> </figcaption>
 </figure>
