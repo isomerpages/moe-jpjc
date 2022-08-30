@@ -32,3 +32,5 @@ Scholars are attached to a Member of Parliament during the Meet-the-People Sessi
 **Grassroots Engagement Programme**<br>
 A community-based project that is designed to expose our scholars to higher-level community work. It aims to deepen our scholars’ understanding of the community and environment so that they can be compassionate leaders.
 
+<img src="/images/sdp5.jpg" 
+     style="width:65%">
