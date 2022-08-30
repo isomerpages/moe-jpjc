@@ -23,5 +23,12 @@ A Scholar, A Leader, An Active Contributor
 <img src="/images/sdp2.jpg" style="width:15%;margin-right:15px;" align = "left">
 **Structured Mentoring Programme**<br>
 Each student will be assigned a teacher as his/her personal mentor whom he/she can look to for academic guidance and advice, developmental needs and plans, socio-emotional learning needs, insights into careers and general sharing of experiences.
-
+<br><br>
+<img src="/images/sdp3.jpg" style="width:15%;margin-right:15px;" align = "left">
+**MP Attachment Programme**<br>
+Scholars are attached to a Member of Parliament during the Meet-the-People Sessions. They are able to gain an insight of the real concerns of the community and how the MP views and resolves issues as a community leader.
+<br><br>
+<img src="/images/sdp4.jpg" style="width:15%;margin-right:15px;" align = "left">
+**Grassroots Engagement Programme**<br>
+A community-based project that is designed to expose our scholars to higher-level community work. It aims to deepen our scholars’ understanding of the community and environment so that they can be compassionate leaders.
 
