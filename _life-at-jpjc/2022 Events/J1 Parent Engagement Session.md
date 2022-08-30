@@ -12,21 +12,27 @@ The session began with our Principal, Dr Hang Kim Hoo, welcoming the parents and
 
 <figure>
 <img src="/images/j1%20parent%20session%201.jpeg" 
-     style="width:75%">
-<figcaption> <strong> Our students had fun participating in the RHD  
+     style="width:85%">
+<figcaption> <strong> The session included a sharing by Vice Principal Yeo on Enriching Teaching and Learning Through Blended Learning.  
  </strong> </figcaption>
 </figure>
+
+In the next part of the webinar, our J1 Year Head, Mr Subash Ramiah shared information on the college calendar and assessment milestones. Mr Subash went on to provide pertinent details about the Tiered Support System that JPJC applies to provide more catered facilitation to various targeted students’ needs.  Mr Subash also explained to parents about the newly implemented Self-Directed Learning Afternoon (SDLA) slots, which is a time for students to do asynchronous learning that has been incorporated into students’ timetable. He highlighted that SDLA was aimed at facilitating students in developing their ability to be self-directed learners.
 
 <figure>
 <img src="/images/j1%20parent%20session%202.jpeg" 
      style="width:85%">
-<figcaption> <strong> Our students had fun participating in the RHD  
+<figcaption> <strong> Year Head Mr Subash also shared about the unique JPJC Tiered Support System.  
  </strong> </figcaption>
 </figure>
 
+Following this, the teacher-in-charge of the Parent Support Group, Mdm Siti Atiqah, shared more about how JPJC works at forging a strong partnership with parents. Mdm Atiqah elaborated on how parents can contribute to students’ progress and well-being through the two-pronged approach of engagement and involvement.
+
 <figure>
 <img src="/images/j1%20parent%20session%203.jpeg" 
-     style="width:80%">
-<figcaption> <strong> Our students had fun participating in the RHD  
+     style="width:85%">
+<figcaption> <strong> Parents learnt how they can contribute to an enriching college life for their children. 
  </strong> </figcaption>
 </figure>
+
+The J1 Parents Engagement Session was an enriching session for all, and the college will continue to work closely with parents to foster greater home-school partnership to ensure the holistic development of all students.
