@@ -11,3 +11,33 @@ This year’s RHD civics lesson, entitled "Regardless of Race", was designed to 
 
 Booths by the Chinese Cultural Society, Malay Cultural Society and our college’s Tamil teachers and students showcased the essence of our local cultural traditions, including Chinese calligraphy, Bunga Manggar (wedding flowers from crepe) as well as Kolam drawing (Indian Floor Art). In particular, for this year’s RHD Carnival, international students from South Korea, Myanmar and the Philippines also volunteered to set up their own booths to showcase fun and representative aspects of their countries’ cultures, such as the wearing of traditional Korean clothes (Hanbok), playing traditional Filipino games such as Tumbang Preso (using slippers) and even the Burmese tradition of Thanakha Bark Grinding. The presence of these international booths aptly demonstrated the cosmopolitan nature of Singapore’s diverse population, and is a microcosm of the remarkable success of our multicultural nation.
 
+<figure>
+<img src="/images/2022%20rhd%201.jpg">
+<figcaption> <strong> Students trying their hand at Chinese calligraphy </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022%20rhd%201.jpg">
+<figcaption> <strong> Students trying their hand at Chinese calligraphy </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022%20rhd%202.jpg">
+<figcaption> <strong> Malay Cultural Society students at their showcase booth </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022%20rhd%203.jpg">
+<figcaption> <strong> At the Myanmar booth students had the opportunity to try applying Thanakha bark paste </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022%20rhd%204.jpg">
+<figcaption> <strong> Our Korean students at their showcase booth </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022%20rhd%205.jpg">
+<figcaption> <strong> Our students had fun participating in the RHD  
+ </strong> </figcaption>
+</figure>
