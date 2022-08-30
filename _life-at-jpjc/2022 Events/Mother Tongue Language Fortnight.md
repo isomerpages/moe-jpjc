@@ -64,4 +64,4 @@ Tamil Language and Indian culture-based learning activities were also organised 
  </strong> </figcaption>
 </figure>
 
-What better way to learn about culture than through a sensory-filled fortnight! Our students truly enjoyed themselves relishing the opportunity to immerse themselves in the rich cultural activities made available to them. 
+What better way to learn about culture than through a sensory-filled fortnight! Our students truly enjoyed themselves relishing the opportunity to immerse themselves in the rich cultural activities made available to them.
