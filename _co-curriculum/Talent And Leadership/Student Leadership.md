@@ -6,4 +6,4 @@ third_nav_title: Talent And Leadership
 ---
 ### **Student Leadership**
 <img src="/images/Student%20Leadership.jpg" 
-     style="width:80%">
+     style="width:85%">
