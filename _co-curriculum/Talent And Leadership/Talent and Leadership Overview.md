@@ -22,7 +22,7 @@ The wide variety of activities are organised by different committees under the T
 <br>
 Discover, Develop, Excel
 
-<br><br><br>
+<br><br><br><br>
 **[House System](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/house-system/)**
 
 <img src="/images/house%20system.jpg" style="width:30%;margin-right:15px;" align = "left">		 
@@ -36,7 +36,8 @@ House spirit flying high
 <br>
 Amazing Race challenges during LTC
 
-<br><br><br><br><br>
+<br><br><br>
+<br><br><br>
 **[Scholars Development Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/)**
 
 <img src="/images/sdprogramme.jpg" style="width:35%;margin-right:15px;" align = "left">		 
@@ -50,7 +51,8 @@ Grassroots engagement with Minister Grace Fu in 2017. Developing scholars with a
 <br>
 Fun and exciting STEM activities!
 
-<br><br><br><br><br>
+<br><br><br>
+<br><br><br>
 **[Arts and Social Sciences Interests Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-social-science/)**
 
 <img src="/images/artsscience.jpg" style="width:35%;margin-right:15px;" align = "left">
