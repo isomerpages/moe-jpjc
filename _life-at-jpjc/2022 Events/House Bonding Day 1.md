@@ -18,3 +18,13 @@ House Bonding Day 1 was organised by the House Executive Committee (EXCO) on 2nd
 <img src="/images/hse%20bonding%201.png">
 <figcaption> <strong> Ursa House (Left) & Taurus House (Right) </strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/hse%20bonding%202.png">
+<figcaption> <strong> Pavo House (Left) & Aries House (Right) </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/hse%20bonding%203.png">
+<figcaption> <strong> Volans House (Left) & Aquila House (Right)</strong> </figcaption>
+</figure>
