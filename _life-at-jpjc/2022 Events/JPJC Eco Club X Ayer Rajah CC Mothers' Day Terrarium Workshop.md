@@ -25,7 +25,7 @@ On 7 May, JP Eco Club conducted an online terrarium workshop for 15 families, in
 Our Eco Club students, with the Ayer Rajah CC volunteers, guided participants in building terrariums for their mothers and wrote messages to show their love and appreciation for them, in commemoration of Mother’s Day. The terrarium workshop was indeed a heart-warming and meaningful one for participants, volunteers and student hosts alike. Our JPJC family is heartened that even amidst these challenging times, we can continue to serve and work with our community to provide enriching and meaningful experiences for others!
 
 <figure>
-<img src="/images/terrarium%205.jpg">
+<img src="/images/terrarium%204.jpg">
 <figcaption> <strong>A delighted mother and son pair with their completed terrarium</strong> </figcaption>
 </figure>
 
