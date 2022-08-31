@@ -24,3 +24,24 @@ To view our e-Open House videos, please access these links below:
 
 2\.  JPJC Virtual College Tour<br>
 [https://staging.d1kt1aspitrtfv.amplifyapp.com/about/admission-matters/jpjc-e-openhouse-2022/virtual-tour/](https://staging.d1kt1aspitrtfv.amplifyapp.com/about/admission-matters/jpjc-e-openhouse-2022/virtual-tour/)
+
+<figure>
+<img src="/images/2022eopenhse1.jpg" 
+     style="width:75%">
+<figcaption> <strong> Some highlights of the Virtual Tour included a peek into the JPJC STEM Programme  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022eopenhse2.jpg" 
+     style="width:75%">
+<figcaption> <strong> Student Sharing - Diya Khanna from 21A01  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2022eopenhse3.jpg" 
+     style="width:75%">
+<figcaption> <strong> Student Sharing - Faith Low from 21A04  
+ </strong> </figcaption>
+</figure>
