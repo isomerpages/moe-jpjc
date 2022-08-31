@@ -12,3 +12,46 @@ On the second day, teachers participated in an online metacognition workshop. Be
 American philosopher and educator, John Dewey, once said that we do not learn from experience; we learn from reflecting on experience. This certainly applies to both teachers and students alike. At JPJC, we believe in the importance of Professional Development because skillful teachers play an important role in nurturing a community of active learners, innovative thinkers and compassionate leaders, with confidence for the future.
 
 Over the course of both Staff Learning Days, our teachers explored and dabbled in the following pedagogical concepts and strategies:
+
+<figure>
+<img src="/images/staff%20learning%20day%201.jpg" 
+     style="width:75%">
+<figcaption> <strong> Amazing Race Slide Cover  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/staff%20learning%20day%202.jpg" 
+     style="width:75%">
+<figcaption> <strong> Among Us Slide Cover  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/staff%20learning%20day%203.jpg" 
+     style="width:75%">
+<figcaption> <strong> Criterion-Based Assessment Slide Cover  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/staff%20learning%20day%204.jpg" 
+     style="width:75%">
+<figcaption> <strong> Digital Journal Slide Cover  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/staff%20learning%20day%205.jpg" 
+     style="width:75%">
+<figcaption> <strong> Never Work Harder Than Your Students Slide Cover  
+ </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/staff%20learning%20day%206.jpg" 
+     style="width:75%">
+<figcaption> <strong> Post-Exam Wrappers Slide Cover  
+ </strong> </figcaption>
+</figure>
+
