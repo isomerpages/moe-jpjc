@@ -44,7 +44,7 @@ third_nav_title: JPJC e Openhouse 2022
 <iframe width="860" height="483" src="https://www.youtube.com/embed/NhBcF4osiBc" title="JPJC e-OH 2022 Niche Programme Talk: Chinese Language Elective Programme (CLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **3\. Malay Language Elective Programme (MLEP)**<br>
-<iframe width="659" height="482" src="https://www.youtube.com/embed/DSGxfhsKtNM" title="JPJC e-OH 2022 Niche Programme Talk: Malay Language Elective Programme (MLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="482" src="https://www.youtube.com/embed/DSGxfhsKtNM" title="JPJC e-OH 2022 Niche Programme Talk: Malay Language Elective Programme (MLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **4. Sharing by Mdm Bee Hwee Fang, PSG Chairperson and Mr Loo Cheng Chuan, Parent/Alumnus**
 
@@ -56,6 +56,3 @@ third_nav_title: JPJC e Openhouse 2022
 
 **Part 2**<br>
 <iframe width="865" height="486" src="https://www.youtube.com/embed/C8Ml-nRSDtk" title="JPJC e-OH 2022 Sharing by JC2 Students Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
