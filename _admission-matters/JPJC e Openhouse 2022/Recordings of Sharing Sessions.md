@@ -37,8 +37,7 @@ third_nav_title: JPJC e Openhouse 2022
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqVhkVLWiI" title="JPJC e-OH 2022 IP Talk: Computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **3. Sharing on Niche Programmes offered at JPJC**
-**1\. Talent and Leadership Development (TLD)  
-**<br>
+**1\. Talent and Leadership Development (TLD)**<br>
 <iframe width="861" height="484" src="https://www.youtube.com/embed/ZUZGO_VIxXQ" title="JPJC e-OH 2022 Niche Programme Talk: Talent & Leadership Development (TLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **2\. Chinese Language Elective Programme (CLEP)**<br>
@@ -50,3 +49,13 @@ third_nav_title: JPJC e Openhouse 2022
 ##### **4. Sharing by Mdm Bee Hwee Fang, PSG Chairperson and Mr Loo Cheng Chuan, Parent/Alumnus**
 
 <iframe width="863" height="485" src="https://www.youtube.com/embed/vwhZewkgEHw" title="JPJC e-OH 2022 Sharing by Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### **5. Sharing by JC2 students (Diya Khanna, Jordan Teo, Faith Low & Andrew Sin)**
+**Part 1**<br>
+<iframe width="870" height="489" src="https://www.youtube.com/embed/QjlfEv61LDk" title="JPJC e-OH 2022 Sharing by JC2 Students Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Part 2**<br>
+<iframe width="865" height="486" src="https://www.youtube.com/embed/C8Ml-nRSDtk" title="JPJC e-OH 2022 Sharing by JC2 Students Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
