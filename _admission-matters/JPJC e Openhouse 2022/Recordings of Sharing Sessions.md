@@ -18,3 +18,28 @@ third_nav_title: JPJC e Openhouse 2022
 **Economics**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s9P5IcDU5SU" title="JPJC e-OH 2022 IP Talk: Economics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Mathematics**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AT4ucMAaRa0" title="JPJC e-OH 2022 IP Talk: Mathematics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Project Work**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7FouqjlbS8" title="JPJC e-OH 2022 IP Talk: Project Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Humanities**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nd9gwMYGoQs" title="JPJC e-OH 2022 IP Talk: Humanities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Sciences**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-tE-lkWI9Lk" title="JPJC e-OH 2022 IP Talk: Sciences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Mother Tongue Languages**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-V1EiCjseIU" title="JPJC e-OH 2022 IP Talk: Mother Tongue Languages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Computing**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWqVhkVLWiI" title="JPJC e-OH 2022 IP Talk: Computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
