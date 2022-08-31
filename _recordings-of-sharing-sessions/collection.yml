@@ -1,0 +1,4 @@
+collections:
+  recordings-of-sharing-sessions:
+    output: true
+    order: []
