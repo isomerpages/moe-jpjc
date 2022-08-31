@@ -16,7 +16,8 @@ third_nav_title: 2021 Events
 |  6 Aug 2021 |  [Humanities Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/humanities-day/) |
 |  3-5 Jan 2021 | [E-Immersion Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/e-immersion-programme/)  |
 |  4-10 Aug 2021 | [e-STEM Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/e-stem-day/)  |
-|  30 Jul 2021 | [Parent Support Group Webinar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/psg-webinar/)  | **here**
+|  30 Jul 2021 | [Parent Support Group Webinar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/psg-webinar/)  | 
+| **undated** | [JPJC e-Openhouse](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-e-openhouse/) **original website missed out this event**
 |  23 to 25 Jul 2021 | [Harvard Innovation Challenge South East Asia III](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/harvard-innovation-challenge-SEA/)  |
 |  15 Jul 2021 | [Jurong Pioneer Junior College Congratulates its National Day Award 2020 Recipients](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-ndp-award-2020/) |
 |  2 Jun 2021 |  [Keat Hong Leadership Training Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/keat-hong-leadership-training-camp/) |
