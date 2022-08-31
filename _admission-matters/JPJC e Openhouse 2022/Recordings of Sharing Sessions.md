@@ -47,4 +47,7 @@ third_nav_title: JPJC e Openhouse 2022
 **3\. Malay Language Elective Programme (MLEP)**<br>
 <iframe width="659" height="482" src="https://www.youtube.com/embed/DSGxfhsKtNM" title="JPJC e-OH 2022 Niche Programme Talk: Malay Language Elective Programme (MLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### **4. Sharing by Mdm Bee Hwee Fang, PSG Chairperson and Mr Loo Cheng Chuan, Parent/Alumnus**
+
+<iframe width="863" height="485" src="https://www.youtube.com/embed/vwhZewkgEHw" title="JPJC e-OH 2022 Sharing by Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
