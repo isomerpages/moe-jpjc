@@ -49,4 +49,4 @@ In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fr
 
 **8\.Can you share more about STEM?**    
 
-For information on STEM programme, please access this link: https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/stem
+For information on STEM programme, please access this link: [https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/)
