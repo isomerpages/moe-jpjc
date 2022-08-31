@@ -36,10 +36,15 @@ third_nav_title: JPJC e Openhouse 2022
 **Computing**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqVhkVLWiI" title="JPJC e-OH 2022 IP Talk: Computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### **3. Sharing on Niche Programmes offered at JPJC**
+**1\. Talent and Leadership Development (TLD)  
+**<br>
+<iframe width="861" height="484" src="https://www.youtube.com/embed/ZUZGO_VIxXQ" title="JPJC e-OH 2022 Niche Programme Talk: Talent & Leadership Development (TLD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**2\. Chinese Language Elective Programme (CLEP)**<br>
+<iframe width="860" height="483" src="https://www.youtube.com/embed/NhBcF4osiBc" title="JPJC e-OH 2022 Niche Programme Talk: Chinese Language Elective Programme (CLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+**3\. Malay Language Elective Programme (MLEP)**<br>
+<iframe width="659" height="482" src="https://www.youtube.com/embed/DSGxfhsKtNM" title="JPJC e-OH 2022 Niche Programme Talk: Malay Language Elective Programme (MLEP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
