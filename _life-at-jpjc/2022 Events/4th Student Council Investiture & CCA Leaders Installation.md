@@ -50,4 +50,3 @@ All in all, these installation videos gave an opportunity to recognise the stude
      style="width:75%">
 <figcaption> <strong> The recitation of the Student Council Oath.</strong> </figcaption>
 </figure>
-
