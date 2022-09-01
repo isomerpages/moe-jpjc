@@ -39,7 +39,7 @@ The annual event concluded on a creative note with a lesson on traditional ethni
 <figure>
 <img src="/images/appreciation4.jpg" 
      style="width:75%">
-<figcaption> <strong> Enthusiastic students composing their own _Dikir Barat_ 
+<figcaption> <strong> Enthusiastic students composing their own Dikir Barat 
  </strong> </figcaption>
 </figure>
 
@@ -53,6 +53,6 @@ The annual event concluded on a creative note with a lesson on traditional ethni
 <figure>
 <img src="/images/appreciation6.jpg" 
      style="width:75%">
-<figcaption> <strong> Playing _Thinnai Vilaiyaatu_ 
+<figcaption> <strong> Playing Thinnai Vilaiyaatu 
  </strong> </figcaption>
 </figure>
