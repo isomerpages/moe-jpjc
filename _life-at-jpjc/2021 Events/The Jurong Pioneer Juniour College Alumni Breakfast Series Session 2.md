@@ -15,7 +15,7 @@ The second Alumni Breakfast Series virtual sharing of the year organised by the 
 </figure>
 
 <figure>
-<img src="/images/jpjcbfast1.jpeg" 
+<img src="/images/jpjcbfast2.jpeg" 
      style="width:75%">
 <figcaption> <strong> Our students were deeply engrossed in Ms Lee’s sharing 
  </strong> </figcaption>
