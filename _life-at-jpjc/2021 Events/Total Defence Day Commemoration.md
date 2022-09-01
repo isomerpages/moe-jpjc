@@ -50,6 +50,3 @@ _“The fight against the COVID-19 pandemic revealed the power of Total Defence�
 <figcaption> <strong>  21S01’s winning entry for the JC1 TDD Reflective Expression Competition 
  </strong> </figcaption>
 </figure>
-
-
-
