@@ -38,7 +38,7 @@ _“The fight against the COVID-19 pandemic revealed the power of Total Defence�
 
 <figure>
 <img src="/images/totaldefenceday3.jpg" 
-     style="width:85%">
+     style="width:75%">
 <figcaption> <strong> 20S04’s winning entry for the JC2 TDD Reflective Expression Competition 
  </strong> </figcaption>
 </figure>
@@ -46,7 +46,7 @@ _“The fight against the COVID-19 pandemic revealed the power of Total Defence�
 
 <figure>
 <img src="/images/totaldefenceday4.jpg" 
-     style="width:85%">
+     style="width:75%">
 <figcaption> <strong>  21S01’s winning entry for the JC1 TDD Reflective Expression Competition 
  </strong> </figcaption>
 </figure>
