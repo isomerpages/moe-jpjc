@@ -35,6 +35,6 @@ Our JC1 students gained awareness of Singapore’s Foreign Policy Principles and
 <figure>
 <img src="/images/intfsd4.jpg" 
      style="width:75%">
-<figcaption> <strong> A video tribute to Singapore’s amazing diplomatic achievements in more than 55 years of independence. 
+<figcaption> <strong> A video tribute to Singapore’s amazing diplomatic achievements in more than 55 years of independence.
  </strong> </figcaption>
 </figure>
