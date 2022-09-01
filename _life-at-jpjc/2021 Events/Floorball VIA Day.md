@@ -48,4 +48,3 @@ On the 25th of February, Jurong Pioneer Junior College’s (JPJC) Floorball tea
 <figcaption> <strong> Trying out defence and attack positions 
  </strong> </figcaption>
 </figure>
-
