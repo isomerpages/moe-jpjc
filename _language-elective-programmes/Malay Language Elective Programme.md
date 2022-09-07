@@ -22,7 +22,7 @@ In line with our mission to develop Malay scholars who are ‘Advocates of Human
 ##### **J2 MLEP Graduation Showcase**
 The Graduation Showcase is an annual performance by the JC2 MLEP students. After an enriching year in MLEP, the showcase is a culmination of their involvement and experience. Led by students and supported by teachers, the showcase is a theatre performance, incorporating acting, singing and dancing. The performance is an important aspect of their appreciation of the Malay arts and culture.
 
-**-image unavailable-**
+![](/images/mlep1.png)
 
 ##### **Malay Heritage Centre Student Guides Programme**
 MLEP students attend the workshop with Malay Heritage Centre to prepare for their role as docents to the Malay Heritage Gallery. This programme aims to build confidence in interacting with the public and provide a good understanding of the Malay culture and heritage.
