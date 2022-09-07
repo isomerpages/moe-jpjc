@@ -16,9 +16,7 @@ STEM education is needed to fuel innovation and maintain competitiveness in our 
 
 We organise Mathematics talks by renowned academics to raise students’ awareness in how mathematics is applied in the real world, including the Arts. Learning journeys to Dialogue with Nobel Laureates and NUS math department are also organised to inspire students and provide clarity for their career choices in various STEM fields. In these learning journeys, students are exposed to real world problem topics of wavelets, coding theory and cryptography.
 
-**-image unavailable-**
-
-**-image unavailable-**
+![](/images/Maths%201.jpg)
 
 Students’ interests and curiosity in Mathematics and Computing are also fostered through interest group activities. Students will be engaged in guided and open inquiry activities to develop math problem solving and computational thinking dispositions. Selected students will also be afforded opportunities to engage in Math and Computing research projects. In 2017 and 2018, these projects were selected as finalists for the Singapore Science and Engineering Fair. Students in the interest group will also be involved in organising college-wide Math related activities, such as Pi-Day, and during the college's STEM Day to share their interest in the subject.
 
