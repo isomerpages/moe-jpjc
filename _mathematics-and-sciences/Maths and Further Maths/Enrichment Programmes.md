@@ -18,12 +18,14 @@ We organise Mathematics talks by renowned academics to raise students’ awarene
 
 ![](/images/Maths%201.jpg)
 
+![](/images/Maths%202.jpg)
+
 Students’ interests and curiosity in Mathematics and Computing are also fostered through interest group activities. Students will be engaged in guided and open inquiry activities to develop math problem solving and computational thinking dispositions. Selected students will also be afforded opportunities to engage in Math and Computing research projects. In 2017 and 2018, these projects were selected as finalists for the Singapore Science and Engineering Fair. Students in the interest group will also be involved in organising college-wide Math related activities, such as Pi-Day, and during the college's STEM Day to share their interest in the subject.
 
-**-image unavailable-**
+![](/images/Maths3.jpg)
 
 In 2018, our students also played their part in raising public awareness and interest in Mathematics through the _Festival of Numbers_ Activities at the Singapore Science Centre. Our students’ joyful interaction with the young children at the mathematics puzzles and games station was both meaningful and heartwarming.
 
-**-image unavailable-**
+![](/images/Maths%204.jpg)
 
 These programmes are part of our Talent and Leadership Development efforts to strengthen our STEM educational pipelines. Consequently, it is hoped that our students can have the long term commitment to become highly skilled STEM professionals that contribute towards Singapore’s economic vitality.
