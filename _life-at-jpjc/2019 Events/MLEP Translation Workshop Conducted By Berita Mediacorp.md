@@ -13,8 +13,12 @@ At the workshop, our student Nur Diyanah of 18A09 got a chance to be interviewed
 
 [https://berita.mediacorp.sg/mobilem/suarakampus/lebih-60-pelajar-maktab-rendah-diperkenalkan-kepada-kemahiran/4267724.html](https://berita.mediacorp.sg/mobilem/suarakampus/lebih-60-pelajar-maktab-rendah-diperkenalkan-kepada-kemahiran/4267724.html)
 
-**image unavailable**
-Our MLEP teachers and students with the Berita Mediacorp team!
+<figure>
+<img src="/images/MLEP1.jpg">
+<figcaption> <strong> Our MLEP teachers and students with the Berita Mediacorp team! </strong> </figcaption>
+</figure>
 
-**image unavailable**
-Our student Nur Diyanah of 18A09 was interviewed by Berita Mediacorp and featured on their social media website and the 8pm news!
+<figure>
+<img src="/images/MLEP2.jpg">
+<figcaption> <strong> Our student Nur Diyanah of 18A09 was interviewed by Berita Mediacorp and featured on their social media website and the 8pm news! </strong> </figcaption>
+</figure>
