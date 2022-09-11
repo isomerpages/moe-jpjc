@@ -23,8 +23,10 @@ This event was a valuable platform for students to showcase their talents. The s
 <figcaption> <strong> James, 18A08, who performed a medley of 'Somewhere Out There' and 'Home' </strong> </figcaption>
 </figure>
 
-**Image unavailable**
-Lim En Cheng, 19S24, who impressed with a violin performance.
+<figure>
+<img src="/images/jps%20violin.jpg">
+<figcaption> <strong> Lim En Cheng, 19S24, who impressed with a violin performance. </strong> </figcaption>
+</figure>
 
 <figure>
 <img src="/images/jps%203.jpg">
@@ -36,5 +38,7 @@ Lim En Cheng, 19S24, who impressed with a violin performance.
 <figcaption> <strong> Yi Yang's magic show </strong> </figcaption>
 </figure>
 
-**Image unavailable**
-Supportive Audience
+<figure>
+<img src="/images/jps5.jpg">
+<figcaption> <strong> Supportive Audience </strong> </figcaption>
+</figure>
