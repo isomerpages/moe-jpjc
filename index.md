@@ -32,4 +32,6 @@ sections:
   - infobar:
       title: "Realising Dreams "
       description: Believing in what we can be, becoming what we believe in.
+      url: https://staging.d1kt1aspitrtfv.amplifyapp.com/accomplishments/
+      button: Click here
 ---
