@@ -29,4 +29,7 @@ sections:
       url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/cce/further-ecg/
       alt: Image alt text
       image: /images/Pursue-passion.png
+  - infobar:
+      title: "Realising Dreams "
+      description: Believing in what we can be, becoming what we believe in.
 ---
