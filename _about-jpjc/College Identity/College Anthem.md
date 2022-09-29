@@ -14,7 +14,7 @@ third_nav_title: College Identity
 
  **College Anthem - Audio only**
  
- Different paths we had before, now together we will soar. <br>
+ Different paths we had before, now together we will soar.<br>
 Boundless love, endless growth. <br>
 Serve with zest, open our doors.
 
@@ -30,5 +30,5 @@ In our hearts the flame ignites,<br>
 _Plus Ultra_  we set our sights. <br>
 Brave the odds, blaze the trail. <br>
 JP always strives as one.<br>
-Brave the odds, blaze the trail.<br> 
+Brave the odds, blaze the trail.<br>
 JP always strives as one.
