@@ -1,5 +1,5 @@
 title: Jurong Pioneer Junior College
-url: ""
+url: https://jpjc.moe.edu.sg
 favicon: /images/jpjc_logo.png
 colors:
   primary-color: "#a30000"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1kt1aspitrtfv.amplifyapp.com
 prod: https://master.d1kt1aspitrtfv.amplifyapp.com
 shareicon: /images/jpjc_logo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
