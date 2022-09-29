@@ -17,7 +17,7 @@ Indeed, JPJC had seized the opportunity to reflect on our teaching and learning 
 <p align = justify>
 To all current JC1 and JC2 students, learning does not just end when you embark on and complete the journey in the next institute of higher learning. It is not just about chasing the last distinction or the next practical or lucrative course you undertake. What you must do is to find the joy in seeing and learning new things and embracing the future, taking it as it comes. The COVID-19 pandemic is not the first nor the last crisis we faced and will face as a nation. Have the confidence, the conviction and courage in knowing that we have overcome many before, and we will do it again.
 
-It is said that coldest is the hour before dawn breaks; and when it does, we will ***Rise up High, and Together We Will Soar. ***
+It is said that coldest is the hour before dawn breaks; and when it does, we will ***Rise up High, and Together We Will Soar.*** 
 </p>
 
 Dr Hang Kim Hoo<br>
