@@ -15,7 +15,8 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 
 #### **2023 Subject Combinations**
 
-1\.  The following table shows the standard subject combination which most students will take :
+<p align = justify>
+1. The following table shows the standard subject combination which most students will take:</p>
 
 <center>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlbMxKqtJQBoP2-KeFRZoIAqjNGYN33DTSmX4zF5cfBYTxDLdoWMTY7_s6nUVxQc1f0-gcWsMNbxM2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width=780px height=250px scrolling="no"></iframe>
