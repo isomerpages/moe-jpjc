@@ -6,8 +6,8 @@ third_nav_title: College Calender
 ---
 ### **Term 1**
 
-COLLEGE CALENDAR 2022<br>
-Student Version (as of 6 January 2022)
+<center>COLLEGE CALENDAR 2022<br>
+Student Version (as of 6 January 2022)</center>
 
 |  |  |  |  |
 |---|---|---|---|
@@ -31,5 +31,4 @@ Student Version (as of 6 January 2022)
 |  | 4 Mar | Fri | LEP Orientation (Parent Engagement) |
 |  | 7 Mar – 9 Mar | Mon – Wed | Release of PW assessment task & instructions |
 |  | 9 Mar | Wed | JP Spotlight<br>ECG Sharing Session |
-| Term 1 Vacation<br>(12 Mar – 20 Mar) |  
-|
+|Term 1 Vacation<br>(12 Mar – 20 Mar)|
