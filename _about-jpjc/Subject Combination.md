@@ -5,26 +5,31 @@ description: ""
 ---
 ### **Subject Combination**
 
+<p align = "justify">
 The JC curriculum is a two-year course leading to the GCE 'A' Level Examination, designed for students who wish to seek admission to a university or a specialised institute of higher learning, locally or abroad.
+</p>
 
+<p align = "justify">
 At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices.  In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay.  Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
+</p>
 
 #### **2023 Subject Combinations**
 
 1\.  The following table shows the standard subject combination which most students will take :
 
-| No. of<br>Subjects | Level | No. of units per subject | Total units |
-|:---:|:---:|:---:|:---:|
-| 3 | H2 (content subject) | 2 | 6 |
-| 1 | H1 (content subject) | 1 | 1 |
-| 3 |  <br>H1 (compulsory)<br> <br>[General Paper, Project Work, Mother Tongue]<br>　 | 1 | 3 |
-| 　 | 　 | Total | 10 |
-|
+<center>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlbMxKqtJQBoP2-KeFRZoIAqjNGYN33DTSmX4zF5cfBYTxDLdoWMTY7_s6nUVxQc1f0-gcWsMNbxM2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width=780px height=250px scrolling="no"></iframe>
+</center>
 
-2\.  General Paper, Project Work and Mother Tongue are compulsory H1 subjects.
-3\.  At least one content subject either at the H1 or H2 level should be contrasting.
-4\.  Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.
-5\.  Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.
+<p align = justify>
+2. General Paper, Project Work and Mother Tongue are compulsory H1 subjects.
+<br>
+3. At least one content subject either at the H1 or H2 level should be contrasting.
+<br>
+4. Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.
+<br>
+5. Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.
+</p>
 
 #### **Subjects offered in 2023**
 
