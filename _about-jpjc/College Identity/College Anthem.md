@@ -13,18 +13,16 @@ third_nav_title: College Identity
 **-audio-**
 
  **College Anthem - Audio only**
- <p align=justify>
+<center>
  Different paths we had before, now together we will soar.<br>
 Boundless love, endless growth. <br>
 Serve with zest, open our doors.
-</p>
-<p align=justify>
+
 As dawn breaks, we rise up high.<br>
 There's no limit in the sky. <br>
 Forward we go, we will grow. <br>
 Hand in hand we light the trail.
-</p>
-<p align=justify>
+
 While I live, I learn. In heart and mind, I'll grow. <br>
 With heart and voice, we venture. <br>
 We'll cross all new frontiers.<br>
@@ -34,4 +32,4 @@ Brave the odds, blaze the trail. <br>
 JP always strives as one.<br>
 Brave the odds, blaze the trail.<br>
 JP always strives as one.
-</p>
+</center>
