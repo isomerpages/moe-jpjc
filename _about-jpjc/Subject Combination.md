@@ -18,7 +18,7 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 1. The following table shows the standard subject combination which most students will take:
 </p>
 <center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=340px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=1000px height=340px scrolling="no"></iframe>
 </center>
 
 <p align = justify>
@@ -34,7 +34,7 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 #### **Subjects offered in 2023**
 
 <center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true" width=800px height=790px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true" width=1000px height=790px scrolling="no"></iframe>
 </center>
 
 ##### **Note:**
@@ -47,7 +47,7 @@ c  MOE-Cambridge H3
 
 #### **Subject Combinations in Science Course**
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true" width=800px height=1000px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true" width=1000px height=1000px scrolling="no"></iframe>
 
 \*    Students opting a 4 H2 subject combination should meet all of the following requisites:
 
@@ -69,7 +69,7 @@ Students opting to do H2 Translation are required to fulfil the following:<br>
 
 #### **Subject Combinations in Arts Course**
 <center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true" width=800px height=950px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true" width=1000px height=1000px scrolling="no"></iframe>
 </center>
 
 \*    Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -91,7 +91,7 @@ OR<br>
 
 #### **Subject Combinations for Language Elective Programmes**<br>**Chinese Language Elective Programme (CLEP)\***
 <center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true" width=800px height=550px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true" width=1000px height=700px scrolling="no"></iframe>
 </center>
 
 \*    Students opting to offer the CLEP programme must obtain
@@ -101,7 +101,7 @@ OR<br>
 
 #### **Malay Language Elective Programme (MLEP)**
 <center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true" width=800px height=560px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true" width=1000px height=560px scrolling="no"></iframe>
 </center>
 
 \*    Students opting to offer the MLEP programme must obtain
