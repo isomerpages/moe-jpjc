@@ -100,16 +100,9 @@ OR<br>
 *   B4 in Higher Chinese with B3 in Chinese Literature or equivalent.
 
 #### **Malay Language Elective Programme (MLEP)**
-
-| H2 Subjects |  |  |  | Possible H1 Subjects |
-|:---:|:---:|:---:|:---:|:---:|
-| SCIENCE COURSE |  |  |  |  |
-| Malay Language & Literature | Mathematics | Chemistry |   | Biology, Physics, Economics, Geography, History, Literature, Art |
-| Malay Language & Literature | Mathematics | Physics |   | Biology, Chemistry, Economics, Geography, History, Literature, Art |
-| **ARTS COURSE** |  |  |  |  |
-| Malay Language & Literature | Economics | Mathematics |   | Biology, Physics, Chemistry, Geography, History, Literature, Art |
-| Malay Language & Literature | Economics | Geography/ History/ Literature/ China Studies in English |   | Mathematics |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true" width=800px height=560px scrolling="no"></iframe>
+</center>
 
 \*    Students opting to offer the MLEP programme must obtain
 *   At least A2 in Malay Language, OR
