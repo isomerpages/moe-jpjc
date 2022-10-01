@@ -90,16 +90,9 @@ OR<br>
 2. The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.
 
 #### **Subject Combinations for Language Elective Programmes**<br>**Chinese Language Elective Programme (CLEP)\***
-
-| H2 Subjects |  |  |  | Possible H1 Subjects |
-|:---:|:---:|:---:|:---:|:---:|
-| SCIENCE COURSE |  |  |  |  |
-| Chinese Language & Literature | Mathematics | Chemistry |   | Biology, Physics, Economics, Geography, History, Literature, Art, |
-| Chinese Language & Literature | Mathematics | Physics |   | Biology, Chemistry, Economics, Geography, History, Literature, Art, |
-| **ARTS COURSE** |  |  |  |  |
-| Chinese Language & Literature | Economics | Mathematics |   | Biology, Chemistry, Physics, Geography, History, Literature, Art |
-| Chinese Language & Literature | Economics | China Studies in English/               China Studies in Chinese/ Translation / History/ Geography/ Literature |   | Mathematics |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true" width=800px height=550px scrolling="no"></iframe>
+</center>
 
 \*    Students opting to offer the CLEP programme must obtain
 *   At least A2 in Chinese, OR
