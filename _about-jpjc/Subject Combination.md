@@ -34,36 +34,20 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 
 #### **Subjects offered in 2023**
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-| MATHEMATICS & SCIENCES | Subject | H1 | H2 | H3* |
-|  | Biology | ü | ü | üa |
-|  | Chemistry | ü | ü | üc |
-|  | Computing |   | ü |   |
-|  | Further Mathematics |   | ü |   |
-|  | Mathematics | ü | ü | üc |
-|  | Physics | ü | ü | üa |
-| HUMANITIES & THE ARTS | Art | ü | ü |   |
-|  | China Studies in Chinese |   | ü |   |
-|  | China Studies in English |   | ü |   |
-|  | Economics | ü | ü | üa |
-|  | English Literature | ü | ü |   |
-|  | Geography | ü | ü | üa |
-|  | History | ü | ü | üa |
-|  | Mother Tongue Language & Literature |   | ü | üb/c |
-|  | Translation |   | ü |   |
-| KNOWLEDGE SKILLS | General Paper | ü |   |   |
-|  | Mother Tongue | ü |   |   |
-|  | Project Work | ü |   |  |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true" width=800px height=790px scrolling="no"></iframe>
+</center>
 
 ##### **Note:**
-
+<p align=justify>
 \* Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.
+</p>
 
-a  University-taught H3 programmes (NUS, NTU and SMU)  
-b  Extended, in-depth research (HSSR)  
+<p align=justify>
+a  University-taught H3 programmes (NUS, NTU and SMU) <br>
+b  Extended, in-depth research (HSSR)<br>
 c  MOE-Cambridge H3
+</p>
 
 #### **Subject Combinations in Science Course**
 
