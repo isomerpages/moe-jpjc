@@ -40,9 +40,6 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 ##### **Note:**
 
 \*Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.
-</p>
-
-<p align=justify>
 a  University-taught H3 programmes (NUS, NTU and SMU) <br>
 b  Extended, in-depth research (HSSR)<br>
 c  MOE-Cambridge H3
@@ -64,36 +61,27 @@ c  MOE-Cambridge H3
 
 ^    For Students opting to do the H2 Mathematics, H2 Further Mathematics and H2 Physics subject combination, it is preferred that they should have obtained at least B3 in Pure Physics
 
-@    Students opting to do H2 Art/ H2 Further Mathematics/ H2 Translation are required to sit and pass the selection test.
-
-&
-
+@    Students opting to do H2 Art/ H2 Further Mathematics/ H2 Translation are required to sit and pass the selection test.<br>
+&<br>
 Students opting to do H2 Translation are required to fulfil the following:<br>
 1\.  A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR<Br>
 2\.  A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language
 
 #### **Subject Combinations in Arts Course**
-
-| H2 Subjects |  |  |  | Possible H1 Subjects |
-|:---:|:---:|:---:|:---:|:---:|
-| * Economics | Mathematics | Literature | Geography/ History/<br>China Studies in English |   |
-| Economics | Mathematics | Geography/  History/ Literature |   | Biology, Chemistry, Physics, History/Geography/ Literature, Art |
-| Economics | Mathematics | China Studies in English/ China Studies in Chinese |   | Biology, Chemistry, Physics, Geography, History, Literature, Art |
-| Economics | Mathematics | Mother Tongue Language & Literature/ Art@ |   | Biology, Chemistry, Physics, Geography, History, Literature, Art |
-| Economics | Geography/ History/ Literature | China Studies in English/ Literature/ Art@ / Mother Tongue Language & Literature |   | Mathematics |
-| Economics | Mother Tongue Language & Literature | China Studies in English/ China Studies in Chinese |   | Mathematics |
-| Economics | Translation@& | History/ Geography/ Literature/ China Studies in English/ Chinese Language & Literature |   | Mathematics |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true" width=800px height=950px scrolling="no"></iframe>
+</center>
 
 \*    Students opting a 4 H2 subject combination should meet all of the following requisites:
-*   L1R5 ≤ 11 (raw score), AND
-*   Distinction in Additional Mathematics.
+* L1R5 ≤ 11 (raw score), AND
+* Distinction in Additional Mathematics.
 
 @    Students opting to do H2 Art/ H2 Translation are required to sit and pass the selection test.<br>
 &<br>
 Students opting to do H2 Translation are required to fulfil the following:<br>
 
-1\.  A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR
+1\.  A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language<br>
+OR<br>
 2\.  A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language
 
 ##### **Note:**
