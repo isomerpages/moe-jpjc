@@ -38,8 +38,8 @@ At JPJC, we provide a wide range of subject combinations to cater to students’
 </center>
 
 ##### **Note:**
-<p align=justify>
-\* Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.
+
+\*Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.
 </p>
 
 <p align=justify>
@@ -50,18 +50,7 @@ c  MOE-Cambridge H3
 
 #### **Subject Combinations in Science Course**
 
-| H2 Subjects |  |  |  | Possible H1 Subjects |
-|:---:|:---:|:---:|:---:|:---:|
-| *Mathematics | Chemistry | Biology/<br>Physics | Economics |   |
-| #Mathematics | Chemistry | Biology/<br>Physics |   | Economics, Geography, History, Literature, Art |
-| Mathematics | Chemistry/ Physics |  <br>Economics<br>  |   | Biology, Physics/Chemistry, Geography, History, Literature, Art |
-| Mathematics | Chemistry/ Physics | Mother Tongue Language & Literature |   | Biology, Physics/Chemistry, Economics, Geography, History, Literature, Art |
-| Mathematics | Chemistry/ Physics | China Studies in Chinese |   | Biology, Physics/Chemistry , Economics, Geography, History, Literature, Art |
-| Mathematics | Chemistry/ Physics | Art@ |   | Biology, Physics/Chemistry , Economics, Geography, History, Literature, |
-| Mathematics | Chemistry/ Physics | Translation@& |   | Biology, Physics/Chemistry , Economics, Geography, History, Literature, Art |
-| Mathematics | Chemistry/ Physics | Computing |   | Economics, Geography, History, Literature, Art |
-| ^Mathematics | Further Mathematics@ | Computing/ Physics |   | Economics |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true" width=800px height=1000px scrolling="no"></iframe>
 
 \*    Students opting a 4 H2 subject combination should meet all of the following requisites:
 
