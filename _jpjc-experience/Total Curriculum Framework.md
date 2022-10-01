@@ -16,13 +16,13 @@ Guided by our mission to nurture a community of active learners, innovative thin
 We believe in the potential of our students. To enable all students to discover their interests and talents so that they can develop their knowledge and skills, we offer them a wide array of rich learning opportunities through various engagement platforms.
 </p>
 <p align=justify>
-We seek to inculcate a self-directed learning disposition in our students such that as **active learners**, they possess a drive to learn, unlearn and re-learn throughout life. To achieve personal excellence, they commit to give their best in their pursuits, take initiative to seek continuous improvement and overcome challenges.
+We seek to inculcate a self-directed learning disposition in our students such that as <strong>active learners</strong>, they possess a drive to learn, unlearn and re-learn throughout life. To achieve personal excellence, they commit to give their best in their pursuits, take initiative to seek continuous improvement and overcome challenges.
 </p>
 <p align=justify>
-We enable our students to be **innovative thinkers** by broadening their thinking and developing their creativity. Critical thinkers with the curiosity for new and different ideas will be able to analyse problems deeply, identify opportunities for growth and create thoughtful and ethical solutions for positive change.
+	We enable our students to be <strong>innovative thinkers</strong> by broadening their thinking and developing their creativity. Critical thinkers with the curiosity for new and different ideas will be able to analyse problems deeply, identify opportunities for growth and create thoughtful and ethical solutions for positive change.
 </p>
 <p align=justify>
-We place a strong emphasis on character and citizenship education with the goal to nurture **compassionate leaders** who demonstrate care and empathy for others and contribute actively to make a meaningful impact to the community.
+We place a strong emphasis on character and citizenship education with the goal to nurture <strong>compassionate leaders</strong> who demonstrate care and empathy for others and contribute actively to make a meaningful impact to the community.
 </p>
 <p align=justify>
 We are committed to equipping our students with the relevant knowledge, skills and values so that they have the confidence to gain new knowledge, create sustainable futures and lead purposeful lives.
@@ -33,19 +33,19 @@ We are committed to equipping our students with the relevant knowledge, skills a
 The college believes in the importance of values-driven education to bring about the desired outcomes of education, so as to enable our students to thrive as concerned and active citizens of the nation and the global community.
 </p>
 <p align= justify>
-We encourage our students to have the **integrity** and moral courage to stand up for what is right. The integrity of every student is essential to building trust and developing constructive relationships with others.
+	We encourage our students to have the <strong>integrity</strong> and moral courage to stand up for what is right. The integrity of every student is essential to building trust and developing constructive relationships with others.
 </p>
 <p align=justify>
-We commit to developing students and leaders who have a strong sense of **responsibility** and duty to self, family and community. They put in their best effort in whatever they do.
+We commit to developing students and leaders who have a strong sense of <strong>responsibility</strong> and duty to self, family and community. They put in their best effort in whatever they do.
 </p>
 <p align= justify>
-We instill the quality of **respect** in our students by developing their positive self-worth while valuing the beliefs and contributions of others.
+We instill the quality of <strong>respect</strong> in our students by developing their positive self-worth while valuing the beliefs and contributions of others.
 </p>
 <p align=justify>
-We strengthen our students’ **resilience** to navigate adversity and inculcate the belief that overcoming setbacks enables them to achieve their goals.
+	We strengthen our students’ <strong>resilience</strong> to navigate adversity and inculcate the belief that overcoming setbacks enables them to achieve their goals.
 </p>
 <p align=justify>
-We cultivate our students’ **compassion** to show care and concern for as well as to be sensitive to the needs of others, so that they reach out to lend a hand to those in need.
+	We cultivate our students’ <strong>compassion</strong> to show care and concern for as well as to be sensitive to the needs of others, so that they reach out to lend a hand to those in need.
 </p>
 
 #### **C. Enablers**
@@ -82,7 +82,7 @@ The college seeks to establish impactful and sustainable partnerships with stake
 #### **D. Fundamental Beliefs**
 <p align=justify>
 A set of fundamental core beliefs provides the foundation for the college to achieve its VMV and for staff to be cognisant of principles that underlie their approaches to guide and develop students in both academic and co-curricular areas. These beliefs are:<br>
-1. Every student is **unique** and has **limitless capacity for growth**.<br>
-2. Teachers ignite **joy of learning**, cultivate **motivation for learning** and help students achieve **personal excellence**.<br>
-3. College staff show **care and concern** for the well-being and holistic development of students.
+	1. Every student is <strong>unique</strong> and has <strong>limitless capacity for growth</strong>.<br>
+	2. Teachers ignite <strong>joy of learning</strong>, cultivate <strong>motivation for learning</strong> and help students achieve <strong>personal excellence</strong>.<br>
+	3. College staff show <strong>care and concern</strong> for the well-being and holistic development of students.
 </p>
