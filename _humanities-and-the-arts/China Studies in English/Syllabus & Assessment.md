@@ -25,41 +25,16 @@ You may access detailed information on the H2 ‘A’ Level CSE Syllabus and Ass
 </p>
 
 #### **H1 Level CSE Syllabus**
-The **H1 CSE syllabus** content is grouped by two key issues - state-society relations in China and China as a global power. The connections across the four content dimensions of economy, politics, society and international relations are made through the issues so that students are aware of the inter-relationships between the dimensions in shaping China’s development.  
+<p align=justify>
+	The <strong>H1 CSE syllabus</strong> content is grouped by two key issues - state-society relations in China and China as a global power. The connections across the four content dimensions of economy, politics, society and international relations are made through the issues so that students are aware of the inter-relationships between the dimensions in shaping China’s development.
+</p>
 
 #### **Assessment Table**<br>**H1 Level CSE Assessment**
+<p align=justify>
 The assessment comprises one written examination paper. The paper will consist of two sections: Section A (Case Study) and Section B (Essay Questions).
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow">Sections</th>
-    <th class="tg-c3ow">Description</th>
-    <th class="tg-c3ow">Duration</th>
-    <th class="tg-c3ow">Weighting</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">A</td>
-    <td class="tg-c3ow">Case Study</td>
-    <td class="tg-c3ow" rowspan="2"><br>3 hours<br></td>
-    <td class="tg-c3ow">37.5%</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">B</td>
-    <td class="tg-c3ow">Essay Questions</td>
-    <td class="tg-c3ow">62.5%</td>
-  </tr>
-</tbody>
-</table>
-
-You may access detailed information on the H1 ‘A’ Level CSE Syllabus and Assessment [here](/files/8628_y21_sy.pdf)
+</p>
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR4S95ADwmww5KGYeebRVo08f68ngYE8y7Fm2a0shurHIc8JZ_VdnW9FiaygBzBxCAm8yKtouRVdzBG/pub?embedded=true" width=800px height=250px scrolling="no"></iframe>
+</center>
+<p align=justify>
+You may access detailed information on the H1 ‘A’ Level CSE Syllabus and Assessment <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8628_y21_sy.pdf">here</a>.
