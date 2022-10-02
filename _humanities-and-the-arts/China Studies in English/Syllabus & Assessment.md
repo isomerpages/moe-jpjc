@@ -21,7 +21,7 @@ The H2 CSE syllabus content is grouped by four key issues - Governing China and 
 The aim of the independent research component in the H2 CSE paper is to provide students with an opportunity to pursue a topic of interest related to any of the four key issues in the syllabus. It is an individual research paper where students will select a research area that has to be submitted to Cambridge for approval before the study is embarked on. Students will be guided by a Coursework Supervisor (a tutor from the college).
 </p>
 <p align=justify>
-You may access detailed information on the H2 ‘A’ Level CSE Syllabus and Assessment <a href="/files/9628_y21_sy_schoolcandidates.pdf">here</a>.
+You may access detailed information on the H2 ‘A’ Level CSE Syllabus and Assessment <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9628_y22_sy.pdf">here</a>.
 </p>
 
 #### **H1 Level CSE Syllabus**
