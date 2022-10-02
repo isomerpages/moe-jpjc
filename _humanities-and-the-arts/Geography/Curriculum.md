@@ -5,10 +5,13 @@ description: ""
 third_nav_title: Geography
 ---
 ### **Curriculum**
-The **H1 and** **H2 Geography curriculum** focuses on six geographical concepts which frame the syllabus content. The six geographical concepts are as follows:
-*   Environment
-*   Place
-*   Process
-*   Scale
-*   Space and Time
-*   System
+<p align=justify>
+	The <strong>H1 and H2 Geography curriculum</strong> focuses on six geographical concepts which frame the syllabus content. The six geographical concepts are as follows:
+</p>
+<ul>
+	<li>Environment</li>
+	<li>Place</li>
+	<li>Process</li>
+	<li>Scale</li>
+	<li>Space and Time</li>
+	<li>System</li>
