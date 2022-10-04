@@ -19,28 +19,30 @@ The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extensio
 	</center>
 
 ![](/images/Chemistry%203.jpg)
-_Content map for H1 Chemistry_
+<center><i>Content map for H1 Chemistry</i></center>
 
-Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.
+<p align=justify>
+Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
+<p align=justify>
+Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
-Candidates may not simultaneously offer Chemistry H1 and H2 levels.
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRNNrIQv3IwzNf9VZhZ7bsAjPqMwW80L85thHy-97qQIIoRWDzAbvGomPCdaPVeMnPe9hcsBJq9EosU/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>	
+	</center>
 
-| Paper | Type of Paper | Duration | Marks | Weighting |
-|:---:|---|:---:|:---:|:---:|
-| 1 | Multiple Choice | 1 h | 30 | 33% |
-| 2 | Structured and Free Response | 2 h | 80 | 67% |
-|
-
-**Paper 1** (1 h, 30 marks)<br>
-This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br>
+<div align=justify>
+	<h5>Paper 1 (1 h, 30 marks)</h5>
+This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br><br>
 All questions will include 4 options.
-
-**Paper 2** (2 h, 80 marks)<br>
+<p>
+	<h5>Paper 2 (2 h, 80 marks)</h5>
 This paper consists of two sections:<br>
+
 **Section A** (60 marks)<br>
  A variable number of structured questions including data-based questions, all compulsory. The data-based question(s) constitute(s) 15\-20 marks for this paper. The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying and evaluating information.<br>
+	
 **Section B** (20 marks)<br>
-Candidates will be required to answer **one** out of two questions. Each question will carry 20 marks. These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus<br>
+Candidates will be required to answer **one** out of two questions. Each question will carry 20 marks. These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus<br><br>
 For more details on the H1 Chemistry syllabus, click [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8873_y22_sy.pdf) to download the PDF from SEAB website.
 
 #### **H2 CHEMISTRY (9729)**
