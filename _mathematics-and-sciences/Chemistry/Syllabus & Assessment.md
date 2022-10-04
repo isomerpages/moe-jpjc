@@ -6,17 +6,17 @@ third_nav_title: Chemistry
 ---
 ### **Syllabus & Assessment**
 #### **H1 CHEMISTRY (8873)**
-H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes **developing an understanding of the skills, ethics and attitudes relevant to the practices of science**. In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to **communicate** and explain the natural world.
-
-The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.
+<p align=justify>
+H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes <strong>developing an understanding of the skills, ethics and attitudes relevant to the practices of science</strong>. In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to <strong>communicate</strong> and explain the natural world.
+<p align=justify>
+The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
 
 ![](/images/Chemistry%202.jpg)
-_H1 Chemistry Curriculum Framework_
+<center><i>H1 Chemistry Curriculum Framework</i></center>
 
-| Core Topics | Extension Topics |
-|---|---|
-|- Atomic Structure<br>- Chemical Bonding<br>- The Periodic Table<br>- Theories of Acids & Bases<br>- The Mole Concept & Stoichiometry<br>- Chemical Energetics<br>- Reaction Kinetics<br>- Chemical Equilibria | -     Nanomaterials<br>-     Introduction to Organic<br>-     Hydrocarbons<br>·     Halogen Derivatives<br>-     Hydroxyl Compounds<br>-     Carbonyl Compounds<br>-     Carboxylic acids and its derivatives<br>-     Polymers |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
+	</center>
 
 ![](/images/Chemistry%203.jpg)
 _Content map for H1 Chemistry_
@@ -122,4 +122,4 @@ Candidates will take a 2 h 30 min paper (100 marks total). This paper consists o
 This section consists of a variable number of compulsory free response questions including 1 or 2 stimulus–based questions. The stimulus–based question(s) constitute(s) 15\-20 marks for this paper.<br>
 **Section B** (40 marks)<br>
 Candidates will be required to answer **two** out of three free response questions. Each question will carry 20 marks.<br>
-For more details on the H3 Chemistry syllabus, click [here](/files/9813_y22_sy.pdf) to download the PDF from SEAB website. 
+For more details on the H3 Chemistry syllabus, click [here](/files/9813_y22_sy.pdf) to download the PDF from SEAB website.
