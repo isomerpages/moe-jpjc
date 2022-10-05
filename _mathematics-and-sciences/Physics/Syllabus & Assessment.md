@@ -6,8 +6,10 @@ third_nav_title: Physics
 ---
 ### **Syllabus & Assessment**
 #### **Physics H2 Exam Code: 9749**
+<div align=justify>
+	<p>
 The syllabus has been designed to build on and extend the content coverage at 'O' level. Candidates will be assumed to have knowledge and understanding of Physics at 'O' level, either as a single subject or as part of a balanced science course.<br>
-Candidates may not simultaneously offer Physics at H1 and H2 levels.
+		Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 
 ##### **Curriculum Framework**
 The _Practices of Science_, _Core Ideas in Physics_ and _Learning Experiences_ are put together in a framework to guide the development of the H2 Physics curriculum.
@@ -23,13 +25,7 @@ The _Learning Experiences_ refer to a range of learning opportunities selected
 
 ##### **Scheme of Assessment**
 
-| Paper | Type of Paper | Duration | Weighting (%) | Marks |
-|:---:|:---:|:---:|:---:|:---:|
-| 1 | Multiple Choice | 1h | 15 | 30 |
-| 2 | Structured Questions | 1h | 30 | 80 |
-| 3 | Longer Structured Questions | 2h | 35 | 80 |
-| 4 | Practical | 2h 30min | 20 | 55 |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 
 **Paper 1 (1 h, 30 marks)**<br>
 This paper will consist of 30 compulsory multiple-choice questions. All questions will be of the direct choice type with 4 options.
@@ -91,4 +87,3 @@ This section will consist of a variable number of structured questions including
 
 §  **Section B (20 marks)**<br>
 This section will consist of two 20-mark questions of which candidates will answer one. The questions will require candidates to integrate knowledge and understanding from different areas of the syllabus.
-
