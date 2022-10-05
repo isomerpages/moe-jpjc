@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Maths and Further Maths
 ---
 ### **Curriculum**
+<div align=justify>
 In Jurong Pioneer Junior College, we offer four Mathematics syllabuses to cater to the different needs, interests, and abilities of students:
-*   H1 Mathematics;
-*   H2 Mathematics;
-*   H2 Further Mathematics; and
-*   H3 Mathematics.
-
+<ul>
+	<li>H1 Mathematics</li>
+	<li>H2 Mathematics</li>
+	<li>H2 Further Mathematics; and</li>
+	<li>H3 Mathematics</li>
+	
 ##### **H1 Mathematics (Syllabus 8865)**
 H1 Mathematics is designed to provide students with a foundation in mathematics and statistics that will support their business or social sciences studies at the university. It is particularly appropriate for students without an Additional Mathematics background because it offers an opportunity for them to learn important mathematical concepts and skills in algebra and calculus that are covered in Additional Mathematics. Students will also learn basic statistical methods that are necessary for studies in business and social sciences.<br>
 **Assumed knowledge: O-Level Mathematics**
@@ -27,7 +29,3 @@ H2 Further Mathematics is designed for students who are mathematically-inclined 
 ##### **H3 Mathematics (Syllabus 9820)**
 H3 Mathematics is offered to **J2 students** with the passion and strong ability in mathematics. It aims to engage students who are keen to specialise in mathematics, in solving more challenging problems in mathematics and proving mathematical results. Students will learn useful techniques and results, related to the content in H2 Mathematics, to solve mathematical problems and prove mathematical statements. In the course of learning, students will develop an understanding of the rigour of mathematics and mathematical proof and a deeper insight into the practice, value and beauty of mathematics.<br>
 **Pre-requisite: H2 Mathematics**
-
-
-
-
