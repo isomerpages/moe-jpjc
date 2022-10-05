@@ -4,6 +4,8 @@ permalink: /partnerships/psg/
 description: ""
 ---
 ### **Parent Support Group**
+<div align=justify>
+	
 The PSG@JPJC is a group of parents who are passionate about providing support to enrich the learning experience for their children. PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.
 
 ##### **Objectives of PSG@JPJC**
@@ -70,3 +72,5 @@ You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_p
 <img src="/images/psg5.jpg" 
      style="width:75%">
 ![](/images/psg5%20c.png)
+	
+</div>
