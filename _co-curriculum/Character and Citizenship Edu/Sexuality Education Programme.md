@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 ### **Sexuality Education Programme** 
+<div align=justify>
 
 1\.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
       
@@ -32,28 +33,18 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 5\.  The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
 ##### **At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in 2022 :**
-**Junior College 1**
+<center><strong>Junior College 1</strong>
 <br>
-Theme 3B from Module: Developing Healthy Relationships
+	Theme 3B from Module: Developing Healthy Relationships</center>
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=800px height=1100px scrolling="no"></iframe></center>
 
-| LESSONS  | DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD |
-|:---:|:---:|---|:---:|
-|  1 | (60 mins) |- navigate challenges in a dating relationship<br>- identify early indications of a breakdown in a relationship<br>- know when to seek help and who to turn to for support<br>- appreciate that one can emerge stronger and be better prepared for future relationships<br>- develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others | Term 3 Week 8 |
-| 2 | (60 mins) | - examine issues related to abstinence<br>- explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>- understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>- understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so| Term 3 Week 8 |
-| 3 |  (60   mins) |- examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>- understand that one has to make responsible decisions for both self and others<br>- understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>- know how to support friends or others who may be pregnant or have STIs | Term 3 Week 9 |
-|
+<center><strong>Junior College 2</strong><br>
+		“Love Matters (2nd Edition)” Teaching & Learning resource package</center>
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTL66NGadoDO2Bc6ACMzvu8iFgdZvVNLspsuhMFHcKvdVX-XiJy8d0GM33APr2LiAT2kiqTapdNkF6w/pub?embedded=true" width=800px height=1000px scrolling="no"></iframe></center>
 
-**Junior College 2**<br>
-“Love Matters (2nd Edition)” Teaching & Learning resource package
-
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD |
-|:---:|:---:|---|:---:|
-| Lessons about Love (Part 7) | 4<br>(60 mins) | - identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship <br>- appreciate that one can emerge stronger despite having gone through a breakup<br>- explore beliefs about marriage<br>- know the possible psychological impact on children experiencing parental separation or divorce<br>- recognise the importance of having family support for a relationship<br>- aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>- appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships<br> | Term 1 Week 7 |
-|  | 5<br>(60 mins) |- recognise that personal decisions on how one displays own affections in public can affect others<br>- discern the impact of new media on relationship building<br> | Term 1 Week 8 |
-| NA | 6<br>(60 mins) | This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons. | Term 1 Week 8 |
-|
-
-#### **eTeens Programme**
+<h4><i><strong>eTeens Programme</strong></i></h4>
 
 6\.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.  
         
@@ -61,10 +52,7 @@ Theme 3B from Module: Developing Healthy Relationships
 
 ##### **At Jurong Pioneer Junior College, the eTeens programme will be implemented as follows in 2022:**
 
-| Topics/Lessons | Programme Learning Objectives | Time Period |
-|:---:|---|:---:|
-| Mass Talk by HPB appointed vendor | - Awareness of the different STI and HIV<br>- Modes of transmission for STI and HIV<br>- Modes of protection against infection, specifically abstinence and the correct use of condom<br>- Consequences and impact of STI/HIV<br>- State the ways of managing the impact | Term 3 Week 5 |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
 
 ##### **Information for Parents**
 8\.  Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
