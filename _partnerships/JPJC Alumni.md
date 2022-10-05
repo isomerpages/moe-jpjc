@@ -4,6 +4,8 @@ permalink: /partnerships/jpjc-alumni/
 description: ""
 ---
 ### **JPJC Alumni**
+<div align=justify>
+	
 The merger of Jurong Junior College and Pioneer Junior College has brought together the alumni of both colleges, creating a strong network of support to enrich the college experience for the students of Jurong Pioneer Junior College.
 
 Since 2019, the alumni of both colleges have come together, working in partnership with the college to inspire our students with their stories of undergraduate and career experiences. At the same time, the college also organises homecoming events and creates platforms for alumni to reconnect with their former college mates and teachers.
@@ -72,7 +74,7 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 **3) Mr Vincent Choy (JJC Alumnus, Class of 1985)** Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
 <img src="/images/jpjc%20alumni%209.jpg" 
      style="width:75%">
-
+</div>
 **4) Mr Roderick Chia (JJC Alumnus, Class of 1990)** Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
 <img src="/images/jpjc%20alumni%2010.jpg" 
      style="width:75%">
