@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 ### **Citizen Education**
+<div align=justify>
+	
 The college aims to develop students who are culturally sensitive, socially responsible with a global outlook and a strong sense of rootedness to Singapore.
 
 The college cultivates citizenship dispositions in students through:
@@ -29,3 +31,4 @@ The college cultivates citizenship dispositions in students through:
 
 ![](/images/past%20event%205.jpg)
 ![](/images/past%20event%205%20c.png)
+	</div>
