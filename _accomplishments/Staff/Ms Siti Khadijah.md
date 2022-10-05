@@ -8,7 +8,8 @@ third_nav_title: Staff
 
 <img src="/images/Ms%20Siti%20Khadijah.jpg" 
      style="width:65%">
-		 
+<div align=justify>
+	
 We are pleased to announce that Ms Siti Khadijah Bte Mohd Anis, a Malay Language teacher from the Mother Tongue Languages Department at Jurong Pioneer Junior College (JPJC), has been conferred the Caring Teacher Awards 2020 (National Commendation Award). The Caring Teacher Awards (CTA) are aimed at acknowledging teachers in schools who go beyond the call of duty for the holistic development of their students and ensure their charges grow up to be confident and independent learners for the nation. Started in 1996, the CTA is organised by the National Institute of Education, Singapore, with support from ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education.
 
 Ms Siti Khadijah is well-loved by students for her warm, friendly demeanour and the effort she puts into building strong rapport with them. Here are some interesting thoughts she has shared with us about her work as an educator, the secret to her dedication and passion and some of the challenges that the Covid-19 pandemic has posed to her, in the aspect of pastoral care and supporting her students.
@@ -26,5 +27,4 @@ Ms Siti Khadijah is well-loved by students for her warm, friendly demeanour and 
 “The Covid-19 pandemic has brought challenges to everyone, especially our students. Regular check-ins are now more important than ever, and especially so during the Full Home-Based Learning period. As a Civics Tutor, I have regular online conversations and check-ins with my students. I keep in touch with them via text messages too. I try to find out about their challenges at home too, so that I can better understand their needs and concerns.”
 
 Congratulations Ms Siti Khadijah, on your CTA (National Commendation Award), and we thank you for the hard work and dedication in caring for JPJC students!
-
-
+	</div>
