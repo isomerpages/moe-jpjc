@@ -5,20 +5,23 @@ description: ""
 third_nav_title: H2 Translation (Chinese)
 ---
 ### **Assessment**
-The **assessment** of the subject comprises two papers and it would be conducted entirely as an e-paper. The medium of this syllabus is Chinese. Students are to answer all questions in Chinese, apart from the translations into English in Paper 1.Paper 1: CL-EL (100 marks / 50%; duration: 3 hours)
+<div align=justify>
+	<p>
+The <strong>assessment</strong> of the subject comprises two papers and it would be conducted entirely as an e-paper. The medium of this syllabus is Chinese. Students are to answer all questions in Chinese, apart from the translations into English in Paper 1.
+	<h5>Paper 1: CL-EL (100 marks / 50%; duration: 3 hours)</h5>
+<strong>Section A:</strong> One question on short text translation (15 marks);<br>
+	<strong>Section B:</strong> Extended text translation (25 marks); Commentary question (10 marks)<br>
+	<strong>Section C:</strong>
+One question on error analysis and critique (15 marks)<br>
+	<strong>Section D:</strong> One question on comparative criticism (35 marks)
 
-Section A: One question on short text translation (15 marks);<br>
-Section B: (a) Extended text translation (25 marks) ; (b) Commentary question (10 marks)<br>
-Section C: One question on error analysis and critique (15 marks)<br>
-Section D: One question on comparative criticism (35 marks)
+<h5>Paper 2: EL-CL (100 marks / 50%; duration: 3 hours)</h5>
+	<strong>Section A:</strong> One question on short text translation (15 marks);<br>
+	<strong>Section B:</strong> (a) Extended text translation (25 marks) ; (b) Commentary question (10 marks)<br>
+	<strong>Section C:</strong> One question on error analysis and critique (15 marks)<br>
+	<strong>Section D:</strong> One question on comparative criticism (35 marks)
 
-Paper 2: EL-CL (100 marks / 50%; duration: 3 hours)<br>
-Section A: One question on short text translation (15 marks);<br>
-Section B: (a) Extended text translation (25 marks) ; (b) Commentary question (10 marks)<br>
-Section C: One question on error analysis and critique (15 marks)<br>
-Section D: One question on comparative criticism (35 marks)
-
-You may refer to [MOE Website](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses) for the syllabus in detail. For information on examinations, please click on the following link: [H2TR](/files/H2TR.pdf)
+You may refer to <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for the syllabus in detail. For information on examinations, please click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9571_y23_sy.pdf">here</a>.
 
 <img src="/images/h2%20chinese.jpg" 
      style="width:85%">
