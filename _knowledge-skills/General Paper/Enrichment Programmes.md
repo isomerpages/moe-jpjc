@@ -6,7 +6,9 @@ third_nav_title: General Paper
 ---
 ### **Enrichment Programmes**
 ##### **1. Inter-Class Current Affairs Quiz.**
-Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.
+<div align=justify>
+	<p>
+Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.</p>
 
 ![](/images/GP1.jpg)
 
@@ -15,3 +17,4 @@ Held annually in June during the first week of the term break. A group of 20 stu
 
 ![](/images/GP2.jpg)
 ![](/images/GP%202%20caption.png)
+	</div>
