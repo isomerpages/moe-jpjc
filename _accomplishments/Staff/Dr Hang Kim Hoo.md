@@ -8,7 +8,8 @@ third_nav_title: Staff
 
 <img src="/images/Dr%20hang.jpg" 
      style="width:65%">
-		 
+<div align=justify>
+	
 Dr Hang Kim Hoo, the Principal of Jurong Pioneer Junior College, was conferred the Public Service Medal (Pingkat Bakti Masyarakat), a part of the National Day Awards by the Prime Minister’s Office in 2020 for his work with South West Community Development Council (SWCDC). The medal is awarded to a person who has rendered commendable public service in Singapore.
 
 Dr Hang has been actively contributing to the community for the past 46 years and continues to do so. Growing up in a family that struggled financially, he is all too familiar with the challenges one might face when there is little provision. Despite their challenging circumstances, Dr Hang saw his father extend a helping hand to people in the community he grew up in. It is no wonder that Dr Hang himself is motivated to give back to society in whatever ways he can.
@@ -41,7 +42,4 @@ Similarly, the pandemic saw volunteers facing new challenges in their work to se
 The young is a resilient and innovative lot who is often overlooked or misunderstood. This year has really brought out the best in JPJC students. I was amazed at how they took the challenges we faced as a college, as the Covid-19 situation was evolving, and still managed to create memories for the new JC1 students during Orientation as well as keep the college spirit high despite not being able to celebrate key events as a full school. Their willingness to work together with their teachers to make the best of the Full Home-Based Learning, displayed a very positive attitude. No doubt, they may have felt overwhelmed at times, but their sheer determination shows resilience and adaptability.
 
 My advice to our students is never give up. You have it in you to push yourself beyond your limits. You will surprise yourself if you put your heart and mind to what you want to achieve. As mentioned earlier, I believe in self-regulation. Maybe, if students adopt this, they will be able to channel all that positive attitude to getting themselves better organised as well as manage their time. You have already proven to us how capable you are. Never doubt your ability. Set your sights on your goal and believe in yourself that you can do it.
-
-
-
-
+	</div>
