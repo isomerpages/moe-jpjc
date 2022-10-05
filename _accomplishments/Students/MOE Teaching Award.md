@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Students
 ---
 ### **MOE Teaching Award**
+<div align=justify>
+	
 We are pleased to announce that three of Jurong Pioneer Junior College’s (JPJC) alumni have received the Ministry of Education (MOE) Teaching Award 2020. This award is offered to candidates with a strong passion for teaching, and are tenable for undergraduate studies at local autonomous universities or the National Institute of Education at the Nanyang Technological University (NTU-NIE). The awardees are:
 
 * **Sim En Qi (18A03)**
@@ -56,6 +58,4 @@ As an eloquent and confident young lady with a keen passion for Malay culture, h
 “Never give up. As cliche as it sounds, it is true. The A Level examination can be very very unexpected. The results you get can also be something very unexpected. So just try your best and always have close rapport with your teachers. They will be the ones who will help you alongside your family. But that being said, don't be too absorbed in chasing grades too. Spend time with your family and friends too. Be sure of the courses you want to pursue, and find out the entry requirements. All the best!”
 
 Congratulations to all our MOE Teaching Awardees! We wish you all the best in your future endeavours!
-
-
-
+	</div>
