@@ -6,9 +6,12 @@ third_nav_title: Computing
 ---
 ### **Syllabus & Assessment**
 #### **H2 Computing (Syllabus 9569)**
-The syllabus aims to develop problem-solving and computational thinking skills in students, as well as 21st Century Competencies that will help them to adapt to advancements in the field of computing and global changes impacting the workplace and society. Students will acquire fundamental knowledge in core areas of computing and draw connections to real-world problems by applying these knowledge, skills and attitudes to solve a variety of authentic learning tasks.
-
+<div align=justify>
+	<p>
+The syllabus aims to develop problem-solving and computational thinking skills in students, as well as 21st Century Competencies that will help them to adapt to advancements in the field of computing and global changes impacting the workplace and society. Students will acquire fundamental knowledge in core areas of computing and draw connections to real-world problems by applying these knowledge, skills and attitudes to solve a variety of authentic learning tasks.</p>
+	
 ##### **Section 1: Algorithms & Data Structures**
+
 **1.1 Algorithmic Representation**<br>
 Pseudocode, Flowchart, Control structures: Sequence, Selection, Iteration<br>
 Decision tables, Modular design
@@ -90,9 +93,5 @@ Encryption, digital signature, authentication to ensure network security
 Students will demonstrate computational thinking in a range of real-world problems requiring computing solutions. They will be familiar with and can apply fundamental algorithms and data structures; be able to comment on the social, ethical, legal and economic consequences of computing; understand good design principles and implementation considerations for computing solutions.
 
 All candidates will offer Paper 1 and Paper 2. All questions are compulsory in both papers.
-
-| Paper | Mode | Duration | Weighting | Marks | Description |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Written | 3 hours | 60% | 100 | 6 –8 structured questions of different lengths and marks. |
-| 2 | Lab-based practical | 3 hours | 40% | 100 | 4 structured questions of different lengths and marks. |
-|
+<center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTw0rVT5LQhcnI2Psk1Yvmykm_gK4xjNlfLpXIw8rsO6aUbLvuIX1CoxV825cdaVEsuwlS8OFbtNA5I/pub?embedded=true" width=800px height=450px scrolling="no"></iframe></center>
