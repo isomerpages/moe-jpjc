@@ -15,3 +15,4 @@ The department aims to nurture our students to be confident users of their respe
 **Paper 2** Listening Comprehension 5%
 
 You may refer to <a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/mtl/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf?la=en&hash=3B4390FBA9046B22EE5358BA52CA12C745B0513C">MOE Website</a> for the syllabuses in detail. For information on examinations, please click on the following link: <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8655_y21_sy.pdf">H1CL</a>, <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8656_y21_sy.pdf">H1ML</a>, <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8657_y21_sy.pdf">H1TL</a>.
+	</div>
