@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Computing
 ---
 ### **Enrichment Programmes**
+<div align=justify>
 The computing unit in JPJC believes in providing experiential learning for students beyond the classroom. Students will be given ample opportunities to take part in internal and external competitions, participate in learning journeys to successful companies and higher institutions of learning, attend local conferences and work shadowing opportunities in local and overseas companies.
 
 ![](/images/comp2.jpg)
@@ -21,4 +22,4 @@ Students attended workshops and talks at NUS, NTU, STUD, ESTL and various indust
 
 4.    **Workshadowing opportunities**<br>
 Students were given opportunities to intern at companies such as Wilmar and SideFX.
-
+	</div>
