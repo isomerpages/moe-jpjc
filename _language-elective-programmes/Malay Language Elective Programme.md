@@ -4,7 +4,9 @@ permalink: /jpjc-experience/curriculum/language-elective-programmes/malay/
 description: ""
 ---
 ### **Malay Language Elective Programme**
-_‘Advocates of Humanitarian Values’ (Penggerak Nilai Kemanusiaan)_
+<div align=justify>
+	<p>
+		<i><strong>‘Advocates of Humanitarian Values’ (Penggerak Nilai Kemanusiaan)</i></p>
 
 ##### **Introduction**
 In 2012, Pioneer Junior College (PJC) was selected to be the 3rd Malay Language Elective Programme (MLEP) in Singapore. The Malay Language Elective Programme (MLEP) was introduced in 2001 by the Ministry of Education as a platform for students who have the interest and inclination to study Malay language at a higher level. The programme offers a wide range of activities to enhance students’ language skills and interest in Malay language, literature and culture. In 2019, MLEP continues to be offered at the new merged college, Jurong Pioneer Junior College.
@@ -45,3 +47,4 @@ Such attachment opportunities aim to develop in our MLEP students’ leadership 
 
 ##### **For Further Clarification**
 Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at [tan-lim\_soh\_whee@moe.edu.sg](mailto:tan-lim_soh_whee@moe.edu.sg) or Senior Teacher, Mdm Siti Atiqah Punari at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti_atiqah_punari@moe.edu.sg)
+		</div>
