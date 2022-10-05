@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Enrichment Programmes
 ---
 ### **ML Related Enrichment Programmes**
-Students taking Malay language have the opportunities to participate in cultural activities and attend seminars and lectures to enhance their learning experiences.  Such experiences promote cultural awareness amongst the younger generation and thus, improve their knowledge in the subject area, as well as increase their interest in the learning of the language.
+<p align=justify>
+Students taking Malay language have the opportunities to participate in cultural activities and attend seminars and lectures to enhance their learning experiences.  Such experiences promote cultural awareness amongst the younger generation and thus, improve their knowledge in the subject area, as well as increase their interest in the learning of the language.</p>
 
 <img src="/images/ML%20Related%201.jpg" 
      style="width:75%">
