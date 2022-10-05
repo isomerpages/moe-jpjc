@@ -59,8 +59,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 9\.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please refer to the Parents Gateway announcement. This form can also downloadable [here](/files/2022%20Opt%20Out%20Form%20only.pdf). The completed form is to be submitted by 4 February 2022 (JC2) and 15 July 2022 (JC1)
 
-10\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. Please refer to the Parents Gateway announcement. This form can also downloadable [here](/files/2022%20eTeens%20Parents%20Opt-out%20Form%20JCCI.pdf). The completed form is to be submitted by 15 July 2022 (JC1).
+10\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. Please refer to the Parents Gateway announcement. This form can also downloadable [here](/files/2022%20Opt%20Out%20Form%20only.pdf). The completed form is to be submitted by 15 July 2022 (JC1).
 
 11\.  Parents can contact the school at 6564 6878 or e-mail us at [jpjc@moe.edu.sg](mailto:jpjc@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
-12.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+	
+12\.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+	</div>
