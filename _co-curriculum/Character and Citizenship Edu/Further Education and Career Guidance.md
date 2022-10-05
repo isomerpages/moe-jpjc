@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 ### **Further Education and Career Guidance**
+<div align=justify>
+	
 <img src="/images/Further%20Education%201.jpg" 
      style="width:75%">
 		 
@@ -25,3 +27,4 @@ Acquiring knowledge and skills to make informed decisions regarding higher edu
      style="width:75%">		 
 
 For more information about the college's ECG programme, please visit our [JPJC ECG website](https://jpjcecg.wixsite.com/jpjcecghome).
+	</div>
