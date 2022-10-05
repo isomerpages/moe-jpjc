@@ -6,6 +6,7 @@ third_nav_title: Character and Citizenship Edu
 ---
 ### **Social-Emotional Learning and Life Skills**
 #### **Civics Tutorial and Assembly Programme**
+<div align=justify>
 <img src="/images/Civics%20Tutorial%20and%20Assembly.jpg" 
      style="width:85%">
 The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values and equipping students with social emotional competencies namely
@@ -24,3 +25,4 @@ JPJC undertakes a thematic approach and the 2 major themes will guide all the a
 
 Theme for JC1: **Understanding Self**<br>
 Theme for JC2: **Developing Self**
+	</div>
