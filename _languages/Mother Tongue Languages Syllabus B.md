@@ -15,3 +15,4 @@ Paper 3: Oral Examination 35%<br>
 Paper 3: Listening Comprehension 15%
 
 For information on examinations, please click on the following link: <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8611_y22_sy.pdf">CLB</a>, <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8613_y22_sy.pdf">MLB</a>, <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8614_y22_sy.pdf">TLB</a>.
+	</div>
