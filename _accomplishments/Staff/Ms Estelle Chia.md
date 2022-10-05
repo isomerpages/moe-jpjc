@@ -8,7 +8,8 @@ third_nav_title: Staff
 
 <img src="/images/Estelle.jpg" 
      style="width:65%">
-		 
+<div align=justify>
+	
 We are pleased to announce that Ms Estelle Chia Sock Ying, a School Counsellor of Jurong Pioneer Junior College (JPJC), has been conferred the prestigious Efficiency Medal (Pingat Berkebolehan) as part of the National Day Awards (NDA) conferred by the Prime Minister’s Office in 2020. Instituted in 1969, the Medal may be awarded to individuals for exceptional efficiency or exceptional devotion to duty or for work of special significance. In the case of Ms Chia, her tireless dedication and great passion in supporting the well-being of both students and staff have allowed her to win the Medal.
 
 As one of two School Counsellors in JPJC, Ms Chia is well-loved by staff and students alike for her warm, reassuring demeanour and kind, patient personality. Here are some interesting thoughts she has shared with us about her field of work, the secret to her dedication and passion and some of the challenges that the Covid-19 pandemic has posed in terms of her counselling practice.
@@ -26,6 +27,4 @@ As one of two School Counsellors in JPJC, Ms Chia is well-loved by staff and stu
 “I think nothing beats speaking in person – our body language and facial expressions are important communicators of our thoughts and emotions. During the Circuit Breaker, I largely spoke with students over the phone. I think that limited what could be conveyed on both ends. Even now in the counselling room, we still wear masks. But we make the best out of the situation, like everyone else.”
 
 Congratulations Ms Chia, on your National Day Award, and we thank you for the hard work and dedication in caring for JPJC students!
-
-
-
+	</div>
