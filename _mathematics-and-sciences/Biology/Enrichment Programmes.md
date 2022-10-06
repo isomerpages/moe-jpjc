@@ -13,6 +13,6 @@ Students will also take part in competitions such as Singapore Biology Olympiad 
 <figure>
 <img src="/images/Biology%201.jpg" 
      style="width:85%">
-<figcaption>Enrichment Programmes organised for the students!</figcaption>
+	<figcaption><strong>Enrichment Programmes organised for the students!</strong></figcaption>
 </figure>
 </div>
