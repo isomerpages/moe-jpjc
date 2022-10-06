@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2022 Events
 ---
 ### **ECG Parents’ Evening**
+<div align=justify>
+	
 The annual ECG (Further Education and Career Guidance) Parents’ Evening was held on Friday, 6 May 2022, through a Zoom Webinar session. This was an event specially organised for parents and comprised  presentations by each of our six local university partners (Singapore Institute of Technology, Singapore University of Social Sciences, Singapore University of Technology and Design, Singapore Management University, Nanyang Technological University and National University of Singapore). The session also included a Question and Answer segment where parents could ask questions directly to the university partners.
 
 <figure>
@@ -40,3 +42,4 @@ Overall, the event was well-received, with close to 150 parents attending the vi
 <img src="/images/ecg%20parents%206.png">
 <figcaption> <strong> Sharing by SUSS on admission criteria </strong> </figcaption>
 </figure>
+	</div>
