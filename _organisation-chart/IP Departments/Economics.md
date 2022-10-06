@@ -6,17 +6,4 @@ third_nav_title: IP Departments
 ---
 ### **Economics**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mr Chu Hian Meng | Head of Department (Economics) |
-| Ms Teong Li Dan | Subject Head (Economics) - Acting |
-| Ms Low Shwan Leng, Veronica | Subject Head (Partnerships) |
-| Ms Tan Zhi Ai  | Assistant Year Head |
-| Ms Ang Shu Zhen | Teacher |
-|  Mr Goh Yong Siang | Teacher |
-| Mdm Khoo Kim Wee | Teacher |
-| Ms Penny Lee Si Li | Teacher |
-| Ms Rosida Binte Sidin | Teacher |
-| Mr Toh Wei Ming | Teacher |
-| Mr Yap Lok Hun | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS4nMRuJ5GKcS3Kj5B5QgM8nuFvPlZJZKWK66lNqJOmdmDKNQZ8FttaOizZ6VHjlANpk9H9CNLNqKs1/pub?embedded=true" width=800px height=450px scrolling="no"></iframe>
