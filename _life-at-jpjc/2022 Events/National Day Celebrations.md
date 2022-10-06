@@ -44,3 +44,4 @@ The celebrations concluded with the usual crowd favourite – the mass sing-alon
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg)
 	<figcaption><strong>House Exco leading mass singalong in LT</strong></figcaption>
 	</figure>
+	</div>
