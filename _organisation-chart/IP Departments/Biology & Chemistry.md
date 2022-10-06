@@ -8,33 +8,8 @@ third_nav_title: IP Departments
 
 #### **Chemistry**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Ms Toh Ee Hsia Eileen | Head of Department (Chemistry & Biology) |
-| Mr Dennis Lee Yeow Hwee | Head of Department (Infocomm & Technology) |
-| Ms Koh Yee Sin Jessie | Subject Head (Chemistry) |
-|  Ms Lee Tian Xin | Level Head (Chemistry) |
-|  Ms Michelle Quek Li Ming | Subject Head (Strategic Information Management) |
-| Ms Aw Chew Wei | Teacher |
-| Ms Jeslyn Chew Poh Hiang | Teacher |
-| Ms Jasima Parveen Abdul Azeez | Teacher |
-|  Mr Joseph Lee Boon Keong | Teacher |
-| Ms Susan Lim Mei Guei | Teacher |
-| Mrs Tan Lee Peng | Teacher |
-| Mrs Tay-Tan Wang Ling | Teacher |
-| Mdm Tay Ah Bee | Teacher |
-| Mr Yu Zhen | Teacher |
-| Ms Zhang Xiu Chen | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTi_38O1ayukh6HT1QWuxhPCZsH-syEjOZUSXy8es_cYonskY4GxXvrJScrxbugR8MbPpL83BAYT00s/pub?embedded=true" width=800px height=600px scrolling="no"></iframe>
 
 #### **Biology**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Ms Goh Hwee Kwan | Subject Head (Biology) |
-| Ms Ong Hui Wen | Assistant Year Head |
-| Ms Esther Lee Chia Wei | Teacher |
-| Ms Tan Ying Xin | Teacher |
-| Ms Tay Xue Lian Sherilyn | Teacher |
-| Ms Tian Ho Lian Sandra | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRIRGPlSMBgrIqHgTLLhbYqyY7AeB09jk3sQ2c0kGUZKIj3fylSXp3BVL3xMx57UcFcQZTRXaHUvRlJ/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
