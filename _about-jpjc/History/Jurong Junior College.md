@@ -171,10 +171,11 @@ Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=
 		 
 <h4><strong>Talk a walk down memory lane….</strong></h4>
 <h5><strong>800 Corporation Road Facade</strong></h5>
-![](/images/memory%201.jpg)
-##### **Favourite Memories of JJ**
-![](/images/memory%202.jpg)
-##### **JJ Gallery**
-![](/images/memory%203.jpg)
-#### **Wall Features in JJ**
-![](/images/memory%204.jpg)
+<img src="/images/memory%201.jpg">
+<h5><strong>Favourite Memories of JJ</strong></h5>
+<img src="/images/memory%202.jpg">
+<h5><strong>JJ Gallery</strong></h5>
+<img src="/images/memory%203.jpg">
+<h5><strong>Wall Features in JJ</strong></h5>
+<img src="/images/memory%204.jpg">
+</div>
