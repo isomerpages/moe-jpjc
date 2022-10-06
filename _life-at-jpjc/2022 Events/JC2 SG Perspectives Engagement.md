@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2022 Events
 ---
 ### **JC2 SG Perspectives Engagement**
+<div align=justify>
+	
 For this year’s JC2 SG Perspectives (SGP), the college had the honour of hosting Senior Minister of State for Defence, Mr Heng Chee How (SMS Heng), who shared with us about the impact of digitalisation on Singapore and the importance of Total Defence as the nation makes further strides into the digital economy. The format of this year’s engagement was that of a hybrid mode – half the JC2 cohort were present with SMS Heng in the Hall for a face-to-face dialogue, while the rest attended the engagement session via Zoom virtual conferencing in their respective homerooms.
 
 <figure>
@@ -61,3 +63,4 @@ The engagement session started off with SMS Heng’s opening speech on ‘Total 
 </figure>
 
 It was truly a refreshing experience for our JC2 cohort, being able to engage in lively face-to-face interactions and stimulating discussions after two and a half years of virtual conferencing brought about by the COVID-19 pandemic.
+	</div>
