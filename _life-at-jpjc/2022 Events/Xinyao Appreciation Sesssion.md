@@ -4,7 +4,6 @@ permalink: /life-at-jpjc/2022-events/xinyao-appreciation-session/
 description: ""
 third_nav_title: 2022 Events
 ---
-### **Xinyao Appreciation Session**
 <div align=justify>
 	
 In line with the national posture on the evolving COVID-19 situation, the college’s annual ‘Xinyao Appreciation Session’ was held as an in-person event after a two-year-long fight against COVID-19. The session, albeit in-person, was nevertheless held with various Safe Management Measures (SMMs) in place to continue safeguarding the health and safety of all participants.
