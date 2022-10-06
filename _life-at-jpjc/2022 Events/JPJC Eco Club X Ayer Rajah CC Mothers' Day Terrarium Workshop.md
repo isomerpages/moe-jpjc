@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2022 Events
 ---
 ### **JPJC Eco Club x Ayer Rajah CC Mothers' Day Terrarium Workshop**
+<div align=justify>
+	
 On 7 May, JP Eco Club conducted an online terrarium workshop for 15 families, in collaboration with 10 volunteers from the Women’s Executive Committee (WEC) of Ayer Rajah Community Club (CC). The event was graced by our Guest of Honour, Mr Shahrin bin Abdol Salam, Chairman of the Ayer Rajah CC Management Committee (CCMC) and the Malay Activities Executive Committee (MAEC).
 
 <figure>
@@ -33,3 +35,4 @@ Our Eco Club students, with the Ayer Rajah CC volunteers, guided participants in
 <img src="/images/terrarium%205.jpg">
 <figcaption> <strong> All in all it was a fruitful collaboration between JP Eco Club and Ayer Rajah CC </strong> </figcaption>
 </figure>
+	</div>
