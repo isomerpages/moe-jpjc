@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2022 Events
 ---
 ### **Service Learning Festival**
+<div align=justify>
+	
 Each year, the college organises the Service Learning Festival (SL Fest) to provide a multi-faceted platform for our students to explore volunteering opportunities. This year, the SL Fest took place on 6 April with 5 concurrent sessions for both our JC1 and JC2 cohorts.
 
 Speakers from various social service organisations and community partners were invited to share with our students the needs of various groups in the community, and how they could contribute in the various areas of their passion and interests. The organisations who graced the occasion represented different service sectors, from the Society for the Prevention of Cruelty to Animals, The Food Bank Singapore, Family Central (Fei Yue Community Services), the Handicaps Welfare Association, Team Nila, the Ministry of Manpower, ItsRainingRaincoats and Heartware Network.
@@ -17,3 +19,4 @@ In all, SL Fest 2022 was a platform that served to open our students’ eyes to 
 <img src="/images/Service%20Learning%20Festival%202022%20-%20Inspiring%20our%20students%20to%20contribute%20with%20purpose.jpg">
 <figcaption> <strong> Inspiring our students to contribute with purpose </strong> </figcaption>
 </figure>
+	</div>
