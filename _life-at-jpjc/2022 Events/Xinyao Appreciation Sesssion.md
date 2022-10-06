@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2022 Events
 ---
 ### **Xinyao Appreciation Session**
+<div align=justify>
+	
 In line with the national posture on the evolving COVID-19 situation, the college’s annual ‘Xinyao Appreciation Session’ was held as an in-person event after a two-year-long fight against COVID-19. The session, albeit in-person, was nevertheless held with various Safe Management Measures (SMMs) in place to continue safeguarding the health and safety of all participants.
 
 <figure>
@@ -30,3 +32,4 @@ The ‘Xinyao Appreciation Session’ came as a prequel to the annual ‘Xinyao 
 </figure>
 
 Students and teachers enjoyed a refreshing morning listening to songs written and presented by local talents. The session began with the singers from TCR Music Station sharing with the audience how Xinyao, as a genre, has grown and developed over the decades as they sang iconic Xinyao songs. Both students and teachers were heartened to learn that the younger generation appreciated our home-grown Xinyao, with some of them even stepping forward to take part in the competition. The session ended with the singers from TCR Music Station showcasing songs written by participants of past years’ ‘Xinyao Singing and Songwriting Competition’.
+	</div>
