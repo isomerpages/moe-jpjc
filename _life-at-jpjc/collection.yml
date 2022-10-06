@@ -2,9 +2,9 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2022 Events/Arts and Social Sciences Day.md
       - 2022 Events/.keep
       - 2022 Events/2022 Events Overview.md
+      - 2022 Events/Arts and Social Sciences Day.md
       - "2022 Events/JP Do Good: Sponsorship of SG Care Pack for less advantage
         residents.md"
       - 2022 Events/Racial Harmony Day Commemoration.md
