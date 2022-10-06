@@ -25,23 +25,23 @@ The celebrations concluded with the usual crowd favourite – the mass sing-alon
 
 <figure>
 	
-<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%202.jpg>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%202.jpg">
 <figcaption><strong>JC1 Class-based Celebration and Activities</strong></figcaption>
 </figure>
 
 <figure>
 	
-<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%203.jpg>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%203.jpg">
 <figcaption><strong>Mass Gameshow in the Hall for the JC2s</strong></figcaption>
 	
 
-<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%204.jpg>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%204.jpg">
 <figcaption><strong>Mass Gameshow in LT3 for part of the JC1 cohort</strong></figcaption>
 
-<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%205.jpg>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%205.jpg">
 <figcaption><strong>Mass Sing-along performance by our House Excos</strong></figcaption>
 
-<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg">
 <figcaption><strong>House Exco leading mass singalong in LT</strong></figcaption>
-	</figure>
-	</div>
+</figure>
+</div>
