@@ -18,7 +18,7 @@ The celebrations concluded with the usual crowd favourite – the mass sing-alon
 	</div>
 	
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%201.jpg)
-<center>JC2 Class-based Celebration and Bonding Activities</center>
+<figcaption><strong>JC2 Class-based Celebration and Bonding Activities</strong></figcaption>
 
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%202.jpg)
 <center>JC1 Class-based Celebration and Activities</center>
