@@ -6,36 +6,37 @@ third_nav_title: Chemistry
 ---
 ### **Syllabus & Assessment**
 #### **H1 CHEMISTRY (8873)**
-<p align=justify>
-H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes <strong>developing an understanding of the skills, ethics and attitudes relevant to the practices of science</strong>. In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to <strong>communicate</strong> and explain the natural world.
-<p align=justify>
+<div align=justify>
+<p>
+H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes <strong>developing an understanding of the skills, ethics and attitudes relevant to the practices of science</strong>. In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to <strong>communicate</strong> and explain the natural world.</p>
+<p>
 The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
 
-![](/images/Chemistry%202.jpg)
-<center><i>H1 Chemistry Curriculum Framework</i></center>
-
-<center>
+<figure>
+<img src="/images/Chemistry%202.jpg">
+	<figcaption>H1 Chemistry Curriculum Framework</figcaption>
+	</figure>
+	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
-	</center>
 
-![](/images/Chemistry%203.jpg)
-<center><i>Content map for H1 Chemistry</i></center>
-
-<p align=justify>
+<figure>
+<img src="/images/Chemistry%203.jpg">
+<figcaption><strong>Content map for H1 Chemistry</strong></figcaption>
+	</figure>
+	
+<p>
 Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
-<p align=justify>
+<p>
 Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
-<center>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRNNrIQv3IwzNf9VZhZ7bsAjPqMwW80L85thHy-97qQIIoRWDzAbvGomPCdaPVeMnPe9hcsBJq9EosU/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>	
-	</center>
 
-<div align=justify>
-	<h5>Paper 1 (1 h, 30 marks)</h5>
-This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br><br>
+
+<h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
+This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br>
 All questions will include 4 options.
 <p>
-	<h5>Paper 2 (2 h, 80 marks)</h5>
+	<h5><strong>Paper 2 (2 h, 80 marks)</strong></h5>
 This paper consists of two sections:<br>
 
 **Section A** (60 marks)<br>
