@@ -18,17 +18,17 @@ It was indeed a fulfilling and enriching experience for our students and staff, 
 	</div>
 <figure>
 	
-![The GymFit team preparing to move out to Jurong Spring CC](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg)
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg>
 <figcaption><strong>The GymFit team preparing to move out to Jurong Spring CC</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%202.jpeg)
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%202.jpeg>
 	<figcaption><strong>A student volunteer giving out a care pack to a resident</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg)
-	<figcaption><strong>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg>
+<figcaption><strong>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg)
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg>
 <figcaption><strong>A team selfie with Mr Huang</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg)
-	<figcaption><strong>Residents at the venue of our food distribution drive</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg>
+<figcaption><strong>Residents at the venue of our food distribution drive</strong></figcaption>
