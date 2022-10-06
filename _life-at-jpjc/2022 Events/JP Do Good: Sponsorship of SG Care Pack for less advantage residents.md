@@ -15,18 +15,20 @@ Despite the light drizzle that occurred on the eve of 2nd August, the GymFit tea
 Having learnt about the workings of JS Cares, our team then moved on to the actual distribution activity itself. Students had the opportunity to interact with residents and know more about their life stories. Some even helped elderly residents to carry their SG Care Packs back home. At the end of the event, our team had the honour of meeting with Mr Huang Wei Zhong Shawn, Member of Parliament for Jurong GRC. Mr Huang expressed his appreciation to our students for initiating this project, and the college for sponsoring the SG Care Packs. In his sharing with our team, Mr Huang imparted insightful leadership tips and affirmed them for their great effort. He also encouraged them to continue to serve the community in their own ways beyond this event.
 
 It was indeed a fulfilling and enriching experience for our students and staff, and a meaningful way for the college to celebrate our 57th National Day by giving back to community. Stronger Together, Majulah!
-
+	</div>
+<figure>
+	
 ![The GymFit team preparing to move out to Jurong Spring CC](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg)
-<center>The GymFit team preparing to move out to Jurong Spring CC</center>
+<figcaption><strong>The GymFit team preparing to move out to Jurong Spring CC</strong></figcaption>
 	
 ![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%202.jpeg)
-	<center>A student volunteer giving out a care pack to a resident</center>
+	<figcaption><strong>A student volunteer giving out a care pack to a resident</strong></figcaption>
 	
 ![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg)
-	<center>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</center>
+	<figcaption><strong>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</strong></figcaption>
 	
 ![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg)
-<center>A team selfie with Mr Huang</center>
+<figcaption><strong>A team selfie with Mr Huang</strong></figcaption>
 	
 ![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg)
-	<center>Residents at the venue of our food distribution drive</center>
+	<figcaption><strong>Residents at the venue of our food distribution drive</strong></figcaption>
