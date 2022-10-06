@@ -17,20 +17,30 @@ For the second segment of the celebration, the JC2s gathered as a cohort in the 
 The celebrations concluded with the usual crowd favourite – the mass sing-along session – as the finale. For this segment, our House Exco Representatives, JP Choir and JP Spotlight created their very own music videos of popular National Day songs, and these were played alongside the live performances by student performers. The singing of “Home’ served as a rousing finale to our SG57 celebrations and brought much cheer to our college!
 	</div>
 	
+<figure>
+	
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%201.jpg)
 <figcaption><strong>JC2 Class-based Celebration and Bonding Activities</strong></figcaption>
+	</figure>
 
+<figure>
+	
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%202.jpg)
-<center>JC1 Class-based Celebration and Activities</center>
+	<figcaption><strong>JC1 Class-based Celebration and Activities</strong></figcaption>
+	</figure>
 
+<figure>
+	
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%203.jpg)
-<center>Mass Gameshow in the Hall for the JC2s</center>
+<figcaption><strong>Mass Gameshow in the Hall for the JC2s</strong></figcaption>
+	
 
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%204.jpg)
-<center>Mass Gameshow in LT3 for part of the JC1 cohort</center>
+	<figcaption><strong>Mass Gameshow in LT3 for part of the JC1 cohort</strong></figcaption>
 
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%205.jpg)
-<center>Mass Sing-along performance by our House Excos</center>
+	<figcaption><strong>Mass Sing-along performance by our House Excos</strong></figcaption>
 
 ![](/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg)
-<center>House Exco leading mass singalong in LT</center>
+	<figcaption><strong>House Exco leading mass singalong in LT</strong></figcaption>
+	</figure>
