@@ -14,20 +14,20 @@ There was lively participation in and exploration of the various interactive ele
 	</div>
 <figure>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/1%20An%20aerial%20view%20of%20the%20Arts%20and%20Social%20Sciences%20Day%20booths%20at%20the%20concourse.jpg)
-	<figcaption><strong>An aerial view of the Arts and Social Sciences Day booths at the concourse</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/1%20An%20aerial%20view%20of%20the%20Arts%20and%20Social%20Sciences%20Day%20booths%20at%20the%20concourse.jpg>
+<figcaption><strong>An aerial view of the Arts and Social Sciences Day booths at the concourse</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/2%20Members%20of%20Group%201.jpg)
-	<figcaption><strong>Members of Group 1</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/2%20Members%20of%20Group%201.jpg>
+<figcaption><strong>Members of Group 1</strong></figcaption>
 
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/3%20Group%203_s%20booth.jpg)
-	<figcaption><strong>Group 3's booth</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/3%20Group%203_s%20booth.jpg>
+<figcaption><strong>Group 3's booth</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/4%20Group%205%20and%20their%20posters.jpg)
-	<figcaption><strong>Group 5 and their posters</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/4%20Group%205%20and%20their%20posters.jpg>
+<figcaption><strong>Group 5 and their posters</strong></figcaption>
 
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/5%20Post-its%20displaying%20song%20additions%20to%20Group%201_s%20Spotify%20playlist.jpg)
-	<figcaption><strong>Post-its displaying song additions to Group 1's Spotify playlist</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/5%20Post-its%20displaying%20song%20additions%20to%20Group%201_s%20Spotify%20playlist.jpg>
+<figcaption><strong>Post-its displaying song additions to Group 1's Spotify playlist</strong></figcaption>
 	
-![](/images/Life%20@%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/6%20A%20student%20voting%20on%20the%20impact%20of%20social%20media%20on%20his%20life.jpg)
-	<figcaption><strong>A student voting on the impact of social media on his life</strong></figcaption>
+<img src=https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/6%20A%20student%20voting%20on%20the%20impact%20of%20social%20media%20on%20his%20life.jpg>
+<figcaption><strong>A student voting on the impact of social media on his life</strong></figcaption>
