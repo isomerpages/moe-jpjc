@@ -7,8 +7,6 @@ third_nav_title: Art
 ### **Curriculum and Syllabus**
 <p align=justify>
 	The curriculum framework for the <strong>H1 and H2 Level Art syllabus</strong> is structured under three behavioural domains of Perceiving, Communicating and Appreciating.
-</strong>
-<center>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRJjAd6DTrZ8UZGKS1B0gY5l6t-VvsXoK2EBHAN-GKNIjPxYD8DFOaUK8vtnVgr-kQ1R4V3Ti1sP6AV/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
 </center>
 <center>
@@ -19,7 +17,7 @@ The table below sums up briefly, the difference between the H1 and H2 programs.
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRiUY8XTY3n3Zn9Rt67PJCC_whBr3bF1SttPeI2gxQPK9kZ9P6g2avPm-7obHCe6C23OFWDswlSC3kw/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
 </center>
 
-#### **Study of Visual Arts (SOVA)**
+<h4><strong>Study of Visual Arts (SOVA)</strong></h4>
 <p align=justify>
 The <strong>Study of Visual Arts (SOVA)</strong> emphasises the development of visual literacy through critical and creative thinking by encouraging personal responses to art appreciation. <strong>Both H1 and H2 art students</strong> will learn to critically respond to and interpret artworks of a large variety during lessons and learn to write about art.
 <p align=justify>
