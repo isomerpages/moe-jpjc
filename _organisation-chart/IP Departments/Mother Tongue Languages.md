@@ -8,36 +8,12 @@ third_nav_title: IP Departments
 
 #### **Chinese Language**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mrs Chionh-Lim Sheau Jen | Head of Department (Mother Tongue Languages) |
-| Ms Lim Sok Koon | Subject Head (Chinese Language) |
-|  Mrs Tan-Lim Soh Whee | Subject Head (Language Elective Programmes)  |
-| Ms Lim Yi Hua  | Subject Head (H1 Chinese Language) |
-| Ms Chua Zhu Yun Cynthia | Teacher |
-|  Mr Goh Kwee How |  Teacher |
-|  Mr Lee Eng Seng | Teacher |
-| Ms Lee Jia Min | Teacher |
-| Ms Liu Chang  | Teacher |
-| Ms Pang Cai Feng  | Teacher  |
-| Mr So Swee Hock  | Teacher |
-| Dr Kelvin Sng Yee Min | Teacher |
-| Mr Yang Zhizhong  | Teacher  |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRddSS6tYQV7ta543gf5I1oVKa1myDAnwMKxW37vKRGTY_zRy9KdTc7TTm2dGwFyOdwk3gUTAaKTvFc/pub?embedded=true" width=800px height=600px scrolling="no"></iframe>
 
 #### **Malay Language**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mdm Siti Atiqah Bte Punari | Senior Teacher (Malay Language) |
-| Mdm Lorena Bte Ibrahim | Teacher |
-|  Mdm Siti Khadijah | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vStZgl3DpMiitONR97yEZwcEjvwoe9GhbhIgYJoD-A_VvMovh01jSWZM3A_g8yp5IxmDGfqfAaUOB98/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
 
 #### **Tamil Language**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mdm Subathra d/o Thangaraj | Senior Teacher (Tamil Language) |
-| Dr Velmurugan Vasanthi | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTYQD2qdUqP3YRWL-7Kpg6pqKO8llHoG9Q8exgGDMqsZ_-be9ngHpktg0Y8pM3wbFxiJKHXzdGvqiJW/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
