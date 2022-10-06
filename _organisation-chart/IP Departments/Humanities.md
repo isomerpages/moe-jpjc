@@ -8,37 +8,16 @@ third_nav_title: IP Departments
 
 #### **China Studies in English**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mr Goh Jianrong, John | Subject Head (Humanities) |
-| Mr Jack Chay Chun Ho | Teacher |
-| Mr Lim Yu Ching | Teacher |
-| 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQy01ZNGBeZcCIwTXZwIZmJ9os0EzpqFNCd0VITmjZFpWUzdYN3jQHsEJso3MprykLpzif_ZJEovptT/pub?embedded=true" width=800px height=250px scrolling="no"></iframe> 
 
 #### **Geography**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mr Goh Jianrong, John  | Subject Head (Humanities)  |
-| Mr Mohamed Osman B Rahamat | Senior Teacher (Geography) |
-| Mdm Gunaselvi d/o Munisamy Naidu | Teacher |
-| Ms Tan Mei Li Jasmine | Teacher |
-| Mr Tan Yong Zhi  | Teacher  |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTm2MpCQ4UdtSS1h-eqocSoEoSdslujDt0Pow4soqET3biVEI5fw60Wd5fkPFyfhUu5gbQqJo7-NhX3/pub?embedded=true" width=800px height=300px></iframe>
 
 #### **History**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mr Lim Wui Lester | Lead Teacher (History) |
-| Mr Ng Liang Meng Augustine | Senior Teacher (History) |
-| Mr Lim Weili | Teacher |
-| Mr John Yeo Poh Hwee | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvtXq2TqgZ1Ot9w18ScmI-m0yEl6FYdaTvMFPne0gT5t9TRq5VJBfah0K4XMg9_hbjikB5y6Hg26sD/pub?embedded=true" width=800px height=300px></iframe>
 
 #### **Art**
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Ms Aini Azidah Bt Haja Maideen | Teacher |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQoDi5pmAx3t_83daiMmTyEuwnPW9R0vilOAzMVcX0-YT_S6Et3EMcueSH6Cbmftmiw8bQhX1V0Lz9T/pub?embedded=true" width=800px height=200px scrolling="no"></iframe>
