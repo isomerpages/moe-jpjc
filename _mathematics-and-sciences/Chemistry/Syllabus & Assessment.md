@@ -106,7 +106,7 @@ This paper will assess appropriate aspects of practical in the following skill a
 	<li>Manipulation, measurement and observation (MMO)</li>
 	<li>Presentation of data and observations (PDO)</li>
 	<li>Analysis, conclusion and evaluation (ACE)</li>
-	</div>
+</div>
 <div align=justify>
 <p>
 The assessment of Planning (P) will have a weighing of 5 %. The assessment of skill areas MMO, PDO and ACE will have a weighing of 15 %.</p>
@@ -142,4 +142,4 @@ This section consists of a variable number of compulsory free response questions
 Candidates will be required to answer <strong>two</strong> out of three free response questions. Each question will carry 20 marks.</p>
 <p>
 For more details on the H3 Chemistry syllabus, click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9813_y22_sy.pdf">here</a> to download the PDF from SEAB website.</p>
-		</div>
+</div>
