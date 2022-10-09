@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue Languages & Lit
 ---
 ### **Mother Tongue Languages & Literature**
-![](/images/mtl.jpg)
+<img src="images/mtl.jpg">
 <div align=justify>
 	<p>
 For students with a flair for Mother Tongue languages, the curriculum aims to enhance their language proficiency. Students will read a variety of texts including authentic materials reflective of everyday situations and contexts, so that they can be confident and proficient users of the language.</p>
