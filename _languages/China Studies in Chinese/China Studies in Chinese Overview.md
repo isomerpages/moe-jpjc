@@ -6,7 +6,7 @@ third_nav_title: China Studies in Chinese
 ---
 ### **China Studies in Chinese**
 <div align=justify>
-	<p>
+<p>
 China Studies in Chinese is taught and examined in the Chinese medium.  The subject focuses on the transformation of China since 1978 and its future. It allows students to develop the relevant knowledge and critical thinking skills to pursue a holistic understanding of contemporary China and to be cognisant of larger global trends.China Studies in Chinese aims to enable students to understand China’s transformation and its future by:
 	</p>
 	<ol style="list-style-type:lower-alpha">
