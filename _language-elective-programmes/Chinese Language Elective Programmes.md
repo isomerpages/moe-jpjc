@@ -119,5 +119,5 @@ Despite the challenges of COVID-19 pandemic since 2020, timely changes were made
 
 <strong>For Further Clarification</strong><br>
 <p>
-Please contact Subject Head, Language Elective Programme, <a href="mailto:tan-lim_soh_whee@moe.edu.sg">Mrs Tan-Lim Soh Whee</a>.</p>
+Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a>.</p>
 </div>
