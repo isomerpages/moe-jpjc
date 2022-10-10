@@ -9,22 +9,26 @@ third_nav_title: Character and Citizenship Edu
 	
 <img src="/images/Further%20Education%201.jpg" 
      style="width:75%">
-		 
-The ECG Programme at Jurong Pioneer Junior College aims to equip students with the necessary skills and knowledge for higher education and career planning, engage them in experiential learning and empower them to make informed decisions about their higher education and career options. It is designed as a two-year journey during which students will answer the following questions:
+<p>	 
+The ECG Programme at Jurong Pioneer Junior College aims to equip students with the necessary skills and knowledge for higher education and career planning, engage them in experiential learning and empower them to make informed decisions about their higher education and career options. It is designed as a two-year journey during which students will answer the following questions:</p>
 
-**1) Who am I? (Awareness)**<br>
-Deepening awareness of self-identity and of opportunities and resources available for higher education and career planning
+<h6><strong>1) Who am I? (Awareness)</strong></h6>
+<p>
+Deepening awareness of self-identity and of opportunities and resources available for higher education and career planning</p>
 
-**2) Where am I going? (Exploration)**<br>
-Exploring higher education and career options through experiential learning
+<h6><strong>2) Where am I going? (Exploration)</strong></h6>
+<p>
+	Exploring higher education and career options through experiential learning</p>
 
-**3) How do I get there? (Planning and Transiting)**<br>
-Acquiring knowledge and skills to make informed decisions regarding higher education and career options
+<h6><strong>3) How do I get there? (Planning and Transiting)</strong></h6>
+<p>
+Acquiring knowledge and skills to make informed decisions regarding higher education and career options</p>
 
-<img src="/images/CCE1a.jpg" 
-     style="width:75%">
-<img src="/images/Higher%20Education%203.jpg" 
-     style="width:75%">		 
+<figure>
+<img src="/images/CCE1a.jpg">
+<img src="/images/Higher%20Education%203.jpg">		 
+</figure>
 
-For more information about the college's ECG programme, please visit our [JPJC ECG website](https://jpjcecg.wixsite.com/jpjcecghome).
+<p>
+For more information about the college's ECG programme, please visit our <a href="https://jpjcecg.wixsite.com/jpjcecghome">JPJC ECG website</a>.
 	</div>
