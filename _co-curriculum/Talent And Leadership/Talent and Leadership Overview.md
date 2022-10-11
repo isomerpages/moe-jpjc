@@ -22,52 +22,44 @@ As students embark on this journey of discovery, they can develop and excel in t
 The wide variety of activities are organised by different committees under the Talent and Leadership Development Council. These committees are:</p>
 
 <figure>
-Co-Curricular Activities (CCA)](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/cca/)**
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/cca/">Co-Curricular Activities (CCA)</a>
+<img src="/images/cca.jpg">
+<figcaption>Discover, Develop, Excel</figcaption>
+</figure>
 
-<img src="/images/cca.jpg" style="width:25%;margin-right:15px;" align = "left">		 
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/house-system/">House System</a>
+<img src="/images/house%20system.jpg">		 
+	<figcaption>House spirit flying high</figcaption>
+	</figure>
+
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/">Student Leadership</a>
+<img src="/images/student%20ldrship.jpg">		 
+<figcaption>Amazing Race challenges during LTC</figcaption></figure>
+
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a>
+<img src="/images/sdprogramme.jpg">
+<figcaption>Grassroots engagement with Minister Grace Fu in 2017. Developing scholars with a heart for others.</figcaption>
+</figure>
+
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/">STEM Programme</a>
+<img src="/images/stem.jpg">
+<figcaption>Fun and exciting STEM activities!</figcaption>
+</figure>
+
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-social-science/">Arts and Social Sciences Interests Programme</a><br>
+<img src="/images/artsscience.jpg" >
+<figcaption>Prize presentation ceremony for World Scholar’s Cup</figcaption>
+</figure>
+	
 <br>
-Discover, Develop, Excel
-
-<br><br><br><br>
-**[House System](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/house-system/)**
-
-<img src="/images/house%20system.jpg" style="width:30%;margin-right:15px;" align = "left">		 
-<br>
-House spirit flying high
-
-<br><br>
-**[Student Leadership](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/)**
-
-<img src="/images/student%20ldrship.jpg" style="width:25%;margin-right:15px;" align = "left">		 
-<br>
-Amazing Race challenges during LTC
-
-<br><br><br>
-<br><br><br>
-**[Scholars Development Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/)**
-
-<img src="/images/sdprogramme.jpg" style="width:35%;margin-right:15px;" align = "left">		 
-<br>
-Grassroots engagement with Minister Grace Fu in 2017. Developing scholars with a heart for others.
-
-<br><br>
-**[STEM Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/)**
-
-<img src="/images/stem.jpg" style="width:35%;margin-right:15px;" align = "left">
-<br>
-Fun and exciting STEM activities!
-
-<br><br><br>
-<br><br><br>
-**[Arts and Social Sciences Interests Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-social-science/)**
-
-<img src="/images/artsscience.jpg" style="width:35%;margin-right:15px;" align = "left">
-<br>
-Prize presentation ceremony for World Scholar’s Cup
-
-<br><br>
-**[Arts and Aesthetic Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-aesthetics/)**
-
-<img src="/images/artsaesthetics.jpg" style="width:35%;margin-right:15px;" align = "left">
-<br>
-The Modern Dance Club performing a Jazz item at the Biennial Public
+<figure>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-aesthetics/">Arts and Aesthetic Programme</a>
+<img src="/images/artsaesthetics.jpg">
+<figcaption>The Modern Dance Club performing a Jazz item at the Biennial Public</figcaption>
+	</figure>
+</div>
