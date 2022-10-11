@@ -5,35 +5,32 @@ description: ""
 third_nav_title: Talent And Leadership
 ---
 ### **Arts and Aesthetics**
+<div align=justify>
+<p>
 Objectives:
-*   To inculcate in students a sense of appreciation for the arts.
-*   To develop students’ potential for creativity and expression through the arts.
-*   Through arts education, students will be empowered by the arts and grow to be confident, articulate and creative adults who will contribute as active citizens to the community.
+<ul>
+	<li>To inculcate in students a sense of appreciation for the arts.</li>
+	<li>To develop students’ potential for creativity and expression through the arts.</li>
+	<li>Through arts education, students will be empowered by the arts and grow to be confident, articulate and creative adults who will contribute as active citizens to the community.</li></ul>
 
-| **DISCOVER. INITIATE** | **DEVELOP** | **EXCEL. LEAD. MENTOR** |
-|:---:|:---:|:---:|
-| Provide opportunities for all students to discover interest and build talents. | Develop talents, skills, values, and attitudes through experiential learning in Visual Arts, Music, Dance, Theatre, Literary Arts, and Film and Multimedia. | Engage students in rigorous learning, towards mastery of talents and abilities, and eventually contributing to the team, school, and wider community. |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width=800px height=600px scrolling="no"></iframe>
 
-|  | **THROUGH** |  |
-|:---:|:---:|:---:|
-| **JP Spotlight (Talent Competition)**<br><br>Assembly Performances<br><br>Ticketed Public Performances | **ARTiculate Arts Fest**<br><br>Learning Journeys curated for Arts & Aesthetics CCA<br><br>Post-exam Arts Enrichment Workshops | **Biennial Production**<br><br>SYF Arts Presentation Showcase<br><br>Student Planning Committee for JP Spotlight <br><br>Student-led Arts Enrichment Activities |
-|
+<figure>
+<img src="/images/JPSpotlight.jpg">
+<figcaption><strong>Winners of JP Spotlight 2021</strong></figcaption>
+</figure>
 
-<img src="/images/JPSpotlight.jpg" 
-     style="width:75%">
-<img src="/images/JPSpotlight%20c.png" 
-     style="width:75%">
+<figure>
+<img src="/images/Articulate.jpg">
+<figcaption><strong>Highlights from JPJC’s Art Fest, ARTiculate 2021</strong></figcaption>
+	</figure>
 
-<img src="/images/Articulate.jpg" 
-     style="width:75%">
-<img src="/images/Articulate%20c.jpg" 
-     style="width:75%">		 
+<p>JPJC’s very own quarterly Arts Newsletter<br>
+<a href="http://tinyurl.com/Artsyfacts-2021-1">Issue 1</a><br>
+<a href="http://tinyurl.com/Artsyfacts-2021-2">Issue 2</a><br>
+<a href="http://tinyurl.com/Artsyfacts-2021-3">Issue 3</a></p>
 
-JPJC’s very own quarterly Arts Newsletter<br>
-[Issue 1](http://tinyurl.com/Artsyfacts-2021-1)<br>
-[Issue 2](http://tinyurl.com/Artsyfacts-2021-2)<br>
-[Issue 3](http://tinyurl.com/Artsyfacts-2021-3)
-
+<p>
 JPJC Arts & Aesthetics Instagram Page<br>
-[Artsy@JPJC](https://www.instagram.com/artsyjpjc/)
+<a href="https://www.instagram.com/artsyjpjc/">Artsy@JPJC</a>
+</div>
