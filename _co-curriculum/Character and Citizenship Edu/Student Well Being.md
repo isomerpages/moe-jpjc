@@ -7,5 +7,6 @@ third_nav_title: Character and Citizenship Edu
 ### **Student Well-Being**	
 ##### **Goal: To promote and enhance the well-being (Physical, Intellectual, Emotional & Social) of students**
 
-<img src="/images/Student_well_being%201.jpg" 
-     style="width:85%">
+<figure>
+<img src="/images/Student_well_being%201.jpg">
+</figure>
