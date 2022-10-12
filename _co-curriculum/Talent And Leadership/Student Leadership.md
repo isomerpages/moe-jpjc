@@ -4,6 +4,6 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
-### **Student Leadership**
-<img src="/images/Student%20Leadership.jpg" 
-     style="width:85%">
+<figure>
+<img src="/images/Student%20Leadership.jpg">
+</figure>
