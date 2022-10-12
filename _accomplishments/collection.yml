@@ -2,7 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
-      - Accomplishments Overview.md
+      - Accomplishments.md
       - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
       - Staff/Madam Lim Sok Koon.md
