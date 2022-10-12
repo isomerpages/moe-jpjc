@@ -3,7 +3,6 @@ title: Internationalisation Programme
 permalink: /jpjc-experience/co-curriculum/internationalisation-programme/
 description: ""
 ---
-### **Internationalisation Programme**
 <div align=justify>
 <p>
 With the emphasis on developing 21st Century Competencies (21CC) in our students and the recognition that schools’ internationalisation efforts can strongly support the Desired Outcomes of Education, our college organizes various overseas trips to broaden our students’ experiences and deepen their learning.</p>
