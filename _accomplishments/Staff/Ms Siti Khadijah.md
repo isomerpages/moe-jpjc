@@ -22,7 +22,7 @@ Ms Siti Khadijah is well-loved by students for her warm, friendly demeanour and 
 <p>
 “In my opinion, a teacher is not just an educator, but someone who inspires and motivates. A teacher goes beyond the academic areas to take care of the character development of our students, especially their socio-emotional well-being.”</p>
 
-<h5></h5>
+<h5><strong>Do you have any motivational words for your fellow teachers?</strong></h5>
 <p>
 “Every effort in reaching out to students counts, no matter how small they may seem. In our interactions with them, always be proactive in knowing them, and be ready to listen and support them.</p>
 
