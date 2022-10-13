@@ -65,10 +65,10 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%205.jpg">
 </figure>
-		 
-**3) Mr Chio Wen Tian (JJC Alumnus, Class of 2006)** Principal Architect at WNVA
-<img src="/images/jpjc%20alumni%206.jpg" 
-     style="width:75%">
+	<li><strong>Mr Chio Wen Tian (JJC Alumnus, Class of 2006)</strong> Principal Architect at WNVA
+<figure>
+<img src="/images/jpjc%20alumni%206.jpg">
+</figure></li></ol>
 		 
 ##### **Year 2019**
 **1) Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)** CEO of Premiummall and Founder of 1M65 Movement
