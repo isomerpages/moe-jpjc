@@ -61,9 +61,10 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>	 
 <img src="/images/jpjc%20alumni%204.jpg">
 </figure></li>
-**2) Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)** Founders of Mr G and 51 Label
-<img src="/images/jpjc%20alumni%205.jpg" 
-     style="width:75%">
+	<li><strong>Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)</strong> Founders of Mr G and 51 Label
+<figure>
+<img src="/images/jpjc%20alumni%205.jpg">
+</figure>
 		 
 **3) Mr Chio Wen Tian (JJC Alumnus, Class of 2006)** Principal Architect at WNVA
 <img src="/images/jpjc%20alumni%206.jpg" 
