@@ -215,43 +215,55 @@ Founder of TCR Music Station
 **Ms Lim Sheau Wian**<br>
 President of Mus’Art Wind Orchestra
 
-##### **Business and Entrepreneurs**<br>
-**Mr Shafie Shamsuddin**<br>
-Chief Executive Officer AEON Group Malaysia/Managing Director at AEON CO. (M) BHD.
+<h5><strong>Business and Entrepreneurs</strong></h5><br>
+<p>
+<strong>Mr Shafie Shamsuddin</strong><br>
+Chief Executive Officer AEON Group Malaysia/Managing Director at AEON CO. (M) BHD.</p>
 
-**Mr Roderick Chia**<br>
+<p>
+<strong>Mr Roderick Chia</strong><br>
 Founder of rodVENTURE<br>
 Chief Strategy Officer/Chief Technology Officer at Oyika<br>
-Director at Mighty Robot
+Director at Mighty Robot</p>
 
-**Mr Loo Cheng Chuan**<br>
+<p>
+<strong>Mr Loo Cheng Chuan</strong><br>
 Founder of Premiummall<br>
-Founder of 1M65 Movement
+Founder of 1M65 Movement</p>
 
-**Ms Lee Bee Yee**<br>
-Founder of Premiummall
+<p>
+<strong>Ms Lee Bee Yee</strong><br>
+Founder of Premiummall</p>
 
-**Mr Zhou Wenhan Santhe Militiya**<br>
-CEO Smart Walkie Talkie  
+<p>
+<strong>Mr Zhou Wenhan Santhe Militiya</strong><br>
+CEO Smart Walkie Talkie</p>
   
 
-**Mr Gary Ong & Mr Johnathan Wong**<br>
-Founders of Mr Gentleman and 51 Label
+<p>
+<strong>Mr Gary Ong & Mr Johnathan Wong</strong><br>
+Founders of Mr Gentleman and 51 Label</p>
 
-**Mr Wille Goh**<br>
-Founder and Director of Gymkraft
+<p>
+<strong>Mr Wille Goh</strong><br>
+Founder and Director of Gymkraft</p>
 
-**Mr Roger Yip**<br>
-Co-Founder of Hopscotch Bar, Cherki and StoryBox Collective
+<p>
+<strong>Mr Roger Yip</strong><br>
+Co-Founder of Hopscotch Bar, Cherki and StoryBox Collective</p>
 
-**Mr Dean Tan**  <br>
-Deputy Director at Kallang Alive
+<p>
+<strong>Mr Dean Tan</strong><br>
+Deputy Director at Kallang Alive</p>
 
- **Mr Tan Ying Quan**<br>
-Head of People and Partnerships at Barramundi Asia  
+ <p>
+<strong>Mr Tan Ying Quan</strong><br>
+Head of People and Partnerships at Barramundi Asia</p>
 
-**Ms Alice Tan**<br>
-Senior Director, Head of Consultancy at Knight Frank Singapore
+<p>
+<strong>Ms Alice Tan</strong><br>
+Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 
-**Mr Adamson Alagan**  <br>
-Business Development Director of Studio AG
+<p>
+<strong>Mr Adamson Alagan</strong> <br>
+Business Development Director of Studio AG</p>
