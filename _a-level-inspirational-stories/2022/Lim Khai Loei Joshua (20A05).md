@@ -4,11 +4,9 @@ permalink: /accomplishments/students/a-level-inspirational-stories/2022/joshua/
 description: ""
 third_nav_title: "2022"
 ---
-### **Lim Khai Loei Joshua (20A05)**
-
-<img src="/images/Joshua.jpg" 
-     style="width:65%">
-A courageous leader who saved his friend’s life, Lim Khai Loei Joshua (20A05) who possesses a love for the Chinese Language.
+<figure>
+<img src="/images/Joshua.jpg">
+<figcaption><strong>A courageous leader who saved his friend’s life, Lim Khai Loei Joshua (20A05) who possesses a love for the Chinese Language.</strong></figcaption>
 
 ##### **A courageous leader who saved his friend’s life, and possesses a love for the Chinese Language.**
 It had seemed like any other fateful day, except that it was anything but ordinary. Lim Khai Loei Joshua and his teammates were resting on a side bench, having just completed their basketball training session. Out of the blue, Joshua’s teammate suddenly collapsed onto the floor where his lanky body lay unmoving and unresponsive. A flurry of events soon followed. “I remembered seeing my friend being attended to by the teacher-in-charge and the basketball coach immediately. I had thought it was simply heat exhaustion. Little did I realise it was something much more serious – _my friend was not breathing; there was neither a pulse nor any vital signs.”_ As the teacher called for an ambulance immediately and took the Automated External Defibrillator (AED) kit, Joshua sprang into action quickly, taking turns with his coach and teacher to perform Cardiopulmonary Resuscitation (CPR).
