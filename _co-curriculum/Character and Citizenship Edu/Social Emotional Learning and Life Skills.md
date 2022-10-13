@@ -9,7 +9,7 @@ third_nav_title: Character and Citizenship Edu
 	</figure>
 
 <div align=justify>
-</p>
+<p>
 The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values and equipping students with social emotional competencies namely
 <ul>
 	<li>Self Awareness</li>
@@ -17,7 +17,7 @@ The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values
 	<li>Social Awareness</li>
 	<li>Relationship Management  &</li>
 	<li>Responsible Decision Making</li>
-</ul>
+</ul></p>
 
 <p>
 	through the implementation of the 2021 MOE CCE curriculum.</p>
