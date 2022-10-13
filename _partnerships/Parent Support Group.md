@@ -30,22 +30,12 @@ You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_at
 JC2 Farewell Assembly
 
 <figure>
-<img src="/images/psg%201a.jpg" 
-     style="width:49%" align=left>
-<img src="/images/psg%201b.jpg" 
-     style="width:49%" align=right>		 
-<br>
-
-<img src="/images/psg%202a.jpg" 
-     style="width:49%" align=left>
-<img src="/images/psg%202b.jpg" 
-     style="width:49%" align=right>		 
-<br>
-
-<img src="/images/psg%203a.jpg" 
-     style="width:49%" align=left>
-<img src="/images/psg%203b.jpg" 
-     style="width:49%" align=right>		 		 
+<img src="/images/psg%201a.jpg">
+<img src="/images/psg%201b.jpg">		 
+<img src="/images/psg%202a.jpg">
+<img src="/images/psg%202b.jpg">		 
+<img src="/images/psg%203a.jpg">
+<img src="/images/psg%203b.jpg">		 		 
 <figcaption><strong>PSG EXCO collated well-wishes from parents for the JC2 Farewell Assembly 2021. Here are some of the messages from parents to the Class of 2021 </strong></figcaption>
 </figure>
 	
