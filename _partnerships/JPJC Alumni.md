@@ -41,7 +41,7 @@ Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu
 <p>
 From 2019 to 2021, we were privileged to have alumni from various fields and disciplines generously share their experiences with their juniors. They were:</p>
 
-<h6><u>Year 2021</u></h6>
+<strong><h5><u>Year 2021</u></h5></strong>
 <ol>
 	<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 <figure>
@@ -51,16 +51,16 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%202.jpg">
 </figure></li>
-
-**3) Mr Jasper Chan (JJC Alumnus, Class of 2011 )** Regulatory Counsel with the Law Society of Singapore
-<img src="/images/jpjc%20alumni%203.jpg" 
-     style="width:75%">
-
-##### **Year 2020**
-**1) Mr Damien Ng (JJC Alumnus, Class of 1993)** Thematic Research Analyst at Julius Baer
-<img src="/images/jpjc%20alumni%204.jpg" 
-     style="width:75%">
-
+	<li><strong>Mr Jasper Chan (JJC Alumnus, Class of 2011 )</strong> Regulatory Counsel with the Law Society of Singapore
+<figure>
+<img src="/images/jpjc%20alumni%203.jpg"></figure></li></ol>
+																				 
+<strong><h5><u>Year 2020</u></h5></strong>
+<ol>
+	<li><strong>Mr Damien Ng (JJC Alumnus, Class of 1993)</strong> Thematic Research Analyst at Julius Baer
+<figure>	 
+<img src="/images/jpjc%20alumni%204.jpg">
+</figure></li>
 **2) Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)** Founders of Mr G and 51 Label
 <img src="/images/jpjc%20alumni%205.jpg" 
      style="width:75%">
