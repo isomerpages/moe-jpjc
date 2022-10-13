@@ -3,74 +3,81 @@ title: Parent Support Group
 permalink: /partnerships/psg/
 description: ""
 ---
-### **Parent Support Group**
 <div align=justify>
-	
-The PSG@JPJC is a group of parents who are passionate about providing support to enrich the learning experience for their children. PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.
+<p>
+The PSG@JPJC is a group of parents who are passionate about providing support to enrich the learning experience for their children. PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.</p>
 
-##### **Objectives of PSG@JPJC**
-*   To forge a strong partnership between the college and parents
-*   To assist and support the college in its programmes and activities
-*   To encourage parents to be part of PSG
+<h5><strong>Objectives of PSG@JPJC</strong></h5>
+<ul>
+	<li>To forge a strong partnership between the college and parents</li>
+	<li>To assist and support the college in its programmes and activities</li>
+	<li>To encourage parents to be part of PSG</li></ul>
 
-##### **Areas of Contributions**
-*   Participation and involvement in college events (such as Open House, Parents Engagement Session, Get-To-Know Session,  Night Study Programme and J2 Farewell Assembly)
-*   Organise workshops, learning journeys and provide work attachment opportunities
-*   Resource personnel for fundraising
+<h5><strong>Areas of Contributions</strong></h5>
+<ul>
+	<li>Participation and involvement in college events (such as Open House, Parents Engagement Session, Get-To-Know Session,  Night Study Programme and J2 Farewell Assembly)</li>
+	<li>Organise workshops, learning journeys and provide work attachment opportunities</li>
+	<li>Resource personnel for fundraising</li></ul>
 
-If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.
+<p>
+If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.</p>
 
-##### **How to join PSG@JPJC**
-You may write to us at [siti\_atiqah\_punari@moe.edu.sg](mailto:siti\_atiqah\_punari@moe.edu.sg)
+<h5><strong>How to join PSG@JPJC</strong></h5>
+You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a>.
 
-##### **Past Activities**<br>**Year 2021**<br>**JC2 Farewell Assembly**
+<h5><strong>Past Activities</strong></h5>
+<h6><u>Year 2021</u><br>
+JC2 Farewell Assembly
 
+<figure>
 <img src="/images/psg%201a.jpg" 
      style="width:49%" align=left>
 <img src="/images/psg%201b.jpg" 
      style="width:49%" align=right>		 
-<br><br><br><br>
-<br><br><br><br><br>
+<br>
+
 <img src="/images/psg%202a.jpg" 
      style="width:49%" align=left>
 <img src="/images/psg%202b.jpg" 
      style="width:49%" align=right>		 
-<br><br><br><br><br>
-<br><br><br><br>
+<br>
+
 <img src="/images/psg%203a.jpg" 
      style="width:49%" align=left>
 <img src="/images/psg%203b.jpg" 
      style="width:49%" align=right>		 		 
-![](/images/psg%20caption.jpg)
-
-##### **Year 2020<br>2020 JPJC Open House**
-
-<img src="/images/PSG1.jpg" 
-     style="width:65%">
-![](/images/PSG%201%20caption.png)     
-
-##### **Year 2019<br>JPJC Education and Career Guidance (ECG) Parents’ Evening**
-
-<img src="/images/PSG2.jpg" 
-     style="width:75%">
-![](/images/PSG%202%20captionn.png)
-
-##### **Get-to-Know Session**
-
-<img src="/images/PSG3.jpg" 
-     style="width:75%">
-![](/images/PSG%203%20caption.png)
-
-##### **JC2 Farewell Assembly**
-
-<img src="/images/psg4.jpg" 
-     style="width:75%">
-![](/images/psg4%20c.png)
-
-##### **Foodie Day for Night Study Programme**
-
-<img src="/images/psg5.jpg" 
-     style="width:75%">
-![](/images/psg5%20c.png)
+<figcaption><strong>PSG EXCO collated well-wishes from parents for the JC2 Farewell Assembly 2021. Here are some of the messages from parents to the Class of 2021 </strong></figcaption>
+</figure>
 	
-</div>
+<h6><u>Year 2020</u><br>
+2020 JPJC Open House</h6>
+
+<figure>
+<img src="/images/PSG1.jpg">
+<figcaption><strong>Our current and former PSG EXCO working hand-in-hand to share more about their collaboration with the college during the 2020 JPJC Open House.</strong></figcaption>
+</figure>
+
+<h6><u>Year 2019</u><br>
+JPJC Education and Career Guidance (ECG) Parents’ Evening</h6>
+
+<figure>
+<img src="/images/PSG2.jpg">
+<figcaption><strong>PSG EXCO/members supporting the 2019 JPJC Education and Career Guidance (ECG) Parents’ Evening.</strong></figcaption>
+</figure>
+
+<h6>Get-to-Know Session</h6>
+<figure>
+<img src="/images/PSG3.jpg">
+<figcaption><strong>Group photo of JC1 and JC2 PSG EXCO/members with JPJC school leaders in 2019.</strong></figcaption>
+</figure>
+
+<h6>JC2 Farewell Assembly</h6>
+<figure>
+<img src="/images/psg4.jpg">
+<figcaption><strong>PSG EXCO/members packing JC2 farewell gifts for the 2019 graduating batch.</strong></figcaption>
+</figure>
+	
+<h6>Foodie Day for Night Study Programme</h6>
+<figure>
+<img src="/images/psg5.jpg">
+<figcaption><strong>PSG EXCO/members distributing dinner to students during foodie nights for Night Study Programme.</strong></figcaption>
