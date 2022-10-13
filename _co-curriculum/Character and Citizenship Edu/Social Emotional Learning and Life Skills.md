@@ -6,7 +6,7 @@ third_nav_title: Character and Citizenship Edu
 ---
 <figure>
 <img src="/images/Civics%20Tutorial%20and%20Assembly.jpg">
-	</figure>
+</figure>
 
 <div align=justify>
 <p>
