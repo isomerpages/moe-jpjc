@@ -4,9 +4,6 @@ permalink: /jpjc-experience/co-curriculum/cce/social-emotional-learning-and-life
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-### **Social-Emotional Learning and Life Skills**
-#### **Civics Tutorial and Assembly Programme**
-
 <figure>
 <img src="/images/Civics%20Tutorial%20and%20Assembly.jpg">
 	</figure>
@@ -20,9 +17,8 @@ The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values
 	<li>Social Awareness</li>
 	<li>Relationship Management  &</li>
 	<li>Responsible Decision Making</li>
-</div>
+</ul>
 
-<div align=justify>
 <p>
 	through the implementation of the 2021 MOE CCE curriculum.</p>
 
@@ -35,4 +31,3 @@ JPJC undertakes a thematic approach and the 2 major themes will guide all the a
 <p>
 Theme for JC1: <strong>Understanding Self</strong><br>
 Theme for JC2: <strong>Developing Self</strong>
-</div>
