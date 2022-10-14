@@ -214,22 +214,28 @@ Lawyer at Just Law LLC</p>
 <strong>Mr Ian Ong</strong><br>
 Lawyer at Allen & Overy</p>
 
-##### **STEM-related field**
-**Dr Lim Yee Hwee**<br>
-Head Of Division - Functional Molecules & Polymers at Institute of Chemical and Engineering Sciences, A\*STAR
-Director of Graduate Affairs at A\*STAR Science and Engineering Research Council
+<h5><strong>STEM-related field</strong></h5>
 
-**Mr Daniel Tay**<br>
-Strategic Development at Temasek
+<p>
+<strong>Dr Lim Yee Hwee</strong><br>
+Head Of Division - Functional Molecules & Polymers at Institute of Chemical and Engineering Sciences, A*STAR<br>
+Director of Graduate Affairs at A*STAR Science and Engineering Research Council</p>
 
-**Dr Vincent Choy**<br>
-Cloud Consultant for Microsoft Cloud Technology
+<p>
+<strong>Mr Daniel Tay</strong><br>
+Strategic Development at Temasek</p>
 
-**Dr Goh Han Lin**<br>
-Senior Research Scientist at Apple
+<p>
+<strong>Dr Vincent Choy</strong><br>
+Cloud Consultant for Microsoft Cloud Technology</p>
 
-**Dr Stephen Siew**<br>
-Senior Resident at Tan Tock Seng Hospital
+<p>
+<strong>Dr Goh Han Lin</strong><br>
+Senior Research Scientist at Apple</p>
+
+<p>
+<strong>Dr Stephen Siew</strong><br>
+Senior Resident at Tan Tock Seng Hospital</p>
 
 ##### **Arts, Music and Media**
 **Mr Lance Alexander**<br>
