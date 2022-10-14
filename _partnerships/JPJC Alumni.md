@@ -70,38 +70,40 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <img src="/images/jpjc%20alumni%206.jpg">
 </figure></li></ol>
 		 
-##### **Year 2019**
-**1) Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)** CEO of Premiummall and Founder of 1M65 Movement
-<img src="/images/jpjc%20alumni%207.jpg" 
-     style="width:75%">
-
-**2) Dr Lim Yee Hwee (JJC Alumna, Class of 2000)** Scientist and Team Leader with the Institute of Chemical and Engineering Sciences (A\*STAR)
-<img src="/images/jpjc%20alumni%208.jpg" 
-     style="width:75%">
-
-**3) Mr Vincent Choy (JJC Alumnus, Class of 1985)** Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
-<img src="/images/jpjc%20alumni%209.jpg" 
-     style="width:75%">
-</div>
-**4) Mr Roderick Chia (JJC Alumnus, Class of 1990)** Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
-<img src="/images/jpjc%20alumni%2010.jpg" 
-     style="width:75%">
-
-**5) Ms Alice Tan (JJC Alumna, Class of 1998)** Senior Director of Research and Consulting for Edmund Tie.
-<img src="/images/jpjc%20alumni%2011.jpg" 
-     style="width:75%">
-
-**6) Mr Adamson Alagan (PJC Alumnus, Class of 2005)** Business Development Director of Studio AG.
-<img src="/images/jpjc%20alumni%201.jpg" 
-     style="width:75%">
-
-**7) Dr Stephen Siew (PJC Alumnus, Class of 2005)** Senior Resident at Tan Tock Seng Hospital.
-<img src="/images/jpjc%20alumni%2013.jpg" 
-     style="width:75%">
-
-**8) Mr Tan Ying Quan (JJC Alumnus, Class of 2008)** Senior Business Manager, Barramundi Asia Pte Ltd.
-<img src="/images/jpjc%20alumni%2014.jpg" 
-     style="width:75%">
+<strong><h5><u>Year 2019</u></h5></strong>
+	<ol>
+		<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
+<figure>
+<img src="/images/jpjc%20alumni%207.jpg">
+</figure></li>
+		<li><strong>Dr Lim Yee Hwee (JJC Alumna, Class of 2000)</strong> Scientist and Team Leader with the Institute of Chemical and Engineering Sciences (A\*STAR)
+<figure>
+<img src="/images/jpjc%20alumni%208.jpg">
+</figure></li>
+		<li><strong>Mr Vincent Choy (JJC Alumnus, Class of 1985)</strong> Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
+<figure>
+<img src="/images/jpjc%20alumni%209.jpg">
+</figure></li>
+		<li><strong>Mr Roderick Chia (JJC Alumnus, Class of 1990)</strong> Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
+<figure>
+<img src="/images/jpjc%20alumni%2010.jpg">
+</figure></li>
+		<li>Ms Alice Tan (JJC Alumna, Class of 1998)** Senior Director of Research and Consulting for Edmund Tie.
+<figure>
+<img src="/images/jpjc%20alumni%2011.jpg">
+</figure></li>
+		<li><strong>Mr Adamson Alagan (PJC Alumnus, Class of 2005)</strong> Business Development Director of Studio AG.
+<figure>
+<img src="/images/jpjc%20alumni%201.jpg">
+</figure></li>
+		<li><strong>Dr Stephen Siew (PJC Alumnus, Class of 2005)</strong> Senior Resident at Tan Tock Seng Hospital.
+<figure>
+<img src="/images/jpjc%20alumni%2013.jpg">
+</figure></li>
+		<li><strong>Mr Tan Ying Quan (JJC Alumnus, Class of 2008)</strong> Senior Business Manager, Barramundi Asia Pte Ltd.
+<figure>
+<img src="/images/jpjc%20alumni%2014.jpg">
+</figure></li></ol>
 
 ##### **b. Homecoming Events**
 Over the past few years, we have welcomed home many batches of alumni, together with their loved ones for various homecoming events held in both colleges. Many who turned up brought their yearbooks and old photos along, and reconnected with former college mates and teachers, recounting the good old days spent in the college campuses.
