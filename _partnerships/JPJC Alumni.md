@@ -164,21 +164,26 @@ Senior Lecturer at National Institute of Education</p>
 <strong>Mr Koh Hong Wee</strong><br>
 Centre Director of Energy & Chemicals Training Centre at Singapore Polytechnic</p>
 
-**Ms Francesca Phoebe Wah**<br>
+<p>
+<strong>Ms Francesca Phoebe Wah</strong><br>
 Planning Officer at MOE<br>
-Advisor at Bringing Love to Every Single Soul (BLESS)
+Advisor at Bringing Love to Every Single Soul (BLESS)</p>
 
-**Mr Tung Siew Hoong**<br>
-Managing Director (Fixed Income) at Government Investment Corporation
+<p>
+<strong>Mr Tung Siew Hoong</strong><br>
+Managing Director (Fixed Income) at Government Investment Corporation</p>
 
-**Nr Ng Swee Hoe**<br>
-F-16 Fighter Pilot at Republic of Singapore Air Force
+<p>
+<strong>Nr Ng Swee Hoe</strong><br>
+F-16 Fighter Pilot at Republic of Singapore Air Force</p>
 
-**Mr Pritam Singh**<br>
-Member of Parliament for Aljunied Group Representation Constituency
+<p>
+<strong>Mr Pritam Singh</strong><br>
+Member of Parliament for Aljunied Group Representation Constituency</p>
 
-**Mr Ang Hin Kee**<br>
-Former Member of Parliament for the Ang Mo Kio Group Representation Constituency
+<p>
+<strong>Mr Ang Hin Kee</strong><br>
+Former Member of Parliament for the Ang Mo Kio Group Representation Constituency</p>
 
 ##### **Insurance, Banking and Finance**<br>
 Ms Carmen Lee<br>
