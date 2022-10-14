@@ -196,18 +196,23 @@ Head of Research at OCBC Investment Research</p>
 <strong>Ms Lim Lay-Hui</strong><br>
 Head of Insurance at Thome Ship Management</p>
 
-##### **Law**
-**Mr Tan Chong Huat**<br>
-Non Executive Chairman at RHT Group of Companies
+<h5><strong>Law</strong></h5>
 
-**Ms Rebecca Kool**<br>
-Group General Counsel at ASX Listco
+<p>
+<strong>Mr Tan Chong Huat</strong><br>
+Non Executive Chairman at RHT Group of Companies</p>
 
-**Mr Noh Bin Abd Hamid**<br>
-Lawyer at Just Law LLC
+<p>
+<strong>Ms Rebecca Kool</strong><br>
+Group General Counsel at ASX Listco</p>
 
-**Mr Ian Ong**<br>
-Lawyer at Allen & Overy
+<p>
+<strong>Mr Noh Bin Abd Hamid</strong><br>
+Lawyer at Just Law LLC</p>
+
+<p>
+<strong>Mr Ian Ong</strong><br>
+Lawyer at Allen & Overy</p>
 
 ##### **STEM-related field**
 **Dr Lim Yee Hwee**<br>
