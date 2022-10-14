@@ -120,12 +120,16 @@ There was something for everyone as alumni forged strong ties with their juniors
 <img src="/images/jpjc%20alumni%2015.jpg">
 </figure>
 
-##### **Year 2018**
-**Curtain Call - JJC Final Homecoming @ Jurong**
-![](/images/jpjc%20alumni%2016.jpg)
+<strong><h5><u>Year 2018</u></h5></strong>
+<figure>
+<h6>Curtain Call - JJC Final Homecoming @ Jurong</h6>
+<img src="/images/jpjc%20alumni%2016.jpg">
+</figure>
 
-**The Pioneer Story - Our Tapestry of Memories**
-![](/images/jpjc%20alumni%2017.jpg)
+<figure>	
+<h6>The Pioneer Story - Our Tapestry of Memories</h6>
+<img src="/images/jpjc%20alumni%2017.jpg">
+</figure>
 
 ##### **Year 2017**
 **Class of 1982 JJC Reunion Lunch**
