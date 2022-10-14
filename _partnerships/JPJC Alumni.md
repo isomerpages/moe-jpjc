@@ -88,7 +88,7 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%2010.jpg">
 </figure></li>
-		<li>Ms Alice Tan (JJC Alumna, Class of 1998)** Senior Director of Research and Consulting for Edmund Tie.
+		<li><strong>Ms Alice Tan (JJC Alumna, Class of 1998)</strong> Senior Director of Research and Consulting for Edmund Tie.
 <figure>
 <img src="/images/jpjc%20alumni%2011.jpg">
 </figure></li>
@@ -114,7 +114,8 @@ The college also takes pride in organising Homecoming Games, a line-up of sports
 <p>
 There was something for everyone as alumni forged strong ties with their juniors and enjoyed a day of reminiscence. It was indeed heartening to receive such a massive show of support for these events from our alumni!</p>
 
-##### **Year 2019**
+<strong><h5><u>Year 2019</u></h5></strong>
+<figure>
 **Homecoming Games - Past vs Present**
 ![](/images/jpjc%20alumni%2015.jpg)
 
