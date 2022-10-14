@@ -95,13 +95,12 @@ OR<br>
 		<li>B3 in Higher Chinese, OR</li>
 		<li>B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul></p>
 
-#### **Malay Language Elective Programme (MLEP)**
-<center>
+<h4><strong>Malay Language Elective Programme (MLEP)</strong></h4>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true" width=1000px height=560px scrolling="no"></iframe>
-</center>
 
-\*    Students opting to offer the MLEP programme must obtain
-*   At least A2 in Malay Language, OR
-*   B3 in Higher Malay, OR
-*   B4 in Higher Malay with B3 in Malay Literature or equivalent.
-</div>
+<p>
+	<sup>*</sup> Students opting to offer the MLEP programme must obtain:
+<ul>
+	<li>At least A2 in Malay Language, OR</li>
+	<li>B3 in Higher Malay, OR</li>
+	<li>B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul></p>
