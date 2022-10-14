@@ -185,13 +185,16 @@ Member of Parliament for Aljunied Group Representation Constituency</p>
 <strong>Mr Ang Hin Kee</strong><br>
 Former Member of Parliament for the Ang Mo Kio Group Representation Constituency</p>
 
-##### **Insurance, Banking and Finance**<br>
-Ms Carmen Lee<br>
-Managing Director of Equity Research at Bank of Singapore (Asia's Global Private Bank)<br>
-Head of Research at OCBC Investment Research
+<h5><strong>Insurance, Banking and Finance</strong></h5>
 
-**Ms Lim Lay-Hui**<br>
-Head of Insurance at Thome Ship Management
+<p>
+<strong>Ms Carmen Lee</strong><br>
+Managing Director of Equity Research at Bank of Singapore (Asia's Global Private Bank)<br>
+Head of Research at OCBC Investment Research</p>
+
+<p>
+<strong>Ms Lim Lay-Hui</strong><br>
+Head of Insurance at Thome Ship Management</p>
 
 ##### **Law**
 **Mr Tan Chong Huat**<br>
