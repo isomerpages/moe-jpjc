@@ -116,8 +116,9 @@ There was something for everyone as alumni forged strong ties with their juniors
 
 <strong><h5><u>Year 2019</u></h5></strong>
 <figure>
-**Homecoming Games - Past vs Present**
-![](/images/jpjc%20alumni%2015.jpg)
+<h6>Homecoming Games - Past vs Present</h6>
+<img src="/images/jpjc%20alumni%2015.jpg">
+</figure>
 
 ##### **Year 2018**
 **Curtain Call - JJC Final Homecoming @ Jurong**
