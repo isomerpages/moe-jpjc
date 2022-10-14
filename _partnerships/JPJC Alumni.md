@@ -104,13 +104,15 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%2014.jpg">
 </figure></li></ol>
+	<strong><li>Homecoming Events</li></strong>
+<p>
+Over the past few years, we have welcomed home many batches of alumni, together with their loved ones for various homecoming events held in both colleges. Many who turned up brought their yearbooks and old photos along, and reconnected with former college mates and teachers, recounting the good old days spent in the college campuses.</p>
 
-##### **b. Homecoming Events**
-Over the past few years, we have welcomed home many batches of alumni, together with their loved ones for various homecoming events held in both colleges. Many who turned up brought their yearbooks and old photos along, and reconnected with former college mates and teachers, recounting the good old days spent in the college campuses.
+<p>
+The college also takes pride in organising Homecoming Games, a line-up of sports pitting alumni against current students. Each year, approximately 200 alumni and current students bonded through a variety of games such as Touch Rugby, Basketball, Badminton, Floorball, Netball, Ultimate Frisbee and Volleyball.</p>
 
-The college also takes pride in organising Homecoming Games, a line-up of sports pitting alumni against current students. Each year, approximately 200 alumni and current students bonded through a variety of games such as Touch Rugby, Basketball, Badminton, Floorball, Netball, Ultimate Frisbee and Volleyball.
-
-There was something for everyone as alumni forged strong ties with their juniors and enjoyed a day of reminiscence. It was indeed heartening to receive such a massive show of support for these events from our alumni!
+<p>
+There was something for everyone as alumni forged strong ties with their juniors and enjoyed a day of reminiscence. It was indeed heartening to receive such a massive show of support for these events from our alumni!</p>
 
 ##### **Year 2019**
 **Homecoming Games - Past vs Present**
