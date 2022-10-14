@@ -237,22 +237,28 @@ Senior Research Scientist at Apple</p>
 <strong>Dr Stephen Siew</strong><br>
 Senior Resident at Tan Tock Seng Hospital</p>
 
-##### **Arts, Music and Media**
-**Mr Lance Alexander**<br>
-Radio & TV Presenter/Executive Editor at Channel News Asia, Mediacorp
+<h5><strong>Arts, Music and Media</strong></h5>
 
-**Mr Desmond Tan**<br>
+<p>
+<strong>Mr Lance Alexander</strong><br>
+Radio & TV Presenter/Executive Editor at Channel News Asia, Mediacorp</p>
+
+<p>
+<strong>Mr Desmond Tan</strong><br>
 Artist at MediaCorp<br>
-Best Actor at 24th Star Awards Ceremony (2018)
+Best Actor at 24th Star Awards Ceremony (2018)</p>
 
-**Mr Chen Jiaming**<br>
-Acclaimed songwriter and music producer
+<p>
+<strong>Mr Chen Jiaming</strong><br>
+Acclaimed songwriter and music producer</p>
 
-**Mr Cai Yiren**<br>
-Founder of TCR Music Station
+<p>
+<strong>Mr Cai Yiren</strong><br>
+Founder of TCR Music Station</p>
 
-**Ms Lim Sheau Wian**<br>
-President of Mus’Art Wind Orchestra
+<p>
+<strong>Ms Lim Sheau Wian</strong><br>
+President of Mus’Art Wind Orchestra</p>
 
 <h5><strong>Business and Entrepreneurs</strong></h5><br>
 <p>
