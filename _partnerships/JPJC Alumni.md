@@ -131,29 +131,38 @@ There was something for everyone as alumni forged strong ties with their juniors
 <img src="/images/jpjc%20alumni%2017.jpg">
 </figure>
 
-##### **Year 2017**
-**Class of 1982 JJC Reunion Lunch**
-![](/images/jpjc%20alumni%2018.jpg)
+<strong><h5><u>Year 2017</u></h5></strong>
+<figure>
+<h6>Class of 1982 JJC Reunion Lunch</h6>
+<img src="/images/jpjc%20alumni%2018.jpg">
+</figure>
 
-**JJC Homecoming - Welcome Home**
-![](/images/jpjc%20alumni%2019.jpg)
+<figure>
+<h6>JJC Homecoming - Welcome Home</h6>
+<img src="/images/jpjc%20alumni%2019.jpg">
+</figure></ol>
 
-#### **Alumni Spotlight**
-##### **Public Service**
-**Professor Pey Kin Leong**<br>
-Associate Provost at Singapore University of Technology and Design
+<h4><strong>Alumni Spotlight</strong></h4>
+<h5><strong>Public Service</strong></h5>
+<p>
+<strong>Professor Pey Kin Leong</strong><br>
+Associate Provost at Singapore University of Technology and Design</p>
 
-**Dr Raghavan Nagarajan**<br>
-Assistant Professor at Singapore University of Technology and Design
+<p>
+<strong>Dr Raghavan Nagarajan</strong><br>
+Assistant Professor at Singapore University of Technology and Design</p>
 
-**Dr Ng Ngan Kee**<br>
-Lecturer at National University of Singapore
+<p>
+<strong>Dr Ng Ngan Kee</strong><br>
+Lecturer at National University of Singapore</p>
 
-**Ms Tricia Seow**<br>
-Senior Lecturer at National Institute of Education
+<p>
+<strong>Ms Tricia Seow</strong><br>
+Senior Lecturer at National Institute of Education</p>
 
-**Mr Koh Hong Wee**<br>
-Centre Director of Energy & Chemicals Training Centre at Singapore Polytechnic
+<p>
+<strong>Mr Koh Hong Wee</strong><br>
+Centre Director of Energy & Chemicals Training Centre at Singapore Polytechnic</p>
 
 **Ms Francesca Phoebe Wah**<br>
 Planning Officer at MOE<br>
