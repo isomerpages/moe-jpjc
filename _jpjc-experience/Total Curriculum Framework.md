@@ -77,7 +77,7 @@ The college seeks to establish impactful and sustainable partnerships with stake
 
 <h5><strong><li>Fundamental Beliefs</li></strong></h5>
 <p>
-A set of fundamental core beliefs provides the foundation for the college to achieve its VMV and for staff to be cognisant of principles that underlie their approaches to guide and develop students in both academic and co-curricular areas. These beliefs are:
+A set of fundamental core beliefs provides the foundation for the college to achieve its VMV and for staff to be cognisant of principles that underlie their approaches to guide and develop students in both academic and co-curricular areas. These beliefs are:</p>
 <ol>
 	<li>Every student is <strong>unique</strong> and has <strong>limitless capacity for growth</strong>.</li>
 	<li>Teachers ignite <strong>joy of learning</strong>, cultivate <strong>motivation for learning</strong> and help students achieve <strong>personal excellence</strong>.</li>
