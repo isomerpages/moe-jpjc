@@ -31,7 +31,6 @@ description: ""
 <sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 <sup>b</sup> Extended, in-depth research (HSSR)<br>
 <sup>c</sup> MOE-Cambridge H3
-</p>
 
 <h4><strong>Subject Combinations in Science Course</strong></h4>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true" width=1000px height=1000px scrolling="no"></iframe>
