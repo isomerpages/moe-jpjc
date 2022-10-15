@@ -4,8 +4,6 @@ permalink: /about/history/
 description: ""
 third_nav_title: History
 ---
-### **Jurong Junior College**
-
 ##### **History**
 <div align=justify>
 <p>
