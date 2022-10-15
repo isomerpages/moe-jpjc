@@ -4,14 +4,13 @@ permalink: /jpjc-experience/curriculum/humanities-and-the-arts/geography/curricu
 description: ""
 third_nav_title: Geography
 ---
-### **Curriculum**
-<p align=justify>
-	The <strong>H1 and H2 Geography curriculum</strong> focuses on six geographical concepts which frame the syllabus content. The six geographical concepts are as follows:
-</p>
+<div align=justify>
+<p>
+The <strong>H1 and H2 Geography curriculum</strong> focuses on six geographical concepts which frame the syllabus content. The six geographical concepts are as follows:</p>
 <ul>
 	<li>Environment</li>
 	<li>Place</li>
 	<li>Process</li>
 	<li>Scale</li>
 	<li>Space and Time</li>
-	<li>System</li>
+	<li>System</li></ul>
