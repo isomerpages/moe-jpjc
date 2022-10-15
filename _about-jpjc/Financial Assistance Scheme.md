@@ -13,7 +13,9 @@ description: ""
 </ol>
 </p>
 
-<h5><strong>A. MOE Financial Assistance Scheme (MOE FAS)</strong></h5>
+<style>ol.a{list-style-type: upper-alpha;}</style>
+<ol class="a">
+	<h5><li>MOE Financial Assistance Scheme (MOE FAS)</strong></h5>
 <p>
 A Singapore Citizen student is eligible for MOE FAS if he or she meets either of the following criteria:
 <ul>
@@ -57,4 +59,3 @@ Financial assistance in the form of bursary from external organisations are avai
 <p>	
 Application forms are available at the General Office. Students are advised to read the instructions carefully before completing the application form. Completed application form must be submitted together with all relevant documents to the General Office within the stipulated deadline (if any). An incomplete application form and/or the absence of required or relevant information and documents will result in delay in the processing of application OR application being rejected.
 </p>
-	</div>
