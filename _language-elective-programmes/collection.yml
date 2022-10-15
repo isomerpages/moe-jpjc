@@ -2,5 +2,6 @@ collections:
   language-elective-programmes:
     output: true
     order:
+      - Language Elective Programmes.md
       - Chinese Language Elective Programmes.md
       - Malay Language Elective Programme.md
