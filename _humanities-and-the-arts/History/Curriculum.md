@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/humanities-and-the-arts/history/curriculu
 description: ""
 third_nav_title: History
 ---
-### **Curriculum**
 <div align=justify>
 <p>
 <strong>H1 and H2 History</strong> provides opportunities to develop students’ historical knowledge, core skills and understanding of the subject’s disciplinarity. Emphasis will be given to developing conceptual understanding of historical knowledge. Consequently, this approach encourages students to gain depth of understanding in historical events and their connections to the present. This will also be achieved through the emphasis on historical agency, allowing students to appreciate the complexities of multiple perspectives and the dynamic interactions between diverse actors in understanding local, regional and global developments.</p>
@@ -15,5 +14,4 @@ The study of Historical Concepts is also a key feature of the <strong>H2 Histor
 	<li>Accounts</li>
 	<li>Chronology</li>
 	<li>Empathy</li>
-	<li>Evidence</li>
-	</div>
+	<li>Evidence</li></ul>
