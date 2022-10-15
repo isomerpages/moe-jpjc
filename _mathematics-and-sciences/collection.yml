@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Biology/.keep
-      - Biology/Biology Overview.md
+      - Biology/Biology.md
       - Biology/Curriculum.md
       - Biology/Syllabus & Assessment.md
       - Biology/Enrichment Programmes.md
