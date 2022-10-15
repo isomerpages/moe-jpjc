@@ -13,4 +13,4 @@ The JPJC Economics Department is proud to have two of its members receive the pr
 <figure>
 <img src="/images/econs%20awards.jpg" 
      style="width:65%">
-<figcaption>Mr Chu Hian Meng (centre) pictured with (from left) Mr Khoo Gee Hwee (Lead Teacher/Economics, JPJC), Mrs Tan-Kek Lee Yong (former Principal, Pioneer Junior College), Mr Chan Chun Sing (Minister for Trade and Industry), Mr Goh Miao Guang (Subject Head/Economics & Scholars’ Development, JPJC)</figcaption></figure>
+<figcaption>Mr Chu Hian Meng (centre) pictured with (from left) Mr Khoo Gee Hwee (Lead Teacher/Economics, JPJC), Mrs Tan-Kek Lee Yong (former Principal, Pioneer Junior College), Mr Chan Chun Sing (Minister for Trade and Industry), Mr Goh Miao Guang (Subject Head/Economics & Scholars’ Development, JPJC)</figcaption></figure></ol>
