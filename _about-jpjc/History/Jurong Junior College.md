@@ -49,9 +49,9 @@ Principals:
 		<li>Ms Tay Lai Ling (2010-2015)</li>
 		<li>Dr Hang Kim Hoo (2016-2018)</li></p>
 
+<figure>
 <h5><strong>JJ Heritage Video</strong></h5>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 <h5><strong>Motto</strong></h5>
 Plus Ultra
@@ -125,7 +125,8 @@ Sincere and always true
 <strong>Repeat Chorus</strong></center>
 
 <h5><strong>Milestones</strong></h5>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=800px scrolling="no"></iframe>
+<figure>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=800px scrolling="no"></iframe></figure>
 	
 <h5><strong>Photo Gallery</strong></h5>
 <figure>
@@ -141,32 +142,29 @@ Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=
 
 <h5><strong>35th Anniversary lunch</strong></h5>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 <figure>
-<img src="/images/anniversary%201.jpg" 
-     style="width:65%">	
-<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1360022297444832">here</a> for more photos. </figcaption>
-	</figure>
+<img src="/images/anniversary%201.jpg">	
+<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1360022297444832">here</a> for more photos. </figcaption></figure>
 	
 <figure>
-<img src="/images/anniversary%202.jpg" 
-     style="width:65%">	
-<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1889124674534589">here</a> for more photos.</figcaption>
-	</figure>
+<img src="/images/anniversary%202.jpg">	
+<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1889124674534589">here</a> for more photos.</figcaption></figure>
 	
-<img src="/images/anniversary%203.jpg" 
-     style="width:65%">	
-<img src="/images/anniversary%204.jpg" 
-     style="width:65%">			 
+<figure>
+<img src="/images/anniversary%203.jpg">	
+<img src="/images/anniversary%204.jpg"></figure>		 
 		 
 <h4><strong>Talk a walk down memory lane….</strong></h4>
+<figure>
 <h5><strong>800 Corporation Road Facade</strong></h5>
-<img src="/images/memory%201.jpg">
+<img src="/images/memory%201.jpg"></figure>
+<figure>
 <h5><strong>Favourite Memories of JJ</strong></h5>
 <img src="/images/memory%202.jpg">
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg">
-</div>
+<img src="/images/memory%204.jpg"></figure>
