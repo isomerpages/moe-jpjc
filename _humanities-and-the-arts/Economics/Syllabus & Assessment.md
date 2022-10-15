@@ -4,7 +4,7 @@ permalink: /jpjc-experience/curriculum/humanities-and-the-arts/economics/syllabu
 description: ""
 third_nav_title: Economics
 ---
-### **Syllabus & Assessment**
+<div align=justify>
 Both H1 and H2 Economics is offered in JPJC.
 
 #### **Assessment Objectives for H1 and H2 Economics**
