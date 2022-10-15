@@ -4,8 +4,6 @@ permalink: /about/college-identity/
 description: ""
 third_nav_title: College Identity
 ---
-### **College's Vision, Mission, Values and Motto**
-
 ### **Vision:**
 <p>A college with a heart to serve and the courage to venture.</p>
 
