@@ -5,24 +5,30 @@ description: ""
 third_nav_title: Economics
 ---
 <div align=justify>
-Both H1 and H2 Economics is offered in JPJC.
+<p>Both H1 and H2 Economics is offered in JPJC.</p>
+<h5><strong>Assessment Objectives for H1 and H2 Economics</strong></h5>
+<p>AO1: Knowledge and Understanding
+	<ul>
+		<li>Demonstrate knowledge and understanding of economic concepts, theories and principles.</li></ul></p>
 
-#### **Assessment Objectives for H1 and H2 Economics**
-AO1: Knowledge and Understanding
-*   Demonstrate knowledge and understanding of economic concepts, theories and principles.
-
+<p>
 AO2: Interpretation and Evaluation of Information
-*   Interpret economic information presented in textual, numerical or graphical form.
-*   Make valid inferences from information presented and evaluate the reliability of information given.
+<ul>
+	<li>Interpret economic information presented in textual, numerical or graphical form.</li>
+	<li>Make valid inferences from information presented and evaluate the reliability of information given.</li></ul></p>
 
+<p>
 AO3: Application and Analysis
-*   Apply relevant economic concepts, theories and principles to analyse contemporary issues, perspectives and policy choices.
-*   Construct coherent economic arguments.
+<ul>
+	<li>Apply relevant economic concepts, theories and principles to analyse contemporary issues, perspectives and policy choices.</li>
+	<li>Construct coherent economic arguments.</li></ul></p>
 
+<p>
 AO4: Evaluation
-*   Evaluate critically alternative theoretical explanations, contemporary issues, perspectives and policy choices.
-*   Recognise unstated assumptions and evaluate their relevance.
-*   Synthesise economic arguments to arrive at well-reasoned judgements and decisions.
+<ul>
+	<li>Evaluate critically alternative theoretical explanations, contemporary issues, perspectives and policy choices.</li>
+	<li>Recognise unstated assumptions and evaluate their relevance.</li>
+	<li>Synthesise economic arguments to arrive at well-reasoned judgements and decisions.</li></ul></p>
 
 #### **Assessment Format for H1 Economics**
 <center>
