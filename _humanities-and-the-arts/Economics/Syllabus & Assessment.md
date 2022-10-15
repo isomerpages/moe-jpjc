@@ -30,27 +30,23 @@ AO4: Evaluation
 	<li>Recognise unstated assumptions and evaluate their relevance.</li>
 	<li>Synthesise economic arguments to arrive at well-reasoned judgements and decisions.</li></ul></p>
 
-#### **Assessment Format for H1 Economics**
-<center>
+<h5><strong>Assessment Format for H1 Economics</strong></h5>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRb7TOHsWRubuK9XzoBgtW7oD3a4ywT0Jn1qECWWxmfU0emcKrzYO_Ruw4O1yrz5jwvtmZA9Sl3zawh/pub?embedded=true" width=800px height=650px scrolling="no"></iframe>
-</center>
 
-#### **Assessment Format for H2 Economics**
-<center>
+<h5><strong>Assessment Format for H2 Economics</strong>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width=800px height=1300 scrolling="no"></iframe>
-</center>
 
-#### **Note:**
-<p align=justify>
+<h5><strong>Note:</strong></h5>
+<p>
 New H1 and H2 syllabuses (H1/8843 and H2/9570) and exam format for H1/8843 and H2/9570 will be accessible at SEAB website by Nov/Dec 2021. The existing information must be kept for J2 students in 2022. The new H1 and H2 syllabuses will affect JC1 students in 2022.
 </p>
 
-#### **The Use of Formative Assessment**
-<p align=justify>
-Formative assessments are conducted during the course of instruction by the JPJC Economics Department to monitor students’ learning progress, diagnose learning difficulties and provide feedback on areas that need improvement. The modes of formative assessment include Exit Cards and short quizzes using Information and Communication Technologies (ICT) tools such as “Quizziz” and “Mentimeter”.
-</p>
-<p align=justify>
-For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:<br>
+<h5><strong>The Use of Formative Assessment</strong></h5>
+<p>
+Formative assessments are conducted during the course of instruction by the JPJC Economics Department to monitor students’ learning progress, diagnose learning difficulties and provide feedback on areas that need improvement. The modes of formative assessment include Exit Cards and short quizzes using Information and Communication Technologies (ICT) tools such as “Quizziz” and “Mentimeter”.</p>
+	
+<p>
+For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:
 <ul>
 <li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8823_y22_sy.pdf"><strong>H1 Economics</strong></a></li>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9757_y22_sy.pdf"><strong>H2 Economics</strong></a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9757_y22_sy.pdf"><strong>H2 Economics</strong></a></li></ul></p>
