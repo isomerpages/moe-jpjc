@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Sdlknvf/.keep
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
