@@ -2,5 +2,6 @@ collections:
   jpjc-experience:
     output: true
     order:
+      - Curriculum/Overview.md
       - Curriculum/.keep
       - Total Curriculum Framework.md
