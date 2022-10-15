@@ -2,7 +2,7 @@ collections:
   languages:
     output: true
     order:
-      - Language Overview.md
+      - Languages.md
       - Mother Tongue Languages & Lit/Mother Tongue Languages & Literature
         Overview.md
       - Mother Tongue Languages & Lit/Assessment.md
