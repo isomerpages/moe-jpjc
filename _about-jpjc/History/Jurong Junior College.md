@@ -128,21 +128,14 @@ Sincere and always true
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=800px scrolling="no"></iframe>
 	
 <h5><strong>Photo Gallery</strong></h5>
-
-<img src="/images/gallery%201.jpg" 
-     style="width:65%">
-<img src="/images/gallery%202.jpg" 
-     style="width:65%">
-<img src="/images/gallery%203.jpg" 
-     style="width:75%">
-<img src="/images/gallery%204.jpg" 
-     style="width:75%">
-<img src="/images/gallery%205.jpg" 
-     style="width:75%">
-<img src="/images/gallery%206.jpg" 
-     style="width:65%">
-<img src="/images/gallery%207.jpg" 
-     style="width:65%">		 
+<figure>
+<img src="/images/gallery%201.jpg">
+<img src="/images/gallery%202.jpg">
+<img src="/images/gallery%203.jpg">
+<img src="/images/gallery%204.jpg">
+<img src="/images/gallery%205.jpg">
+<img src="/images/gallery%206.jpg">
+<img src="/images/gallery%207.jpg"></figure>
 
 Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1004999109613821">here</a> for more photos.
 
