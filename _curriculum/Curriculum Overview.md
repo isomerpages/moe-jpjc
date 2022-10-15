@@ -9,4 +9,4 @@ description: ""
 	<li><a href="/jpjc-experience/curriculum/mathematics-and-science/biology/">Mathematics & Sciences</a></li>
 	<li><a href="/jpjc-experience/curriculum/languages/">Languages</a></li>
 	<li><a href="/language-elective-programmes/overview/">Language Elective Programmes</a></li>
-*   [Knowledge Skills](https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/curriculum/knowledge-skills/general-paper/)
+	<li><a href="/knowledge-skills/overview">Knowledge Skills</a></li>
