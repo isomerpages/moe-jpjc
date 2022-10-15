@@ -26,8 +26,7 @@ Over the years, there was ongoing work behind the scenes to create a unique JJ i
 	<li>Appreciation</li>
 	<li>Responsibility</li>
 	<li>Motivation</li>
-	<li>Discipline</li>
-</p>
+	<li>Discipline</li></p>
 
 <p>
 These were reinforced by the college’s Vision and Mission Statements, which were refined by the various principals who helmed JJ.
@@ -48,8 +47,7 @@ Principals:
 		<li>Ms Ching Ah Kim (1994-2002)</li>
 		<li>Mr. Koh Yong Chiah (2003-2009)</li>
 		<li>Ms Tay Lai Ling (2010-2015)</li>
-		<li>Dr Hang Kim Hoo (2016-2018)</li>
-</p>
+		<li>Dr Hang Kim Hoo (2016-2018)</li></p>
 
 <h5><strong>JJ Heritage Video</strong></h5>
 <center>
