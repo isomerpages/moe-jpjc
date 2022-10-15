@@ -4,8 +4,7 @@ permalink: /jpjc-experience/curriculum/humanities-and-the-arts/literature/syllab
 description: ""
 third_nav_title: Literature in English
 ---
-###  **Syllabus & Assessment**
-#### **Syllabus Outline**
+<h4><strong>Syllabus Outline</strong></h4>
 <div align=justify>
 <p>
 H1 / H2 Literature in English<br>
@@ -17,8 +16,9 @@ H2 candidates will sit for P1 and P3.</p>
 <p>
 H1 Literature in English (8832): Paper 1<br>
 H2 Literature in English (9509): Paper 1 & Paper 3<br>
-<strong>Paper 1: Reading Literature (3 hours - Open Book)</strong><br>
+<h5><strong>Paper 1: Reading Literature (3 hours - Open Book)</strong></h5>
 Paper 1 is a compulsory paper designed to give students a broad exposure to literary study. Candidates will answer one question from each of the three sections. All questions hold equal weight in the computing of marks for the paper.</p>
+
 <p>
 <u>Section A: Unseen Poetry</u><br>
 Two questions will be set, primarily focusing on response and comparison skills.<br>
@@ -34,19 +34,19 @@ Two questions will be set, primarily focusing on analysis skills. One question w
 <p>
 Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i>Saint Joan</i> by George Bernard Shaw).</p>
 
-**Paper 3: The Mind and Self in Literature (3 hours - Open Book)**
+<h5><strong>Paper 3: The Mind and Self in Literature (3 hours - Open Book)</strong></h5>
 <p>
 In addition to Paper 1, H2 students offer Paper 3: The Mind and Self in Literature, a 3-hour open book paper.  This paper explores the relationship between the mind and self as represented in Literature. This involves examining the means by which writers offer insight into how consciousness is linked to identity, individuality and social contexts. The texts are literary explorations of how the interaction between the mind and self underscores various forms of revelation and discovery.</p>
+
 <p>
 Candidates study the following three texts:
 <ul>
 	<li>Hamlet  by William Shakespeare</li>
 	<li>The Caretaker  by Harold Pinter</li>
-	<li>Regeneration  by Pat Barker</li>
-	</div>
-<div align=justify>
+	<li>Regeneration  by Pat Barker</li></ul>
+
 <p>
-	Candidates will answer three questions (bearing equal weightage).</p>
+Candidates will answer three questions (bearing equal weightage).</p>
 
 <u>Section A</u>: Unseen
 <p>
@@ -60,4 +60,3 @@ Answer one comparison question from a choice of two. The question will require t
 <p>
 Answer one question, primarily focusing on analysis skills from a choice of six. Two questions will be set on each of the texts studied. The questions set for the topic-based papers will be related to some aspect of the topic studied. Candidates must not use the same texts in Section B and Section C.
 </p>
-	</div>
