@@ -2,7 +2,7 @@ collections:
   jpjc-experience:
     output: true
     order:
-      - Curriculum/Humanities & the Arts.md
-      - Curriculum/Overview.md
       - Curriculum/.keep
+      - Curriculum/Overview.md
+      - Curriculum/Humanities & the Arts.md
       - Total Curriculum Framework.md
