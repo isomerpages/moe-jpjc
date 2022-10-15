@@ -4,8 +4,6 @@ permalink: /about/college-calender/term-3/
 description: ""
 third_nav_title: College Calender
 ---
-### **Term 3**
-
 <center>COLLEGE CALENDAR 2022<br>
 Student Version (as of 6 January 2022)</center>
 <center>
