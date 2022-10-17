@@ -6,13 +6,13 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Ravneet%20Kaurr.jpg">
-<figcaption><strong>The support Ravneet received from her teachers and her love for others underpin her aspiration to be a teacher
+<figcaption>The support Ravneet received from her teachers and her love for others underpin her aspiration to be a teacher
 <br>
-Photo - MOE CEG Unit</strong></figcaption>
+Photo - MOE CEG Unit</figcaption>
 </figure>
 
 <div align=justify>
-<center><h6><strong>THE DIARY OF A HOCKEY CAPTAIN</strong></h6></center>
+<center><h5>THE DIARY OF A HOCKEY CAPTAIN</h5></center>
 
 <p>
 Ravneet loved being out in the field, playing hockey with the girls. She was the Captain of the JPJC Hockey (Girls) team, and being denied of the chance to play when COVID-19 struck was plain misery. An all-rounder, Ravneet was also selected to be part of the college’s World Scholar’s Cup (WSC) squad. But all dreams were dashed when school came to a screeching halt and everyone had to stay home. As Ravneet reflected on the days spent at home during the Circuit Breaker, she shared that she could not even find words to describe how she really felt, just that she felt like it was a “never-ending staircase, and the continuous walking down the steps just got heavier each day.”</p>
