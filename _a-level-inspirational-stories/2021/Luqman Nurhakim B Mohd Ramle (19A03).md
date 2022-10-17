@@ -6,12 +6,11 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Luqman%20Nurhakim%20B%20Mohd%20Ramle.jpg">
-<figcaption><strong>Repeating JC1 provided Luqman with an opportunity to discover his strengths in the Arts stream and pursue new dreams.</strong></figcaption>
-</figure>
+<figcaption>Repeating JC1 provided Luqman with an opportunity to discover his strengths in the Arts stream and pursue new dreams.</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>A SILVER LINING BEHIND EVERY CLOUD</strong></h6></center>
+<center><h5>A SILVER LINING BEHIND EVERY CLOUD</h5></center>
 
 <p>
 The worrying thoughts kept recurring in Luqman’s mind as he was about to receive his JC1 Promotional results. “What if I retain in JC1?”; “What would my parents think?”; “They have high such expectations of me as I am the only one in the family that ever made it to Junior College”; “Can I still fulfil my dreams of becoming a research scientist with A*Star?” Indeed, when these thoughts became hard reality, Luqman was devastated. Having to retain would possibly mean that his career ambitions of a scientist were to be crushed. He was determined to start afresh and made the unconventional decision to switch to the Arts stream.</p>
