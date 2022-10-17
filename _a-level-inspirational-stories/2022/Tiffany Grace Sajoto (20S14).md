@@ -4,14 +4,12 @@ permalink: /accomplishments/students/a-level-inspirational-stories/2022/tiffany/
 description: ""
 third_nav_title: "2022"
 ---
+<div align=justify>
 <figure>
 <img src="/images/Tiffany.jpg">
-<figcaption><strong>Tiffany Grace Sajoto (20S14) who achieved her goal of joining the Singapore Navy through sheer determination and resilience.</strong></figcaption>
-</figure>
-	
-<div align=justify>
+<figcaption>Tiffany Grace Sajoto (20S14) who achieved her goal of joining the Singapore Navy through sheer determination and resilience.</figcaption></figure>
 
-<center><h6><strong>The Sky’s The Limit, No Hurdle Is Ever Too High</strong></h6></center>
+<center><h5>The Sky’s The Limit, No Hurdle Is Ever Too High</h5></center>
 
 <p>
 “There are no limits and anything is possible. You can achieve anything if you really want to. The sky's the limit.” When it comes to Tiffany Grace Sajoto, this phrase is not merely a feel- good inspirational quote, but a true mantra and philosophy for her life thus far, despite her youth and all that she had to overcome.</p>
