@@ -6,14 +6,11 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Cai%20Zhen%20Zhi.jpg">
-<figcaption><strong>Zhen Zhi finds problem solving highly rewarding as it is a way of testing if the programs that he coded work.
+<figcaption>Zhen Zhi finds problem solving highly rewarding as it is a way of testing if the programs that he coded work.
 <br>
-	Photo - MOE CEG Unit</strong></figcaption>
-</figure>
+	Photo - MOE CEG Unit</figcaption></figure>
 
-
-
-<center><h6><strong>PURSUING A FUTURE IN COMPUTING</strong></h6></center>
+<center><h5>PURSUING A FUTURE IN COMPUTING</h5></center>
 <div align=justify>
 <p>
 In his attempts to create his own game, 15 year-old Cai Zhen Zhi took his first step into the world of coding and informatics. This first taste of computing turned into a lifelong passion for Zhen Zhi. He joined Jurong Pioneer Junior College (JPJC) mainly because H2 Computing was offered. From the beginning, the Computing teachers noticed his enthusiasm and passion and gave him the necessary exposure and opportunities to develop his skills. The teachers were not disappointed.</p>
