@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>With education and career guidance, Wong Shi Ting, Calista (18A07) found her direction.</strong></h5>
+<h5>With education and career guidance, Wong Shi Ting, Calista (18A07) found her direction.</h5>
 
 <p>
 Calista Wong got into the polytechnic and course of her choice through the Early Admissions Exercise. After attending her first 2 lessons in polytechnic, she realized she made the wrong decision. She considered switching courses but realized that she would have to wait till the next semester before starting afresh. Confused, she approached an education counsellor in the polytechnic who advised her to try the JC route. Her mother then mooted the idea of leaving the polytechnic and taking a gap-year before applying for a JC in 2018.</p>
