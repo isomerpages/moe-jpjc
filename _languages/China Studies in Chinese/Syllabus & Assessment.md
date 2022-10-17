@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/languages/china-studies-in-chinese/syllab
 description: ""
 third_nav_title: China Studies in Chinese
 ---
-### **Syllabus & Assessment**
 <div align=justify>
 	<p>
 The assessment comprises three papers:
