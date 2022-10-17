@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>Deteriorating health and mobility did not deter Lim Yong Jin (18S10), from persisting to complete his A Levels and pursue his sporting aspirations.</strong></h5>
+<h5>Deteriorating health and mobility did not deter Lim Yong Jin (18S10), from persisting to complete his A Levels and pursue his sporting aspirations.</h5>
 
 <p>
 Lim Yong Jin was just like any other student when he first joined Jurong Junior College in 2016, hoping to complete his A’ levels in 2 years and had a CCA he loved. An extremely responsible captain of the college’s Taekwondo team, he led his team with great dedication. Unfortunately, he did not do well enough for his A levels examinations in 2017 and chose to re-sit for his examinations again in 2018. However, misfortune hit before he could complete his examinations that year and his journey towards completion of his A level examinations became more protracted than he had expected.</p>
