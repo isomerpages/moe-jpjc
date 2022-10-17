@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>Unafraid to strike out on the path less taken, Syarifah Aneesa Bte Mohammad (18A08) thrived after her decision to switch from a polytechnic to JPJC.</strong></h5>
+<h5>Unafraid to strike out on the path less taken, Syarifah Aneesa Bte Mohammad (18A08) thrived after her decision to switch from a polytechnic to JPJC.</h5>
 
 <p>
 Jurong Pioneer Junior College’s (JPJC) Syarifah Aneesa’s academic journey was not a typical one. While most of her peers were happy with their decision to enter polytechnic instead of a Junior College (JC), Aneesa felt restless. After trying out polytechnic for a year, Aneesa decided to quit polytechnic to try out JC.</p>
