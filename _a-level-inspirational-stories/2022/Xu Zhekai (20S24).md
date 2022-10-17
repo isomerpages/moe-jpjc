@@ -10,7 +10,7 @@ third_nav_title: "2022"
 </figure>
 
 <div align=justify>
-<center><h5>自强不息” - Striving Tirelessly For Continuous Improvement</h6></center>
+<center><h5>自强不息” - Striving Tirelessly For Continuous Improvement</h5></center>
 
 <p>
 The Chinese idiom “自强不息” (zi qiang bu xi) – or striving tirelessly for continuous improvement – is Xu Zhekai’s life mantra. “Without it, I do not think I would have been able to overcome everything that has come my way, especially in these recent years,” the young man reflected stoically.</p>
