@@ -6,10 +6,10 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Navashen.jpg">
-<figcaption><strong>R Navashen (20A06) who made good of second chances to soldier on despite grief and loss.</strong></figcaption>
+<figcaption>R Navashen (20A06) who made good of second chances to soldier on despite grief and loss.</figcaption>
 </figure>
 
-<center><h6><strong>Forging Ahead, Soldiering On</strong></h6></center>
+<center><h5>Forging Ahead, Soldiering On</h5></center>
 
 <div align=justify>
 <p>
