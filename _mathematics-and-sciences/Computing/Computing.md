@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/mathematics-and-science/computing/
 description: ""
 third_nav_title: Computing
 ---
-### **Computing**
 <figure>
 <img src="/images/comp1.jpg">
 <figcaption>Students participated in the NTU SCSE Computing Challenge</figcaption>
