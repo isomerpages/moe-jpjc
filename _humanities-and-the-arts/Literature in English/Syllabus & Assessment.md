@@ -59,5 +59,4 @@ Answer one comparison question from a choice of two. The question will require t
 
 <u>Section C</u>
 <p>
-Answer one question, primarily focusing on analysis skills from a choice of six. Two questions will be set on each of the texts studied. The questions set for the topic-based papers will be related to some aspect of the topic studied. Candidates must not use the same texts in Section B and Section C.
-</p>
+Answer one question, primarily focusing on analysis skills from a choice of six. Two questions will be set on each of the texts studied. The questions set for the topic-based papers will be related to some aspect of the topic studied. Candidates must not use the same texts in Section B and Section C.</p>
