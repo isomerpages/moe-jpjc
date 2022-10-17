@@ -6,12 +6,11 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Chermaine.jpg">
-<figcaption><strong>Chermaine’s strong and indomitable spirit helped her overcome obstacles.</strong></figcaption>
-</figure>
+<figcaption>Chermaine’s strong and indomitable spirit helped her overcome obstacles.</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>AN EXTRAORDINARY INDIVIDUAL</strong></h6></center>
+<center><h5>AN EXTRAORDINARY INDIVIDUAL</h5></center>
 	
 <p>
 Chermaine is the epitome of a spirited and resolute individual who turned her disability into her motivation to excel. Her story begins at the tender age of 4 when she was diagnosed with a bout of Amblyopia (commonly known as ‘lazy eyes’). Overnight, her once perfect vision suddenly became marred and she could not focus for long. Her active childhood quickly descended into one with regular trips made to the doctors. It was only after two years that she became eligible for a series of four successive surgeries over a 3-year period to stitch her retina which had become completely detached from her right eye. Eventually, Morning Glory Optic Disc Syndrome caused the complete loss of vision in one eye. She was left to rely completely on her left eye which is still progressively deteriorating – needing 1400-degree glasses to help her vision.</p>
