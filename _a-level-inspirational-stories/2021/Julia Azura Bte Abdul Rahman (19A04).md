@@ -6,12 +6,12 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Julia%20Azura%20Bte%20Abdul%20Rahman.jpg">
-<figcaption><strong>The JPJC MLEP programme has provided excellent opportunities for Julia to grow and give back to society.</strong></figcaption>
+<figcaption>5The JPJC MLEP programme has provided excellent opportunities for Julia to grow and give back to society.</figcaption>
 </figure>
 
 <div align=justify>
 	
-<center><h6><strong>AN ADVOCATE FOR HUMANITARIAN VALUES</strong></h6></center>
+<center><h5>AN ADVOCATE FOR HUMANITARIAN VALUES</h5></center>
 	
 <p>
 Throughout her years of education from primary to secondary school, Julia Azura Bte Abdul Rahman had excelled at the Malay Language. Tests and examinations were dealt with effortlessly and high-scoring grades were a given. Nonetheless, there was a constant tugging at the back of Julia’s mind. There was something amiss. “Is this all there is to it? Excelling in the language is important but setting our sights on this alone would cause us to be easily discouraged when faced with difficulties in the language. Instead, we should appreciate its beauty and be genuinely curious to discover more.”</p>
