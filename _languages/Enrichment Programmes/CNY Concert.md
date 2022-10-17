@@ -10,4 +10,4 @@ The college celebrates the Chinese New Year annually. Some of the concert items 
 
 <figure>
 <img src="/images/cny%20collage.png">
-<img src="/images/cny%20caption.png"></figure>
+<figcaption>Cultural performances to bring out the CNY festive mood</figcaption></figure>
