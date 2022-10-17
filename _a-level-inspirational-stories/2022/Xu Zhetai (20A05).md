@@ -6,11 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Zhetai.jpg">
-<figcaption><strong>Xu Zhetai (20A05) faced an untimely brush of death, but took it as a second chance in life.</strong></figcaption>
+<figcaption>Xu Zhetai (20A05) faced an untimely brush of death, but took it as a second chance in life.</figcaption>
 </figure>
 
 <div align=justify>
-<center><h6><strong>An untimely brush with death, a second chance at life</strong></h6></center>
+<center><h5><strong>An untimely brush with death, a second chance at life</strong></h5></center>
 
 <p>
 For an athletic boy who looks the picture of health, one would not have guessed that Xu Zhetai, had once suffered from cardiac arrest and spent weeks in hospital in a coma in his second year with the college. The Co-Curricular training session for the avid basketballer had started out typically enough, but an unexpected twist-of-fate brought a devastating end to the day.</p>
