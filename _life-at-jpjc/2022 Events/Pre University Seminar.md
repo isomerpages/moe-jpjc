@@ -10,35 +10,34 @@ third_nav_title: 2022 Events
 
 <p>Minister of Education Mr Chan Chun Sing was the Guest-of-Honour for the opening ceremony. In his address, he emphasised the need to be confident, curious and connected – three key qualities that Singaporean youths should embrace to face a more unpredictable world saddled with enormous challenges.</p>
 
-<p>Prior to the seminar, the participants attended workshops where they engaged with academics, senior civil servants and other mentors to work on a group project. In addition, the participants took part in learning journeys around Singapore, as well as panel discussions and dialogues during the four-day seminar. The conversations and interactions throughout the seminar focused on Singapore’s development, identity and values in a rapidly changing world. The seminar culminated in an exhibition where the projects of the different groups were showcased.  Minister of State for Culture, Community and Youth, and Trade and Industry, Mr Alvin Tan, graced the closing ceremony. All in all, student delegates from JPJC gained invaluable insights, connected with their peers and industry leaders, and broadened their horizons in this prestigious annual event well-known to be a highlight of a student’s pre-university education journey.</p>
-</div>
+<p>Prior to the seminar, the participants attended workshops where they engaged with academics, senior civil servants and other mentors to work on a group project. In addition, the participants took part in learning journeys around Singapore, as well as panel discussions and dialogues during the four-day seminar. The conversations and interactions throughout the seminar focused on Singapore’s development, identity and values in a rapidly changing world. The seminar culminated in an exhibition where the projects of the different groups were showcased.  Minister of State for Culture, Community and Youth, and Trade and Industry, Mr Alvin Tan, graced the closing ceremony. All in all, student delegates from JPJC gained invaluable insights, connected with their peers and industry leaders, and broadened their horizons in this prestigious annual event well-known to be a highlight of a student’s pre-university education journey.</p>
 
 <figure>
 <img src="/images/pre%20uni%201.jpg">
-<figcaption> <strong> Innovation Group 1 - Booth Preparation </strong> </figcaption>
+<figcaption>Innovation Group 1 - Booth Preparation</figcaption>
 </figure>
 
 <figure>
 <img src="/images/pre%20uni%202.jpg">
-<figcaption> <strong> Innovation Group 8 - Learning Journey to The Fullerton Hotel </strong> </figcaption>
+<figcaption>  Innovation Group 8 - Learning Journey to The Fullerton Hotel  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pre%20uni%203.jpg">
-<figcaption> <strong> Innovation Group 9 </strong> </figcaption>
+<figcaption>  Innovation Group 9  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pre%20uni%204.png">
-<figcaption> <strong> Innovation Group 11 </strong> </figcaption>
+<figcaption>  Innovation Group 11  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pre%20uni%205.jpg">
-<figcaption> <strong> Innovation Group 12 </strong> </figcaption>
+<figcaption>  Innovation Group 12  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pre%20uni%206.jpeg">
-<figcaption> <strong> All participants of Group Innovation </strong> </figcaption>
+<figcaption>  All participants of Group Innovation  </figcaption>
 </figure>
