@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>From not uttering a single word to others, Koh Rui Cheng, Brendan (18S24) became a more confident communicator since enrolling in JPJC.</strong></h5>
+<h5>From not uttering a single word to others, Koh Rui Cheng, Brendan (18S24) became a more confident communicator since enrolling in JPJC.</h5>
 
 <p>
 When asked to describe how he was like before he was posted to Pioneer Junior College (PJC, which became Jurong Pioneer Junior College [JPJC] following a merger in 2019), Koh Rui Cheng, Brendan would describe himself as a ‘loner’. “In my secondary school days, I would say I kept a lot to myself. I would just go to school, and go home immediately after to play computer games. I wouldn’t talk to anyone. Due to my condition, it was really hard to talk to others. My mind would just be a blank; I couldn’t think of what to respond or say, when people spoke to me.”</p>
