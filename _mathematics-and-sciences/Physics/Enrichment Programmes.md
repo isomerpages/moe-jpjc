@@ -12,7 +12,7 @@ STEM Week aims to&nbsp;promote and encourage students to consider Science, Techn
 <figure>
 <img src="/images/physics%201.jpg">
 <figcaption>
-	Enrichment talk by Prof Sow Chorng Haur during STEM Week</figcaption></figure>
+Enrichment talk by Prof Sow Chorng Haur during STEM Week</figcaption></figure>
 
 <figure>
 <img src="/images/physics%2012.jpg">
