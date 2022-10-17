@@ -6,12 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Vinay.jpg">
-<figcaption><strong>Driven by passion for computing, Vinay Vanjre Ravi (20S23) who wants to be the future of Singapore’s technological drive.</strong></figcaption>
-</figure>
+<figcaption>Driven by passion for computing, Vinay Vanjre Ravi (20S23) who wants to be the future of Singapore’s technological drive.</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>He wants to be the future of Singapore’s technological drive</strong></h6></center>
+<center><h5>He wants to be the future of Singapore’s technological drive</h5></center>
 
 <p>
 ‘The possibilities of creating technological solutions for communities are endless, and I want to be part of Singapore’s efforts to transit into Industry 4.0 to be a hub for the fourth industrial revolution.’ One might wonder how such a visionary statement could come from such a young man, but Vinay Vanjre Ravi is no ordinary young man. From a tender young age, Vinay had already set his sights on pursuing a journey in Computing and contributing to Singapore in this field. ‘My interest in Computing was ignited in Secondary Four when I realised the capabilities of technology in making daily life easier. From applications like Grab to the larger internet, life has become more convenient due to technology. As such, I was motivated to learn how to use technology so that I would be able to help people. I quickly found myself at my desktop finding tutorials on how to code in Python because, in my opinion, it seemed to be one of the more universal syntaxes to learn, out of all the popular programming languages’, he recalls.</p>
