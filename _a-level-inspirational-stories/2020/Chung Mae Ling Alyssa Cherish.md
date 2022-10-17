@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>Despite health challenges, Chung Mae Ling Alyssa Cherish (18A05) persisted in achieving her goal.</strong></h5>
+<h5>Despite health challenges, Chung Mae Ling Alyssa Cherish (18A05) persisted in achieving her goal.</h5>
 
 <p>Chung Mae Ling Alyssa Cherish, a student of Pioneer Junior College (PJC, which became Jurong Pioneer Junior College [JPJC] following a merger in 2019) is no stranger to adversity. When she was 11, doctors diagnosed her as having a congenital heart condition.</p>
 
