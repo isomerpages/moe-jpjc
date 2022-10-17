@@ -4,7 +4,6 @@ permalink: /life-at-jpjc/2022-Events/nationaldaycelebrations/
 description: ""
 third_nav_title: 2022 Events
 ---
-
 <div align=justify>
 	
 <p>Owing to the relaxation of Safe Management Measures (SMM), the college was able to gather in larger numbers for part of the college’s celebration. Fittingly, this year’s National Day theme “Stronger Together, Majulah” is a call for all Singaporeans to forge ahead as a united and strong people towards a better future.</p>
@@ -20,24 +19,23 @@ third_nav_title: 2022 Events
 	
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%201.jpg">
-<figcaption><strong>JC2 Class-based Celebration and Bonding Activities</strong></figcaption></figure>
+<figcaption>JC2 Class-based Celebration and Bonding Activities</figcaption></figure>
 
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%202.jpg">
-<figcaption><strong>JC1 Class-based Celebration and Activities</strong></figcaption>
+<figcaption>JC1 Class-based Celebration and Activities</figcaption>
 </figure>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%203.jpg">
-<figcaption><strong>Mass Gameshow in the Hall for the JC2s</strong></figcaption>
+<figcaption>Mass Gameshow in the Hall for the JC2s</figcaption>
 	
 
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%204.jpg">
-<figcaption><strong>Mass Gameshow in LT3 for part of the JC1 cohort</strong></figcaption>
+<figcaption>Mass Gameshow in LT3 for part of the JC1 cohort</figcaption>
 
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%205.jpg">
-<figcaption><strong>Mass Sing-along performance by our House Excos</strong></figcaption>
+<figcaption>Mass Sing-along performance by our House Excos</figcaption>
 
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg">
-<figcaption><strong>House Exco leading mass singalong in LT</strong></figcaption>
+<figcaption>House Exco leading mass singalong in LT</figcaption>
 </figure>
-</div>
