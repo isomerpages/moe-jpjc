@@ -6,14 +6,13 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Si-Yang.jpg">
-<figcaption><strong>
+<figcaption>
 Si-Yang hopes to join the SAF as his form of service to the community.
-<br>Photo - MOE CEG Unit</strong></figcaption>
-</figure>
+<br>Photo - MOE CEG Unit</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>PAYING IT FORWARD</strong></h6></center>
+<center><h5>PAYING IT FORWARD</h5></center>
 
 <p>
 Kwok Si-Yang knows what it means to pay it forward. Despite repeating JC1 in 2019, Si-Yang did not give up on himself easily. Instead he took up various opportunities to improve. From volunteering as an Orientation Group Leader to being in the House Executive Committee, Si-Yang used these opportunities to interact with his peers and juniors, making a difference in their college lives.</p>
