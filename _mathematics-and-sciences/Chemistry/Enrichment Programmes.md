@@ -51,5 +51,6 @@ During this session, students were engaged by Dr Michael Yudistira Patuwo for hi
 	
 <figure>
 <img src="/images/Chemistry%2010.jpg"> 
+<figcaption>
 (left two) Using UV-Vis spectrometer to analyse the samples prepared.<br>
-(right) Discussing and explaining on the data collected.</figure></div>
+(right) Discussing and explaining on the data collected.</figcaption></figure>
