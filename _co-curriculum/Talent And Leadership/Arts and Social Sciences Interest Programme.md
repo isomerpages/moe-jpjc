@@ -4,12 +4,13 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
+<div align=justify>
 <figure>
 <img src="/images/ArtSSIP1.jpg">
 <figcaption>A group photo of our first batch of JPJC ArtSSIP students with our School Leaders and Teacher Advisors.</figcaption></figure>
 		 
 <h4><strong>OBJECTIVES</strong></h4>
-<div align=justify>
+
 <style>ol.a {list-style-type: circle;}</style>
 <ol class="a">
 	<li>To broaden students’ understanding of the arts and social sciences and see the relevance of their learning to the world around them.</li>
