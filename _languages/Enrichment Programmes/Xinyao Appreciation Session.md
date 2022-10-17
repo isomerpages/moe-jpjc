@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/languages/enrichment/xinyao/
 description: ""
 third_nav_title: Enrichment Programmes
 ---
-### **Xinyao Appreciation Session**
 <div align=justify>
 <p>
 First mooted by the Chinese Language unit in the MTL department, the inaugural “新空下” National Xinyao Singing Competition came to a fruition in 2015.  Since then, Xinyao appreciation has been a prominent programme in our college. The competition primarily aims to cultivate a love for local Xinyao music and its heritage in our younger generation and in turn, promote the composition of new Xinyao songs.</p>
@@ -13,5 +12,5 @@ The Xinyao Appreciation Session conducted by our co-organiser TCR Music Station 
 <p>
 Through this session, students get to understand about Xinyao, which is an important part of the cultural heritage of Singapore. By participat in activities, students not only learn Chinese Language in a fun and interactive way, but they also enhance their reading and writing skills.</p>
 
-<img src="/images/XY%20Collage.png">
-</div>
+<figure>
+<img src="/images/XY%20Collage.png"></figure>
