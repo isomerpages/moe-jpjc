@@ -6,10 +6,9 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Cheng%20Wei%20Yang%20Brandon.jpg">
-<figcaption><strong>Brandon is a young man with a big heart and a great sense of conviction about making a difference in the lives of others.</strong></figcaption>
-</figure>
+<figcaption>Brandon is a young man with a big heart and a great sense of conviction about making a difference in the lives of others.</figcaption></figure>
 
-<center><h6><strong>MAKING THE JOURNEY WORTHWHILE</strong></h6></center>
+<center><h5>MAKING THE JOURNEY WORTHWHILE</h5></center>
 
 <div align=justify>
 	
