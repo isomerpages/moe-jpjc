@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>From disinterest to becoming passionate, Lim Kok Liang (18S24) exceeds his own expectations and discovers his unique talent in Mathematics.</strong></h5>
+<h5>From disinterest to becoming passionate, Lim Kok Liang (18S24) exceeds his own expectations and discovers his unique talent in Mathematics.</h5>
 
 <p>
 Describing himself as a disinterested student while in secondary school, Lim Kok Liang was more than delighted when he realized that he could choose to study the subjects that interested him in junior college, unlike the spread of subjects that he had to take up in secondary school. In secondary school, he could not envision his future direction until he saw what he could aim for when he arrived in JC. At JPJC, Kok Liang had the opportunity to further his passion in Math. He challenged himself by taking on Further Mathematics and explored Computing, a subject new to him. This realization propelled him to stretch himself, and he participated in numerous Math and computing competitions.</p>
