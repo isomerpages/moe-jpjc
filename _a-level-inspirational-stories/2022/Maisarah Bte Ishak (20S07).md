@@ -6,11 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Maisarah.jpg">
-<figcaption><strong>Netball captain, Maisarah Bte Ishak (20S07) who bounced back from adversity to give back to the community.</strong></figcaption>
+<figcaption>Netball captain, Maisarah Bte Ishak (20S07) who bounced back from adversity to give back to the community.</figcaption>
 </figure>
 
 <div align=justify>
-<center><h6></strong>Bouncing back from adversity; Giving to the community</strong></h6></center>
+<center><h5>Bouncing back from adversity; Giving to the community</h5></center>
 
 <p>
 At the tender age of nine, Maisarah’s parents filed for divorce, leaving her mother to care for her and her elder brother as a single parent. With finances being a huge strain, the family of three stayed in a rental room. It was not for another seven years before her mother, an administrative clerk, could afford to buy a place of their own.</p>
