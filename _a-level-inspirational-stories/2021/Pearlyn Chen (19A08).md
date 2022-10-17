@@ -6,12 +6,11 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Perlyn%20Chen.jpg">
-<figcaption><strong>In spite of the challenges she faced, Pearlyn still found strength within her to give to others.</strong></figcaption>
-</figure>
+<figcaption>In spite of the challenges she faced, Pearlyn still found strength within her to give to others.</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>CONQUERING SETBACKS & GIVING BACK TO SOCIETY</strong></h6></center>
+<center><h5>CONQUERING SETBACKS & GIVING BACK TO SOCIETY</h5></center>
 	
 <p>
 2020 is a year that will remain strongly etched in Pearlyn’s mind. For many of her peers, it was remembered as the year of the COVID-19 pandemic, which forced schools to shut and students to adapt to new learning environments. 18-year-old Pearlyn Chen had to deal with this, and more. Overnight, Pearlyn grew up quickly, as her father had suffered from an unexpected stroke during the Circuit Breaker period. She had to be a strong pillar of support for her mother who was now the sole breadwinner for the family. As an older sibling, Pearlyn also felt a responsibility to shield her sister from the emotional turmoil at home and to retain a sense of normalcy. Pearlyn soldiered on as a dutiful daughter, working part-time, making time for countless hospital visits and even helping with the household chores despite her fatigue.</p>
