@@ -15,8 +15,9 @@ H2 candidates will sit for P1 and P3.</p>
 <h4><strong>Assessment</strong></h4>
 <p>
 H1 Literature in English (8832): Paper 1<br>
-H2 Literature in English (9509): Paper 1 & Paper 3<br>
+H2 Literature in English (9509): Paper 1 & Paper 3<br></p>
 <h5><strong>Paper 1: Reading Literature (3 hours - Open Book)</strong></h5>
+<p>
 Paper 1 is a compulsory paper designed to give students a broad exposure to literary study. Candidates will answer one question from each of the three sections. All questions hold equal weight in the computing of marks for the paper.</p>
 
 <p>
@@ -28,11 +29,11 @@ At least one of the questions will feature a Singaporean poem. The candidate wil
 
 <u>Section B: Prose</u><br>
 <p>
-Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i>Frankenstein</i> by Mary Shelley).</p>
+Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Frankenstein</strong></i> by Mary Shelley).</p>
 
 <u>Section C: Drama</u><br>
 <p>
-Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i>Saint Joan</i> by George Bernard Shaw).</p>
+Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Saint Joan</strong></i> by George Bernard Shaw).</p>
 
 <h5><strong>Paper 3: The Mind and Self in Literature (3 hours - Open Book)</strong></h5>
 <p>
