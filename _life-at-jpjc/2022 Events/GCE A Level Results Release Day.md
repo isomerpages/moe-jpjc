@@ -19,6 +19,8 @@ Such a situation did nothing to dampen the excitement and anticipation of the re
 To all our JPJC teachers and staff, a big thank you for your unwavering support and dedication to our students’ learning and development in the midst of great challenges last year. To the Class of 2020, our heartiest congratulations, and we wish you all the best as you embark a new chapter of your lives.</p>
 
 <figure>
-<img src="/images/Congratulations%20to%20the%20Class%20of%202020%20Your%20efforts%20and%20hard%20work%20have%20paid%20off.jpg”>
-<figcaption>Congratulations to the Class of 2020! Your efforts and hard work have paid off </figcaption>
+<img src="/images/Life%20@%20JPJC/2022%20Events/GCE%20A%20Level%20Results/A-levels.jpg">
+<figcaption>Congratulations to the Class of 2020! Your efforts and hard work have paid off</figcaption>
 </figure>
+
+
