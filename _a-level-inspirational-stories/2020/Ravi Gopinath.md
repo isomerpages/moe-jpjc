@@ -6,7 +6,7 @@ third_nav_title: "2020"
 ---
 <div align=justify>
 
-<h5><strong>Quietly confident, Ravi Gopinath (18S13) battled tremendous fear and weak interpersonal skills in his earlier years, to become the Vice President of JPJC’s Student Council.</strong></h5>
+<h5>Quietly confident, Ravi Gopinath (18S13) battled tremendous fear and weak interpersonal skills in his earlier years, to become the Vice President of JPJC’s Student Council.</h5>
 
 <p>
 Quietly confident, Ravi Gopinath battled tremendous fear and weak interpersonal skills in his earlier years, to become the Vice President of JPJC’s Student Council.</p>
