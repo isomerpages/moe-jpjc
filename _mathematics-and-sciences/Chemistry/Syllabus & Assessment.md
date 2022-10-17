@@ -92,8 +92,8 @@ The data-based question(s) provide(s) a good opportunity to test higher order th
 <h5><strong>Paper 3 (2 h, 80 marks)</strong></h5>
 This paper consists of two sections:
 <ul>
-	<li><strong>Section A</strong> (60 marks) consists 3\-4 free response questions, all compulsory. Each question constitutes 15-25 marks.<br>
-		<li><strong>Section B</strong> (20 marks) consists <strong>two</strong> questions, each of 20 marks. Candidates are to answer any one question.
+	<li><strong>Section A</strong> (60 marks) consists 3-4 free response questions, all compulsory. Each question constitutes 15-25 marks.</li>
+		<li><strong>Section B</strong> (20 marks) consists <strong>two</strong> questions, each of 20 marks. Candidates are to answer any one question.</li></ul>
 <p>
 These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
@@ -103,27 +103,27 @@ This paper will assess appropriate aspects of practical in the following skill a
 	<li>Planning (P)</li>
 	<li>Manipulation, measurement and observation (MMO)</li>
 	<li>Presentation of data and observations (PDO)</li>
-	<li>Analysis, conclusion and evaluation (ACE)</li>
-</div>
-<div align=justify>
+	<li>Analysis, conclusion and evaluation (ACE)</li></ul>
+
 <p>
 The assessment of Planning (P) will have a weighing of 5 %. The assessment of skill areas MMO, PDO and ACE will have a weighing of 15 %.</p>
+	
 <p>
 The scope of the practical paper is indicated in the Practical Assessment section. The assessment of PDO and ACE may also include questions on data-analysis which do not require practical equipment and apparatus. Candidates will not be permitted to refer to books and laboratory notebooks during the assessment.</p>
+
 <p>
 For more details on the H2 Chemistry syllabus, click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9729_y22_sy.pdf">here</a> to download the PDF from SEAB website.</p>
 
-<h5><strong>H3 CHEMISTRY (9813)</strong></h5>
+<h4><strong>H3 CHEMISTRY (9813)</strong></h4>
 <p>
 The H3 Chemistry framework is built on H2 Chemistry, anchored by the three Core Ideas – (1) Matter, (2) Structure and Properties, and (3) Transformation. Throughout the study of H3 Chemistry, explicit links will be made to the Core Ideas, deepening students’ understanding of their knowledge in these Core Ideas and the Practices of Science. Learning Experiences also feature prominently in H3 Chemistry to enhance students’ learning.</p>
 <p>
-H3 Chemistry syllabus has been designed to build on and extend the knowledge, understanding and skills acquired from the H2 Chemistry (9729) syllabus. It caters to students of strong ability and keen interest in chemistry, and is <strong>designed with a strong emphasis on independent and self–directed learning</strong>. Students should simultaneously offer H2 Chemistry. The H3 Chemistry is meant to nurture students’ passion for the subject and <strong>provide greater depth and rigour in the subject</strong> for those pursuing further studies in chemistry–related fields.
+H3 Chemistry syllabus has been designed to build on and extend the knowledge, understanding and skills acquired from the H2 Chemistry (9729) syllabus. It caters to students of strong ability and keen interest in chemistry, and is <strong>designed with a strong emphasis on independent and self–directed learning</strong>. Students should simultaneously offer H2 Chemistry. The H3 Chemistry is meant to nurture students’ passion for the subject and <strong>provide greater depth and rigour in the subject</strong> for those pursuing further studies in chemistry–related fields.</p>
 
 <h5><strong>Syllabus Outline for H3 Chemistry</strong></h5>
 <figure>
 <img src="/images/Chemistry%206(2).jpg">
-	<figcaption><strong>H3 Chemistry Curriculum Framework</strong></figcaption>
-	</figure>
+<figcaption>H3 Chemistry Curriculum Framework</figcaption></figure>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQIr4tZIG1ZIz7W8YQuejxxCG48sIbFxfnHUso6n5jq_bqZv5Uq22wNhAQaNtoyLKWo5VtWzZh6xpuf/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 <center>
@@ -140,4 +140,3 @@ This section consists of a variable number of compulsory free response questions
 Candidates will be required to answer <strong>two</strong> out of three free response questions. Each question will carry 20 marks.</p>
 <p>
 For more details on the H3 Chemistry syllabus, click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9813_y22_sy.pdf">here</a> to download the PDF from SEAB website.</p>
-</div>
