@@ -12,4 +12,3 @@ JPJC cares by building a culture of organisational excellence, and establishing 
 
 <p>
 We imbue in both our students and staff, the courage and autonomy to pursue personal excellence. In JPJC, we celebrate all accomplishments, big and small.</p>
-</div>
