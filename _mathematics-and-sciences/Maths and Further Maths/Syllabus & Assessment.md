@@ -68,8 +68,12 @@ There will be at least two questions in Section B on application of Mathematics 
 <p>
 Candidates will be expected to answer <strong>all</strong> questions.</p>
 
-#### **9820 H3 Mathematics**
-The SEAB syllabus document for H3 Mathematics can be found <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9820_y22_sy.pdf">here</a>.<br>
-For the examination in H3 Mathematics, there will be a one 3-hour paper marked out of 100.<br>
-The paper will consist of 8 to 10 questions of different lengths, and each question is worth 9 to 16 marks.<br>
-Candidates will be expected to answer **all** questions.
+<h3><strong>9820 H3 Mathematics</strong></h3>
+<p>
+The SEAB syllabus document for H3 Mathematics can be found <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9820_y22_sy.pdf">here</a>.</p>
+<p>
+For the examination in H3 Mathematics, there will be a one 3-hour paper marked out of 100.</p>
+<p>
+The paper will consist of 8 to 10 questions of different lengths, and each question is worth 9 to 16 marks.</p>
+<p>
+Candidates will be expected to answer <strong>all</strong> questions.</p>
