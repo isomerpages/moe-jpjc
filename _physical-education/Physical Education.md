@@ -8,7 +8,7 @@ description: ""
 
 <div align=justify>
 <h4><strong>Our Vision:</strong></h4>
-	<p>Self-directed and discerning students who seek to lead a healthy and active lifestyle.</p>
+<p>Self-directed and discerning students who seek to lead a healthy and active lifestyle.</p>
 
 <h4><strong>Our Mission:</strong></h4>
 <p>To implement a purposeful PE programme that provides a variety of student-centred activities to equip individuals with the skills, knowledge and attitudes necessary to enjoy and sustain a physically active and healthy lifestyle.</p>
