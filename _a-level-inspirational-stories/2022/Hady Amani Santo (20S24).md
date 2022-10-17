@@ -6,11 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Hady.jpg">
-<figcaption><strong>Hady Amani Santo (20S24) who overcame learning challenges and has a passion for origami.</strong></figcaption>
+<figcaption>Hady Amani Santo (20S24) who overcame learning challenges and has a passion for origami.</figcaption>
 </figure>
 
 <div align=justify>
-<center><h6><strong>He turned to origami to get him through</strong></h6></center>
+<center><h5>He turned to origami to get him through</h5></center>
 <p>
 Adjusting to life in Jurong Pioneer Junior College (JPJC) was not easy for Hady Amani Santo, a student diagnosed with Autism Spectrum Disorder. When he first entered the college, he came across as socially awkward to his classmates who were not aware of his condition. His diagnosis had affected how Hady perceived others. In turn, this had an impact on his interactions with his peers. He preferred to be alone and did not like speaking to others. “It was a new environment for me. Not knowing the people around me well also made it difficult to initiate conversations.”</p>
 
