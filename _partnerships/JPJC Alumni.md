@@ -3,15 +3,16 @@ title: JPJC Alumni
 permalink: /partnerships/jpjc-alumni/
 description: ""
 ---
-<h4><strong>JPJC Alumni</strong></h4>
 <div align=justify>
+<h3><strong>JPJC Alumni</strong></h3>
+
 <p>	
 The merger of Jurong Junior College and Pioneer Junior College has brought together the alumni of both colleges, creating a strong network of support to enrich the college experience for the students of Jurong Pioneer Junior College.</p>
 
 <p>
 Since 2019, the alumni of both colleges have come together, working in partnership with the college to inspire our students with their stories of undergraduate and career experiences. At the same time, the college also organises homecoming events and creates platforms for alumni to reconnect with their former college mates and teachers.</p>
 
-<h5><strong>Reconnect with us</strong></h5>
+<h4><strong>Reconnect with us</strong></h4>
 <p>
 For JJC and PJC alumni who wish to reconnect with their former college mates and teachers, you can visit the following URLs:
 <ul>
@@ -21,13 +22,13 @@ For JJC and PJC alumni who wish to reconnect with their former college mates and
 <p>
 The college will be announcing the formation of JPJC Alumni soon, and will provide updates here on the school website.</p>
 
-<h5><strong>Invitation to contribute</strong></h5>
+<h4><strong>Invitation to contribute</strong></h4>
 <p>
-We invite you to come to JPJC to contribute to the school experiences of our current students. There are a great variety of ways. For example:
+We invite you to come to JPJC to contribute to the school experiences of our current students. There are a great variety of ways. For example:</p>
 <ul>
 	<li><strong>Further Education and Career Guidance:</strong> Providing advice regarding university education and career guidance in terms of providing industry insights, work attachment opportunities, learning journeys to corporations for our students.</li>
 	<li><strong>Volunteering Opportunities:</strong> Creating platforms for our students to organise VIA-related programmes so as to play a part to contribute to the community.</li>
-	<li><strong>Speaker’s Series:</strong> Establishing networks, through sharing of life experiences to motivate our students and providing further education and career guidance.</li></ul></p>
+	<li><strong>Speaker’s Series:</strong> Establishing networks, through sharing of life experiences to motivate our students and providing further education and career guidance.</li></ul>
 
 <p>
 Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a> for more details.</p>
@@ -40,8 +41,7 @@ Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu
 
 <p>
 From 2019 to 2021, we were privileged to have alumni from various fields and disciplines generously share their experiences with their juniors. They were:</p>
-
-<strong><h5><u>Year 2021</u></h5></strong>
+<h5><strong>Year 2021</strong></h5>
 <ol>
 	<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 <figure>
@@ -55,7 +55,7 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%203.jpg"></figure></li></ol>
 																				 
-<strong><h5><u>Year 2020</u></h5></strong>
+<strong><h5>Year 2020</h5></strong>
 <ol>
 	<li><strong>Mr Damien Ng (JJC Alumnus, Class of 1993)</strong> Thematic Research Analyst at Julius Baer
 <figure>	 
@@ -64,13 +64,13 @@ From 2019 to 2021, we were privileged to have alumni from various fields and dis
 	<li><strong>Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)</strong> Founders of Mr G and 51 Label
 <figure>
 <img src="/images/jpjc%20alumni%205.jpg">
-</figure>
+		</figure></li>
 	<li><strong>Mr Chio Wen Tian (JJC Alumnus, Class of 2006)</strong> Principal Architect at WNVA
 <figure>
 <img src="/images/jpjc%20alumni%206.jpg">
 </figure></li></ol>
 		 
-<strong><h5><u>Year 2019</u></h5></strong>
+<strong><h5>Year 2019</h5></strong>
 	<ol>
 		<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
 <figure>
@@ -114,13 +114,13 @@ The college also takes pride in organising Homecoming Games, a line-up of sports
 <p>
 There was something for everyone as alumni forged strong ties with their juniors and enjoyed a day of reminiscence. It was indeed heartening to receive such a massive show of support for these events from our alumni!</p>
 
-<strong><h5><u>Year 2019</u></h5></strong>
+<strong><h5>Year 2019</h5></strong>
 <figure>
 <h6>Homecoming Games - Past vs Present</h6>
 <img src="/images/jpjc%20alumni%2015.jpg">
 </figure>
 
-<strong><h5><u>Year 2018</u></h5></strong>
+<strong><h5>Year 2018</h5></strong>
 <figure>
 <h6>Curtain Call - JJC Final Homecoming @ Jurong</h6>
 <img src="/images/jpjc%20alumni%2016.jpg">
@@ -131,7 +131,7 @@ There was something for everyone as alumni forged strong ties with their juniors
 <img src="/images/jpjc%20alumni%2017.jpg">
 </figure>
 
-<strong><h5><u>Year 2017</u></h5></strong>
+<strong><h5>Year 2017</h5></strong>
 <figure>
 <h6>Class of 1982 JJC Reunion Lunch</h6>
 <img src="/images/jpjc%20alumni%2018.jpg">
