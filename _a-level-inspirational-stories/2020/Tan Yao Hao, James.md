@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>Tan Yao Hao, James (18A08) – The Comeback Kid</strong></h5>
+<h5>Tan Yao Hao, James (18A08) – The Comeback Kid</h5>
 
 <p>
 When James Tan lost his mother at a young age, his whole world came crashing down. He lost his motivation to focus in his academic work as his mother was the disciplinarian. He saw himself losing focus and lost his sense of direction.
