@@ -22,4 +22,4 @@ The Unit identifies and trains interested JC1 and JC2 students for various Model
 
 <li><h5><i><strong>Learning Journeys/Field trips/Speaker series</strong></i></h5></li>
 
-The Unit also utilises Place Based Learning through organising learning journeys to related locales such as the National Gallery. In addition, students have opportunities to attend talks both internally and externally such as Ho Rih Hwa Leadership Lecture Series as well as invited speakers from the respective universities.</ol>
+The Unit also utilises Place Based Learning through organising learning journeys to related locales such as the National Gallery. In addition, students have opportunities to attend talks both internally and externally such as Ho Rih Hwa Leadership Lecture Series as well as invited speakers from the respective universities.
