@@ -6,13 +6,13 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Alfred.jpg">
-<figcaption><strong>
-	A leader with a heart, Alfred hopes to become an educator and inspire other youth.</strong></figcaption>
+<figcaption>
+	A leader with a heart, Alfred hopes to become an educator and inspire other youth.</figcaption>
 </figure>
 
 <div align=justify>
 
-<center><h6><strong>SERVING WITH A HEART AND VISION</strong></h6></center>
+<center><h5>SERVING WITH A HEART AND VISION<</h5></center>
 
 <p>
 Alfred’s time in Jurong Pioneer Junior College (JPJC) was an exciting experience for him. He cherished his experience as the President of the 2nd Student Council (SC) as it afforded him opportunities to grow in different ways and make lasting friendships. His leadership journey was also one fraught with challenges, forcing him to confront his weaknesses and taking deliberate steps to make improvements.</p>
