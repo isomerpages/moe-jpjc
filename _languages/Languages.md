@@ -4,6 +4,7 @@ permalink: /jpjc-experience/curriculum/languages/
 description: ""
 ---
 <div align=justify>
+<figure>
 <img src="images/languages.jpg">
 <figcaption>Students in action during Mother Tongue Fortnight</figcaption></figure>
 
