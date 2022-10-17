@@ -4,8 +4,10 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
-<h5><strong>Committee’s Mission and Vision / Committee’s Objectives</strong></h5>
 <div align=justify>
+	
+<h3><strong>Committee’s Mission and Vision / Committee’s Objectives</strong></h3>
+
 <p>
 JPJC’s STEM (Science, Technology, Engineering & Mathematics) Programme provides opportunities for students to maximise their potential and discover their strengths and passions, in preparation for a possible future in STEM-related careers.</p>
 
