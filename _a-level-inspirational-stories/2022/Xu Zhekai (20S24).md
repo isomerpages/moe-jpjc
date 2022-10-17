@@ -6,11 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Zhekai.jpg">
-<figcaption><strong>Xu Zhekai (20S24) who never gave up despite having to repeat JC1 and went through a period of grief.</strong></figcaption>
+<figcaption>Xu Zhekai (20S24) who never gave up despite having to repeat JC1 and went through a period of grief.</figcaption>
 </figure>
 
 <div align=justify>
-<center><h6><strong>自强不息” - Striving Tirelessly For Continuous Improvement</strong></h6></center>
+<center><h5>自强不息” - Striving Tirelessly For Continuous Improvement</h6></center>
 
 <p>
 The Chinese idiom “自强不息” (zi qiang bu xi) – or striving tirelessly for continuous improvement – is Xu Zhekai’s life mantra. “Without it, I do not think I would have been able to overcome everything that has come my way, especially in these recent years,” the young man reflected stoically.</p>
