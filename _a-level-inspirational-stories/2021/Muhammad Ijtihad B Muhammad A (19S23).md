@@ -6,11 +6,10 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Ijtihad.jpg">
-<figcaption><strong>Ijtihad fondly remembers his time at JPJC and is grateful for the support and opportunities he was given to grow here.</strong></figcaption>
-</figure>
+<figcaption>Ijtihad fondly remembers his time at JPJC and is grateful for the support and opportunities he was given to grow here.</figcaption></figure>
 
 <div align=justify>
-<center><h6><strong>NO EXCUSE TO GIVE UP – A STORY OF PERSEVERANCE & EXCELLENCE</strong></h6></center>
+<center><h5>5NO EXCUSE TO GIVE UP – A STORY OF PERSEVERANCE & EXCELLENCE</h5></center>
 
 <p>
 With his tenacity and unwavering optimism, Muhammad Ijtihad B Muhammad A is an inspiration to his peers. When his mother’s long-standing health condition (brain cancer) took a turn for the worse during his 2020 A Level examinations, Ijtihad had to cope with the anguish of possibly losing a loved one and caring for her in her last days, while trying his best to focus on his papers at the same time. He also had to step in and provide emotional support for his three young siblings during such trying times, whenever their father was more heavily occupied with caring for their ill mother.</p>
