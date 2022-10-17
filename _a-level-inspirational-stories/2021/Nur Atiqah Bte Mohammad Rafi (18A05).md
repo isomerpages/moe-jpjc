@@ -6,13 +6,12 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Atiqah.jpg">
-<figcaption><strong>
-The goal of providing a better life for her family propelled Atiqah to persevere despite setbacks.<br> Photo - MOE CEG Unit</strong></figcaption>
-</figure>
+<figcaption>
+The goal of providing a better life for her family propelled Atiqah to persevere despite setbacks.<br> Photo - MOE CEG Unit</figcaption></figure>
 
 <div align=justify>
 	
-<center><h6><strong>ASPIRING FOR A BETTER TOMORROW</strong></h6></center>
+<center><h5>ASPIRING FOR A BETTER TOMORROW</h5></center>
 
 <p>
 Atiqah knew she was already a step behind her peers after having spent one year studying nursing at a polytechnic before transferring to Jurong Pioneer Junior College (JPJC). A year into her nursing course, Atiqah questioned the path she took. She had chosen the polytechnic route originally as she doubted her own abilities to handle the JC curriculum but she decided that “to not try at all would be the bigger mistake.” She took the leap of faith and joined JPJC.  Determined to do well, she looked for various opportunities to develop herself. She was appointed Class Manager, Project Work Group Leader, and took part in the Singapore Youth Festival (Malay Dance) even though her Co-Curricular Activity (CCA) was The Ambassadors Club. At the start of JC2, she was also chosen to be an Orientation Group Leader.</p>
