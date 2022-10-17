@@ -6,9 +6,9 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Leslie.jpg">
-<figcaption><strong>Pursuing his passion in the Arts, De Souza Leslie Ethan (20A05) dared to be different</strong></figcaption>
+<figcaption>>Pursuing his passion in the Arts, De Souza Leslie Ethan (20A05) dared to be different</figcaption>
 	
-<center><h6><strong>From Triple Sciences to the Arts - An all-rounder who dared to pursue his interests in Junior College and had a heart for others.</strong></h6></center>
+<center><h5>From Triple Sciences to the Arts - An all-rounder who dared to pursue his interests in Junior College and had a heart for others.</h5></center>
 
 <p>
 When De Souza Leslie Ethan enrolled in Jurong Pioneer Junior College (JPJC), he took one of the biggest leaps he had ever taken, in his entire life – he decided to pursue something vastly different from what he had taken in secondary school. Coming from a Triple Science stream with no English Literature background in his upper secondary years, Leslie took the plunge and chose the Arts stream in JPJC, taking Literature in English, History and Economics. As Leslie recalls with a laugh, “My secondary school classmates all wanted to pursue the Sciences. Some even took H3 Biology or Physics. When they knew I chose the Arts stream, they probably thought I was making a bad decision.” That ‘bad decision’ turned out to be one that he did not regret. In fact, “it was one of the best leaps of faith” he had ever taken.</p>
