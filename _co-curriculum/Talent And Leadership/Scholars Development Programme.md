@@ -4,23 +4,22 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
-### **Scholars Development Programme**
-
-<center><h6>“We Get YOU Places”</h6></center>
-
 <div align=justify>
+<center><h5>“We Get YOU Places”</h5></center>
+
 <p>
-The Scholars Development Programme adopts a broad-based and holistic approach that aims to <strong><font color=#b74b4b>develop our members</strong></font> to their full potential, <strong><font color=#b74b4b>groom them for scholarships</strong></font> of their choice and <strong><font color=#b74b4b>empower them</strong></font> to achieve their career goals and aspirations. The programme also develops all members of this programme to be compassionate, informed (global outlook & concerned citizen) and skilful leaders who would take on a scholarship and serve the community in his/her best capacity in future.
-<br>
-<strong>Mission:</strong> To provide promising students with meaningful guidance, opportunities and exposure to make them compassionate, informed and skilful leaders in the 21st Century.
-<br>	
-	<strong>Vision:</strong> A Scholar, A Leader, An Active Contributor</p>
+The Scholars Development Programme adopts a broad-based and holistic approach that aims to <strong><span style="color:#b74b4b">develop our members</strong></span> to their full potential, <strong><span style="color:#b74b4b">groom them for scholarships</strong></span> of their choice and <strong><span style="color:#b74b4b">empower them</strong></span> to achieve their career goals and aspirations. The programme also develops all members of this programme to be compassionate, informed (global outlook & concerned citizen) and skilful leaders who would take on a scholarship and serve the community in his/her best capacity in future.</p>
+
+<p>	
+<strong>Mission:</strong> To provide promising students with meaningful guidance, opportunities and exposure to make them compassionate, informed and skilful leaders in the 21st Century.</p>
+
+<p>	
+<strong>Vision:</strong> A Scholar, A Leader, An Active Contributor</p>
 
 <figure>
-<img src="/images/sdp%201.jpg">
-	</figure>
+<img src="/images/sdp%201.jpg"></figure>
 		 
-<p>Members of this programme are <font color=#ae3434>empowered</font> through:</p>  
+<p>Members of this programme are <span style="color:#ae3434">empowered</span> through:</p>  
 
 <img src="/images/sdp2.jpg" style="width:8%;margin-right:15px;" align = "left">
 <strong>Structured Mentoring Programme</strong><br>
@@ -36,28 +35,23 @@ The Scholars Development Programme adopts a broad-based and holistic approach th
 A community-based project that is designed to expose our scholars to higher-level community work. It aims to deepen our scholars’ understanding of the community and environment so that they can be compassionate leaders.</p>
 
 <figure>
-<img src="/images/sdp5.jpg"><br>
-	</figure>
+<img src="/images/sdp5.jpg"></figure>
 		 
 <img src="/images/sdp6.jpg" style="width:8%;margin-right:15px;" align = "left">
-<strong>Leadership Training Camp @ Yuhua</strong><br>
+<strong>Leadership Training Camp @ Yuhua</strong>
 <p>Students in the Scholars Development Programme will partner with Yuhua Community Club to plan and organise a 2 Day 1 Night Leadership Camp for youths residing in Jurong GRC during the June holidays as part of their community involvement programme. The purpose of this event seeks to provide an opportunity for students within the Scholars Development Programme to gain an insight into community work while also contribute positively back to society. In the process, they will also obtain the platform to learn important skills such as team work, communication and developing a sense of empathy.</p>
 
 <figure>
-<img src="/images/sdp7.jpg">
-<br>	
-	</figure>
+<img src="/images/sdp7.jpg"></figure>
 	
 <img src="/images/sdp6.jpg" style="width:8%;margin-right:15px;" align = "left">
-<strong>Leadership Training Camp @ Keat Hong</strong><br>
+<strong>Leadership Training Camp @ Keat Hong</strong>
 <p>
 Students in this programme will plan and organise a 2 Day Leadership Camp for youths residing in Choa Chu Kang GRC during the June holidays as part of their community involvement programme, in conjunction with Keat Hong Community Club. This event seeks to provide an opportunity for all scholars to gain an insight into community work while also contribute positively back to society. In the process, scholars will obtain the platform to learn important skills such as team work, communication and developing a sense of empathy for others. This is a new initiative mooted by the students themselves following the excellent and positive reviews and feedback from the Leadership Training Camp at Yuhua Community Club.</p>
 
 <figure>
-<img src="/images/sdp9.jpg">
-	</figure>
+<img src="/images/sdp9.jpg"></figure>
 
 <img src="/images/sdp10.jpg" style="width:8%;margin-right:15px;" align = "left">
 <strong>Skills Based Workshops (Communications, Public Speaking and Interview Skills)</strong>
 <p>To better prepare and equip our students with the skills, content and disposition in overcoming rigorous scholarship interviews, the college has provided support and engaged experienced trainers to offer customised training for all members in this programme based on their individual scholarship aspirations.</p>
-</div>
