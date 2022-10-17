@@ -6,12 +6,11 @@ third_nav_title: "2022"
 ---
 <figure>
 <img src="/images/Ain.jpg">
-<figcaption><strong>Nur'Ain Nadzirah Binte Mohammed Nazir (20A04) a Malay Language Elective Programme student who wants to pay it forward.</strong></figcaption>
-</figure>
+<figcaption>Nur'Ain Nadzirah Binte Mohammed Nazir (20A04) a Malay Language Elective Programme student who wants to pay it forward.</figcaption></figure>
 
 <div align=justify>
 
-<center><h6><strong>Paying it Forward, Giving Back to Society</strong></h6></center>
+<center><h5>Paying it Forward, Giving Back to Society</h5></center>
 	
 <p>
 Nur’Ain had always wanted to be a part of the Malay Language Elective Programme (MLEP) since her secondary school days. Passionate about learning more about the Malay Language and culture, she reasoned that “MLEP would provide her with a close-knitted and supportive learning environment with good peers and teachers” that would make learning the Malay Language very pleasant and enjoyable. That great desire came to fruition when Nur’Ain was awarded the MLEP scholarship at Jurong Pioneer Junior College (JPJC), and as a scholar, she had valuable opportunities to lead her cohort in various Malay language and cultural events.</p>
