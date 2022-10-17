@@ -6,7 +6,9 @@ third_nav_title: Maths and Further Maths
 ---
 <div align="justify">
 <figure>
-<img src="/images/maths1%20(1).jpg">A Mathematics tutorial lesson in progress</figure>
+<img src="/images/maths1%20(1).jpg">
+<figcaption>
+A Mathematics tutorial lesson in progress</figure>
 
 <h3><strong>Introduction</strong></h3>
 <p>
