@@ -20,5 +20,3 @@ Madam Lim became a teacher 23 years ago, and initially left the Education Servic
 
 <p>
 Congratulations Madam Lim, on your Distinguished Chinese Teachers Award, and we thank you for the hard work and dedication in shaping both the minds and character of JPJC students!</p>
-	
-</div>
