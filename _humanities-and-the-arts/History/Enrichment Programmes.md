@@ -14,8 +14,7 @@ third_nav_title: History
 The Unit identifies and trains interested students for related competitions such as the History Bee and Bowl Asian Division as well as the Biennial ASEAN Quiz. These competitions provide participants opportunities to work together in teams as well as deepen their knowledge and skills in areas they are passionate in.
 	
 <figure>
-<img src="/images/history%20enrichment%202.jpg" 
-     style="width:85%">
+<img src="/images/history%20enrichment%202.jpg">
 <figcaption>J1 History students participating in the 2020 ASEAN quiz.</figcaption></figure>
 	<li><h5><i><strong>MUNs/SMC</strong></i></h5></li>
 
@@ -23,4 +22,4 @@ The Unit identifies and trains interested JC1 and JC2 students for various Model
 
 <li><h5><i><strong>Learning Journeys/Field trips/Speaker series</strong></i></h5></li>
 
-The Unit also utilises Place Based Learning through organising learning journeys to related locales such as the National Gallery. In addition, students have opportunities to attend talks both internally and externally such as Ho Rih Hwa Leadership Lecture Series as well as invited speakers from the respective universities.</ul>
+The Unit also utilises Place Based Learning through organising learning journeys to related locales such as the National Gallery. In addition, students have opportunities to attend talks both internally and externally such as Ho Rih Hwa Leadership Lecture Series as well as invited speakers from the respective universities.</ol>
