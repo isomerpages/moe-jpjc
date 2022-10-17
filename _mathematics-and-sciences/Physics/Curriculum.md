@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/mathematics-and-science/physics/curriculu
 description: ""
 third_nav_title: Physics
 ---
-### **Curriculum**
 <div align=justify>
 <p>
 Physics is a fundamental science which is concerned with understanding the natural world around us. A small number of basic principles and laws can be applied to explain and predict a wide range of physical events and phenomena. The fundamental theories of physics form the bedrock of modern technologies and are responsible for practical applications and advancement in many different fields of science and technology.</p>
@@ -17,4 +16,3 @@ The subject equips students with skills of investigation, reasoning, analysis an
 
 <p>
 In JC1, physics students will deepen their knowledge and understanding of classical Newtonian Physics and apply concepts of force, motion and energy to solve static and dynamic systems. In JC2, we will extend their learning to other branches of physics such as Waves, Electricity and Magnetism and Modern Physics.</p>
-</div>
