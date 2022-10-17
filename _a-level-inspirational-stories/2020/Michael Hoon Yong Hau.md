@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>With the discovery of his unique talent in Mathematics and Physics, Michael Hoon Yong Hau (18S19) is ready to take on the world of Artificial Intelligence (AI).</strong></h5>
+<h5>With the discovery of his unique talent in Mathematics and Physics, Michael Hoon Yong Hau (18S19) is ready to take on the world of Artificial Intelligence (AI).</h5>
 
 <p>
 Michael Hoon made a quantum leap when he enrolled in JPJC. Admitting that he struggled with his studies in primary and lower secondary, he changed his attitude in upper secondary as he realized that he needed to work hard to achieve his goals. When he entered JPJC, his teachers discovered his gift in Mathematics and passion for Physics and he seized the opportunities offered to him, such as the Nanyang Research Programme (NRP) and H3 Physics.</p>
