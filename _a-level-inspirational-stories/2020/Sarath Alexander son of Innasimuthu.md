@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "2020"
 ---
 <div align=justify>
-<h5><strong>Despite mounting challenges and his sudden loss, Sarath Alexander s/o Innasimuthu (18S10) remains strong and committed to his goals.</strong></h5>
+<h5>Despite mounting challenges and his sudden loss, Sarath Alexander s/o Innasimuthu (18S10) remains strong and committed to his goals.</h5>
 
 <p>
 When Sarath Alexander s/o Innasimuthu lost his mother in the year that he was due to take his GCE A Level examination, his whole world came crashing down. He was three months away from the examination, and despite the fact that his mother had been battling cancer for close to three years, her passing was something he did not expect.</p>
