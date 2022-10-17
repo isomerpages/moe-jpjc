@@ -11,7 +11,6 @@ third_nav_title: 2022 Events
 <p>This year’s RHD civics lesson, entitled "Regardless of Race", was designed to set students thinking about Singapore's relative position on the Stairway to Respect (using the controversiality scale) based on their personal experiences and knowledge of national and international developments. This was followed by our college’s first in-person RHD Carnival since 2019. Reflecting the college’s emphasis on student empowerment, the carnival was organised by the Community Engagement Council in collaboration with various cultural CCAs and student groups. Based on a RHD passport system, both JC1 and JC2 students enthusiastically explored all the different cultural booths to secure stamps and redeem unique RHD-themed goodie bags.</p>
 
 <p>Booths by the Chinese Cultural Society, Malay Cultural Society and our college’s Tamil teachers and students showcased the essence of our local cultural traditions, including Chinese calligraphy, Bunga Manggar (wedding flowers from crepe) as well as Kolam drawing (Indian Floor Art). In particular, for this year’s RHD Carnival, international students from South Korea, Myanmar and the Philippines also volunteered to set up their own booths to showcase fun and representative aspects of their countries’ cultures, such as the wearing of traditional Korean clothes (Hanbok), playing traditional Filipino games such as Tumbang Preso (using slippers) and even the Burmese tradition of Thanakha Bark Grinding. The presence of these international booths aptly demonstrated the cosmopolitan nature of Singapore’s diverse population, and is a microcosm of the remarkable success of our multicultural nation.</p>
-	</div>
 
 <figure>
 <img src="/images/2022%20rhd%201.jpg">
@@ -20,26 +19,25 @@ third_nav_title: 2022 Events
 
 <figure>
 <img src="/images/2022%20rhd%201.jpg">
-<figcaption> <strong> Students trying their hand at Chinese calligraphy </strong> </figcaption>
+<figcaption>Students trying their hand at Chinese calligraphy</figcaption>
 </figure>
 
 <figure>
 <img src="/images/2022%20rhd%202.jpg">
-<figcaption> <strong> Malay Cultural Society students at their showcase booth </strong> </figcaption>
+<figcaption>Malay Cultural Society students at their showcase booth</figcaption>
 </figure>
 
 <figure>
 <img src="/images/2022%20rhd%203.jpg">
-<figcaption> <strong> At the Myanmar booth students had the opportunity to try applying Thanakha bark paste </strong> </figcaption>
+<figcaption>At the Myanmar booth students had the opportunity to try applying Thanakha bark paste</figcaption>
 </figure>
 
 <figure>
 <img src="/images/2022%20rhd%204.jpg">
-<figcaption> <strong> Our Korean students at their showcase booth </strong> </figcaption>
+<figcaption>Our Korean students at their showcase booth</figcaption>
 </figure>
 
 <figure>
 <img src="/images/2022%20rhd%205.jpg">
-<figcaption> <strong> Our students had fun participating in the RHD  
- </strong> </figcaption>
+<figcaption>Our students had fun participating in the RHD  </figcaption></figure>
 </figure>
