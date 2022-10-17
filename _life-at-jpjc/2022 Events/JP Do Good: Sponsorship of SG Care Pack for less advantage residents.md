@@ -15,7 +15,6 @@ third_nav_title: 2022 Events
 <p>Having learnt about the workings of JS Cares, our team then moved on to the actual distribution activity itself. Students had the opportunity to interact with residents and know more about their life stories. Some even helped elderly residents to carry their SG Care Packs back home. At the end of the event, our team had the honour of meeting with Mr Huang Wei Zhong Shawn, Member of Parliament for Jurong GRC. Mr Huang expressed his appreciation to our students for initiating this project, and the college for sponsoring the SG Care Packs. In his sharing with our team, Mr Huang imparted insightful leadership tips and affirmed them for their great effort. He also encouraged them to continue to serve the community in their own ways beyond this event.</p>
 
 It was indeed a fulfilling and enriching experience for our students and staff, and a meaningful way for the college to celebrate our 57th National Day by giving back to community. Stronger Together, Majulah!
-</div>
 <figure>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg">
@@ -31,5 +30,5 @@ It was indeed a fulfilling and enriching experience for our students and staff, 
 <figcaption><strong>A team selfie with Mr Huang</strong></figcaption>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg">
-<figcaption><strong>Residents at the venue of our food distribution drive</strong></figcaption>
+<figcaption><strong>Residents at the venue of our food distribution drive</strong></figcaption></figure>
 </figure>
