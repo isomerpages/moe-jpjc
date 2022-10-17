@@ -6,13 +6,12 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Tan%20Hui%20Xuan.jpg">
-<figcaption><strong>
-Thanks to a seed of conviction planted during her time in JPJC Hui Xuan continues her good work with the community even after her graduation.</strong></figcaption>
-</figure>
+<figcaption>
+Thanks to a seed of conviction planted during her time in JPJC Hui Xuan continues her good work with the community even after her graduation.</figcaption></figure>
 
 <div align=justify>
 	
-<center><h6><strong>A HEART OF GOLD</strong></h6></center>
+<center><h5>A HEART OF GOLD</h5></center>
 	
 <p>
 After getting her O Level Examination results, Tan Hui Xuan based her choice of tertiary institution mainly according to location preferences. The then 16-year-old did not think much of where this journey would lead but had simply hoped to do well enough to get a place in the college’s leadership development programme which indeed came to pass, thanks to her diligence.</p>
