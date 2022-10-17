@@ -6,13 +6,12 @@ third_nav_title: "2021"
 ---
 <figure>
 <img src="/images/Tibro.jpg">
-<figcaption><strong>Tibro's turnaround tale is a journey of self realisation and change.
-<br>Photo - MOE CEG Unit</strong></figcaption>
-</figure>
+<figcaption>Tibro's turnaround tale is a journey of self realisation and change.
+	<br>Photo - MOE CEG Unit</figcaption></figure>
 
 <div align=justify>
 	
-<center><h6><strong>SAVED FROM THE EDGE</strong></h6></center>
+<center><h5>SAVED FROM THE EDGE</strong></h5>
 
 <p>
 Tibro Karmaker, described his younger self as ‘reckless’, ‘unmotivated’, ‘indifferent’ and ‘playful’. Those were the days when Tibro would simply walk out in the middle of lessons, indifferent to the consequences. Witnessing first-hand how his close friend spiralled down the dark path was his wakeup call. Tibro resolved to turn his life around and to seize every opportunity to improve himself during the two years that he was in Jurong Pioneer Junior College (JPJC).</p>
