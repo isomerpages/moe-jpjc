@@ -4,11 +4,9 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
-### **Arts and Social Sciences Interest Programme**
 <figure>
 <img src="/images/ArtSSIP1.jpg">
-<figcaption><strong>A group photo of our first batch of JPJC ArtSSIP students with our School Leaders and Teacher Advisors.</strong></figcaption>
-</figure>
+<figcaption>A group photo of our first batch of JPJC ArtSSIP students with our School Leaders and Teacher Advisors.</figcaption></figure>
 		 
 <h4><strong>OBJECTIVES</strong></h4>
 <div align=justify>
@@ -16,7 +14,7 @@ third_nav_title: Talent And Leadership
 <ol class="a">
 	<li>To broaden students’ understanding of the arts and social sciences and see the relevance of their learning to the world around them.</li>
 	<li>To cultivate interest and passion for the arts and social sciences so that they will enjoy learning of the subjects inside and outside of the classroom.</li>
-	<li>To prepare students with the necessary foundational competencies (knowledge, skills, and attitude) in their pursuit of the humanities after graduation.</li>
+	<li>To prepare students with the necessary foundational competencies (knowledge, skills, and attitude) in their pursuit of the humanities after graduation.</li></ol>
 
 <figure>
 <img src="/images/artssip%20objective.jpg">
@@ -60,4 +58,3 @@ Students will be offered opportunities to attend seminars and talks organised by
 
 <p>
 <i><strong>** There are additional opportunities afforded through the various <a href="/jpjc-experience/curriculum/humanities-n-the-arts">Humanities/Art</a> subject platform</i></strong></p>
-	</div>
