@@ -4,10 +4,9 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-prog
 description: ""
 third_nav_title: Talent And Leadership
 ---
-### **Arts and Aesthetics**
 <div align=justify>
 <p>
-Objectives:
+Objectives:</p>
 <ul>
 	<li>To inculcate in students a sense of appreciation for the arts.</li>
 	<li>To develop students’ potential for creativity and expression through the arts.</li>
@@ -17,13 +16,11 @@ Objectives:
 
 <figure>
 <img src="/images/JPSpotlight.jpg">
-<figcaption><strong>Winners of JP Spotlight 2021</strong></figcaption>
-</figure>
+<figcaption>Winners of JP Spotlight 2021</figcaption></figure>
 
 <figure>
 <img src="/images/Articulate.jpg">
-<figcaption><strong>Highlights from JPJC’s Art Fest, ARTiculate 2021</strong></figcaption>
-	</figure>
+	<figcaption>Highlights from JPJC’s Art Fest, ARTiculate 2021</figcaption></figure>
 
 <p>JPJC’s very own quarterly Arts Newsletter<br>
 <a href="http://tinyurl.com/Artsyfacts-2021-1">Issue 1</a><br>
@@ -32,5 +29,4 @@ Objectives:
 
 <p>
 JPJC Arts & Aesthetics Instagram Page<br>
-<a href="https://www.instagram.com/artsyjpjc/">Artsy@JPJC</a>
-</div>
+	<a href="https://www.instagram.com/artsyjpjc/">Artsy@JPJC</a></p>
