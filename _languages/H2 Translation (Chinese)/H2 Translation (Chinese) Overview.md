@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/languages/h2-chinese/
 description: ""
 third_nav_title: H2 Translation (Chinese)
 ---
-### **H2 Translation (Chinese)**
 <div align=justify>
 <p>
 Translation (Chinese) is a Chinese medium subject designed to develop students’ interest and proficiency in practical translation as well as critical appreciation of translations.  The subject is offered at H2 level.</p>
@@ -13,8 +12,7 @@ The subject is designed to encourage students’ interest in the Chinese languag
 
 <h4><strong>Prerequisites</strong></h4>
 <p>
-At least A2 in GCE ‘O’ Level English Language and GCE ‘O’ Level Chinese Language</p><br>
-OR<br>
+At least A2 in GCE ‘O’ Level English Language and GCE ‘O’ Level Chinese Language</p>
+<p>OR</p>
 <p>
 At least A2 in GCE ‘O’ Level English Language and at least B3 in GCE ‘O’ Level Higher Chinese Language</p>
-</div>
