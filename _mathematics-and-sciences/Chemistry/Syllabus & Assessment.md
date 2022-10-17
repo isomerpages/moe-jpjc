@@ -4,7 +4,6 @@ permalink: /jpjc-experience/curriculum/mathematics-and-science/chemistry/syllabu
 description: ""
 third_nav_title: Chemistry
 ---
-### **Syllabus & Assessment**
 #### **H1 CHEMISTRY (8873)**
 <div align=justify>
 <p>
@@ -14,15 +13,14 @@ The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extensio
 
 <figure>
 <img src="/images/Chemistry%202.jpg">
-	<figcaption>H1 Chemistry Curriculum Framework</figcaption>
+<figcaption>H1 Chemistry Curriculum Framework</figcaption>
 	</figure>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 
 <figure>
 <img src="/images/Chemistry%203.jpg">
-<figcaption><strong>Content map for H1 Chemistry</strong></figcaption>
-	</figure>
+<figcaption>Content map for H1 Chemistry</figcaption></figure>
 	
 <p>
 Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
@@ -33,9 +31,9 @@ Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
 
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
-This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br>
-All questions will include 4 options.
-<p>
+<p>This paper consists of 30 compulsory multiple choice questions. Four to six items will be of the multiple completion type.<br>
+All questions will include 4 options.</p>
+
 <h5><strong>Paper 2 (2 h, 80 marks)</strong></h5>
 This paper consists of two sections:<br>
 
@@ -45,11 +43,12 @@ This paper consists of two sections:<br>
 	
 <h6><strong>Section B</strong> (20 marks)</h6>
 <p>	
-	Candidates will be required to answer <strong>one</strong> out of two questions. Each question will carry 20 marks. These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+Candidates will be required to answer <strong>one</strong> out of two questions. Each question will carry 20 marks. These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+
 <p>
 For more details on the H1 Chemistry syllabus, click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8873_y22_sy.pdf">here</a> to download the PDF from SEAB website.
 
-<h5><strong>H2 CHEMISTRY (9729)</strong></h5>
+<h4><strong>H2 CHEMISTRY (9729)</strong></h4>
 <p>
 H2 Chemistry aims to develop students’ understanding of the chemical concepts and how these concepts are related within chemistry and to other science discipline. A key feature in the study of H2 Chemistry is the development of students’ ability to navigate between macroscopic phenomena, microscopic interactions and symbolic representation to <strong>attain a deep conceptual understanding of the behaviours of chemical systems</strong>.</p>
 
@@ -63,15 +62,13 @@ The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extensio
 
 <figure>
 <img src="/images/Chemistry%204.jpg">
-<figcaption><strong>H2 Chemistry Curriculum Framework</strong></figcaption>
-	</figure>
+<figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
 
 <figure>
 <img src="/images/Chemistry%205.jpg">
-<figcaption><strong>Content map for H2 Chemistry</strong></figcaption>
-	</figure>
+<figcaption>Content map for H2 Chemistry</figcaption></figure>
 	
 <p>
 Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles. Experimental work is an important component and should underpin the teaching and learning of Chemistry.</p>
@@ -88,12 +85,13 @@ All questions will include 4 options.</p>
 
 <h5><strong>Paper 2 (2 h, 75 marks)</strong></h5>
 <p>
-This paper consists of a variable number of structured questions including data-based questions. All questions are compulsory and answered on the question paper. The data-based question(s) constitute(s) 20-25 marks for this paper.<br>
+This paper consists of a variable number of structured questions including data-based questions. All questions are compulsory and answered on the question paper. The data-based question(s) constitute(s) 20-25 marks for this paper.</p>
+<p>
 The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying and evaluating information. Some questions will also require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
 <h5><strong>Paper 3 (2 h, 80 marks)</strong></h5>
-This paper consists of two sections:<br>
-	<ul>
+This paper consists of two sections:
+<ul>
 	<li><strong>Section A</strong> (60 marks) consists 3\-4 free response questions, all compulsory. Each question constitutes 15-25 marks.<br>
 		<li><strong>Section B</strong> (20 marks) consists <strong>two</strong> questions, each of 20 marks. Candidates are to answer any one question.
 <p>
