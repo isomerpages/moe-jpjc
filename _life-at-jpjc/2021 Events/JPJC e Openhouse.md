@@ -21,13 +21,13 @@ On the day of our e-Open House, around 260 registered participants attended the 
 Organising the 2020 virtual Open House was indeed a learning experience for the college, where we worked through the challenges posed by the COVID-19 pandemic and explored new medium and methods of engagement. We look forward to students joining the JPJC family, to join us in this journey of learning and innovation!</p>
 
 <p>To view our e-Open House event teaser videos, please access these links below:</p>
-
-* 5 Reasons to Choose JPJC
+<ul>
+	<li>5 Reasons to Choose JPJC
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ycm89mHIyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
-
-* Back to College with my Son<br>
-[https://www.youtube.com/watch?fbclid=IwAR3GmWTU7hOXeRXh6FU8na31aauCOp4WOz_LiWTplOI9MLYvvBlVwPXd8qU&v=7y57OLJ6k2I&feature=youtu.be](https://www.youtube.com/watch?fbclid=IwAR3GmWTU7hOXeRXh6FU8na31aauCOp4WOz_LiWTplOI9MLYvvBlVwPXd8qU&v=7y57OLJ6k2I&feature=youtu.be)
-
-* Coming Home to JPJC<br>
-[https://www.youtube.com/watch?fbclid=IwAR0BnFPb1A5WHDsnsCUgFoDxPWviEPMP80xAF63wh7wKnHgrJQKyT6eKTu8&v=bhAZIrc-60I&feature=youtu.be](https://www.youtube.com/watch?fbclid=IwAR0BnFPb1A5WHDsnsCUgFoDxPWviEPMP80xAF63wh7wKnHgrJQKyT6eKTu8&v=bhAZIrc-60I&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ycm89mHIyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure></li>
+	<li>Back to College with my Son
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7y57OLJ6k2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+		<li>Coming Home to JPJC
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhAZIrc-60I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure></li></ul>
