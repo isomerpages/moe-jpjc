@@ -4,8 +4,6 @@ permalink: /life-at-jpjc/2022-events/ogl-camp/
 description: ""
 third_nav_title: 2022 Events
 ---
-
-
 <div align=justify>
 
 <p>JPJC’s annual Orientation Group Leader’s Camp (OGLC), which was held from 5 to 7 January 2022, was designed to develop our Orientation Group Leaders (OGLs) to take charge and lead in the upcoming Matriculation and Orientation (M&O) 2022. During the three-day camp, our OGLs were split into groups within their houses. This allowed for OGLs to step out of their comfort zones and work closely with their peers to complete a variety of activities.</p>
@@ -26,25 +24,20 @@ third_nav_title: 2022 Events
 
 <figure>
 <img src="/images/olgc1.jpg">
-<figcaption><strong>		 
-	Hard at work practising the dance for M&O 2022</strong></figcaption>
+<figcaption>Hard at work practising the dance for M&O 2022</figcaption>
 </figure>
 	
 <figure>
 <img src="/images/olgc2.jpg">
-<figcaption> <strong> House Ursa OGLs having fun creating props for M&O 2022 
- </strong> </figcaption>
+<figcaption>House Ursa OGLs having fun creating props for M&O 2022</figcaption>
 </figure>
 
 <figure>
 <img src="/images/olgc3.jpg">
-<figcaption> <strong> Our OGLS put much thought into designing games for their incoming juniors 
- </strong> </figcaption>
+<figcaption>Our OGLS put much thought into designing games for their incoming juniors</figcaption>
 </figure>
 
 <figure>
 <img src="/images/olgc4.jpg">
-<figcaption> <strong> Our OGLs putting their heads together to complete one of the games for M&O 2022  
- </strong> </figcaption>
+<figcaption>Our OGLs putting their heads together to complete one of the games for M&O 2022</figcaption>
 </figure>
-</div>
