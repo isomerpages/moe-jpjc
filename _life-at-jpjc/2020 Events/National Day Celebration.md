@@ -4,7 +4,7 @@ permalink: /life-at-jpjc/2020-events/ndp-celebration/
 description: ""
 third_nav_title: 2020 Events
 ---
-<div align=justifyp>
+<div align=justify>
 <p>
 In line with Singapore’s National Day 2020 theme, “Together, A Stronger Singapore”, Jurong Pioneer Junior College (JPJC) commemorated our nation’s birthday with elements of blended activities (both online and face-to-face). This enabled the participation of the entire college despite the constraints posed by the COVID-19 pandemic, while simulating the traditional celebratory atmosphere of this annual affair. The celebration also aimed to provide valuable opportunities for active staff and student bonding while adhering to stringent Safe Management Measures (SMM).</p>
 
