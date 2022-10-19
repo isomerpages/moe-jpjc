@@ -12,8 +12,8 @@ sections:
       dropdown:
         title: Announcements
         options:
-          - title: DSA for JPJC 2022
-            url: https://staging.d1kt1aspitrtfv.amplifyapp.com/about/dsa-2022/
+          - title: test announcement
+            url: /announcements/test/
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
