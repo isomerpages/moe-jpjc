@@ -36,7 +36,7 @@ JPJC values perseverance, resilience and humility. Together, they result in an i
 JPJC seeks to nurture respectful and compassionate leaders who are critical and creative thinkers, and serve responsibly in service of others.
 </p>
 
-<center><h5><strong>Infinite love. </strong></h5></center></center>
+<center><h5><strong>Infinite love. </strong></h5></center>
 <p>
 The colours of the crest emanate passion for growth, learning and giving, being anchored by depth of thinking and steadfastness. Maroon radiates intensity of passion and courage, representing strength and warmth. Dark blue symbolises intelligence and wisdom. It also exudes confidence and equanimity. The two colours intertwine to create a constant flow of JPJC’s ideals, mutually enhancing and empowering.</p>
 
