@@ -11,9 +11,7 @@ sections:
       background: /images/top-banner.jpg
       dropdown:
         title: Announcements
-        options:
-          - title: test announcement
-            url: /announcements/test/
+        options: []
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
