@@ -30,7 +30,6 @@ All in all, STEM Day was certainly a highlight that took place in the midst of a
 <img src="/images/jpjcSTEM4.jpg">
 <figcaption>Magic Colours - changing the colour of solutions with just a shake</figcaption><br>
 
-<figure>
 <img src="/images/jpjcSTEM5.jpg">
 <figcaption>Making and Tasting 'Caviar' at the Molecular Gastronomy booth</figcaption><br>
 
