@@ -4,11 +4,9 @@ permalink: /about/college-identity/college-anthem/
 description: ""
 third_nav_title: College Identity
 ---
-**-video not uploaded on youtube-**
-
-**College Anthem - Video**
-
-**-audio-**
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uYPGuu23xjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption><strong>College Anthem - Video</strong></figcaption></figure>
 
  **College Anthem - Audio only**
 <center><p>
