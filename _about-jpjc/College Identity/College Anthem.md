@@ -8,7 +8,6 @@ third_nav_title: College Identity
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uYPGuu23xjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption><strong>College Anthem - Video</strong></figcaption></figure>
 
- **College Anthem - Audio only**
 <center><p>
  Different paths we had before, now together we will soar.<br>
 Boundless love, endless growth. <br>
