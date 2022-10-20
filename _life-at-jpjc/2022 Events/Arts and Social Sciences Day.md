@@ -35,4 +35,3 @@ third_nav_title: 2022 Events
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/6%20A%20student%20voting%20on%20the%20impact%20of%20social%20media%20on%20his%20life.jpg">
 <figcaption>A student voting on the impact of social media on his life</figcaption></figure>
-</figure>
