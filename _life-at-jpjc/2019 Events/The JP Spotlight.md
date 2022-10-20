@@ -28,7 +28,7 @@ This event was a valuable platform for students to showcase their talents. The s
 <figcaption>Lim En Cheng, 19S24, who impressed with a violin performance.</figcaption><br>
 
 <img src="/images/jps%203.jpg">
-<figcaption> <strong> Sarah who came in 2nd place for 'Tell Me You Love Me'</figcaption><br>
+<figcaption>Sarah who came in 2nd place for 'Tell Me You Love Me'</figcaption><br>
 
 <img src="/images/jps%204.jpg">
 <figcaption>Yi Yang's magic show</figcaption><br>
