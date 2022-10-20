@@ -34,5 +34,4 @@ This event was a valuable platform for students to showcase their talents. The s
 <figcaption>Yi Yang's magic show</figcaption><br>
 
 <img src="/images/jps5.jpg">
-<figcaption>Supportive Audience</figcaption>
-</figure>
+<figcaption>Supportive Audience</figcaption></figure>
