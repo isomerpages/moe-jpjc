@@ -5,7 +5,7 @@ description: ""
 third_nav_title: History
 ---
 <figure>
-<img src="/images/PJC1.jpg"></figure>
+<img src="/images/PJC1.jpg" style="width:40%"></figure>
 <div align=justify>
 <p>
 Pioneer Junior College (PJC) was established in 1999 and opened its doors to its first cohort of students on 2 January 2000 at a holding site located along Science Centre Road, under the leadership of its first Principal, Mr Kwek Hiok Chuang. It was in 2004 that the college moved into its permanent home at 21 Teck Whye Walk and was officially declared open by the then Education Minister Mr Tharman Shanmugaratnam.</p>
