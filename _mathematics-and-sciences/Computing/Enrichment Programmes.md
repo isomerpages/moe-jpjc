@@ -10,8 +10,7 @@ The computing unit in JPJC believes in providing experiential learning for stude
 
 <figure>
 <img src="/images/comp2.jpg">
-<figcaption><strong>Xpert Series with Mr Vincent Choy (JJC Alumnus, Class of 1985), Senior Consultant for Cloud Computing</strong></figcaption>
-	</figure>
+<figcaption>Xpert Series with Mr Vincent Choy (JJC Alumnus, Class of 1985), Senior Consultant for Cloud Computing</figcaption></figure>
 
 <ol>
 	<li><strong>Competitions</strong><br>
@@ -21,4 +20,4 @@ Students had the opportunity to participate in BuildingBloCS, an annual event wh
 	<li><strong>Learning Journeys</strong><br>
 		Students attended workshops and talks at NUS, NTU, STUD, ESTL and various industry partners.</li>
 	<li><strong>Workshadowing opportunities</strong><br>
-Sudents were given opportunities to intern at companies such as Wilmar and SideFX.</li>
+	Sudents were given opportunities to intern at companies such as Wilmar and SideFX.</li></ol>
