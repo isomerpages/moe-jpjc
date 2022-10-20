@@ -47,7 +47,7 @@ As part of the programme’s effort to cultivate interest and passion for the ar
 Our college also offers DSA Art to secondary school students who demonstrate strong interest and ability in the visual arts. Students who are offered the DSA will be given a wide array of opportunities in the college to further pursue their interest and be involved in organising various art enrichment activities for their peers.</p>
 
 <p>
-<i><strong>** There are additional opportunities afforded through the various <a href="/jpjc-experience/curriculum/humanities-n-the-arts">Humanities/Art</a> subject platform</i></strong></p>
+<i><strong>** There are additional opportunities afforded through the various <a href="/jpjc-experience/curriculum/humanities-n-the-arts">Humanities/Art</a> subject platform</strong></i></p>
 
 <h5><strong>Internship and Work-shadowing</strong></h5>
 <p>
@@ -58,4 +58,4 @@ Working closely with the college ECG team, students will be offered opportunitie
 Students will be offered opportunities to attend seminars and talks organised by the local universities and think-tanks that provides them with an insight to contemporary issues related to Singapore and the World.</p>
 
 <p>
-<i><strong>** There are additional opportunities afforded through the various <a href="/jpjc-experience/curriculum/humanities-n-the-arts">Humanities/Art</a> subject platform</i></strong></p>
+<i><strong>** There are additional opportunities afforded through the various <a href="/jpjc-experience/curriculum/humanities-n-the-arts">Humanities/Art</a> subject platform</strong></i></p>
