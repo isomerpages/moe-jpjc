@@ -32,20 +32,20 @@ These were reinforced by the college’s Vision and Mission Statements, which we
 
 <h5><strong>Vision: College of Choice, Education of Value</strong></h5>
 <p>
-Mission: Nurturing confident learners with a global outlook. Developing leaders of character with a heart to serve.**
+Mission: Nurturing confident learners with a global outlook. Developing leaders of character with a heart to serve.
 </p>
 <p>
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
 <p>
-Principals:
+Principals:</p>
 	<ul>
 		<li>Mr. Koh Beng Thiam (1981-1986)</li>
 		<li>Mr. V. Govindarrasu (1987-1993)</li>
 		<li>Ms Ching Ah Kim (1994-2002)</li>
 		<li>Mr. Koh Yong Chiah (2003-2009)</li>
 		<li>Ms Tay Lai Ling (2010-2015)</li>
-		<li>Dr Hang Kim Hoo (2016-2018)</li></p>
+		<li>Dr Hang Kim Hoo (2016-2018)</li>
 
 <figure>
 <h5><strong>JJ Heritage Video</strong></h5>
