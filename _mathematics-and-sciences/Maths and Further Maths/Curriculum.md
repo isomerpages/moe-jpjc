@@ -15,7 +15,8 @@ In Jurong Pioneer Junior College, we offer four Mathematics syllabuses to cater
 <h4><strong>H1 Mathematics (Syllabus 8865)</strong></h4>
 
 <p>
-H1 Mathematics is designed to provide students with a foundation in mathematics and statistics that will support their business or social sciences studies at the university. It is particularly appropriate for students without an Additional Mathematics background because it offers an opportunity for them to learn important mathematical concepts and skills in algebra and calculus that are covered in Additional Mathematics. Students will also learn basic statistical methods that are necessary for studies in business and social sciences.<br>
+H1 Mathematics is designed to provide students with a foundation in mathematics and statistics that will support their business or social sciences studies at the university. It is particularly appropriate for students without an Additional Mathematics background because it offers an opportunity for them to learn important mathematical concepts and skills in algebra and calculus that are covered in Additional Mathematics. Students will also learn basic statistical methods that are necessary for studies in business and social sciences.</p>
+<p>
 <strong>Assumed knowledge: O-Level Mathematics</strong></p>
 
 <h4><strong>H2 Mathematics (Syllabus 9758)</strong></h4>
