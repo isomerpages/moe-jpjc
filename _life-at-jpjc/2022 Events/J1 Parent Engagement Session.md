@@ -35,4 +35,4 @@ Following this, the teacher-in-charge of the Parent Support Group, Mdm Siti Atiq
 </figure>
 
 <p>
-The J1 Parents Engagement Session was an enriching session for all, and the college will continue to work closely with parents to foster greater home-school partnership to ensure the holistic development of all students.</pS>
+The J1 Parents Engagement Session was an enriching session for all, and the college will continue to work closely with parents to foster greater home-school partnership to ensure the holistic development of all students.</p>
