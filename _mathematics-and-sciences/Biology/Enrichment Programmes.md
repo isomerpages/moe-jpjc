@@ -11,4 +11,4 @@ Exciting learning journeys to Lee Kong Chian Natural Museum and Science Centre s
 Students will also take part in competitions such as Singapore Biology Olympiad and LKCMedicine Anatomy Challenge that enrich their knowledge and expose them to higher order thinking. They also engage with local and overseas scientists to further enhance their scientific knowledge.</p>
 <figure>
 <img src="/images/Biology%201.jpg">
-	<figcaption><strong>Enrichment Programmes organised for the students!</strong></figcaption></figure>
+	<figcaption>Enrichment Programmes organised for the students!</figcaption></figure>
