@@ -19,12 +19,12 @@ In 1985, staff and students moved to their permanent home at 800 Corporation Roa
 In 2006, an eventful year, the college was selected as the fourth Centre for the Language Elective Programme (Chinese) and the Centre of Excellence for Character Development in the West Zone. JJ was also the first junior college in Singapore to receive the Outstanding Development Award for Character Development that year. The college was revalidated for this award in 2011. 
 </p>
 <p>
-Over the years, there was ongoing work behind the scenes to create a unique JJ identity that would be enduring as well as create a sense of belonging. Eventually, the core values were distilled into:
+Over the years, there was ongoing work behind the scenes to create a unique JJ identity that would be enduring as well as create a sense of belonging. Eventually, the core values were distilled into:</p>
 <ul>
 	<li>Appreciation</li>
 	<li>Responsibility</li>
 	<li>Motivation</li>
-	<li>Discipline</li></p>
+	<li>Discipline</li>
 
 <p>
 These were reinforced by the college’s Vision and Mission Statements, which were refined by the various principals who helmed JJ.
