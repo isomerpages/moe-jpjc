@@ -15,7 +15,7 @@ Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 <h4><strong>Curriculum Framework</strong></h4>
 
 <p>
-The <i><strong>Practices of Science</i></strong>, <i><strong>Core Ideas in Physics</strong></i> and <i><strong>Learning Experiences</strong></i> are put together in a framework to guide the development of the H2 Physics curriculum.</p>
+The <i><strong>Practices of Science</strong></i>, <i><strong>Core Ideas in Physics</strong></i> and <i><strong>Learning Experiences</strong></i> are put together in a framework to guide the development of the H2 Physics curriculum.</p>
 
 <figure>
 	<img src="/images/Physics_JPJC_Assessment.jpg"></figure>
@@ -33,7 +33,7 @@ The <i><strong>Learning Experiences</strong></i> refer to a range of learning 
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 
-<h5><strong>Paper 1 (1 h, 30 marks)</strong></h6>
+<h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
 <p>
 This paper will consist of 30 compulsory multiple-choice questions. All questions will be of the direct choice type with 4 options.</p>
 
