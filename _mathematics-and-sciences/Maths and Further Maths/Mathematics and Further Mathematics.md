@@ -8,7 +8,7 @@ third_nav_title: Maths and Further Maths
 <figure>
 <img src="/images/maths1%20(1).jpg">
 <figcaption>
-A Mathematics tutorial lesson in progress</figure>
+A Mathematics tutorial lesson in progress</figcaption></figure>
 
 <h3><strong>Introduction</strong></h3>
 <p>
