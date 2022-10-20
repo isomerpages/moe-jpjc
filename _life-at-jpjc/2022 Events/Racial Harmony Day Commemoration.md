@@ -18,11 +18,6 @@ third_nav_title: 2022 Events
 </figure>
 
 <figure>
-<img src="/images/2022%20rhd%201.jpg">
-<figcaption>Students trying their hand at Chinese calligraphy</figcaption>
-</figure>
-
-<figure>
 <img src="/images/2022%20rhd%202.jpg">
 <figcaption>Malay Cultural Society students at their showcase booth</figcaption>
 </figure>
