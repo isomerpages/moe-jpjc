@@ -4,7 +4,7 @@ permalink: /about/history/
 description: ""
 third_nav_title: History
 ---
-##### **History**
+<h3><strong>History</strong></h3>
 <div align=justify>
 <p>
 Founded in April 1981, JJ was the 9th junior college in Singapore. In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
@@ -30,7 +30,7 @@ Over the years, there was ongoing work behind the scenes to create a unique JJ i
 These were reinforced by the college’s Vision and Mission Statements, which were refined by the various principals who helmed JJ.
 </p>
 
-<h5><strong>Vision: College of Choice, Education of Value</strong></h5>
+<h4><strong>Vision: College of Choice, Education of Value</strong></h4>
 <p>
 Mission: Nurturing confident learners with a global outlook. Developing leaders of character with a heart to serve.
 </p>
@@ -48,13 +48,13 @@ Principals:</p>
 		<li>Dr Hang Kim Hoo (2016-2018)</li>
 
 <figure>
-<h5><strong>JJ Heritage Video</strong></h5>
+<h4><strong>JJ Heritage Video</strong></h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
-<h5><strong>Motto</strong></h5>
+<h4><strong>Motto</strong></h4>
 Plus Ultra
 
-<h5><strong>Crest</strong></h5>
+<h4><strong>Crest</strong></h4>
 
 <img src="/images/original%20crest.jpg" 
      style="width:25%">
@@ -69,7 +69,7 @@ During the rebranding exercise in the early 2000s, green became the principle co
 </p>
 
 
-<h5><strong><center>College Song</center></strong></h5>
+<h4><strong><center>College Song</center></strong></h4>
 
 
 <center>The road unwinds before us<br>
@@ -95,7 +95,7 @@ This College sets ablaze
 
 <strong>Repeat Chorus</strong>
  
-<h5><strong>JJ Spirit Song</strong></h5>
+<h4><strong>JJ Spirit Song</strong></h4>
 JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
@@ -119,11 +119,11 @@ Sincere and always true
 
 <strong>Repeat Chorus</strong></center>
 
-<h5><strong>Milestones</strong></h5>
+<h4><strong>Milestones</strong></h4>
 <figure>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=800px scrolling="no"></iframe></figure>
 	
-<h5><strong>Photo Gallery</strong></h5>
+<h4><strong>Photo Gallery</strong></h4>
 <figure>
 <img src="/images/gallery%201.jpg">
 <img src="/images/gallery%202.jpg">
@@ -135,7 +135,7 @@ Sincere and always true
 
 Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1004999109613821">here</a> for more photos.
 
-<h5><strong>35th Anniversary lunch</strong></h5>
+<h4><strong>35th Anniversary lunch</strong></h4>
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
