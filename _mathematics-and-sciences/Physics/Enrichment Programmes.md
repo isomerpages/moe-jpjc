@@ -53,9 +53,9 @@ Physics students with strong interest in Physics, and especially in research, wi
 A team of 12 JC2 students took part in the Electric Vehicle Design Challenge organised by the Singapore University of Technology and Design (SUTD). This is the first time that the college took part in this competition. The team worked tirelessly for 6 weeks to build the vehicle from scratch using simple tools. The students had to innovate and improvise along the way as they put together the different electrical components and mechanical parts of the vehicle. They had to overcome many challenges, such as the lack of advanced tools, faulty wheel alignment and a burnt circuit board. At the end, their resilience and perseverance paid off and they managed to complete a fully functioning electric vehicle. The vehicle passed all the required safety checks at SUTD and it was cleared to participate in the EV competitive races on 11 and 12 May at Heartbeat@Bedok. Even though the team vehicle did not emerge as one of the top teams in the race, it completed all the rounds with respectable timings comparable to polytechnics and other more experienced schools. Given that this was the first time the college participated in this competition, it was a commendable achievement and effort on the part of the students. Most importantly, the students gained&nbsp;new knowledge and hands-on skills in building the vehicle. It was a rare and enriching experience for all of them.</p>
 
 <figure>
-<img src="/images/physics%2018.jpg">
-<img src="/images/physics%2019.jpg">
-<img src="/images/physics%2010.jpg">		 
+<img src="/images/physics%2018.jpg"><br>
+<img src="/images/physics%2019.jpg"><br>
+<img src="/images/physics%2010.jpg"><br>
 <figcaption>SUTD Electric Vehicle Design Challenge 2019</figcaption></figure>
 
 <h3><strong>Engineering Innovation Challenge 2020</strong></h3>
