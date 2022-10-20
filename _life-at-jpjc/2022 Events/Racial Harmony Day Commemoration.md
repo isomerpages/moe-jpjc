@@ -14,7 +14,7 @@ third_nav_title: 2022 Events
 
 <figure>
 <img src="/images/2022%20rhd%201.jpg">
-<figcaption> <strong> Students trying their hand at Chinese calligraphy </strong> </figcaption>
+<figcaption>Students trying their hand at Chinese calligraphy</figcaption>
 </figure>
 
 <figure>
