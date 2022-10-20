@@ -39,7 +39,7 @@ The college had also produced four Public Service Commission scholars and a Pre
 <h5><strong>The College Crest</strong></h5>
 
 <figure>
-	<img src="/images/PJC1.jpg"></figure>
+<img src="/images/PJC1.jpg" style="width:40%"></figure>
 
 <h5><strong>Introduction</strong></h5>
 <p>
