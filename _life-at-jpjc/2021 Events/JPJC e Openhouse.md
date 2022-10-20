@@ -22,12 +22,12 @@ Organising the 2020 virtual Open House was indeed a learning experience for the 
 
 <p>To view our e-Open House event teaser videos, please access these links below:</p>
 <ul>
-	<li>5 Reasons to Choose JPJC
+	<li>5 Reasons to Choose JPJC</li>
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ycm89mHIyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure></li>
-	<li>Back to College with my Son
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ycm89mHIyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+	<li>Back to College with my Son</li>
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7y57OLJ6k2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
-		<li>Coming Home to JPJC
+	<li>Coming Home to JPJC</li></ul>
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bhAZIrc-60I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure></li></ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhAZIrc-60I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
