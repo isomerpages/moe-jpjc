@@ -8,7 +8,7 @@ third_nav_title: Students
 
 <figure>
 <img src="/images/Calista%20Wong%20Shi%20Ting_Photo%201.jpeg">
-</figcaption>Calista’s strong interest in global affairs and the humanities and her keen conviction to making a difference to society saw her successfully being awarded the NUS Global Merit Scholarship. Congratulations, Calista!</figcaption></figure>
+<figcaption>Calista’s strong interest in global affairs and the humanities and her keen conviction to making a difference to society saw her successfully being awarded the NUS Global Merit Scholarship. Congratulations, Calista!</figcaption></figure>
 
 <p>
 We are pleased to announce that Calista Wong Shi Ting of 18A07, a Jurong Pioneer Junior College (JPJC) alumnus, has been awarded the National University of Singapore (NUS) Global Merit Scholarship 2020. This NUS Scholarship is awarded to high-calibre individuals who demonstrate academic excellence, present excellent co-curricular activities records and exhibit outstanding leadership qualities. NUS Scholars are expected to contribute significantly to the NUS community while in NUS, and emerge as dynamic global leaders who are capable of effecting a positive change to society after they graduate.</p>
