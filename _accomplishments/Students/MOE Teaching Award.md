@@ -61,7 +61,7 @@ As an eloquent and confident young lady with a keen passion for Malay culture, h
 <p>
 “JPJC has certainly supported me, especially during the period leading up to the ‘A’ Level examinations. I found the Night Study Programme to be extremely useful in particular, because of how it was structured such that we had teachers around who were more than willing to help us. Not only that - most teachers would actually free up their time just for their students to allow them to seek post-lesson consultations. These consultations were what I found most useful, as they gave me the time and opportunity to ask questions regarding lessons and review extra work I completed, which helps me to identify the areas I was weaker at. This preparation helped in building my confidence for the examinations.”</p>
 
-<h5><strong>Do you have any words of advice for your juniors?</strong></h6>
+<h5><strong>Do you have any words of advice for your juniors?</strong></h5>
 <p>
 “Never give up. As cliche as it sounds, it is true. The A Level examination can be very very unexpected. The results you get can also be something very unexpected. So just try your best and always have close rapport with your teachers. They will be the ones who will help you alongside your family. But that being said, don't be too absorbed in chasing grades too. Spend time with your family and friends too. Be sure of the courses you want to pursue, and find out the entry requirements. All the best!”</p>
 
