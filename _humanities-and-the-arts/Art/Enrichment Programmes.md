@@ -15,7 +15,7 @@ As part of our curriculum, students embark on a <strong>Museum Based Learning</
 <figure>
 <img src="/images/Art5.jpg">
 “An Exercise of Meaning in a Glitch Season” at the National Gallery Singapore in 2020. Past exhibitions our students have gone to include “Colours Of Impressionism: Masterpieces From The Musée D’orsay” and “Reframing Modernism”.</figcaption></figure>
-<h4><strong><li>Park(ing) Day**</li></strong></h4>
+<h4><strong><li>Park(ing) Day</li></strong></h4>
 <p>
 <strong>PARK(ing) Day</strong> is an annual event jointly organised by SUTD and URA. On this day, people come together to creatively re-imagine regular parking lots as art spaces, injecting vibrancy and fun into the streets. Through this project, the students experience urban design, real-world prototyping, community engagement and creative expression while at the same time learn to appreciate urban culture and sustainability.
 </p>
