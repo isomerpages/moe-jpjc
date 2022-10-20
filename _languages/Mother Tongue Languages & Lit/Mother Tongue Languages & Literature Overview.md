@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Mother Tongue Languages & Lit
 ---
 <figure>
-<img src="images/mtl.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Languages/MTLL/Pic_1.png">
+</figure>
 <div align=justify>
 <p>
 For students with a flair for Mother Tongue languages, the curriculum aims to enhance their language proficiency. Students will read a variety of texts including authentic materials reflective of everyday situations and contexts, so that they can be confident and proficient users of the language.</p>
