@@ -45,10 +45,10 @@ All in all, it was a fruitful Post Examination Activities Day for the JC1 cohort
 
 <figure>
 <img src="/images/jc1postexam5.png">
-<figcaption>PM Programme - A\_A (Art of Batik Painting) Students with their completed work</figcaption>
+<figcaption>PM Programme - A&A (Art of Batik Painting) Students with their completed work</figcaption>
 </figure>
 
 <figure>
 <img src="/images/jc1postexam6.jpg">
-<figcaption>PM Programme - A\_A (Practical Watercolour Painting Technique) Demonstration</figcaption>
+<figcaption>PM Programme - A&A (Practical Watercolour Painting Technique) Demonstration</figcaption>
 </figure>
