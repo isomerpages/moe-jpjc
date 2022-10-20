@@ -8,7 +8,7 @@ third_nav_title: Talent And Leadership
 <center><h5>“We Get YOU Places”</h5></center>
 
 <p>
-The Scholars Development Programme adopts a broad-based and holistic approach that aims to <strong><span style="color:#b74b4b">develop our members</strong></span> to their full potential, <strong><span style="color:#b74b4b">groom them for scholarships</strong></span> of their choice and <strong><span style="color:#b74b4b">empower them</strong></span> to achieve their career goals and aspirations. The programme also develops all members of this programme to be compassionate, informed (global outlook & concerned citizen) and skilful leaders who would take on a scholarship and serve the community in his/her best capacity in future.</p>
+The Scholars Development Programme adopts a broad-based and holistic approach that aims to <strong><span style="color:#b74b4b">develop our members</span></strong> to their full potential, <strong><span style="color:#b74b4b">groom them for scholarships</span></strong> of their choice and <strong><span style="color:#b74b4b">empower them</span></strong> to achieve their career goals and aspirations. The programme also develops all members of this programme to be compassionate, informed (global outlook & concerned citizen) and skilful leaders who would take on a scholarship and serve the community in his/her best capacity in future.</p>
 
 <p>	
 <strong>Mission:</strong> To provide promising students with meaningful guidance, opportunities and exposure to make them compassionate, informed and skilful leaders in the 21st Century.</p>
