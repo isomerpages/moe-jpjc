@@ -143,21 +143,21 @@ We believe: While we live, we learn.
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSRBFu1AT23l7C-P05nMgRP5jhZuoyvG46-VhVtyE2aU0RxGLRoiyHgsgDjUpu3Q-fGaq4LnjRzTs6C/pub?embedded=true" width=800px height=3900px scrolling="no"></iframe>
 
 <figure>
-<img src="/images/2000jpc.jpg">
-<img src="/images/2001jpc.jpg">
-<img src="/images/2003jpc.jpg">
-<img src="/images/2004jpc.jpg">
-<img src="/images/2005jpc.jpg">
-<img src="/images/2006jpc.jpg">
-<img src="/images/2007jpc.jpg">
-<img src="/images/2008jpc.jpg">
-<img src="/images/2009jpc.jpg">
-<img src="/images/2010jpc.jpg">
-<img src="/images/2011jpc.jpg">
-<img src="/images/2012jpc.jpg">
-<img src="/images/2013jpc.jpg">
-<img src="/images/2014jpc.jpg">
-<img src="/images/2015jpc.jpg">
-<img src="/images/2016jpc.jpg">
-<img src="/images/2017jpc.jpg">
+<img src="/images/2000jpc.jpg"><br>
+<img src="/images/2001jpc.jpg"><br>
+<img src="/images/2003jpc.jpg"><br>
+<img src="/images/2004jpc.jpg"><br>
+<img src="/images/2005jpc.jpg"><br>
+<img src="/images/2006jpc.jpg"><br>
+<img src="/images/2007jpc.jpg"><br>
+<img src="/images/2008jpc.jpg"><br>
+<img src="/images/2009jpc.jpg"><br>
+<img src="/images/2010jpc.jpg"><br>
+<img src="/images/2011jpc.jpg"><br>
+<img src="/images/2012jpc.jpg"><br>
+<img src="/images/2013jpc.jpg"><br>
+<img src="/images/2014jpc.jpg"><br>
+<img src="/images/2015jpc.jpg"><br>
+<img src="/images/2016jpc.jpg"><br>
+<img src="/images/2017jpc.jpg"><br>
 <img src="/images/2018jpc.jpg"></figure>
