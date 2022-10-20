@@ -28,6 +28,5 @@ H1 Level CSE Assessment</center></strong></h4>
 <p>
 The assessment comprises one written examination paper. The paper will consist of two sections: Section A (Case Study) and Section B (Essay Questions).</p>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vR4S95ADwmww5KGYeebRVo08f68ngYE8y7Fm2a0shurHIc8JZ_VdnW9FiaygBzBxCAm8yKtouRVdzBG/pub?embedded=true" width=800px height=250px scrolling="no"></iframe>
-</center>
 <p>
 You may access detailed information on the H1 ‘A’ Level CSE Syllabus and Assessment <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8628_y21_sy.pdf">here</a>.</p>
