@@ -41,4 +41,3 @@ third_nav_title: 2022 Events
 <figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/National%20Day%20Celebrations/Photo%206%20House%20Exco%20leading%20mass%20singalong%20in%20LT.jpg">
 <figcaption>House Exco leading mass singalong in LT</figcaption></figure>
-</figure>
