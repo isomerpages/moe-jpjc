@@ -12,7 +12,6 @@ The H2 CSE syllabus content is grouped by four key issues - Governing China and 
 <h4><strong><center>Assessment Table<br>
 H2 Level CSE Assessment</center></strong></h4>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTDXMKzo8HVFyZM4F-ddfXK98Gnj_C31bmYF2Z01qj4a5LQ4N7p4nVrZ88rihrTRC_-o1bpMQmUGwEd/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
-</center>
 
 <h6><u>Paper 3: Independent Study Paper</u></h6>
 <p>
