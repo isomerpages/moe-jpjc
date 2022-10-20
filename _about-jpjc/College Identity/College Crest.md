@@ -31,7 +31,7 @@ JPJC believes that every child has limitless capacity for growth and is dedicate
 JPJC values perseverance, resilience and humility. Together, they result in an indomitable character with an unceasing pursuit for improvement of self and betterment of community.
 </p>
 
-<center><h5><strong>Infinite growth.</strong></h5></center></center>
+<center><h5><strong>Infinite growth.</strong></h5></center>
 <p>
 JPJC seeks to nurture respectful and compassionate leaders who are critical and creative thinkers, and serve responsibly in service of others.
 </p>
