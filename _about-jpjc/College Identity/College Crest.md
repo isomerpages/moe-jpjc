@@ -7,7 +7,7 @@ third_nav_title: College Identity
 <h4><strong>Jurong Pioneer Junior College – Crest</strong></h4>
 
 <figure>
-<img src="/images/JPJC%20sch%20crest.jpg"></figure>
+<img src="/images/JPJC%20sch%20crest.jpg" style="width:30%"></figure>
 
 <div align=justify>
 <p>		 
