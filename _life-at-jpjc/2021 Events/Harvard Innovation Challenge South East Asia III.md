@@ -17,14 +17,14 @@ Our students who attended the conference were enthused and learnt much from thei
 <p>
 Rukhsana Bi, who was awarded Outstanding Delegate and was also part of the team that attained First Place for their conference track shared:</p>
 
-<figcaption>
-“I definitely widened my knowledge on topics relating to well-being and equity. As I was already interested in these topics, I really enjoyed being able to clarify my doubts as well as listen to other perspectives and experiences. It was also exciting as I was able to make friends with my peers from different parts of Southeast Asia, and even got to know others from Singapore. I felt a sense of belonging when conversing with like-minded students who understood my interests.”</figcaption>
+<figcaption><i>
+“I definitely widened my knowledge on topics relating to well-being and equity. As I was already interested in these topics, I really enjoyed being able to clarify my doubts as well as listen to other perspectives and experiences. It was also exciting as I was able to make friends with my peers from different parts of Southeast Asia, and even got to know others from Singapore. I felt a sense of belonging when conversing with like-minded students who understood my interests.”</i></figcaption>
 
 <p>
-	Elyse Tan Xuanle, who was awarded an Honorable Mention for her conference track shared:</p>
+Elyse Tan Xuanle, who was awarded an Honorable Mention for her conference track shared:</p>
 
-<figcaption>
-“My favourite segment was the talk on cultural intelligence. Although it was brief, I definitely learnt a lot and I also had the opportunity to get an in-depth answer to my question. Overall, HIC was an extremely well-structured and informative event that was clearly driven by the passion for education, and I am sincerely grateful for the opportunity to have experienced it.”</figcaption>
+<figcaption><i>
+“My favourite segment was the talk on cultural intelligence. Although it was brief, I definitely learnt a lot and I also had the opportunity to get an in-depth answer to my question. Overall, HIC was an extremely well-structured and informative event that was clearly driven by the passion for education, and I am sincerely grateful for the opportunity to have experienced it.”</i></figcaption>
 
 <figure>
 <img src="/images/Harvard.jpg">
