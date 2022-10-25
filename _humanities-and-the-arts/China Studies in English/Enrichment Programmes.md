@@ -6,7 +6,7 @@ third_nav_title: China Studies in English
 ---
 <div align=justify>
 <figure>
-<img src="/images/CSE%20Enrichment.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/China%20Studies%20in%20English/Enrichment%20Programmes/pic1.jpg">
 <figcaption>Overseas Field trip to Xiamen-Jinmen-Taipei</figcaption></figure>
 
 <h4><strong>Seminars/Lectures by University lecturers</strong></h4>
