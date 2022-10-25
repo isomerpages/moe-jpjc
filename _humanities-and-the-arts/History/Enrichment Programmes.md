@@ -6,7 +6,7 @@ third_nav_title: History
 ---
 <div align=justify>
 <figure>
-<img src="/images/history%20enrichment.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/History/Enrichment%20Programmes/pic1.jpg">
 <figcaption>JPJC H2 History Students visiting the National Gallery as part museum-based learning in 2019.</figcaption></figure>
 
 <ol>
@@ -14,7 +14,7 @@ third_nav_title: History
 The Unit identifies and trains interested students for related competitions such as the History Bee and Bowl Asian Division as well as the Biennial ASEAN Quiz. These competitions provide participants opportunities to work together in teams as well as deepen their knowledge and skills in areas they are passionate in.
 	
 <figure>
-<img src="/images/history%20enrichment%202.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/History/Enrichment%20Programmes/pic2.jpg">
 <figcaption>J1 History students participating in the 2020 ASEAN quiz.</figcaption></figure>
 	<li><h5><strong>MUNs/SMC</strong></h5></li>
 
