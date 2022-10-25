@@ -6,9 +6,10 @@ third_nav_title: Geography
 ---
 <div align=justify>
 <figure>
-<img src="/images/geog1.jpg">
-<img src="/images/geog2.jpg">
-<img src="/images/geog3.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Geography/Enrichment%20Programmes/pic1.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Geography/Enrichment%20Programmes/pic2.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Geography/Enrichment%20Programmes/pic3.jpg">
+</figure>
 
 <ol>
 	<li><strong>Geographical Investigation</strong>- Students will get an opportunity to apply what they have learnt in the classroom through fieldwork. This can include assessing flood risk in a drainage basin, investigating the influence of landuse on infiltration rates or conducting needs analysis of the elderly living in an urban neighbourhood. This enables students to construct understanding through geographical inquiry using data collection and analysis methods.</li>
