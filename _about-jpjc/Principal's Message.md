@@ -4,7 +4,8 @@ permalink: /about/principals-message/
 description: ""
 ---
 <figure>
-<img src="/images/About%20JPJC/Principal's%20Message/p_msg_1.jpg"></figure>
+<img src="/images/About%20JPJC/Principal's%20Message/pic1.jpg">
+</figure>
 		 
 <p align ="justify">
 As COVID-19 continues to bring disruption to our society, we have entered one of our most, if not most prolonged crisis since independence. Now, more than ever, we need to raise ourselves above the uncertainty, turbulence and setbacks the pandemic has thrown at us. At a time when many schools worldwide had closed for months, schools in Singapore had dealt with this crisis head on, without letting it discourage us. Both teachers and students adapted courageously to the way we live, work and learn. </p>
@@ -22,6 +23,6 @@ Dr Hang Kim Hoo<br>
 Principal<br>
 <strong>Jurong Pioneer Junior College</strong>
 
-<center>
+<figure>
 <iframe width="851" height="478" src="https://www.youtube.com/embed/LZuBOKxwEbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+</figure>
