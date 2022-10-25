@@ -10,7 +10,7 @@ The Art unit seeks to nurture a love for the arts in students through delivering
 </p>
 
 <figure>
-<img src="/images/Art1.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/pic1.jpg">
 <figcaption>At JPJC, students experience a wide range of teaching approaches, allowing them to be independent learners and a collaborative learning community.</figcaption></figure>
 
 <h4><strong>Prerequisites</strong></h4>
