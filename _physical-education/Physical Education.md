@@ -4,7 +4,8 @@ permalink: /jpjc-experience/curriculum/physical-education/
 description: ""
 ---
 <figure>
-<img src="/images/PE%201.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Physical%20Education/pic1.jpg">
+</figure>
 
 <div align=justify>
 <h4><strong>Our Vision:</strong></h4>
