@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Knowledge Skills.md
-      - General Paper/General Paper Overview.md
+      - General Paper/General Paper.md
       - General Paper/Curriculum.md
       - General Paper/Syllabus & Assessment.md
       - General Paper/Enrichment Programmes.md
