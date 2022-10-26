@@ -1,6 +1,0 @@
----
-title: Humanities & the Arts
-permalink: /jpjc-experience/curriculum/humanities-n-the-arts/
-description: ""
----
-
