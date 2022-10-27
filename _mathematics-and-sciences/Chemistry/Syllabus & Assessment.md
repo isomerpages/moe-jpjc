@@ -4,7 +4,6 @@ permalink: /mathematics-and-sciences/chemistry/syllabus-and-assessment/
 description: ""
 third_nav_title: Chemistry
 ---
-
 <h3><strong>H1 CHEMISTRY (8873)</strong></h3>
 <div align=justify>
 <p>
@@ -13,14 +12,14 @@ H1 Chemistry aims to develop scientific literacy in our students through the acq
 The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
 
 <figure>
-<img src="/images/Chemistry%202.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic1.jpg">
 <figcaption>H1 Chemistry Curriculum Framework</figcaption>
 	</figure>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 
 <figure>
-<img src="/images/Chemistry%203.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic2.jpg">
 <figcaption>Content map for H1 Chemistry</figcaption></figure>
 	
 <p>
@@ -62,13 +61,13 @@ The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extensio
 </p>
 
 <figure>
-<img src="/images/Chemistry%204.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic3.jpg">
 <figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
 
 <figure>
-<img src="/images/Chemistry%205.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic4.jpg">
 <figcaption>Content map for H2 Chemistry</figcaption></figure>
 	
 <p>
@@ -123,7 +122,7 @@ H3 Chemistry syllabus has been designed to build on and extend the knowledge, un
 
 <h4><strong>Syllabus Outline for H3 Chemistry</strong></h4>
 <figure>
-<img src="/images/Chemistry%206(2).jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic5.jpg">
 <figcaption>H3 Chemistry Curriculum Framework</figcaption></figure>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQIr4tZIG1ZIz7W8YQuejxxCG48sIbFxfnHUso6n5jq_bqZv5Uq22wNhAQaNtoyLKWo5VtWzZh6xpuf/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
