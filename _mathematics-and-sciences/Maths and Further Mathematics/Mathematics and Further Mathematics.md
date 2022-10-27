@@ -4,11 +4,9 @@ permalink: /mathematics-and-sciences/math/
 description: ""
 third_nav_title: Maths and Further Mathematics
 ---
-
-
 <div align="justify">
 <figure>
-<img src="/images/maths1%20(1).jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Maths%20and%20Further%20Maths/pic1.jpg">
 <figcaption>
 A Mathematics tutorial lesson in progress</figcaption></figure>
 
