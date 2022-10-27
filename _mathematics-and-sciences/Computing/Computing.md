@@ -4,10 +4,9 @@ permalink: /mathematics-and-sciences/computing/
 description: ""
 third_nav_title: Computing
 ---
-
 <div align=justify>
 <figure>
-<img src="/images/comp1.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Computing/pic1.jpg">
 <figcaption>Students participated in the NTU SCSE Computing Challenge</figcaption></figure>
 
 <h3><strong>Introduction</strong></h3>
