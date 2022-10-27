@@ -4,7 +4,6 @@ permalink: /mathematics-and-sciences/physics/syllabus-and-assessment/
 description: ""
 third_nav_title: Physics
 ---
-
 <h3><strong>Physics H2 Exam Code: 9749</strong></h3>
 <div align=justify>
 <p>
@@ -19,7 +18,8 @@ Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 The <i><strong>Practices of Science</strong></i>, <i><strong>Core Ideas in Physics</strong></i> and <i><strong>Learning Experiences</strong></i> are put together in a framework to guide the development of the H2 Physics curriculum.</p>
 
 <figure>
-	<img src="/images/Physics_JPJC_Assessment.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Syllabus%20and%20Assessment/pic1.jpg">
+</figure>
 
 <p>
 The <i><strong>Practices of Science</strong></i> are common to the natural sciences of Physics, Chemistry and Biology. These practices highlight the ways of thinking and doing that are inherent in the scientific approach, with the aim of equipping students with the understanding, skills, and attitudes shared by the scientific disciplines, including an appropriate approach to ethical issues.</p>
@@ -79,7 +79,8 @@ Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 The <i><strong>Practices of Science</strong></i>, <i><strong>Core Ideas in Physics</strong></i> and <i><strong>Learning Experiences</strong></i> are put together in a framework to guide the development of the H1 Physics curriculum.</p>
 
 <figure>
-<img src="/images/Physics_JPJC_Assessment_8867.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Syllabus%20and%20Assessment/pic2.jpg">
+</figure>
 
 <p>
 The <i><strong>Practices of Science</strong></i> are common to the natural sciences of Physics, Chemistry and Biology. These practices highlight the ways of thinking and doing that are inherent in the scientific approach, with the aim of equipping students with the understanding, skills, and attitudes shared by the scientific disciplines, including an appropriate approach to ethical issues.</p>
