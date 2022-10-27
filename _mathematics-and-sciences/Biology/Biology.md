@@ -4,10 +4,9 @@ permalink: /mathematics-and-sciences/biology/
 description: ""
 third_nav_title: Biology
 ---
-
 <div align=justify>
 <figure>
-<img src="/images/BioExperiment.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Biology/pic1.jpg">
 <figcaption>Students conducting a biology experiment</figcaption></figure>
 
 <p>
