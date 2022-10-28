@@ -3,10 +3,9 @@ title: Languages
 permalink: /languages/
 description: ""
 ---
-
 <div align=justify>
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Languages/Languages_JPJC_Intro_1.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/pic1.jpg">
 <figcaption>Students in action during Mother Tongue Fortnight</figcaption></figure>
 
 <p>
