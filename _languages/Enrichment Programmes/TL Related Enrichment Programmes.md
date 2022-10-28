@@ -4,7 +4,6 @@ permalink: /languages/enrichment/tl/
 description: ""
 third_nav_title: Enrichment Programmes
 ---
-
 <div align=justify>
 <p>
 Students taking Tamil Language (H1) and Tamil Language and Literature (H2) have the opportunities to engage in Tamil Language and Cultural workshops, seminars, language competitions, cultural activities and Indian dance to enhance their authentic learning experience beyond classroom.</p>
@@ -24,5 +23,6 @@ You may obtain more information on NETP from <a href="https://uptlc.moe.edu.sg/o
 <h4><strong>Student Engagement in Tamil Language and Cultural Activities</strong></h4>
 
 <figure>
-<img src="/images/TR%20Related%20Collage%201.png">
-<img src="/images/TR%20Related%20Collage%202.png"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/pic1.png">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/pic2.png">
+</figure>
