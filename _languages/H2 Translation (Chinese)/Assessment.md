@@ -4,7 +4,6 @@ permalink: /languages/h2-translation-chinese/assessment/
 description: ""
 third_nav_title: H2 Translation (Chinese)
 ---
-
 <div align=justify>
 <p>
 The <strong>assessment</strong> of the subject comprises two papers and it would be conducted entirely as an e-paper. The medium of this syllabus is Chinese. Students are to answer all questions in Chinese, apart from the translations into English in Paper 1.</p>
@@ -28,4 +27,5 @@ One question on error analysis and critique (15 marks)<br>
 You may refer to <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for the syllabus in detail. For information on examinations, please click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9571_y23_sy.pdf">here</a>.</p>
 
 <figure>
-<img src="/images/h2%20chinese.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Languages/H2%20Translation/Assessment/pic1.jpg">
+</figure>
