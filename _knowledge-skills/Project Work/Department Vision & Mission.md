@@ -23,7 +23,8 @@ In 2012, a team of NTU computer science researchers conceived and developed the 
 <h5><i><strong><center>"The Lantern that Lit the Way!"</center></strong></i></h5>
 
 <figure>
-<img src="/images/lantern.jpg"></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/Project%20Work/Department%20Vision%20&%20Mission/Dept%20Vision%201.jpg" style="width:30%">
+</figure>
 
 <p>
 In 2012, a research duo at NTU created a device, called the occluder, to plug a hole in the heart for cardiologists so that they can keep the heart open while an operation is being carried out by adapting the design from the Chinese paper lantern. The occluder enters the body sheathed in a thin tube, travelling through an artery into the heart. Once it reaches its intended destination, it opens up like two folded umbrellas on both sides of the hole and pulls them together creating a tight seal. After the seal is formed, cells will start to build around the top of the umbrella. When enough cells gather to close the hole, the biodegradable umbrella dissolves, leaving behind a healthy heart.</p>
