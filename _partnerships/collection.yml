@@ -1,0 +1,7 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Jurong Pioneer Junior College Advisory Committee.md
+      - Parent Support Group.md
+      - JPJC Alumni.md

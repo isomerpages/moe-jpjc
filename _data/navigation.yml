@@ -1,15 +1,59 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/jpjc_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About JPJC
+    url: /about/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about/principals-message/
+      - title: College Identity
+        url: /about/college-identity/
+      - title: Organisation Chart
+        url: /partnerships/jpjc-advisory-committee/
+      - title: College Calender
+        url: /about/college-calender/term-1/
+      - title: Subject Combination
+        url: /about/subject-combination/
+      - title: Admission Matters
+        url: /about/admission-matters/joint-admissions-exercise-2022/
+      - title: Financial Assistance Scheme
+        url: /about/fas/
+      - title: History
+        url: /about/history/
+  - title: JPJC Experience
+    url: /jpjc-experience/total-curriculum-framework/
+    sublinks:
+      - title: Total Curriculum Framework
+        url: /jpjc-experience/total-curriculum-framework/
+      - title: Curriculum
+        url: /jpjc-experience/curriculum/
+      - title: Co-Curriculum
+        url: /jpjc-experience/co-curriculum/
+  - title: Life @ JPJC
+    url: /life-at-jpjc/2022-events/
+    sublinks:
+      - title: 2022 Events
+        url: /life-at-jpjc/2022-events/
+      - title: 2021 Events
+        url: /life-at-jpjc/2021-events/
+      - title: 2020 Events
+        url: /life-at-jpjc/2020-events/
+      - title: 2019 Events
+        url: /life-at-jpjc/2019-events/
+  - title: Accomplishments
+    url: /accomplishments/
+    sublinks:
+      - title: Staff
+        url: /accomplishments/staff/drhangkimhoo/
+      - title: Students
+        url: /accomplishments/students/moe-teaching-award/
+      - title: "'A' Lvl Inspirational Stories"
+        url: /accomplishments/students/a-level-inspirational-stories/overview/
+  - title: Partnerships
+    url: /partnerships/jpjc-advisory-committee/
+    sublinks:
+      - title: JPJC Advisory Committee
+        url: /partnerships/jpjc-advisory-committee/
+      - title: Parent Support Group
+        url: /partnerships/psg/
+      - title: JPJC Alumni
+        url: /partnerships/jpjc-alumni/
