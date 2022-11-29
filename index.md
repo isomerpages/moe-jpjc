@@ -21,7 +21,7 @@ sections:
       url: https://staging.d1kt1aspitrtfv.amplifyapp.com/jpjc-experience/total-curriculum-framework/
       image: /images/deepening-knowledge2.png
   - infopic:
-      title: Pursing Passion
+      title: Pursuing Passion
       description: Discovering PASSION through seeking, inspiring PURPOSE through
         discovering.
       button: click here
