@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2022 Events/College Day.md
       - 2022 Events/STEM Day.md
       - 2022 Events/CCA Leaders Investiture.md
       - 2022 Events/Teachers’ Day Celebration.md
