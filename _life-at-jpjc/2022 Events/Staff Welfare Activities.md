@@ -17,5 +17,16 @@ The year’s events culminated in the Teachers’ Day Celebration themed ‘Alwa
 We hope all staff have truly enjoyed and benefitted from the activities and initiatives by the SWC in 2022. Here’s to an even more exciting and refreshing 2023! </div>
 
 ![A sumptuous buffet lunch on Teachers Day](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg)
+A sumptuous buffet lunch on Teachers Day
+
+![JPJC Teachers’ Green Pledge – 22 April 2022](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/JPJC%20Teachers’%20Green%20Pledge%20–%2022%20April%202022.jpg)
+JPJC Teachers’ Green Pledge – 22 April 2022
+
+
+
+
+
+
+
 
 
