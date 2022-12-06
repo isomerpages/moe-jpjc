@@ -35,3 +35,8 @@ Staff members bond over quilt-making
 ![Staff members getting creative at quilt-making](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20getting%20creative%20at%20quilt-making.jpg)
 Staff members getting creative at quilt-making
 
+![Teachers having a go at Saboteur, a game of social deduction](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Teachers%20having%20a%20go%20at%20Saboteur,%20a%20game%20of%20social%20deduction.jpg)
+Teachers having a go at Saboteur, a game of social deduction
+
+![The Farewell Quilt for the graduating students](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/The%20Farewell%20Quilt%20for%20the%20graduating%20students.jpeg)
+The Farewell Quilt for the graduating students
