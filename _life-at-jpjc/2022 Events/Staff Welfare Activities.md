@@ -23,10 +23,15 @@ A sumptuous buffet lunch on Teachers Day
 JPJC Teachers’ Green Pledge – 22 April 2022
 
 
+![Staff Wellness Activities include an invigorating walk in the park connector](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20Wellness%20Activities%20include%20an%20invigorating%20walk%20in%20the%20park%20connector.jpg)
+Staff Wellness Activities include an invigorating walk in the park connector
 
+![Staff enjoying the merriment of the Teachers_ Day game segment](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20enjoying%20the%20merriment%20of%20the%20Teachers_%20Day%20game%20segment.jpg)
+Staff enjoying the merriment of the Teachers Day game segment
 
+![Staff members bond over quilt-making](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20bond%20over%20quilt-making.jpg)
+Staff members bond over quilt-making
 
-
-
-
+![Staff members getting creative at quilt-making](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20getting%20creative%20at%20quilt-making.jpg)
+Staff members getting creative at quilt-making
 
