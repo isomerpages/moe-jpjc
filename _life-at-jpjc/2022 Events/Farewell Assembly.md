@@ -16,3 +16,42 @@ At the end of the concert, students threw their mortarboards in the air after si
 
 Congratulations to the Class of 2022! May your years ahead continue to be characterised by our college values of Integrity, Responsibility, Resilience, Respect, and Compassion. </p>
 
+
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/1%20Students%20making%20their%20mortarboards.jpg)
+<Figcaption align=center>
+Students making their mortarboards
+</figcaption>
+
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/2%2021S09%20breakfast%20party.jpg)
+<Figcaption align=center>
+21S09 breakfast party
+</figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/3%20Performance%20by%20teachers.jpg)
+<Figcaption align=center>Performance by teachers
+</figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/4%20Cohort%20sing%20along.jpg)
+<Figcaption align=center>Cohort sing along
+</figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/5%20Dr%20Hang%20presenting%204th%20SC%20president%20with%20the%20quilt%20of%20well%20wishes.jpg)
+<Figcaption align=center>Dr Hang presenting 4th SC president with the quilt of well wishes
+</figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/6%20Class%20of%202022%20tossing%20mortarboards%20into%20the%20air.jpg)
+<Figcaption align=center>
+Class of 2022 tossing mortarboards into the air
+</figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/7%20The%20crew%20behind%20Farewell%20Assembly.jpg)
+<Figcaption align=center>
+The crew behind Farewell Assembly
+</figcaption>
+
+
+
+
+
