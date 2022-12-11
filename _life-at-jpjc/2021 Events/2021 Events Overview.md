@@ -17,7 +17,6 @@ third_nav_title: 2021 Events
 |  3-5 Jan 2021 | [E-Immersion Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/e-immersion-programme/)  |
 |  4-10 Aug 2021 | [e-STEM Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/e-stem-day/)  |
 |  30 Jul 2021 | [Parent Support Group Webinar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/psg-webinar/)  | 
-| **undated** | [JPJC e-Openhouse](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-e-openhouse/) **original website missed out this event**
 |  23 to 25 Jul 2021 | [Harvard Innovation Challenge South East Asia III](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/harvard-innovation-challenge-SEA/)  |
 |  15 Jul 2021 | [Jurong Pioneer Junior College Congratulates its National Day Award 2020 Recipients](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-ndp-award-2020/) |
 |  2 Jun 2021 |  [Keat Hong Leadership Training Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/keat-hong-leadership-training-camp/) |
@@ -44,4 +43,5 @@ third_nav_title: 2021 Events
 |  29 Jan to 5 Feb 2021 | [Matriculation and Orientation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/matriculation-and-orientation/)  |
 | 27 Jan 2021  |  [SC Investiture & Leaders Installation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/sc-investiture-and-leaders-installation/) |
 |  21 Jan 2021 |  [JC2 Parent Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jc2-parent-engagement-session/) |
+| 12 Jan 2021 | [JPJC e-Openhouse](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-e-openhouse/) 
 | 3-5 Jan 2021  |  [Orientation Group Leaders’ Camp (OGLC)](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/oglc/) |

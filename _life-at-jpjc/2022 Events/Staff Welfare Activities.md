@@ -4,3 +4,39 @@ permalink: /life-at-jpjc/2022-Events/permalink/
 description: ""
 third_nav_title: 2022 Events
 ---
+<div align=justify>
+
+In 2022, the Staff Welfare Committee (SWC) organised a slew of programmes to ensure the holistic well-being of our staff. Apart from the monthly Fruit Day, the Staff Wellness Activities Day took place termly with a myriad of activities, ranging from workstation stretching, qigong, Park Connector walk to interest-based activities like volleyball, badminton, table tennis and board games. Teachers also had the opportunity to sign up for student-initiated workshops that taught handy tips and skills on how to use the Shopback app for great deals, and Badge-Making. During gruelling exam marking periods, Care Packs were given out to lift spirits and provide an energy boost with healthy snacks. Self-care tips were constantly posted on the SWC noticeboard and in the SWC newsletter. SWC also organised group sales of cakes, cookies and ’kuehs’ as well as a ‘nasi lemak’ breakfast and an annual health-screening for teachers.
+
+In addition, 2022 was a year of collaboration with other committees and CCAs. As part of the Chinese New Year Celebrations, the SWC partnered with the Community Engagement Council in the meaningful cause of showing our appreciation to the Operations Support Officers by donating a festive pack of goodies to each of them. In Term 3, SWC collaborated with the Partnerships Committee to organise a staff bonding project involving the making of a giant quilt as a farewell gift to the graduating batch of students. Each department organised its own session where individual teachers designed their own piece of patchwork for the final piece of quilt. Over much food and laughter, each department bonded as teachers worked together to create their masterpiece.
+
+This year, our college embarked on the Eco Stewardship Programme where sustainability was integrated into the school experience. On Earth Day, 22nd April 2022, SWC, in ensuring that teachers also rode on this green wave, started a Green Pledge initiative where teachers decided on one action that they would adopt to make our work life greener.
+
+The year’s events culminated in the Teachers’ Day Celebration themed ‘Always Awesome’. It was preceded with a gift of a portable fan and preferred gifts from a selection of cheesecakes, tarts, Tupperware carriers, personalised candles, bath and body care gift sets to hobby sets like gardening and mushroom-growing kits. The annual Teachers’ Day Celebration Lunch, held in our library that was transformed into a dazzling mini ballroom, started with a fun-filled segment of getting to know new staff members, videos of the staff’s adventures in travel and food plus a fun Quiz on JP Connections, after which, staff proceeded to partake in a scrumptious buffet lunch replete with an IG-worthy chocolate fountain.
+
+We hope all staff have truly enjoyed and benefitted from the activities and initiatives by the SWC in 2022. Here’s to an even more exciting and refreshing 2023! </div>
+
+![A sumptuous buffet lunch on Teachers Day](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg)
+<div align=center>A sumptuous buffet lunch on Teachers Day</div>
+
+![JPJC Teachers’ Green Pledge – 22 April 2022](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/JPJC%20Teachers’%20Green%20Pledge%20–%2022%20April%202022.jpg)
+<div align=center>JPJC Teachers’ Green Pledge – 22 April 2022</div>
+
+
+![Staff Wellness Activities include an invigorating walk in the park connector](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20Wellness%20Activities%20include%20an%20invigorating%20walk%20in%20the%20park%20connector.jpg)
+<div align=center>Staff Wellness Activities include an invigorating walk in the park connector</div>
+
+![Staff enjoying the merriment of the Teachers_ Day game segment](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20enjoying%20the%20merriment%20of%20the%20Teachers_%20Day%20game%20segment.jpg)
+<div align=center>Staff enjoying the merriment of the Teachers Day game segment</div>
+
+![Staff members bond over quilt-making](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20bond%20over%20quilt-making.jpg)
+<div align=center>Staff members bond over quilt-making</div>
+
+![Staff members getting creative at quilt-making](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20getting%20creative%20at%20quilt-making.jpg)
+<div align=center>Staff members getting creative at quilt-making</div>
+
+![Teachers having a go at Saboteur, a game of social deduction](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Teachers%20having%20a%20go%20at%20Saboteur,%20a%20game%20of%20social%20deduction.jpg)
+<div align=center>Teachers having a go at Saboteur, a game of social deduction</div>
+
+![The Farewell Quilt for the graduating students](/images/Life%20@%20JPJC/2022%20Events/Staff%20Welfare%20Activities/The%20Farewell%20Quilt%20for%20the%20graduating%20students.jpeg)
+<div align=center>The Farewell Quilt for the graduating students</div>

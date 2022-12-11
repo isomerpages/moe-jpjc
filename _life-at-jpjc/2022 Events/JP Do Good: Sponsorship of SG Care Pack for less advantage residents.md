@@ -16,22 +16,12 @@ third_nav_title: 2022 Events
 
 <p>It was indeed a fulfilling and enriching experience for our students and staff, and a meaningful way for the college to celebrate our 57th National Day by giving back to community. Stronger Together, Majulah!</p>
 
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg">
-	<figcaption>The GymFit team preparing to move out to Jurong Spring CC</figcaption></figure>
-	
-<figure>	
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%202.jpeg">
-	<figcaption>A student volunteer giving out a care pack to a resident</figcaption></figure>
+![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%201.jpeg)<figcaption align=center><em>The GymFit team preparing to move out to Jurong Spring CC<em></figcaption>
 
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg">
-	<figcaption>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</figcaption></figure>
+![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%202.jpeg)<figcaption align=center><em>A student volunteer giving out a care pack to a resident<em></figcaption>
+
+![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg)<figcaption align=center><em>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC<em></figcaption>
 	
-<figure>	
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg">
-	<figcaption>A team selfie with Mr Huang</figcaption></figure>
+![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg)<figcaption align=center><em>A team selfie with Mr Huang<em></figcaption>
 	
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg">
-<figcaption>Residents at the venue of our food distribution drive</figcaption></figure>
+![](/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg)<figcaption align=center><em>Residents at the venue of our food distribution drive<em></figcaption>
