@@ -1,9 +1,10 @@
 ---
 title: Literature Symposium
-permalink: /life-at-jpjc/2022-Events/permalink/
+permalink: /life-at-jpjc/2022-Events/LiteratureSymposium/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 <div align=justify>
 
 JPJC’s Literature Symposium, organised by the English Department and supported by the English Drama Society (EDS), was a fun and innovative way to learn more about literature, and cultivate a greater appreciation of the subject within the college. Through the many enthralling performances, the paper presentation and the experience of working backstage, both participants and audiences not only learnt more about the poetry and texts discussed but also developed a profound admiration for the intricacies that go into crafting such mesmerising artistic pieces. This was especially so for the EDS team, which was instrumental in ensuring that the event went smoothly.

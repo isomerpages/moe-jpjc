@@ -1,9 +1,10 @@
 ---
 title: College Day
-permalink: /life-at-jpjc/2022-Events/permalink/
+permalink: /life-at-jpjc/2022-Events/collegeday/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 <div align=justify>
 	
 College Day 2022 was held on two days – 22 July and 30 August – this year. Two separate ceremonies were held with the first being an award ceremony to honour the achievements of our students in the 2021 GCE A Level Examination, while the second celebrated the academic and Co-Curricular Activity (CCA) achievements of our current JC2 and JC1 cohorts. Both ceremonies were held face-to-face for the first time since the pandemic unlike the previous two years, when the event was commemorated with the launch of e-magazines.
