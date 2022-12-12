@@ -7,7 +7,7 @@ third_nav_title: 2022 Events
 | Date | Events | 
 | -------- | -------- |
 |31 October 2022     |Alumni Speakers Series   | 
-| -------- | -------- |
+| 25 October 2022 | [Staff Welfare Activities](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/StaffWelfareActivities/&sa=D&source=editors&ust=1670864634402905&usg=AOvVaw0w9-X9ItxA2KOD_seCRJZw) |
 |     |     | 
 | -------- | -------- |
 |     |     | 
