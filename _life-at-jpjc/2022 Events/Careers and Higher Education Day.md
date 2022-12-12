@@ -1,7 +1,8 @@
 ---
 title: Careers and Higher Education Day
-permalink: /life-at-jpjc/2022-Events/permalink/
+permalink: /life-at-jpjc/2022-Events/CareersandHigherEducationDay/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 

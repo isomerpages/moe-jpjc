@@ -1,9 +1,10 @@
 ---
 title: CCA Leaders Investiture
-permalink: /life-at-jpjc/2022-Events/permalink/
+permalink: /life-at-jpjc/2022-Events/CCALeadersInvestiture/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 <div align=justify>
 
 On 12 August 2022, the college held its CCA Leaders’ Installation for the newly elected JC1 Student Councillors and CCA Leaders. This was the first time a combined ceremony was held to commemorate both the investiture of the 5th Student Councillors and the installation of the 5th CCA Leaders. The theme chosen for this event was ‘Symphony’, signifying the need for student leaders to work harmoniously together during their leadership stint.
@@ -15,15 +16,16 @@ The President of the 5th Student Council, Lee Yoonji 22S02, also addressed the c
 The ceremony then proceeded with the introduction of each individual CCA leader, during which they struck poses that were unique to their CCA, adding a fun element to the event. The event concluded with a re-introduction of all CCA leaders via the red-carpet walk-in segment and the recitation of the CCA leaders pledge, led by the 5th Student Council President Lee Yoonji.
 </div>
 
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20A%20(1).jpg">
+<figcaption align=center><em>5th Student Council, led by President Lee Yoonji, Vice President (Operations) Joan Chua Xin Hui, and Vice President (House) Huang Jingwen</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20A%20(1).jpg)<figcaption align=center><em>5th Student Council, led by President Lee Yoonji, Vice President (Operations) Joan Chua Xin Hui, and Vice President (House) Huang Jingwen</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20B%20(1).jpg"><figcaption align=center><em>5th CCA Leaders, consisting of the Presidents, Vice Presidents, Captains and Vice Captains of the various CCAs</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20B%20(1).jpg)<figcaption align=center><em>5th CCA Leaders, consisting of the Presidents, Vice Presidents, Captains and Vice Captains of the various CCAs</em></figcaption> 
+<img src="images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20C%20(1).jpg">
+<figcaption align=center><em>Combined photo of the 5th Student Council (in college blazers) and 5th CCA Leaders (in college uniform)</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20C%20(1).jpg)<figcaption align=center><em>Combined photo of the 5th Student Council (in college blazers) and 5th CCA Leaders (in college uniform)</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20D%20(1).jpg"><figcaption align=center><em>Speech delivered by 5th Student Council President, Lee Yoonji</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20D%20(1).jpg)<figcaption align=center><em>Speech delivered by 5th Student Council President, Lee Yoonji</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20E%20(1).jpg"><figcaption align=center><em>Red carpet walk in of the CCA leaders before the recitation of the Leaders Pledge</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20E%20(1).jpg)<figcaption align=center><em>Red carpet walk in of the CCA leaders before the recitation of the Leaders Pledge</em></figcaption> 
-
-![](/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20F%20(2).jpg)<figcaption align=center><em>Captain and Vice Captains of Football striking a pose after being introduced</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20F%20(2).jpg"><figcaption align=center><em>Captain and Vice Captains of Football striking a pose after being introduced</em></figcaption>

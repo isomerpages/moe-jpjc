@@ -1,9 +1,10 @@
 ---
 title: Alumni Speakers Series
-permalink: /life-at-jpjc/2022-Events/permalink/
+permalink: /life-at-jpjc/2022-Events/AlumniSpeakersSeries/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 <div align="justify">
 <p>In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.
 
