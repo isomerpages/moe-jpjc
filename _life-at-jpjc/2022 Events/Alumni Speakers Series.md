@@ -14,11 +14,11 @@ Our alumni speakers have truly opened the eyes of our students to wider horizons
 
 
 <Figure>
-<img src="/images/Life%20%40%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%201.jpg"></Figure>
+<img src="/images/Life%20%40%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%201.jpg">
 
 <figcaption align="justify"><em>
 In January 2022, Timothy Beh and Yeo Wei Ern, our alumni from Jurong Junior College (Class of 2016), shared about their journey, from being students with less than satisfactory O Level results, to achieving academic success at the A Levels and reading law at the National University of Singapore. The candid sharing of the struggles they faced in the course of their learning pursuits struck a chord with many. Our students picked up salient advice and nuggets of wisdom from their seniors.</em>
-</figcaption>	
+</figcaption>	</figure>
 <p>
 <Figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%202.jpg"></Figure>
