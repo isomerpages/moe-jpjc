@@ -31,11 +31,13 @@ We hope all staff have truly enjoyed and benefitted from the activities and init
 <figcaption align="center"><em>Staff members bond over quilt-making</em></figcaption>	
 
 <p>	
-<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg">
+<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20getting%20creative%20at%20quilt-making.jpg">
 <figcaption align="center"><em>Staff members getting creative at quilt-making</em></figcaption>	
 
-<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg">
+<p>	
+<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Teachers%20having%20a%20go%20at%20Saboteur%2C%20a%20game%20of%20social%20deduction.jpg">
 <figcaption align="center"><em>Teachers having a go at Saboteur, a game of social deduction</em></figcaption>	
 
-<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg">
-<figcaption align="center"><em>The Farewell Quilt for the graduating students</em></figcaption>	
+<p>	
+<img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/The%20Farewell%20Quilt%20for%20the%20graduating%20students.jpeg">
+<figcaption align="center"><em>The Farewell Quilt for the graduating students</em></figcaption>
