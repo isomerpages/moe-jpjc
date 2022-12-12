@@ -39,8 +39,7 @@ In March 2022, Dr Nagarajan Raghavan, an alumnus from Jurong Junior College (Cla
 </Figure>
 
 <figure>
-<figcaption align="justify">
-<p>In July 2022, Dr Goh Han Lin, our alumnus from Jurong Junior College (Class of 1999) shared his experiences in doing research and working in the IT sector with our JC2 Computing students. He is currently an AI Research Scientist based in the San Francisco Bay Area and works at Apple Inc. Our students benefitted greatly from Dr Goh’s sharing and gained a greater awareness and understanding about Artificial Intelligence, Machine Learning and Data Analytics. He also shared his thoughts with students on the ethical use of AI.</em>
+<figcaption align="justify"><em>In July 2022, Dr Goh Han Lin, our alumnus from Jurong Junior College (Class of 1999) shared his experiences in doing research and working in the IT sector with our JC2 Computing students. He is currently an AI Research Scientist based in the San Francisco Bay Area and works at Apple Inc. Our students benefitted greatly from Dr Goh’s sharing and gained a greater awareness and understanding about Artificial Intelligence, Machine Learning and Data Analytics. He also shared his thoughts with students on the ethical use of AI.</em>
 </figcaption>	
 </Figure>
 
