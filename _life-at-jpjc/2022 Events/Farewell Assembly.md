@@ -50,5 +50,5 @@ third_nav_title: 2022 Events
 <p>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/7%20The%20crew%20behind%20Farewell%20Assembly.jpg">
 <Figcaption align=center><em>
-The crew behind Farewell Assembly
-	</figcaption></em>
+	The crew behind Farewell Assembly</em>
+	</figcaption>
