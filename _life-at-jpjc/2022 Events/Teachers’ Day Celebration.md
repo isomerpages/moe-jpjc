@@ -34,4 +34,3 @@ The excitement shared by the entire college in commemorating this important occa
 <figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Teachers_%20Day%20Celebration%200109/IMG_3781.jpg"><em>JP Dance</em>
 </figure>
-
