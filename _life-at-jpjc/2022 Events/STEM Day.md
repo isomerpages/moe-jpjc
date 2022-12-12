@@ -37,25 +37,23 @@ To top it off, there was a game card for every group of students to collect stam
 STEM Day was an absolutely fun day for all participants, as well as for the students managing the booths to interact with their peers to spread their passion in the subject and their joy of learning. The STEM Day 2022 experience was a true demonstration of the college motto, _While I Live, I Learn,_ _Plus Ultra._
 </div>
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/1%20Visitors%20at%20the%20“I’m%20COCO-NUTS%20for%20You”%20booth%20learning%20how%20to%20make%20ice%20cream.jpg)<figcaption align=center><em>Visitors at the “I’m COCO-NUTS for You” booth learning how to make ice cream</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/1%20Visitors%20at%20the%20“I’m%20COCO-NUTS%20for%20You”%20booth%20learning%20how%20to%20make%20ice%20cream.jpg"><figcaption align=center><em>Visitors at the “I’m COCO-NUTS for You” booth learning how to make ice cream</em></figcaption> 
 
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/2%20Setting%20up%20a%20mini%20Tesla%20Coil%20at%20the%20Testa-tricity%20workshop.jpg)
-<figcaption align=center><em>Setting up a mini Tesla Coil at the Testa-tricity workshop</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/2%20Setting%20up%20a%20mini%20Tesla%20Coil%20at%20the%20Testa-tricity%20workshop.jpg"><figcaption align=center><em>Setting up a mini Tesla Coil at the Testa-tricity workshop</em></figcaption> 
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/3%20Students%20trying%20their%20hand%20at%20a%20food%20dye%20and%20milk%20experiment%20station.jpg)<figcaption align=center><em>Students trying their hand at a food dye and milk experiment station</em></figcaption> 
-
-
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/4%20see%20original.jpg)<figcaption align=center><em>Scoped – A telescope so powerful, you can read a handwritten note from across the parade square</em></figcaption> 
-
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/5%20SCOPED%20–%20Students%20learnt%20how%20to%20make%20a%20telescope%20using%20simple%20items.jpg)<figcaption align=center><em>SCOPED – Students learnt how to make a telescope using simple items</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/3%20Students%20trying%20their%20hand%20at%20a%20food%20dye%20and%20milk%20experiment%20station.jpg"><figcaption align=center><em>Students trying their hand at a food dye and milk experiment station</em></figcaption> 
 
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/6%20Students%20right%20in%20the%20heat%20of%20the%20Monty%20Hall%20Games%20at%20one%20of%20the%20Mathematics%20booths.jpg)<figcaption align=center><em>Students right in the heat of the Monty Hall Games at one of the Mathematics booths</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/4%20see%20original.jpg"><figcaption align=center><em>Scoped – A telescope so powerful, you can read a handwritten note from across the parade square</em></figcaption> 
+
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/5%20SCOPED%20–%20Students%20learnt%20how%20to%20make%20a%20telescope%20using%20simple%20items.jpg"><figcaption align=center><em>SCOPED – Students learnt how to make a telescope using simple items</em></figcaption> 
 
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/7%20See%20original.jpg)<figcaption align=center><em>Computing student set up an exciting Cybersecurity Escape Room with interesting puzzles for their participants</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/6%20Students%20right%20in%20the%20heat%20of%20the%20Monty%20Hall%20Games%20at%20one%20of%20the%20Mathematics%20booths.jpg"><figcaption align=center><em>Students right in the heat of the Monty Hall Games at one of the Mathematics booths</em></figcaption> 
 
 
-![](/images/Life%20@%20JPJC/2022%20Events/STEM%20day/8%20see%20original.jpg)<figcaption align=center><em>Computing students showcasing their SCSE winning project – AI robotic car mBot, to booth visitors</em></figcaption> 
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/7%20See%20original.jpg"><figcaption align=center><em>Computing student set up an exciting Cybersecurity Escape Room with interesting puzzles for their participants</em></figcaption> 
 
+
+<img src="/images/Life%20@%20JPJC/2022%20Events/STEM%20day/8%20see%20original.jpg"><figcaption align=center><em>Computing students showcasing their SCSE winning project – AI robotic car mBot, to booth visitors</em></figcaption>
