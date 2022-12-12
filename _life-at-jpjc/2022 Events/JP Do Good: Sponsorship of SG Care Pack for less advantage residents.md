@@ -22,6 +22,6 @@ third_nav_title: 2022 Events
 <p>
 <figure><img src="/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%203.jpeg"><figcaption align=center><em>Sharing by Mr Huang Wei Zhong Shawn, MP for Jurong GRC</em></figcaption></figure>
 <p>	
-<figure><img src="/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg"><figcaption align=center></em>A team selfie with Mr Huang<em></figcaption></figure>
+<figure><img src="/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%204.jpeg"><figcaption align=center><em>A team selfie with Mr Huang</em></figcaption></figure>
 <p>	
-<figure><img src="/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg"><figcaption align=center></em>Residents at the venue of our food distribution drive<em></figcaption></figure>
+<figure><img src="/images/Life%20@%20JPJC/2022%20Events/JP%20Do%20Good/Photo%205.jpeg"><figcaption align=center><em>Residents at the venue of our food distribution drive</em></figcaption></figure>
