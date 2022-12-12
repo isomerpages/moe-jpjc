@@ -14,7 +14,7 @@ third_nav_title: 2022 Events
 
 <p>The excitement shared by the entire college in commemorating this important occasion will surely remain a pleasant memory etched in all our hearts for a long time to come. Thank you, teachers, for your tireless efforts in helping us learn and grow – enjoy and bask in YOUR moment – and have a Happy Teachers’ Day!</p>
 	
-</p></div><p></p>
+</div>
 <figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Teachers_%20Day%20Celebration%200109/DSC_4674.jpg"><em>Concert Band</em>
 </figure>
