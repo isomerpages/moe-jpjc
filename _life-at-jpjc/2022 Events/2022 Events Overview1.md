@@ -8,11 +8,11 @@ third_nav_title: 2022 Events
 | -------- | -------- |
 |31 October 2022     |[Alumni Speakers Series](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)   | 
 | 25 October 2022 |[Staff Welfare Activities](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/StaffWelfareActivities/) |
-|   7 October 2022  |  [Farewell Assembly](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/FarewellAssembly/&sa=D&source=editors&ust=1670864634403674&usg=AOvVaw3yrJbffxDTgDzu7xN67glk)   | 
-| 1 September 2022| [Teachers’ Day Celebration](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/TeachersDayCelebration/&sa=D&source=editors&ust=1670864634404387&usg=AOvVaw3aXaIFIxKi63G2DMnsZ2BX) |
-|  24 August 2022   |   [Careers and Higher Education Day](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/CareersandHigherEducationDay/&sa=D&source=editors&ust=1670864634405172&usg=AOvVaw0HEs6bPU_QS7XvJT7IWI8m)  | 
-|12 August 2022| [CCA Leaders Investiture](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/CCALeadersInvestiture/&sa=D&source=editors&ust=1670864634405913&usg=AOvVaw1PDq4PPczQ8bd1U82iUi5J)|
-|    8 August 2022 |    [National Day Celebrations](https://www.google.com/url?q=https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/nationaldaycelebrations/&sa=D&source=editors&ust=1670867751928221&usg=AOvVaw0ghGYlPscYhEYHN6NY7VAi) | 
+|   7 October 2022  | [Farewell Assembly](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/FarewellAssembly/) | 
+| 1 September 2022|[Teachers Day Celebration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/TeachersDayCelebration/) |
+|  24 August 2022   | [Careers and Higher Education Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/CareersandHigherEducationDay/) | 
+|12 August 2022| [CCA Leaders Investiture](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/CCALeadersInvestiture/)|
+|    8 August 2022 | [National Day Celebrations](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/nationaldaycelebrations/) | 
 |   3 August 2022   |  [Arts and Social Sciences Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/ArtsandSocialSciencesDay/)  | 
 |    3 August 2022  |    [STEM Day](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/stemday/&sa=D&source=editors&ust=1670867751929475&usg=AOvVaw00hb98Cs3Q1ADc00ulIcGB) | 
 |    2 August 2022  |    [JP Do Good: Sponsorship of SG Care Pack for less advantage residents](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/jpdogood/&sa=D&source=editors&ust=1670867751930093&usg=AOvVaw0NF_cGj9B21WQsslJw0jlK) | 
