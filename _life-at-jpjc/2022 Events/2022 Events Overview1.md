@@ -7,7 +7,7 @@ third_nav_title: 2022 Events
 | Date | Events | 
 | -------- | -------- |
 |31 October 2022     |[Alumni Speakers Series](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)   | 
-| 25 October 2022 | [Staff Welfare Activities](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/StaffWelfareActivities/&sa=D&source=editors&ust=1670864634402905&usg=AOvVaw0w9-X9ItxA2KOD_seCRJZw) |
+| 25 October 2022 |[Staff Welfare Activities](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/StaffWelfareActivities/) |
 |   7 October 2022  |  [Farewell Assembly](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/FarewellAssembly/&sa=D&source=editors&ust=1670864634403674&usg=AOvVaw3yrJbffxDTgDzu7xN67glk)   | 
 | 1 September 2022| [Teachers’ Day Celebration](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/TeachersDayCelebration/&sa=D&source=editors&ust=1670864634404387&usg=AOvVaw3aXaIFIxKi63G2DMnsZ2BX) |
 |  24 August 2022   |   [Careers and Higher Education Day](https://www.google.com/url?q=https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/CareersandHigherEducationDay/&sa=D&source=editors&ust=1670864634405172&usg=AOvVaw0HEs6bPU_QS7XvJT7IWI8m)  | 
