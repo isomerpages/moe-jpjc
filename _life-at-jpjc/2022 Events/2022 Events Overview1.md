@@ -36,15 +36,15 @@ third_nav_title: 2022 Events
 |   9 March 2022|  [JP Spotlight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jp-spotlight/)  |
 | 2 March 2022 | [House Bonding Day 1](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/house-bonding-day-1/)  |
 |   25 February 2022|  [J1 Parent Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/j1-parent-engagement-session/) |
-| 22 February 2022 |     [GCE A level Results Release Day](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/gce-a-level-results-release-day&sa=D&source=editors&ust=1670864634424771&usg=AOvVaw2L1v1PAxmcpE8BwskTPBn7)|
-|  11 / 14 February 2022|   [Staff Learning Day](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/staff-learning-day&sa=D&source=editors&ust=1670864634425547&usg=AOvVaw2CiA7KC2RHWP7oUCY79cCX)  |
-| 9-24 February 2022 |   [Total Defence Day Commemoration](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/total-defence-day-commemoration&sa=D&source=editors&ust=1670864634426349&usg=AOvVaw3Zf4jTWVp8leu0mlsABeGG)  |
-|  7-14 February 2022|    [Matriculation &Orientation](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/matriculation-n-orientation&sa=D&source=editors&ust=1670864634427090&usg=AOvVaw2GtXw1myqVHNnzJBQAVGg8)  |
-|  7-14 February 2022|   [JC2 Enrichment Week](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/jc2-enrichment-week&sa=D&source=editors&ust=1670864634427801&usg=AOvVaw3uCCnh5puwZkMCgtHR5keo)  |
-|  31 January 2022|   [Chinese New Year Celebration](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/chinese-new-year-celebration&sa=D&source=editors&ust=1670864634428530&usg=AOvVaw3Ipjy53lJ_74S4T6_wZSIz)  |
-|  28 January 2022|  [J2 Parent Engagement Session](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/j2-parent-engagement-session&sa=D&source=editors&ust=1670864634429403&usg=AOvVaw22dQ61lybQugOggZCs_hRu)   |
-|  26 January 2022|     [4th Student Council Investiture & CCA Leaders Installation](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/4th-student-council-investiture-n-cca-leaders-installation&sa=D&source=editors&ust=1670864634430638&usg=AOvVaw3WGZFXWToh7kABXFVBTXz7)|
-|  13 January 2022|  [JPJC e-Open House](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/jpjc-e-open-house&sa=D&source=editors&ust=1670864634431735&usg=AOvVaw0OMMrnhfGS7k99EOkJxUyr)   |
-| 8 January 2022 |   [NTU SCSE Computing Challenge](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/ntu-scse-computing-challenge&sa=D&source=editors&ust=1670864634432880&usg=AOvVaw2_vpprzmNDqP0DKXdu35JH)  |
-| 4 to 6 January 2022 |    [OGL Camp](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/ogl-camp&sa=D&source=editors&ust=1670864634434041&usg=AOvVaw3Tenoqn7rIxCy0h4-lqjtA) |
+| 22 February 2022 |  [GCE A Level Results Release Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/gce-a-level-results-release-day/)|
+|  11 / 14 February 2022| [Staff Learning Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/staff-learning-day/)  |
+| 9-24 February 2022 | [Total Defence Day Commemoration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/total-defence-day-commemoration/) |
+|  7-14 February 2022|   [Matriculation & Orientation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/matriculation-and-orientation/) |
+|  7-14 February 2022|  [JC2 Enrichment Week](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc2-enrichment-week/) |
+|  31 January 2022|  [Chinese New Year Celebration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/cny-celebration/)|
+|  28 January 2022| [J2 Parent Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/j2-parent-engagement-session/)  |
+|  26 January 2022| [4th Student Council Investiture & CCA Leaders Installation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/student-council-investiture-and-cca-ldrs-installation/)|
+|  13 January 2022| [JPJC e Openhouse](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jpjc-e-openhouse/)  |
+| 8 January 2022 |  [NTU SCSE Computing Challenge](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ntu-scse-computing-challenge/)|
+| 4 to 6 January 2022 |   [OGL Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ogl-camp/) |
 |  |     |
