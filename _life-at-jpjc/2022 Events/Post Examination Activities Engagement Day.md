@@ -25,4 +25,3 @@ Overall, the 2022 Post Mid-Year Examination Programme brought a range of experie
 <figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%201.jpg">
 <figcaption>Students attending the Admission and Interview Workshop by SUSS</figcaption></figure>
-	
