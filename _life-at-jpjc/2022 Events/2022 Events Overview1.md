@@ -22,7 +22,7 @@ third_nav_title: 2022 Events
 |18 - 29 July 2022|[Arts Fest](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/artsfest/)| 
 | 12 July 2022 |[Post Examination Activities Engagement Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/postexams/)| 
 |   3 June 2022  |[Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCkeathong)| 
-|  31 May - 3 June 2022   |  [Pre University Seminar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/pre-uni-seminar/)| 
+|  31 May - 3 June 2022   |[Pre University Seminar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/pre-uni-seminar/)| 
 |    27 - 29 May 2022  |   [Leadership Training Camp (Internal)](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/leadership-training-camp-internal&sa=D&source=editors&ust=1670864634414776&usg=AOvVaw38ZCKjWvEXzH26QEpKM_p-)   | 
 |  25 May 2022    | [JC1 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/) | 
 |   11 May 2022  | [JC2 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc2-sg-perspective-engagement/) | 
