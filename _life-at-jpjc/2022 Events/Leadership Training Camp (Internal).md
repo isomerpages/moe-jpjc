@@ -36,4 +36,13 @@ As a conclusion to the camp, the Subject Head of Student Leadership, Mr Nur Izha
 <figcaption>CCA leaders playing a game of ‘Find my Way’, which required them to ascertain the hidden path within the grid, as part of the component of ‘Building Resilience, Grit and Drive’.</figcaption></figure>
 	
 <figure>
-<img src="![](/images/Life%20@%20JPJC/2022%20Events/Leadership%20Training%20Camp/Photo%203.jpg)
+<img src="/images/Life%20@%20JPJC/2022%20Events/Leadership%20Training%20Camp/Photo%203.jpg">
+<figcaption>CCA leaders receiving a briefing on one of the games conducted at Gardens by the Bay and Marina Barrage, as part of the Amazing Race component</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Leadership%20Training%20Camp/Photo%204.jpg">
+<figcaption>CCA leaders in the middle of solving a problem at Marina Barrage</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Leadership%20Training%20Camp/Photo%205.jpg">
+<figcaption>A combined photo with the J1 CCA leaders (in white college t-shirt), J2 SPC members (in red) and teachers from the Student Leadership Committee and Student Council.</figcaption></figure></div>
