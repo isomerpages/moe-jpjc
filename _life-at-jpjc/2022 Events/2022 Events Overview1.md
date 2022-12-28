@@ -20,8 +20,8 @@ third_nav_title: 2022 Events
 |22 July 2022|[College Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/collegeday/)| 
 |20 July 2022|[Racial Harmony Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/rhd-commemoration/)| 
 |18 - 29 July 2022|[Arts Fest](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/artsfest/)| 
-| 12 July 2022 |   [Post Examination Activities Engagement Day](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/post-examination-activities-engagement-day&sa=D&source=editors&ust=1670864634412459&usg=AOvVaw1rEcRVU_yZEbJg_OyZ33Gc)  | 
-|   3 June 2022  |    [Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/leadership-training-camp-in-collaboration-with-keat-hong-youth-network&sa=D&source=editors&ust=1670864634413294&usg=AOvVaw3epF6Iq6MtRxsdke0pLnOV) | 
+| 12 July 2022 |[Post Examination Activities Engagement Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/postexams/)| 
+|   3 June 2022  |[Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCkeathong)| 
 |  31 May - 3 June 2022   |  [Pre University Seminar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/pre-uni-seminar/)| 
 |    27 - 29 May 2022  |   [Leadership Training Camp (Internal)](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/leadership-training-camp-internal&sa=D&source=editors&ust=1670864634414776&usg=AOvVaw38ZCKjWvEXzH26QEpKM_p-)   | 
 |  25 May 2022    | [JC1 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/) | 
