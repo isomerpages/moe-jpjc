@@ -25,3 +25,23 @@ Overall, the 2022 Post Mid-Year Examination Programme brought a range of experie
 <figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%201.jpg">
 <figcaption>Students attending the Admission and Interview Workshop by SUSS</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%202.jpg">
+<figcaption>Students participating in a Design Thinking game conducted by SUTD</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%203.jpg">
+<figcaption>(Arts Workshops) Our Students and Their Proud Creations</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%204.jpg">
+<figcaption>(Engineering Workshop) NTU Undergraduates Facilitating the Workshop for JPJC Students</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%205.jpg">
+<figcaption>(Engineering Workshop) JPJC Students exploring Hydrogels</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Post%20Examination%20Activities/Photograph%206.jpg">
+<figcaption>(Engineering Workshop)  It was all in all a fruitful and enriching programme for our students</figcaption></figure></div>
