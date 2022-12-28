@@ -15,40 +15,31 @@ third_nav_title: 2022 Events
 <p>At the end of the concert, students threw their mortarboards in the air after singing the College Anthem for one last time as a cohort. As our JC2s officially graduate and leave the gates of JPJC, may they remember the encouraging words of Dr Hang in his farewell speech to the cohort – to always rise up high because there is no limit in the sky and to brave the odds and blaze the trail that lies ahead of them.</p>
 
 <p>Congratulations to the Class of 2022! May your years ahead continue to be characterised by our college values of Integrity, Responsibility, Resilience, Respect, and Compassion. </p>
-<p>
+
+<figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/1%20Students%20making%20their%20mortarboards.jpg">
-<Figcaption align=center><em>Students making their mortarboards</em>
-</figcaption>
-<p>
+<figcaption>Students making their mortarboards
+</figcaption></figure>
 
+<figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/2%2021S09%20breakfast%20party.jpg">
-<Figcaption align=center><em>
-	21S09 breakfast party</em>
-</figcaption>
+<figcaption>21S09 breakfast party</figcaption></figure>
 
-<p>	
+<figure>	
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/3%20Performance%20by%20teachers.jpg">
-	<Figcaption align=center><em>Performance by teachers</em>
-</figcaption>
+<figcaption>Performance by teachers</figcaption></figure>
 
-<p>	
+<figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/4%20Cohort%20sing%20along.jpg">
-<Figcaption align=center><em>Cohort sing along
-</em></figcaption>
+<figcaption>Cohort sing along</figcaption></figure>
 
-<P>	
+<figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/5%20Dr%20Hang%20presenting%204th%20SC%20president%20with%20the%20quilt%20of%20well%20wishes.jpg">
-<Figcaption align=center><em>Dr Hang presenting 4th SC president with the quilt of well wishes</em>
-</figcaption>
+<figcaption>Dr Hang presenting 4th SC president with the quilt of well wishes</figcaption></figure>
 
-<p>
-<img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/6%20Class%20of%202022%20tossing%20mortarboards%20into%20the%20air.jpg">
-<Figcaption align=center><em>
-	Class of 2022 tossing mortarboards into the air</em>
-</figcaption>
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/6%20Class%20of%202022%20tossing%20mortarboards%20into%20the%20air.jpg"><figcaption>Class of 2022 tossing mortarboards into the air</figcaption></figure>
 
-<p>
+<figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/Farewell%20Assembly/7%20The%20crew%20behind%20Farewell%20Assembly.jpg">
-<Figcaption align=center><em>
-	The crew behind Farewell Assembly</em>
-	</figcaption>
+<figcaption>The crew behind Farewell Assembly</figcaption></figure></div>
