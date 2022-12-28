@@ -17,19 +17,25 @@ third_nav_title: 2022 Events
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20A%20(1).jpg">
-<figcaption align=center><em>5th Student Council, led by President Lee Yoonji, Vice President (Operations) Joan Chua Xin Hui, and Vice President (House) Huang Jingwen</em></figcaption> </figure>
+<figcaption>5th Student Council, led by President Lee Yoonji, Vice President (Operations) Joan Chua Xin Hui, and Vice President (House) Huang Jingwen</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20B%20(1).jpg"><figcaption align=center><em>5th CCA Leaders, consisting of the Presidents, Vice Presidents, Captains and Vice Captains of the various CCAs</em></figcaption> </figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20B%20(1).jpg">
+<figcaption>5th CCA Leaders, consisting of the Presidents, Vice Presidents, Captains and Vice Captains of the various CCAs</figcaption> </figure>
 
 
-<figure><img src="/images/Life%20%40%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20C%20(1).jpg">
-<figcaption align=center><em>Combined photo of the 5th Student Council (in college blazers) and 5th CCA Leaders (in college uniform)</em></figcaption> </figure>
+<figure>
+<img src="/images/Life%20%40%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20C%20(1).jpg">
+<figcaption>Combined photo of the 5th Student Council (in college blazers) and 5th CCA Leaders (in college uniform)</figcaption></figure>
 
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20D%20(1).jpg">
+<figcaption>Speech delivered by 5th Student Council President, Lee Yoonji</figcaption></figure> 
 
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20E%20(1).jpg">
+<figcaption>Red carpet walk in of the CCA leaders before the recitation of the Leaders Pledge</figcaption></figure> 
 
-<figure><img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20D%20(1).jpg"><figcaption align=center><em>Speech delivered by 5th Student Council President, Lee Yoonji</em></figcaption></figure> 
-
-<figure><img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20E%20(1).jpg"><figcaption align=center><em>Red carpet walk in of the CCA leaders before the recitation of the Leaders Pledge</em></figcaption></figure> 
-
-<figure><img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20F%20(2).jpg"><figcaption align=center><em>Captain and Vice Captains of Football striking a pose after being introduced</em></figcaption></figure>
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20F%20(2).jpg">
+<figcaption>Captain and Vice Captains of Football striking a pose after being introduced</figcaption></figure></div>

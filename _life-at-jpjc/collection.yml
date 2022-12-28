@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - 2022 Events/.keep
+      - 2022 Events/2022 Events Overview1.md
       - 2022 Events/2022 Events Overview.md
       - 2022 Events/Alumni Speakers Series.md
       - 2022 Events/Staff Welfare Activities.md
@@ -18,6 +19,7 @@ collections:
       - 2022 Events/Literature Symposium.md
       - 2022 Events/College Day.md
       - 2022 Events/Racial Harmony Day Commemoration.md
+      - 2022 Events/Arts Fest.md
       - 2022 Events/Pre University Seminar.md
       - 2022 Events/JC1 SG Perspectives Engagement.md
       - 2022 Events/JC2 SG Perspectives Engagement.md

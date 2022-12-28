@@ -14,30 +14,32 @@ third_nav_title: 2022 Events
 
 <p>The year’s events culminated in the Teachers’ Day Celebration themed ‘Always Awesome’. It was preceded with a gift of a portable fan and preferred gifts from a selection of cheesecakes, tarts, Tupperware carriers, personalised candles, bath and body care gift sets to hobby sets like gardening and mushroom-growing kits. The annual Teachers’ Day Celebration Lunch, held in our library that was transformed into a dazzling mini ballroom, started with a fun-filled segment of getting to know new staff members, videos of the staff’s adventures in travel and food plus a fun Quiz on JP Connections, after which, staff proceeded to partake in a scrumptious buffet lunch replete with an IG-worthy chocolate fountain.</p>
 
-<p>We hope all staff have truly enjoyed and benefitted from the activities and initiatives by the SWC in 2022. Here’s to an even more exciting and refreshing 2023! </p></div>
+<p>We hope all staff have truly enjoyed and benefitted from the activities and initiatives by the SWC in 2022. Here’s to an even more exciting and refreshing 2023! </p>
 
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/A%20sumptuous%20buffet%20lunch%20on%20Teachers_%20Day.jpeg">
-<figcaption align="center"><em>A sumptuous buffet lunch on Teachers Day</em></figcaption>																																																																				
-<p>																																																																	
+<figcaption>A sumptuous buffet lunch on Teachers Day</figcaption></figure>											
+
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/JPJC%20Teachers%E2%80%99%20Green%20Pledge%20%E2%80%93%2022%20April%202022.jpg">
-<figcaption align="center"><em>JPJC Teachers’ Green Pledge – 22 April 2022</em></figcaption>	
+<figcaption>JPJC Teachers’ Green Pledge – 22 April 2022</figcaption></figure>
 
-<p>
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20Wellness%20Activities%20include%20an%20invigorating%20walk%20in%20the%20park%20connector.jpg">
-<figcaption align="center"><em>Staff Wellness Activities include an invigorating walk in the park connector</em></figcaption>	
+<figcaption>Staff Wellness Activities include an invigorating walk in the park connector</figcaption></figure>
 
-<p>
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20bond%20over%20quilt-making.jpg">
-<figcaption align="center"><em>Staff members bond over quilt-making</em></figcaption>	
+<figcaption>Staff members bond over quilt-making</figcaption></figure>
 
-<p>	
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Staff%20members%20getting%20creative%20at%20quilt-making.jpg">
-<figcaption align="center"><em>Staff members getting creative at quilt-making</em></figcaption>	
+<figcaption>Staff members getting creative at quilt-making</figcaption></figure>
 
-<p>	
+<figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/Teachers%20having%20a%20go%20at%20Saboteur%2C%20a%20game%20of%20social%20deduction.jpg">
-<figcaption align="center"><em>Teachers having a go at Saboteur, a game of social deduction</em></figcaption>	
+<figcaption>Teachers having a go at Saboteur, a game of social deduction</figcaption></figure>
 
-<p>	
+<figure>	
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Staff%20Welfare%20Activities/The%20Farewell%20Quilt%20for%20the%20graduating%20students.jpeg">
-<figcaption align="center"><em>The Farewell Quilt for the graduating students</em></figcaption>
+<figcaption>The Farewell Quilt for the graduating students</figcaption></figure></div>
