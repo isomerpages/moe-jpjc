@@ -2,8 +2,6 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2022 Events/Leadership Training Camp (in collaboration with Keat Hong
-        Youth Network).md
       - 2022 Events/.keep
       - 2022 Events/2022 Events Overview1.md
       - 2022 Events/2022 Events Overview.md
@@ -23,6 +21,8 @@ collections:
       - 2022 Events/Racial Harmony Day Commemoration.md
       - 2022 Events/Arts Fest.md
       - 2022 Events/Post Examination Activities Engagement Day.md
+      - 2022 Events/Leadership Training Camp (in collaboration with Keat Hong
+        Youth Network).md
       - 2022 Events/Pre University Seminar.md
       - 2022 Events/JC1 SG Perspectives Engagement.md
       - 2022 Events/JC2 SG Perspectives Engagement.md
