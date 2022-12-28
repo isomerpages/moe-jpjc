@@ -19,32 +19,32 @@ third_nav_title: 2022 Events
 |27 July 2022|[Literature Symposium](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LiteratureSymposium/)| 
 |22 July 2022|[College Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/collegeday/)| 
 |20 July 2022|[Racial Harmony Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/rhd-commemoration/)| 
-|18 - 29 July 2022|  [Arts Fest](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/arts-fest&sa=D&source=editors&ust=1670864634411652&usg=AOvVaw1bQDTBZbtaVHOtPCD9NRAc)   | 
-| 12 July 2022 |   [Post Examination Activities Engagement Day](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/post-examination-activities-engagement-day&sa=D&source=editors&ust=1670864634412459&usg=AOvVaw1rEcRVU_yZEbJg_OyZ33Gc)  | 
-|   3 June 2022  |    [Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/leadership-training-camp-in-collaboration-with-keat-hong-youth-network&sa=D&source=editors&ust=1670864634413294&usg=AOvVaw3epF6Iq6MtRxsdke0pLnOV) | 
-|  31 May - 3 June 2022   |  [Pre University Seminar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/pre-uni-seminar/)| 
-|    27 - 29 May 2022  |   [Leadership Training Camp (Internal)](https://www.google.com/url?q=https://jpjc.moe.edu.sg/life-at-jpjc-1/2022-events/leadership-training-camp-internal&sa=D&source=editors&ust=1670864634414776&usg=AOvVaw38ZCKjWvEXzH26QEpKM_p-)   | 
-|  25 May 2022    | [JC1 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/) | 
-|   11 May 2022  | [JC2 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc2-sg-perspective-engagement/) | 
-|  7 May 2022   |[JPJC Eco Club X Ayer Rajah CC Mothers' Day Terrarium Workshop ](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jpjc-eco-club-and-terrarium-workshop/)  | 
-|   6 May 2022  |[ECG Parent's Evening](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ecg-parents-evening/) | 
-|    27 April 2022 | [International Friendship Day Commemoration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/international-friendship-day-commemoration/) | 
-|    6 April 2022 |  [Service Learning Festival](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/service-learning-festival/) | 
-|  31 March 2022   |[Xinyao Appreciation Sesssion](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/xinyao-appreciation-session/) | 
-|   27 March – 8 Apr 2022  |  [Mother Tongue Language Fortnight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/mtl-fortnight/) | 
-| 25 March 2022 |[Inaugural PW Innovation Programme Finale: 'Shark Tank' Presentations](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/shark-tank-presentations/) |
-|   9 March 2022|  [JP Spotlight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jp-spotlight/)  |
-| 2 March 2022 | [House Bonding Day 1](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/house-bonding-day-1/)  |
-|   25 February 2022|  [J1 Parent Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/j1-parent-engagement-session/) |
-| 22 February 2022 |  [GCE A Level Results Release Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/gce-a-level-results-release-day/)|
-|  11 / 14 February 2022| [Staff Learning Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/staff-learning-day/)  |
-| 9-24 February 2022 | [Total Defence Day Commemoration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/total-defence-day-commemoration/) |
-|  7-14 February 2022|   [Matriculation & Orientation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/matriculation-and-orientation/) |
-|  7-14 February 2022|  [JC2 Enrichment Week](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc2-enrichment-week/) |
-|  31 January 2022|  [Chinese New Year Celebration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/cny-celebration/)|
-|  28 January 2022| [J2 Parent Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/j2-parent-engagement-session/)  |
-|  26 January 2022| [4th Student Council Investiture & CCA Leaders Installation](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/student-council-investiture-and-cca-ldrs-installation/)|
-|  13 January 2022| [JPJC e Openhouse](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jpjc-e-openhouse/)  |
-| 8 January 2022 |  [NTU SCSE Computing Challenge](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ntu-scse-computing-challenge/)|
-| 4 to 6 January 2022 |   [OGL Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ogl-camp/) |
+|18 - 29 July 2022|[Arts Fest](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/artsfest/)| 
+| 12 July 2022 |[Post Examination Activities Engagement Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/postexams/)| 
+|   3 June 2022  |[Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCkeathong)| 
+|  31 May - 3 June 2022   |[Pre University Seminar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/pre-uni-seminar/)| 
+|27 - 29 May 2022|[Leadership Training Camp (Internal)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCinternal/)| 
+|25 May 2022|[JC1 SG Perspectives Engagement](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/)| 
+|   11 May 2022  |[JC2 SG Perspectives Engagement](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jc2-sg-perspective-engagement/)| 
+|  7 May 2022   |[JPJC Eco Club X Ayer Rajah CC Mothers' Day Terrarium Workshop](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jpjc-eco-club-and-terrarium-workshop/)| 
+|6 May 2022|[ECG Parent's Evening](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/ecg-parents-evening/)| 
+|27 April 2022|[International Friendship Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/international-friendship-day-commemoration/)| 
+|6 April 2022|[Service Learning Festival](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/service-learning-festival/)| 
+|31 March 2022|[Xinyao Appreciation Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/xinyao-appreciation-session/)| 
+|27 March – 8 Apr 2022|[Mother Tongue Language Fortnight](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/mtl-fortnight/)| 
+| 25 March 2022 |[Inaugural PW Innovation Programme Finale: 'Shark Tank' Presentations](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/shark-tank-presentations/)|
+|9 March 2022|[JP Spotlight](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jp-spotlight/)|
+|2 March 2022|[House Bonding Day 1](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/house-bonding-day-1/)|
+|25 February 2022|[J1 Parent Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/j1-parent-engagement-session/)|
+|22 February 2022|[GCE A Level Results Release Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/gce-a-level-results-release-day/)|
+|11 / 14 February 2022|[Staff Learning Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/staff-learning-day/)|
+| 9-24 February 2022 |[Total Defence Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/total-defence-day-commemoration/)|
+|7-14 February 2022|[Matriculation & Orientation](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/matriculation-and-orientation/)|
+|7-14 February 2022|[JC2 Enrichment Week](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jc2-enrichment-week/)|
+|31 January 2022|  [Chinese New Year Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/cny-celebration/)|
+|28 January 2022| [J2 Parent Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/j2-parent-engagement-session/)  |
+|26 January 2022| [4th Student Council Investiture & CCA Leaders Installation](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/student-council-investiture-and-cca-ldrs-installation/)|
+|13 January 2022| [JPJC e Openhouse](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jpjc-e-openhouse/)  |
+|8 January 2022 |  [NTU SCSE Computing Challenge](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/ntu-scse-computing-challenge/)|
+| 4 to 6 January 2022 |   [OGL Camp](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/ogl-camp/) |
 |  |     |
