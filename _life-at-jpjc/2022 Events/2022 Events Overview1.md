@@ -6,11 +6,11 @@ third_nav_title: 2022 Events
 ---
 | Date | Events | 
 | -------- | -------- |
-|31 October 2022     |[Alumni Speakers Series](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)   | 
-| 25 October 2022 |[Staff Welfare Activities](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/StaffWelfareActivities/) |
-|   7 October 2022  | [Farewell Assembly](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/FarewellAssembly/) | 
-| 1 September 2022|[Teachers Day Celebration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/TeachersDayCelebration/) |
-|  24 August 2022   | [Careers and Higher Education Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/CareersandHigherEducationDay/) | 
+|31 October 2022|[Alumni Speakers Series](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)| 
+|25 October 2022|[Staff Welfare Activities](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/StaffWelfareActivities/)|
+|7 October 2022|[Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/FarewellAssembly/)| 
+|1 September 2022|[Teachers’ Day Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/TeachersDayCelebration/)|
+|24 August 2022|[Careers and Higher Education Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/CareersandHigherEducationDay/)| 
 |12 August 2022| [CCA Leaders Investiture](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/CCALeadersInvestiture/)|
 |    8 August 2022 | [National Day Celebrations](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/nationaldaycelebrations/) | 
 |   3 August 2022   |[Arts and Social Science Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-Events/ArtsandSocialSciencesDay/) | 
