@@ -23,8 +23,8 @@ third_nav_title: 2022 Events
 | 12 July 2022 |[Post Examination Activities Engagement Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/postexams/)| 
 |   3 June 2022  |[Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCkeathong)| 
 |  31 May - 3 June 2022   |[Pre University Seminar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/pre-uni-seminar/)| 
-|    27 - 29 May 2022  |[Leadership Training Camp (Internal)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCinternal/)| 
-|  25 May 2022    | [JC1 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/) | 
+|27 - 29 May 2022|[Leadership Training Camp (Internal)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCinternal/)| 
+|25 May 2022|[JC1 SG Perspectives Engagement](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/)| 
 |   11 May 2022  | [JC2 SG Perspectives Engagement](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jc2-sg-perspective-engagement/) | 
 |  7 May 2022   |[JPJC Eco Club X Ayer Rajah CC Mothers' Day Terrarium Workshop ](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/jpjc-eco-club-and-terrarium-workshop/)  | 
 |   6 May 2022  |[ECG Parent's Evening](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2022-events/ecg-parents-evening/) | 
