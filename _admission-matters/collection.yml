@@ -2,7 +2,6 @@ collections:
   admission-matters:
     output: true
     order:
-      - JPJC Open House 2023/.keep
       - Joint Admissions Exercise 2022.md
       - JAE Appeals 2022.md
       - Returning Singaporeans (RS) and International Students (IS).md
