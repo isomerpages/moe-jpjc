@@ -2,9 +2,9 @@ collections:
   admission-matters:
     output: true
     order:
+      - JPJC Open House 2023/.keep
+      - JPJC Open House 2023/JPJC Open House 2023.md
       - Joint Admissions Exercise 2022.md
       - JAE Appeals 2022.md
       - Returning Singaporeans (RS) and International Students (IS).md
       - KM Portal Registration & Selection of Subject Combination.md
-      - JPJC Open House 2023/JPJC Open House 2023.md
-      - JPJC Open House 2023/.keep
