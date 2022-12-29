@@ -11,7 +11,9 @@ sections:
       background: /images/top-banner.jpg
       dropdown:
         title: Announcements
-        options: []
+        options:
+          - title: JPJC Open House 2023
+            url: /about-jpjc/Admission-Matters/openhouse2023/
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
