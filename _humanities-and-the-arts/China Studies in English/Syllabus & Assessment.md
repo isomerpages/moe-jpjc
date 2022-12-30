@@ -36,3 +36,4 @@ The essays will be assessed using a generic levels of response mark scheme, whic
 
 <p>
 For further details, please refer to the SEAB Website.</p>
+</div>
