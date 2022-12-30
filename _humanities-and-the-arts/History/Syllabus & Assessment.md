@@ -4,37 +4,36 @@ permalink: /humanities-and-the-arts/history/syllabus-and-assessment/
 description: ""
 third_nav_title: History
 ---
-
-<h4><strong>H2 Level History Syllabus</strong></h4>
 <div align=justify>
-<p>
-The <strong>H2 History syllabus</strong> comprises two papers, each with three prescribed themes, which encourage students to examine key developments in the political, economic and social history of the second half of the twentieth century.</p>
+
+<h4>H2 Level History Syllabus </h4>
 
 <p>
-Paper 1 (Shaping the International Order: 1945-2000) examines the attempts of the superpowers and various other historical actors to shape the international order after the Second World War, which resulted in key global developments in the second half of the twentieth century.</p>
+The H2 History syllabus focuses on the key forces and developments that shaped the second half of the 20th Century, providing students with the necessary historical context to understand key contemporary geopolitical and economic shifts. The syllabus comprises two papers that equip students with breadth and depth of knowledge in global, regional and local developments and their interconnections, as well as the agency of diverse historical actors.</p>
+
+<h5><i>Paper 1: The Changing International Order (1945 – 2000)</i></h5> 
 
 <p>
-Paper 2 (The Making of Independent Southeast Asia: Independence – 2000) exposes students to a richer and more multifaceted view of independent Southeast Asia. Studying how newly independent states and their people sought to assert their place and identity amidst the forces of change will provide the historical context to understand present-day Southeast Asia.</p>
+In this paper, students will explore the interactions between historical actors and the Cold War environment, which influenced the development of the international security and economic order in the latter half of the 20th Century.</p>
 
-<h4><strong>H2 Level History Assessment</strong></h4>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
-
-<p>
-You may access detailed information on the H2 ‘A’ Level History Syllabus and Assessment <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9752_y22_sy.pdf">here</a>.</p>
-
-<h4><strong>H1 Level History Syllabus</strong></h4>
-<p>
-The <strong>H1 History syllabus</strong> focuses on a study of the Cold War and its impact on developments in Asia as well as the developments of the United Nations after 1945, as follows:</p>
-<ul>
-	<li>Theme I: Understanding the Cold War, 1945–1991</li>
-	<li>Theme II: The Cold War and Asia, 1945–1991</li>
-	<li>Theme III: The Cold War and the United Nations, 1945–2000</li></ul>
-
-<h4><strong>H1 Level History Assessment</strong></h4>
+<h5><i>Paper 2: Developments in Southeast Asia (Independence – 2000)</i></h5>
 
 <p>
-The examination consists of one paper, with duration of 3 hours. The assessment modes comprise a compulsory source-based case study and essay questions.</p>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px height=250px scrolling="no"></iframe>
+In this paper, students will examine the key developments that took place within Southeast Asian countries and in the region after independence.</p>
+
+<h4>H2 Level History Assessment</h4>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px, height=850px, scrolling="no"></iframe>
+
+<h4>H1 Level History Syllabus</h4>
 
 <p>
-You may access detailed information on the H1 ‘A’ Level History Syllabus and Assessment <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8821_y22_sy.pdf">here</a>.
+The H1 History syllabus focuses on the key forces and developments that shaped the second half of the 20th Century, providing students with the necessary historical context to understand key contemporary geopolitical and economic shifts. The syllabus equips students with breadth and depth of knowledge in global, regional and local developments and their interconnections, as well as the agency of diverse historical actors, with the Cold War as the overarching narrative framework.</p>
+
+<h4>H1 Level History Assessment</h4>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px, height=450px, scrolling="no"></iframe>
+
+<p>
+For further details, please refer to the SEAB Website.</p>
+</div>

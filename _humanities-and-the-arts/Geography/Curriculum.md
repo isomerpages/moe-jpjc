@@ -4,14 +4,19 @@ permalink: /humanities-and-the-arts/geography/curriculum/
 description: ""
 third_nav_title: Geography
 ---
-
 <div align=justify>
 <p>
-The <strong>H1 and H2 Geography curriculum</strong> focuses on six geographical concepts which frame the syllabus content. The six geographical concepts are as follows:</p>
-<ul>
-	<li>Environment</li>
+Four geographical concepts that reflect how geographers study the world frame the curriculum. These four geographical concepts are:</p>
+<ol>
+	<li>Space</li>
 	<li>Place</li>
-	<li>Process</li>
-	<li>Scale</li>
-	<li>Space and Time</li>
-	<li>System</li></ul>
+	<li>Environment and</li>
+	<li>Scale</li></ol>
+
+<p>
+	Students are expected to gain a sophisticated understanding of these concepts and apply them to:</p>
+<ul>
+	<li>inquire and describe the world we live in;</li>
+	<li>analyse issues, phenomena and human-nature relationships; and</li>
+	<li>discuss global efforts to achieve sustainable development.</li></ul>
+</div>
