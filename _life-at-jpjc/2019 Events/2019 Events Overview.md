@@ -8,15 +8,15 @@ third_nav_title: 2019 Events
 
 | Date | Event|
 |---|---|
-| Nov / Dec 2019 | [JPJC Selected for Singapore Combined Schools U18 Squad](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-student-u18-squad/) |
-| 25 to 30 November 2019 | [Humanities Interest Programme](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/humanities-interest-programme/) |
-|  24 to 29 November 2019 | [Mother Tongue Languages (Chinese Language) C](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/mtl-chinese/)[ultural Immersion Trip](https://jpjc.moe.edu.sg//life-at-jpjc-1/2019-events/mother-tongue-languages-chinese-language-cultural-immersion-trip)  |
-|  18 November 2019 | [A\*STAR Science Award (JC)](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/science-award/) |
-|  15-16 October 2019 | [Renaming of Houses](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/renaming-of-houses/) |
-|  11 October 2019 | [Farewell Assembly](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/farewell-assembly/) |
-| 30 August 2019  | [Teachers’ Day Dinner](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/teachers-day-dinner/) |
-|  7 August 2019 | [Literature Symposium](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/literature-symposium/) |
-|  2 August 2019 |  [AOGS-EOS Geoscience Challenge](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/aogs-eos-geoscience-challenge/) |
+| Nov / Dec 2019 | [JPJC Student Selected for Singapore Combined Schools U18 Squad](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-student-u18-squad/) |
+| 25 to 30 November 2019 | [Humanities Interest Programme](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/humanities-interest-programme/) |
+|  24 to 29 November 2019 | [Mother Tongue Languages (Chinese Language) Cultural Immersion Trip to Shanghai, China](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mtl-chinese/) |
+|  18 November 2019 | [A Star Science Award (JC)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/science-award/) |
+|  15-16 October 2019 |[Renaming of Houses](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/renaming-of-houses/) |
+|  11 October 2019 |[Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/farewell-assembly/) |
+| 30 August 2019  |[Teachers' Day Dinner](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/teachers-day-dinner/) |
+|  7 August 2019 | [Literature Symposium](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/literature-symposium/) |
+|  2 August 2019 | [AOGS EOS Geoscience Challenge](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/aogs-eos-geoscience-challenge/)|
 |  1 August 2019 |  [JC2 SG Perspectives Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jc2-sg-engagement-session/) |
 |  31 July 2019 |  [JPJC STEM Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-stem-day/) |
 |  13 July 2019 |  [JPJC Maths and Science Challenge](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-math-and-science-challenge/) |
