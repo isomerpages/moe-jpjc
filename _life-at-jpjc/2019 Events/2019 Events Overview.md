@@ -17,9 +17,9 @@ third_nav_title: 2019 Events
 | 30 August 2019  |[Teachers' Day Dinner](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/teachers-day-dinner/) |
 |  7 August 2019 | [Literature Symposium](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/literature-symposium/) |
 |  2 August 2019 | [AOGS EOS Geoscience Challenge](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/aogs-eos-geoscience-challenge/)|
-|  1 August 2019 |  [JC2 SG Perspectives Engagement Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jc2-sg-engagement-session/) |
-|  31 July 2019 |  [JPJC STEM Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-stem-day/) |
-|  13 July 2019 |  [JPJC Maths and Science Challenge](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-math-and-science-challenge/) |
+|  1 August 2019 |  [JC2 SG Perspectives Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jc2-sg-engagement-session/) |
+|  31 July 2019 | [JPJC STEM Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-stem-day/) |
+|  13 July 2019 |[JPJC Maths and Science Challenge](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-math-and-science-challenge/) |
 |  13 July 2019 | [Past vs. Present Homecoming Games](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/past-vs-present-homecoming-games/) |
 |  7 July 2019 | [Jurong Spring Family Day Walk](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jurong-spring-family-day-walk/) |
 |  20-27 June 2019 | [World Scholar’s Cup Beijing Global Round](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/the-jp-spotlight/world-scholar-cup-beijing-global-round/) |
