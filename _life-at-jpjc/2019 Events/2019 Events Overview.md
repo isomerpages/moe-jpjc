@@ -20,15 +20,15 @@ third_nav_title: 2019 Events
 |  1 August 2019 |  [JC2 SG Perspectives Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jc2-sg-engagement-session/) |
 |  31 July 2019 | [JPJC STEM Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-stem-day/) |
 |  13 July 2019 |[JPJC Maths and Science Challenge](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-math-and-science-challenge/) |
-|  13 July 2019 | [Past vs. Present Homecoming Games](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/past-vs-present-homecoming-games/) |
-|  7 July 2019 | [Jurong Spring Family Day Walk](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jurong-spring-family-day-walk/) |
-|  20-27 June 2019 | [World Scholar’s Cup Beijing Global Round](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/the-jp-spotlight/world-scholar-cup-beijing-global-round/) |
-|  10-11 June 2019 | [Leadership Training Camp @ Yuhua](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/leadership-training-camp-yuhua/)  |
-|  6-7 June 2019 | [Leadership Training Camp @ Keat Hong](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/leadership-training-at-keat-hong/)  |
-|  27 April 2019 | [MLEP Graduation Showcase](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/mlep-graduation-showcase/) |
-| 8-18 April 2019  |  [Mother Tongue Fortnight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/mtl-fortnight/) |
-|  17 April 2019 |  [MLEP Translation Workshop Conducted by Berita Mediacorp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/mlep-translation-workshop/) |
-|  3 April 2019 | [Service Learning Festival](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/service-learning-festival/)  |
+|  13 July 2019 |[Past vs Present Homecoming Games](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/past-vs-present-homecoming-games/) |
+|  7 July 2019 | [Jurong Spring Family Day Walk](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jurong-spring-family-day-walk/) |
+|  20-27 June 2019 |[World Scholar's Cup Beijing Global Round](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/the-jp-spotlight/world-scholar-cup-beijing-global-round/) |
+|  10-11 June 2019 | [Leadership Training Camp Yuhua](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/leadership-training-camp-yuhua/) |
+|  6-7 June 2019 | [Leadership Training at Keat Hong](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/leadership-training-at-keat-hong/) |
+|  27 April 2019 | [MLEP Graduation Showcase](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mlep-graduation-showcase/) |
+| 8-18 April 2019  | [Mother Tongue Fortnight](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mtl-fortnight/) |
+|  17 April 2019 | [MLEP Translation Workshop Conducted By Berita Mediacorp](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mlep-translation-workshop/) |
+|  3 April 2019 | [Service Learning Festival](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/service-learning-festival/) |
 |  29 March 2019 | [JPJC Parent Support Group (PSG) Get-to-know Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-psg-get-to-know-session/)  |
 |  29 March 2019 | [The JP Spotlight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/the-jp-spotlight/)  |
 |  27 March 2019 | [WZCOE (CCE)](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/wzcoe-cce/) |
