@@ -16,13 +16,13 @@ third_nav_title: 2021 Events
 |  6 Aug 2021 | [Humanities Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/humanities-day/)  |
 |  4-10 Aug 2021 |[E STEM Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/e-stem-day/)  |
 |  30 Jul 2021 | [Parent Support Group Webinar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/psg-webinar/)  | 
-|  23 to 25 Jul 2021 | [Harvard Innovation Challenge South East Asia III](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/harvard-innovation-challenge-SEA/)  |
-|  15 Jul 2021 | [Jurong Pioneer Junior College Congratulates its National Day Award 2020 Recipients](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-ndp-award-2020/) |
-|  2 Jun 2021 |  [Keat Hong Leadership Training Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/keat-hong-leadership-training-camp/) |
-|  1 to 4 Jun 2021 | [Pre-University Seminar](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/pre-university-seminar/)  |
-|  29 May 2021 |  [Leadership Training Camp](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/leadership-training-camp/) |
-| 7 May 2021  | [ECG Parents' Evening](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/ecg-parents-evening/)  |
-|  21 Apr 2021 | [JP Ultimate Frisbee CCA Exchange](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jp-ultimate-frisbee-cca-exchange/)  |
+|  23 to 25 Jul 2021 | [Harvard Innovation Challenge South East Asia III](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/harvard-innovation-challenge-SEA/)|
+|  15 Jul 2021 | [Jurong Pioneer Junior College Congratulates its National Day Award 2020 Recipients](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jpjc-ndp-award-2020/)|
+|  2 Jun 2021 |  [Keat Hong Leadership Training Camp](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/keat-hong-leadership-training-camp/) |
+|  1 to 4 Jun 2021 | [Pre University Seminar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/pre-university-seminar/)|
+|  29 May 2021 |  [Leadership Training Camp](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/leadership-training-camp/) |
+| 7 May 2021  | [ECG Parents' Evening](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/ecg-parents-evening/) |
+|  21 Apr 2021 | [JP Ultimate Frisbee CCA Exchange](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jp-ultimate-frisbee-cca-exchange/) |
 |  15 Apr 2021 |  [International Friendship Day Commemoration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/international-friendship-day-commemoration/) |
 |  15 Apr 2021 |  [The Jurong Pioneer Junior College Alumni Breakfast Series - Session 2](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-alumni-breakfast-series-session-2/) |
 |  14 Apr 2021 | [Response Ready Programme - Training our Students to Handle Emergencies](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/response-ready-programme/)  |
