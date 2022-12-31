@@ -29,16 +29,16 @@ third_nav_title: 2019 Events
 | 8-18 April 2019  | [Mother Tongue Fortnight](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mtl-fortnight/) |
 |  17 April 2019 | [MLEP Translation Workshop Conducted By Berita Mediacorp](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mlep-translation-workshop/) |
 |  3 April 2019 | [Service Learning Festival](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/service-learning-festival/) |
-|  29 March 2019 | [JPJC Parent Support Group (PSG) Get-to-know Session](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/jpjc-psg-get-to-know-session/)  |
-|  29 March 2019 | [The JP Spotlight](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/the-jp-spotlight/)  |
-|  27 March 2019 | [WZCOE (CCE)](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/wzcoe-cce/) |
-|  23-24 March 2019 | [WSC 2019 Regional Round](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/wsc-regional-round/) |
-|  23 March 2019 | [National Olympiad in Informatics](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/national-olympiad-in-informatics/) |
-|   18 March 2019 |   [National Coding Championship](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/national-coding-championship/) |
-|   8 March 2019 | [Annual Road Run](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/annual-road-run/) |
-| 13 February 2019  | [Koishikawa Visits JPJC](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/koishikawa-visits-jpjc/) |
-|  7 February 2019 | [CCA Discovery Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/cca-discovery-day/) |
-|  4 February 2019 | [Chinese New Year Celebration](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/cny-celebration/) |
-|   15 January 2019 | [Open House](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/open-house/) |
-|   10 January 2019 | [The Singapore Chemistry Olympiad](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2019-events/singapore-chemistry-olympiad/)  |
+|  29 March 2019 |[JPJC Parent Support Group (PSG) Get to Know Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-psg-get-to-know-session/) |
+|  29 March 2019 | [The JP Spotlight](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/the-jp-spotlight/) |
+|  27 March 2019 |[WZCOE (CCE)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/wzcoe-cce/)|
+|  23-24 March 2019 | [WSC Regional Round](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/wsc-regional-round/)|
+|  23 March 2019 | [National Olympiad in Informatics](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/national-olympiad-in-informatics/)|
+|   18 March 2019 |  [National Coding Championship](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/national-coding-championship/)|
+|   8 March 2019 | [Annual Road Run](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/annual-road-run/) |
+| 13 February 2019  |[Koishikawa Visits JPJC](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/koishikawa-visits-jpjc/) |
+|  7 February 2019 |[CCA Discovery Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/cca-discovery-day/) |
+|  4 February 2019 | [Chinese New Year Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/cny-celebration/) |
+|   15 January 2019 |[Open House](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/open-house/) |
+|   10 January 2019 |[The Singapore Chemistry Olympiad](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/singapore-chemistry-olympiad/)|
 |
