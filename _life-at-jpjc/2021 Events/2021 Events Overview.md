@@ -8,7 +8,7 @@ third_nav_title: 2021 Events
 
 | Date | Event|
 | --- | --- |
-| 11 Oct 2021 | [JC1 Students' Dialogue with Minister Chan Chun Sing](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jc1-students-dialogue-with-minister/) |
+| 11 Oct 2021 |[JC1 Students' Dialogue with Minister Chan Chun Sing](/life-at-jpjc/2021-events/jc1-students-dialogue-with-minister/)|
 | 8 Oct 2021 | [JC2 Farewell Assembly](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jc2-farewell-assembly/) |
 |  2 Sep 2021 |  [Teachers' Day](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/teachers-day/) |
 |  12 Aug 2021 | [The Jurong Pioneer Junior College Alumni Breakfast Series - Session 3](https://staging.d1kt1aspitrtfv.amplifyapp.com/life-at-jpjc/2021-events/jpjc-alumni-breakfast-series-session-3/)  |
