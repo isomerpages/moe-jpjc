@@ -8,7 +8,7 @@ third_nav_title: 2019 Events
 
 | Date | Event|
 |---|---|
-| Nov / Dec 2019 | [JPJC Student Selected for Singapore Combined Schools U18 Squad](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-student-u18-squad/) |
+| November / December 2019 | [JPJC Student Selected for Singapore Combined Schools U18 Squad](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-student-u18-squad/) |
 | 25 to 30 November 2019 | [Humanities Interest Programme](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/humanities-interest-programme/) |
 |  24 to 29 November 2019 | [Mother Tongue Languages (Chinese Language) Cultural Immersion Trip to Shanghai, China](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/mtl-chinese/) |
 |  18 November 2019 | [A Star Science Award (JC)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/science-award/) |
