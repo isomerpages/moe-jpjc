@@ -2,6 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
+      - Students.md
       - Accomplishments.md
       - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
