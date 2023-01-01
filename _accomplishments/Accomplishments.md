@@ -4,11 +4,13 @@ permalink: /accomplishments/
 description: ""
 ---
 <div align=justify>
-<p>
-JPJC cares by seeking to know our students’ interests and strengths, and providing varied opportunities to enrich their JC experiences.</p>
 
 <p>
-JPJC cares by building a culture of organisational excellence, and establishing a framework of standards to engage staff.</p>
+At JPJC, we provide opportunities for our students to enrich their JC experience according to their interests and strengths. A culture of organisational excellence and a framework of support to help our staff grow and excel also underpins our college.</p>
 
 <p>
-We imbue in both our students and staff, the courage and autonomy to pursue personal excellence. In JPJC, we celebrate all accomplishments, big and small.</p>
+In the course of their journey of discovery and growth, we imbue in all members of the JPJC family the autonomy and courage to pursue excellence.</p>
+
+<p>
+In JPJC, we celebrate all accomplishments, both big and small, and foster a strong growth mindset in one and all.</p>
+</div>
