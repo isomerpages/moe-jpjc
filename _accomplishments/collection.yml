@@ -2,11 +2,11 @@ collections:
   accomplishments:
     output: true
     order:
-      - Students/.keep
       - Accomplishments.md
       - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
       - Staff/Madam Lim Sok Koon.md
       - Staff/Ms Siti Khadijah.md
       - Staff/Ms Estelle Chia.md
+      - Students/.keep
       - "'A' Lvl Inspirational Stories/.keep"
