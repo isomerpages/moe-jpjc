@@ -4,8 +4,6 @@ permalink: /life-at-jpjc/2021-events/
 description: ""
 third_nav_title: 2021 Events
 ---
-### **2021 Events**
-
 | Date | Event|
 | --- | --- |
 | 11 October 2021 |[JC1 Students' Dialogue with Minister](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc1-students-dialogue-with-minister/)|
