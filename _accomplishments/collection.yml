@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Accomplishments.md
-      - Staff/2022 Awardees.md
       - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
       - Staff/Madam Lim Sok Koon.md
       - Staff/Ms Siti Khadijah.md
       - Staff/Ms Estelle Chia.md
+      - Staff/2022 Awardees.md
       - Students/2018 & 2019 Accomplishments.md
       - Students/2020 Accomplishments.md
       - Students/.keep
