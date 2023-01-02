@@ -42,9 +42,9 @@ In addition to Paper 1, H2 students offer Paper 3: The Mind and Self in Literatu
 <p>
 Candidates study the following three texts:
 <ul>
-	<li>Hamlet  by William Shakespeare</li>
-	<li>The Caretaker  by Harold Pinter</li>
-	<li>Regeneration  by Pat Barker</li></ul>
+	<li><i>Hamlet</i> by William Shakespeare</li>
+	<li><i>Ariel</i> by Sylvia Plath</li>
+	<li><i>Regeneration</i> by Pat Barker</li></ul>
 
 <p>
 Candidates will answer three questions (bearing equal weightage).</p>
