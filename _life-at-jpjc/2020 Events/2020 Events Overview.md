@@ -4,8 +4,6 @@ permalink: /life-at-jpjc/2020-events/
 description: ""
 third_nav_title: 2020 Events
 ---
-### **2020 Events**
-
 | Date | Event |
 | --- | --- |
 | 9 October 2020 | [JC2 Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/jc2-farewell-assembly/) |
