@@ -4,8 +4,6 @@ permalink: /life-at-jpjc/2019-events/
 description: ""
 third_nav_title: 2019 Events
 ---
-### 2019 Events Overview
-
 | Date | Event|
 |---|---|
 | November / December 2019 | [JPJC Student Selected for Singapore Combined Schools U18 Squad](https://www.jpjc.moe.edu.sg/life-at-jpjc/2019-events/jpjc-student-u18-squad/) |
