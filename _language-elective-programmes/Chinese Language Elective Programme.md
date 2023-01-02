@@ -3,8 +3,8 @@ title: Chinese Language Elective Programme
 permalink: /language-elective-programmes/chinese/
 description: ""
 ---
-
 <div align=justify>
+
 <p>
 Jurong Pioneer Junior College is a Ministry of Education (MOE) Language Elective Programme (LEP) Centre for Chinese.</p>
 
@@ -22,13 +22,13 @@ Students who are enrolled in the Chinese Language Elective Programme (CLEP) must
 <p>
 Some of the distinctive elements of the JPJC CLEP are:</p>
 
-<h5><strong>Overseas Immersion Trip</strong></h5>
+<h4>Overseas Immersion Trip</h4>
 
 <p>
-Each year, MOE CPDD organises a 15-day CLEP Overseas Immersion Trip to Beijing/ Shanghai and Taipei. Not only do JPJC CLEP students acquire a deeper understanding of Chinese literature, language and culture, they also get to interact with stude nts from the four other CLEP centres, namely Hwa Chong Institution (College), Temasek Junior College, Nanyang Juni or College and Dunman High S chool, and forge great friendships.</p>
+Each year, MOE CPDD organises a 15-day CLEP Overseas Immersion Trip to Beijing/Shanghai and Taipei. Not only do JPJC CLEP students acquire a deeper understanding of Chinese literature, language and culture, they also get to interact with students from the four other CLEP centres, namely Hwa Chong Institution (College), Temasek Junior College, Nanyang Junior College and Dunman High School, and forge great friendships.</p>
 
 <figure>
-	<img src="/images/CLEP%203.png"></figure>
+<img src="/images/CLEP%203.png"></figure>
 
 <p>
 CLEP students will have exposure to a wide variety of weekly college-based activities conducted exclusively for them, such as song writing, tea art appreciation, mini-lectures by distinguished experts and academics, calligraphy etc.</p>
@@ -72,7 +72,7 @@ They also play an active role in the annual Chinese New Year Celebrations, Mothe
 <figure>
 <img src="/images/CLEP%2014.jpg"></figure>
 
-<h5><strong>Student Internship Programme</strong></h5>
+<h4>Student Internship Programme</h4>
 
 <p>
 Internship opportunities are provided for CLEP students in various organisations such as Lianhe Zaobao, The Theatre Practice, MOE,  Singapore Chinese Cultural Centre, ‘Meet-the-People’s Session’ , etc. Students are given the opportunity to better understand the career opportunities related to Chinese language.</p>
@@ -81,7 +81,8 @@ Internship opportunities are provided for CLEP students in various organisations
 <img src="/images/CLEP%2015.jpg">
 </figure>
 
-<h5><strong>“新空下” National Xinyao Singing and Song Writing Competition</strong></h5>
+<h4>“新空下” National Xinyao Singing and Song Writing Competition</h5>
+	
 <p>
 Xinyao played an important part in the development of Singapore's cultural history. In the early 1980s, students got together and sang the songs which they have composed on their own, a first for the local music scene. Many of the pioneers of Xinyao, amongst which one of the most distinguished, Eric Moo, began their music journey in JJC in the early 1980s, before going on the bigger regional stage.  Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also started penning songs in JJC.</p>
 
@@ -99,3 +100,5 @@ Despite the challenges of COVID-19 pandemic since 2020, timely changes were made
 <strong>For Further Clarification</strong>
 <p>
 Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a>.</p>
+
+</div>
