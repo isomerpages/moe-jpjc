@@ -2,5 +2,4 @@ collections:
   jpjc-experience:
     output: true
     order:
-      - CoCurriculum/.keep
       - Total Curriculum Framework.md
