@@ -16,7 +16,7 @@ Students reading Biology can choose from two levels of study: H1 or H2. Biology 
 <p>
 The syllabus is divided into two parts, the core syllabus and the extension topics. The core syllabus explores the workings of life in the areas of cellular functions, cellular physiology and biochemistry, DNA and genomics together with its organisation and control, genetics of inheritance, genetics of virus and bacteria as well as biology evolution. The extension topics comprise of climate change and immunology.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTb4aSEX-r_jisIaFRnfZdxWdd9xV9hL6bjIFjj9Rx770dK1DyKNrdqFh1RxsPfvqHxG9Z2cNlAKziR/pub?embedded=true" width=800px, height=850px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTb4aSEX-r_jisIaFRnfZdxWdd9xV9hL6bjIFjj9Rx770dK1DyKNrdqFh1RxsPfvqHxG9Z2cNlAKziR/pub?embedded=true" width=800px height=850px scrolling="no"></iframe>
 
 <p>Note: Topics in <strong>**bold**</strong> are in H2 syllabus only</p>
 
