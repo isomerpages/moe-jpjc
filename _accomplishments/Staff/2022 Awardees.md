@@ -4,8 +4,6 @@ permalink: /accomplishments/Staff/2022awardees/
 description: ""
 third_nav_title: Staff
 ---
-<div align=justify>
-
 <h3>National Day Awards</h3>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTB7WVaSLMDJ_Jh9tLxBovlrsw4BnojPdjfTlbfZg5Lsx_XXDSoEQlVd1vQhd-SY5WCemRuMQ3t6KpZ/pub?embedded=true" width=800px, height=300px, scrolling="no"></iframe>
@@ -17,5 +15,3 @@ third_nav_title: Staff
 <h3>Academy Award for Professional Development</h3>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTw9UOIHVVDT4bPI1GLyIVUsnEkKzA-S4Syyg3w-Tlx-KmMzVUrGrH7xBLVq_cRYITiHxRwSxzvNb4S/pub?embedded=true" width=800px, height=350px, scrolling="no"></iframe>
-	
-</div>
