@@ -1,8 +1,9 @@
 ---
 title: "'A' Level Inspirational Stories"
-permalink: /accomplishments/students/a-level-inspirational-stories/overview/
+permalink: /accomplishments/students/a-level-inspirational-stories/
 description: ""
 ---
+
 <h3><a href="/accomplishments/students/a-level-inspirational-stories/2022/overview/">2022</a></h3>
 <figure>
 <img src="/images/collage_ALevel%20600.jpg">

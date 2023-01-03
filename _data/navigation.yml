@@ -8,13 +8,13 @@ links:
       - title: College Identity
         url: /about/college-identity/
       - title: Organisation Chart
-        url: /partnerships/jpjc-advisory-committee/
-      - title: College Calender
+        url: /about/organisation-chart/
+      - title: College Calendar
         url: /about/college-calender/term-1/
       - title: Subject Combination
         url: /about/subject-combination/
       - title: Admission Matters
-        url: /about/admission-matters/joint-admissions-exercise-2022/
+        url: /about-jpjc/Admission-Matters/openhouse2023/
       - title: Financial Assistance Scheme
         url: /about/fas/
       - title: History
@@ -43,16 +43,16 @@ links:
     url: /accomplishments/
     sublinks:
       - title: Staff
-        url: /accomplishments/staff
+        url: /accomplishments/Staff/2022awardees/
       - title: Students
-        url: /accomplishments/students
+        url: /accomplishments/Students/2022accomplishments/
       - title: "'A' Lvl Inspirational Stories"
-        url: /accomplishments/students/a-level-inspirational-stories/overview/
+        url: /accomplishments/students/a-level-inspirational-stories/
   - title: Partnerships
-    url: /partnerships/jpjc-advisory-committee/
+    url: /partnerships/
     sublinks:
       - title: JPJC Advisory Committee
-        url: /partnerships/jpjc-advisory-committee/
+        url: /partnerships/
       - title: Parent Support Group
         url: /partnerships/psg/
       - title: JPJC Alumni
