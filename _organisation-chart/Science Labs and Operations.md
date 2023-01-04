@@ -3,9 +3,7 @@ title: Science Labs and Operations
 permalink: /about/organisation-chart/science-labs-and-operations/
 description: ""
 ---
-### **Science Labs and Operations**
-
-#### **Science labs:**
+<h2>Science labs:</h2>
 
 | Name of Staff | Appointment |
 |:---:|:---:|
@@ -17,7 +15,7 @@ description: ""
 | Mdm Kalarani D/O V Panjasaram  | Operations Support Officer |
 |
 
-#### **Operations:**
+<h2>Operations:</h2>
 
 | Name of Staff | Appointment |
 |:---:|:---:|
@@ -29,5 +27,3 @@ description: ""
 | Mdm Lim Hwee Keow  | Operations Support Officer |
 |  Mr Tan Fook King | Operations Support Officer |
 |
-
-
