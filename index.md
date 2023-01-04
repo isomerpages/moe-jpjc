@@ -27,7 +27,7 @@ sections:
       description: Discovering PASSION through seeking, inspiring PURPOSE through
         discovering.
       button: click here
-      url: /jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/
+      url: /jpjc-experience/co-curriculum/
       alt: Image alt text
       image: /images/Pursue-passion.png
   - infopic:
