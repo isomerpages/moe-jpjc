@@ -59,3 +59,12 @@ Please access the following web links for more information provided of our progr
 	<li><h5>What is the 2023 cut-off point for JPJC?</h5>
 
 <p>
+For reference, the 2022 L1R5 cut-off point for the Science Stream is 14 and the Arts Stream is 16. The 2023 cut-off point for JPJC will only be made available after JAE 2023.</p></li>
+	<li><h5>My preferred subject combination is not listed on the college website. Will I be able to choose my preferred subject combination?</h5>
+
+<p>
+JPJC provides a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. Take a look <a href="/about/subject-combination/">here</a> and find one that best suits your needs and aspirations.</p></li>
+	<li><h5>How do I appeal for admission to the college?</h5>
+		
+<p>
+Students who would like to appeal should complete an online application which will be made available on the school’s website. The college will contact shortlisted applicants for an interview. We seek your understanding that the college will not be accepting walk-in appeals as of now.</p></li>
