@@ -56,3 +56,6 @@ Please access the following web links for more information provided of our progr
 
 <a href="/jpjc-experience/co-curriculum/talent-and-leadership/">Talent & Leadership Development</a><br>
 <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a></li>
+	<li><h5>What is the 2023 cut-off point for JPJC?</h5>
+
+<p>
