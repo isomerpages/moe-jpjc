@@ -103,3 +103,6 @@ description: ""
 	<li>At least A2 in Chinese, OR</li>
 	<li>B3 in Higher Chinese, OR</li>
 	<li>B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul></p>
+	
+<center><h4>Malay Language Elective Programme (MLEP)</h4></center>
+
