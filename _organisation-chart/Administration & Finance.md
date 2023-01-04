@@ -3,8 +3,6 @@ title: Administration & Finance
 permalink: /about/organisation-chart/administration-and-finance/
 description: ""
 ---
-### **Administration & Finance**
-
 | Name of Staff | Appointment |
 |:---:|:---:|
 | Mdm Lily Koh | Administration Manager |

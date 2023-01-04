@@ -3,8 +3,6 @@ title: School Counsellors
 permalink: /about/organisation-chart/school-counsellors/
 description: ""
 ---
-### **School Counsellors**
-
 | Name of Staff | Appointment |
 |:---:|:---:|
 |  Ms Estelle Chia Sock Ying | Senior School Counsellor |

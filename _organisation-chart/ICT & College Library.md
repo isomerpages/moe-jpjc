@@ -3,8 +3,6 @@ title: ICT & College Library
 permalink: /about/organisation-chart/ict-and-college-library/
 description: ""
 ---
-### **ICT & College Library**
-
 | Name of Staff | Appointment |
 |:---:|:---:|
 | Mr Dennis Lee | Head of Department (Information & Communication Technology) |
