@@ -40,16 +40,16 @@ description: ""
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
-<ul style="font-size:16px">
-	<li>L1R5 ≤ 11 (raw score), AND</li>
-	<li>Distinction in Additional Mathematics, AND</li>
-	<li>At least B3 in the relevant pure Science subjects.</li></ul></p>
+<ul>
+	<li style="font-size:16px">L1R5 ≤ 11 (raw score), AND</li>
+	<li style="font-size:16px">Distinction in Additional Mathematics, AND</li>
+	<li style="font-size:16px">At least B3 in the relevant pure Science subjects.</li></ul></p>
 
 <p style="font-size:16px">
 <sup>#</sup> For Students with Science (Chemistry/Biology), Science (Physics/Chemistry), Science (Physics/Biology), who are opting to do the subject combination of either H2 Mathematics, H2 Chemistry, H2 Biology OR H2 Mathematics, Chemistry, Physics, it is preferred that students should obtain
-<ul style="font-size:16px">
-	<li>Distinction in the Combined Science with the two relevant Science disciplines, OR</li>
-	<li>a pass in the relevant Pure Science and Combined Science.</li></ul></p>
+<ul>
+	<li style="font-size:16px">Distinction in the Combined Science with the two relevant Science disciplines, OR</li>
+	<li style="font-size:16px">a pass in the relevant Pure Science and Combined Science.</li></ul></p>
 
 <p style="font-size:16px">
 <sup>^</sup> For Students opting to do the H2 Mathematics, H2 Further Mathematics and H2 Physics subject combination, it is preferred that they should have obtained at least B3 in Pure Physics.</p>
@@ -72,8 +72,8 @@ description: ""
 <p style="font-size:16px">
 <sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
 <ul style="font-size:16px">
-	<li>L1R5 ≤ 11 (raw score), AND</li>
-	<li>Distinction in Additional Mathematics.</li></ul></p>
+	<li style="font-size:16px">L1R5 ≤ 11 (raw score), AND</li>
+	<li style="font-size:16px">Distinction in Additional Mathematics.</li></ul></p>
 
 <p style="font-size:16px">
 <sup>@</sup> Students opting to do H2 Art/ H2 Translation are required to sit and pass the selection test.</p>
@@ -88,8 +88,8 @@ description: ""
 <p style="font-size:16px">
 <strong><u>Note:</u></strong>
 <ol style="font-size:16px">
-	<li>A subject cannot be taken at both H2 and H1 levels.</li>
-	<li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol></p>
+	<li style="font-size:16px">A subject cannot be taken at both H2 and H1 levels.</li>
+	<li style="font-size:16px">The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol></p>
 
 <center><h4>Subject Combinations for Language Elective Programmes<br>
 	Chinese Language Elective Programme (CLEP)<sup>*</sup></h4></center>
@@ -100,9 +100,9 @@ description: ""
 <p style="font-size:16px">
 <sup>*</sup> Students opting to offer the CLEP programme must obtain
 <ul style="font-size:16px">
-	<li>At least A2 in Chinese, OR</li>
-	<li>B3 in Higher Chinese, OR</li>
-	<li>B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul></p>
+	<li style="font-size:16px">At least A2 in Chinese, OR</li>
+	<li style="font-size:16px">B3 in Higher Chinese, OR</li>
+	<li style="font-size:16px">B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul></p>
 	
 <center><h4>Malay Language Elective Programme (MLEP)<sup>*</sup></h4></center>
 
@@ -112,7 +112,7 @@ description: ""
 <p style="font-size:16px">
 <sup>*</sup> Students opting to offer the MLEP programme must obtain
 <ul style="font-size:16px">
-	<li>At least A2 in Malay Language, OR</li>
-	<li>B3 in Higher Malay, OR</li>
-	<li>B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul></p>
+	<li style="font-size:16px">At least A2 in Malay Language, OR</li>
+	<li style="font-size:16px">B3 in Higher Malay, OR</li>
+	<li style="font-size:16px">B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul></p>
 </div>
