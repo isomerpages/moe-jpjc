@@ -96,3 +96,10 @@ description: ""
 
 <figure>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true" width=800px height=700px scrolling="no"></iframe></figure>
+
+<p style="font-size:16px">
+<sup>*</sup> Students opting to offer the CLEP programme must obtain
+<ul style="font-size:16px">
+	<li>At least A2 in Chinese, OR</li>
+	<li>B3 in Higher Chinese, OR</li>
+	<li>B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul></p>
