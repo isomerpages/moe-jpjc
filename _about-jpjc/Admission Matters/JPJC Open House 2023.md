@@ -22,7 +22,7 @@ Wondering which junior college is suitable for you? Hear more from our Principal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPYt32Aq2bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
 <p>
-Hear ye! Hear ye! Check out this video to find out what makes JPJC a place with vibrant student culture and how our JPJC family is like</p>
+Hear ye! Hear ye! Check out this video to find out what makes JPJC a place with vibrant student culture and how our JPJC family is like.</p>
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejNIfE6XqUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
@@ -92,5 +92,5 @@ In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fr
 	<li><h5>Can you share more about STEM?</h5>
 		
 <p>
-For information on STEM programme, please access this <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/">link</a>.</p></li></ul>
+For information on STEM programme, please access this <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/">link</a>.</p></li></ol>
 </div>
