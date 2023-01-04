@@ -39,3 +39,20 @@ Check out our alumni’s sharing on their college experiences in this video (fea
 	
 <p>
 Check out this video featuring a candid sharing by Jurong JC Alumnus Mr Loo Cheng Chuan and his son, Benjamin Loo, currently a JPJC alumnus. Find out more about their college experiences and the special connection between Mr Loo and his alma mater.</p>
+	
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x73CzcX8wro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+	
+<h4>Frequently Asked Questions</h4>
+
+<ol>
+	<li><h5>What are some programmes JPJC offer to promote holistic development?</h5>
+
+<p>
+JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include CCAs, Student Interest Groups, enrichment, competitions in various areas of interests. Our Scholars Development Programme also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
+
+<p>
+Please access the following web links for more information provided of our programmes:</p>
+
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership/">Talent & Leadership Development</a><br>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a></li>
