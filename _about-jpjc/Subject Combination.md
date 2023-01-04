@@ -2,8 +2,8 @@
 title: Subject Combination
 permalink: /about/subject-combination/
 description: ""
-third_nav_title: Admission Matters
 ---
+
 
 <div align=justify>
 	
