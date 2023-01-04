@@ -68,3 +68,29 @@ JPJC provides a wide range of subject combinations to cater to students’ perso
 		
 <p>
 Students who would like to appeal should complete an online application which will be made available on the school’s website. The college will contact shortlisted applicants for an interview. We seek your understanding that the college will not be accepting walk-in appeals as of now.</p></li>
+	<li><h5>What is the selection process like for Student Council? How many days do we need to commit for student council if we were to take it?</h5>
+		
+<p>
+The selection process involves two stages: (a) the preliminary interview, followed by (b) the student polls. Shortlisted students from the preliminary interview will be placed into campaigning groups, who will then engage the student population through various means in order to get their support/vote. After a week, the JC1 cohort will then cast their votes and the number of votes received will be considered with other factors before a student is formally accepted into the Student Council.</p>
+
+<p>
+The Student Council conducts CCA sessions twice a week, on Wednesdays and Fridays. As the CCA sees to large-scale projects or programmes such as the OGL Camp, Matriculation and Orientation programme, Teachers’ Day celebration and Graduation Night, Student Councilors may be called back on additional days for small-scale testing, rehearsals or other preparatory work etc. in preparation for these events.</p>
+		
+<p>
+On top of that, Student Councilors will be involved in leadership workshop or camps, together with other CCA leaders, organised by the College.</p></li>
+	<li><h5>Could the school elaborate on the house system? E.g. How are students allocated?</h5>
+		
+<p>
+For information on the House System please access this <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/house-system/">link</a>.</p>
+
+<p>
+Generally students are allocated a House based on the class that they are in. Students who are interested in fostering the school spirit through their House can either become a House Executive of their class or through joining the Student Council.</p></li>
+	<li><h5>How many days are CCA Days and what are the timings?</h5>
+		
+<p>
+In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fridays (4pm to 7pm). Depending on the nature of the CCA and activities, the duration of the CCA activities will last between 2 - 3 hours per session.</p></li>
+	<li><h5>Can you share more about STEM?</h5>
+		
+<p>
+For information on STEM programme, please access this <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/stem/">link</a>.</li></ul>
+</div>
