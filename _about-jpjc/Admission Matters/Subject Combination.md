@@ -2,7 +2,9 @@
 title: Subject Combination
 permalink: /about/subject-combination/
 description: ""
+third_nav_title: Admission Matters
 ---
+
 <div align=justify>
 	
 <p>The JC curriculum is a two-year course leading to the GCE 'A' Level Examination, designed for students who wish to seek admission to a university or a specialised institute of higher learning, locally or abroad.
