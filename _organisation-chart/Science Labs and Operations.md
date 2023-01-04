@@ -5,25 +5,8 @@ description: ""
 ---
 <h2>Science labs:</h2>
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Ms Haslinda Bte Kamis  | School Laboratory Technician  |
-| Ms Irwany Karmila Binte Kasmani | School Laboratory Technician |
-| Mr Eric Tan Seng Ming | School Laboratory Technician |
-|  Mr Zakaria Bin Abubakar | School Laboratory Technician |
-| Mdm Hajjah Siti Faridah Binte Basri  | Operations Support Officer |
-| Mdm Kalarani D/O V Panjasaram  | Operations Support Officer |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRPCpt6iNuJSFLdsG-B-OWIoLfn4pG_tg2ZYBQ0L-rez8USNv5ThYwWIVOFvz1FtrgaUy2d-AV9cP9x/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
 
 <h2>Operations:</h2>
 
-| Name of Staff | Appointment |
-|:---:|:---:|
-| Mr Sum Yew Foo | Operations Manager |
-| Mr Ahmad Bin Mayuni  | Operations Support Officer |
-|  Mdm Chan Sau Wah | Operations Support Officer |
-|  Mdm Chiam Swee Geok Nancy | Operations Support Officer |
-|   Mr Er Ah Quee | Operations Support Officer |
-| Mdm Lim Hwee Keow  | Operations Support Officer |
-|  Mr Tan Fook King | Operations Support Officer |
-|
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQKVFDuLA6boXRgnA5LCp1-LUUOGtuGwVHC1-yrJFqJlynZNuwRe4n_3CxYzKp_IWfs_YMCf5JA62Mb/pub?embedded=true"></iframe>
