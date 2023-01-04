@@ -61,8 +61,12 @@ description: ""
 
 <p>
 <sup>&</sup> Students opting to do H2 Translation are required to fulfil the following:
-
 <style>ol.a{list-style-type: lower-roman}</style>
 <ol class="a">
 	<li>A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR</li>
 	<li>A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language</li></ol></p>
+	
+<center><h4>Subject Combinations in Arts Course</h4></center>
+
+<figure>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true" width=800px height=1000px scrolling="no"></iframe>
