@@ -3,9 +3,5 @@ title: Jurong Pioneer Junior College Advisory Committee
 permalink: /about/organisation-chart/
 description: ""
 ---
-
-
-
-### **Jurong Pioneer Junior College Advisory Committee**
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSEhI1CHZWCBBpMZJ7qjFHxbZ1ajUhMGonm5_0kRjBEwfw68Z0YIYxnKNVbhq2_d8XsJKPeefwqBTjT/pub?embedded=true" width=800px height=2650px scrolling="no"></iframe>
+<center><h1>Jurong Pioneer Junior College Advisory Committee</h1></center>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQp59n9fJh0N-WYBsSrntg6k32tx1RTnK7C1Y0-jNkpYM0YL21yb4Vzfrfi8ESu7DbleqPcxH8jvwBb/pub?embedded=true" width=500px height=3200px scrolling="no"></iframe>
