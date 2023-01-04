@@ -9,4 +9,4 @@ description: ""
 
 <h2>Operations:</h2>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQKVFDuLA6boXRgnA5LCp1-LUUOGtuGwVHC1-yrJFqJlynZNuwRe4n_3CxYzKp_IWfs_YMCf5JA62Mb/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQKVFDuLA6boXRgnA5LCp1-LUUOGtuGwVHC1-yrJFqJlynZNuwRe4n_3CxYzKp_IWfs_YMCf5JA62Mb/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
