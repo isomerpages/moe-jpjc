@@ -30,4 +30,4 @@ Hear ye! Hear ye! Check out this video to find out what makes JPJC a place with 
 <h4>Coming Home to JPJC</h4>
 
 <p>
-Check out our alumni’s sharing on their college experiences in this video (featuring alumni from Jurong JC, Pioneer JC and Jurong Pioneer JC). Find out more about the wide variety of programmes such as the Chinese and Malay Language Elective Programmes and Talent & Leadership Development Programme that JPJC has to offer.</p>
+Check out our alumni’s sharing on their college experiences in this video (featuring alumni from Jurong JC, Pioneer JC and Jurong Pioneer JC). Find out more about the wide variety of programmes such as the <a href="/language-elective-programmes/">Chinese and Malay Language Elective Programmes</a> and <a href="/jpjc-experience/co-curriculum/talent-and-leadership/">Talent & Leadership Development Programme</a> that JPJC has to offer.</p>
