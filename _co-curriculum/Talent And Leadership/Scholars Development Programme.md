@@ -28,6 +28,9 @@ The Scholars Development Programme adopts a broad-based and holistic approach th
 <img src="/images/sdp3.jpg" style="width:8%;margin-right:15px;" align = "left">
 <strong>MP Attachment Programme</strong><br>
 <p>Scholars are attached to a Member of Parliament during the Meet-the-People Sessions. They are able to gain an insight of the real concerns of the community and how the MP views and resolves issues as a community leader.</p>
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Scholars/Picture%201.jpeg">
+<figcaption>Group photo with Minister Gan Kim Yong. Student Experience Programme with Choa Chu Kang Meet-the-People Sessions (May & June 2022)</figcaption></figure>
 
 <img src="/images/sdp4.jpg" style="width:8%;margin-right:15px;" align = "left">
 	<strong>Grassroots Engagement Programme</strong><br>
@@ -48,6 +51,9 @@ A community-based project that is designed to expose our scholars to higher-leve
 <strong>Leadership Training Camp @ Keat Hong</strong>
 <p>
 Students in this programme will plan and organise a 2 Day Leadership Camp for youths residing in Choa Chu Kang GRC during the June holidays as part of their community involvement programme, in conjunction with Keat Hong Community Club. This event seeks to provide an opportunity for all scholars to gain an insight into community work while also contribute positively back to society. In the process, scholars will obtain the platform to learn important skills such as team work, communication and developing a sense of empathy for others. This is a new initiative mooted by the students themselves following the excellent and positive reviews and feedback from the Leadership Training Camp at Yuhua Community Club.</p>
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Scholars/Picture%202.jpeg">
+<figcaption>Group photo with Grassroots Adviser to Choa Chu Kang GRC GROs (Keat Hong) Mr Zhulkarnain at the Leadership Training Camp (in collaboration with Keat Hong Youth Network) in June 2022</figcaption></figure>
 
 <figure>
 <img src="/images/sdp9.jpg"></figure>
