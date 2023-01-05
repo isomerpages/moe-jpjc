@@ -46,15 +46,16 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 	<li><strong>Mr Timothy Beh and Yeo Wei Ern (JJC Alumni, Class of 2016)</strong> Law Undergraduates from the National University of Singapore
 <figure>
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%201.jpg"></figure></li>
-	<li>
-2) Dr Nagarajan Raghavan (JJC Alumnus, Class of 2002) Assistant Professor at the Singapore University of Technology and Design (SUTD)
-Photo 2
-3) Dr Goh Han Lin (JJC Alumnus, Class of 1999) AI Research Scientist based with Apple Inc
-Photo 3
-Updated on 23 Nov 2022
-4) Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006) CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
-Photo 4 & 5
-
+	<li><strong>Dr Nagarajan Raghavan (JJC Alumnus, Class of 2002)</strong> Assistant Professor at the Singapore University of Technology and Design (SUTD)
+<figure>
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%202.jpg"></figure></li>
+	<li><strong>Dr Goh Han Lin (JJC Alumnus, Class of 1999)</strong> AI Research Scientist based with Apple Inc
+<figure>
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%203.jpg"></li>
+	<li><strong>Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006)</strong> CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
+<figure>
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%204.jpg">
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%205.jpg"></figure></li></ol>
 
 <h5>Year 2021</h5>
 <ol>
