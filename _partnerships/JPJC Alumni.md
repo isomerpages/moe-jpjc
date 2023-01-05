@@ -4,7 +4,6 @@ permalink: /partnerships/jpjc-alumni/
 description: ""
 ---
 <div align=justify>
-<h3><strong>JPJC Alumni</strong></h3>
 
 <p>	
 The merger of Jurong Junior College and Pioneer Junior College has brought together the alumni of both colleges, creating a strong network of support to enrich the college experience for the students of Jurong Pioneer Junior College.</p>
@@ -12,7 +11,7 @@ The merger of Jurong Junior College and Pioneer Junior College has brought toget
 <p>
 Since 2019, the alumni of both colleges have come together, working in partnership with the college to inspire our students with their stories of undergraduate and career experiences. At the same time, the college also organises homecoming events and creates platforms for alumni to reconnect with their former college mates and teachers.</p>
 
-<h4><strong>Reconnect with us</strong></h4>
+<h3>Reconnect with us</h3>
 <p>
 For JJC and PJC alumni who wish to reconnect with their former college mates and teachers, you can visit the following URLs:
 <ul>
@@ -22,7 +21,7 @@ For JJC and PJC alumni who wish to reconnect with their former college mates and
 <p>
 The college will be announcing the formation of JPJC Alumni soon, and will provide updates here on the school website.</p>
 
-<h4><strong>Invitation to contribute</strong></h4>
+<h3>Invitation to contribute</h3>
 <p>
 We invite you to come to JPJC to contribute to the school experiences of our current students. There are a great variety of ways. For example:</p>
 <ul>
@@ -33,15 +32,31 @@ We invite you to come to JPJC to contribute to the school experiences of our cur
 <p>
 Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a> for more details.</p>
 
-<h4><strong>Past Activities</strong></h4>
+<h4>Past Activities</h4>
 <style>ol.a{list-style-type: lower-alpha;}</style>
 <ol class="a">
 	<strong><li>Alumni Speaker’s Series</li></strong>
-<p>The Alumni Speaker’s Series is a platform for established alumni from different fields to share their unique stories of their careers and life experiences with their juniors. These stories of resilience and triumph shared have inspired our students.</p>
+<p>The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
 
 <p>
-From 2019 to 2021, we were privileged to have alumni from various fields and disciplines generously share their experiences with their juniors. They were:</p>
-<h5><strong>Year 2021</strong></h5>
+From 2019 to 2022, we were privileged to have alumni from various fields and disciplines generously share their experiences with their juniors. They were:</p>
+
+<h5>Year 2022</h5>
+<ol>
+	<li><strong>Mr Timothy Beh and Yeo Wei Ern (JJC Alumni, Class of 2016)</strong> Law Undergraduates from the National University of Singapore
+<figure>
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%201.jpg"></figure></li>
+	<li>
+2) Dr Nagarajan Raghavan (JJC Alumnus, Class of 2002) Assistant Professor at the Singapore University of Technology and Design (SUTD)
+Photo 2
+3) Dr Goh Han Lin (JJC Alumnus, Class of 1999) AI Research Scientist based with Apple Inc
+Photo 3
+Updated on 23 Nov 2022
+4) Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006) CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
+Photo 4 & 5
+
+
+<h5>Year 2021</h5>
 <ol>
 	<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 <figure>
