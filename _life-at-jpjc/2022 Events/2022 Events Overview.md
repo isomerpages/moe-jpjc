@@ -4,10 +4,9 @@ permalink: /life-at-jpjc/2022-Events/
 description: ""
 third_nav_title: 2022 Events
 ---
-
 | Date | Events | 
 | -------- | -------- |
-|31 October 2022|[Alumni Speakers Series](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)| 
+|23 November 2022|[Alumni Speakers Series (Concluded in Nov 2022)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)| 
 |25 October 2022|[Staff Welfare Activities](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/StaffWelfareActivities/)|
 |7 October 2022|[Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/FarewellAssembly/)| 
 |1 September 2022|[Teachers’ Day Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/TeachersDayCelebration/)|
