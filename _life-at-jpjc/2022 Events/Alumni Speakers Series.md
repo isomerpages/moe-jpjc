@@ -35,6 +35,9 @@ In March 2022, Dr Nagarajan Raghavan, an alumnus from Jurong Junior College (Cla
 <figcaption>In July 2022, Dr Goh Han Lin, our alumnus from Jurong Junior College (Class of 1999) shared his experiences in doing research and working in the IT sector with our JC2 Computing students. He is currently an AI Research Scientist based in the San Francisco Bay Area and works at Apple Inc. Our students benefitted greatly from Dr Goh’s sharing and gained a greater awareness and understanding about Artificial Intelligence, Machine Learning and Data Analytics. He also shared his thoughts with students on the ethical use of AI.
 </figcaption></figure>
 
-<p>
-In November 2022, Dr Mark Lim, CEO at Aliena Pte Ltd, MIT Technology Review Innovators Under 35 APAC from Jurong Junior College (Class of 2006), shared with student leaders from our college and Yishun Innova Junior College at the JPJC-YIJC Leadership Conference. As the Keynote Speaker for the conference, he imparted his knowledge in the areas of Enterprise, Innovation and Leadership. Our student leaders were inspired by Dr Lim’s sharing of his experiences, triumphs and challenges faced in setting up his company. They also gained valuable insights from his leadership journey. 
-</p></div>
+<figure>
+<img src="/images/Life%20@%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%206.jpg">
+<img src="/images/Life%20@%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%207.jpg">
+<figcaption>
+In November 2022, Dr Mark Lim, CEO at Aliena Pte Ltd, MIT Technology Review Innovators Under 35 APAC from Jurong Junior College (Class of 2006), shared with student leaders from our college and Yishun Innova Junior College at the JPJC-YIJC Leadership Conference. As the Keynote Speaker for the conference, he imparted his knowledge in the areas of Enterprise, Innovation and Leadership. Our student leaders were inspired by Dr Lim’s sharing of his experiences, triumphs and challenges faced in setting up his company. They also gained valuable insights from his leadership journey.</figcaption>
+</div>
