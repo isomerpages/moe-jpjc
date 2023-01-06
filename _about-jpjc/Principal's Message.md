@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /about/principals-message/
 description: ""
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQRK4C8KMD"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VQRK4C8KMD'); </script>
+
 <div align=justify>
 	
 <figure>
