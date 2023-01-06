@@ -3,12 +3,12 @@ title: Subject Combination
 permalink: /about/subject-combination/
 description: ""
 ---
-<div align="justify">
+<div align= justify>
 	
 <p>The JC curriculum is a two-year course leading to the GCE 'A' Level Examination, designed for students who wish to seek admission to a university or a specialised institute of higher learning, locally or abroad.
 </p>
 
-<p>At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices.&nbsp; In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay.&nbsp; Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
+<p>At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay. Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
 </p>
 
 <center><h3>2023 Subject Combinations</h3></center>
