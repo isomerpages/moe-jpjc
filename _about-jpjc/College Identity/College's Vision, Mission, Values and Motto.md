@@ -4,6 +4,10 @@ permalink: /about/college-identity/
 description: ""
 third_nav_title: College Identity
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQRK4C8KMD"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VQRK4C8KMD'); </script>
+
+<div align=justify>
+
 <h3><strong>Vision:</strong></h3>
 <p>A college with a heart to serve and the courage to venture.</p>
 
@@ -16,3 +20,5 @@ third_nav_title: College Identity
 <h3><strong>Motto:</strong></h3>
 While I Live, I Learn<br>
 Plus Ultra
+
+</div>
