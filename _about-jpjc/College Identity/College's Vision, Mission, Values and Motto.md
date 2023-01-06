@@ -4,6 +4,8 @@ permalink: /about/college-identity/
 description: ""
 third_nav_title: College Identity
 ---
+<div align=justify>
+
 <h3><strong>Vision:</strong></h3>
 <p>A college with a heart to serve and the courage to venture.</p>
 
@@ -16,3 +18,5 @@ third_nav_title: College Identity
 <h3><strong>Motto:</strong></h3>
 While I Live, I Learn<br>
 Plus Ultra
+
+</div>
