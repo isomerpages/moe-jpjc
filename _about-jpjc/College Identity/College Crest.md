@@ -4,6 +4,8 @@ permalink: /about/college-identity/college-crest/
 description: ""
 third_nav_title: College Identity
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQRK4C8KMD"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VQRK4C8KMD'); </script>
+
 <h4><strong>Jurong Pioneer Junior College – Crest</strong></h4>
 
 <figure>
