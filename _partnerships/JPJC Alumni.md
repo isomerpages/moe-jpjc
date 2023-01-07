@@ -156,7 +156,7 @@ There was something for everyone as alumni forged strong ties with their juniors
 <figure>
 <h6>JJC Homecoming - Welcome Home</h6>
 <img src="/images/jpjc%20alumni%2019.jpg">
-</figure></ol>
+</figure>
 
 <h3>Alumni Spotlight</h3>
 <h4>Public Service</h4>
