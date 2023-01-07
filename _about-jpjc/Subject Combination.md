@@ -14,9 +14,9 @@ description: ""
 <center><h3>2023 Subject Combinations</h3></center>
 
 <ol style="font-size:16px">
-	<li>The following table shows the standard subject combination which most students will take :
+	<li>The following table shows the standard subject combination which most students will take:
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=500px scrolling="no"></iframe></figure></li>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=370px scrolling="no"></iframe></figure></li>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
 	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
@@ -25,7 +25,7 @@ description: ""
 <center><h4>Subjects offered in 2023</h4></center>
 
 <figure>
-<iframe scrolling="no" height="800px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></figure>
 
 <p style="font-size: 16px"><strong>Note: </strong><br>
 <sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
@@ -36,7 +36,7 @@ description: ""
 <center><h4>Subject Combinations in Science Course</h4></center>
 	
 <figure>
-<iframe scrolling="no" height="900px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="760px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe></figure>
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -67,7 +67,7 @@ description: ""
 <center><h4>Subject Combinations in Arts Course</h4></center>
 
 <figure>
-<iframe scrolling="no" height="1000px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="900px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></figure>
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -95,7 +95,7 @@ description: ""
 	Chinese Language Elective Programme (CLEP)<sup>*</sup></h4></center>
 
 <figure>
-<iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="510px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></figure>
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting to offer the CLEP programme must obtain
@@ -107,7 +107,7 @@ description: ""
 <center><h4>Malay Language Elective Programme (MLEP)<sup>*</sup></h4></center>
 
 <figure>
-<iframe scrolling="no" height="600px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="470px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></figure>
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting to offer the MLEP programme must obtain
