@@ -121,7 +121,7 @@ Sincere and always true
 
 <h4><strong>Milestones</strong></h4>
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=800px scrolling="no"></iframe></figure>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=630px scrolling="no"></iframe></figure>
 	
 <h4><strong>Photo Gallery</strong></h4>
 <figure>
