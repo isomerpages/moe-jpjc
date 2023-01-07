@@ -140,7 +140,7 @@ We believe: While we live, we learn.
 
 <center><h5><strong>Milestones</strong></h5></center>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSRBFu1AT23l7C-P05nMgRP5jhZuoyvG46-VhVtyE2aU0RxGLRoiyHgsgDjUpu3Q-fGaq4LnjRzTs6C/pub?embedded=true" width=800px height=3900px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSRBFu1AT23l7C-P05nMgRP5jhZuoyvG46-VhVtyE2aU0RxGLRoiyHgsgDjUpu3Q-fGaq4LnjRzTs6C/pub?embedded=true" width=800px height=3800px scrolling="no"></iframe>
 
 <figure>
 <img src="/images/2000jpc.jpg"><br>
