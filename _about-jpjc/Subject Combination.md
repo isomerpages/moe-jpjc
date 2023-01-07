@@ -14,9 +14,9 @@ description: ""
 <center><h3>2023 Subject Combinations</h3></center>
 
 <ol style="font-size:16px">
-	<li>The following table shows the standard subject combination which most students will take :
+	<li>The following table shows the standard subject combination which most students will take:
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=500px scrolling="no"></iframe></figure></li>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=370px scrolling="no"></iframe></figure></li>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
 	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
