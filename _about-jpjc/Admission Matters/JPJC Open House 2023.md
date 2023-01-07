@@ -6,7 +6,7 @@ third_nav_title: Admission Matters
 ---
 <div align=justify>
 <center>
-<img src="/images/About%20JPJC/Admission%20Matters/JPJC%20Open%20House%202023/IMG_9174.jpg"></center>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/About%20JPJC/Admission%20Matters/JPJC%20Open%20House%202023/MOTD.jpg"></center>
 
 <h5>
 Hear from our JPJC Family<br><br>

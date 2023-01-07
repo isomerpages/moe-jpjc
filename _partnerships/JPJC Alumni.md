@@ -32,16 +32,17 @@ We invite you to come to JPJC to contribute to the school experiences of our cur
 <p>
 Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a> for more details.</p>
 
-<h4>Past Activities</h4>
+<h3>Past Activities</h3>
 <style>ol.a{list-style-type: lower-alpha;}</style>
 <ol class="a">
-	<strong><li>Alumni Speaker’s Series</li></strong>
-<p>The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
+	<strong><li>Alumni Speaker’s Series</strong>
+<p>
+The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
 
 <p>
 From 2019 to 2022, we were privileged to have alumni from various fields and disciplines generously share their experiences with their juniors. They were:</p>
 
-<h5>Year 2022</h5>
+<h4>Year 2022</h4>
 <ol>
 	<li><strong>Mr Timothy Beh and Yeo Wei Ern (JJC Alumni, Class of 2016)</strong> Law Undergraduates from the National University of Singapore
 <figure>
@@ -51,13 +52,13 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%202.jpg"></figure></li>
 	<li><strong>Dr Goh Han Lin (JJC Alumnus, Class of 1999)</strong> AI Research Scientist based with Apple Inc
 <figure>
-<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%203.jpg"></li>
+<img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%203.jpg"></figure></li>
 	<li><strong>Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006)</strong> CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
 <figure>
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%204.jpg">
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%205.jpg"></figure></li></ol>
 
-<h5>Year 2021</h5>
+<h4>Year 2021</h4>
 <ol>
 	<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 <figure>
@@ -71,7 +72,7 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 <figure>
 <img src="/images/jpjc%20alumni%203.jpg"></figure></li></ol>
 																				 
-<strong><h5>Year 2020</h5></strong>
+<h4>Year 2020</h4>
 <ol>
 	<li><strong>Mr Damien Ng (JJC Alumnus, Class of 1993)</strong> Thematic Research Analyst at Julius Baer
 <figure>	 
@@ -79,16 +80,15 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 </figure></li>
 	<li><strong>Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)</strong> Founders of Mr G and 51 Label
 <figure>
-<img src="/images/jpjc%20alumni%205.jpg">
-		</figure></li>
+<img src="/images/jpjc%20alumni%205.jpg"></figure></li>
 	<li><strong>Mr Chio Wen Tian (JJC Alumnus, Class of 2006)</strong> Principal Architect at WNVA
 <figure>
 <img src="/images/jpjc%20alumni%206.jpg">
 </figure></li></ol>
 		 
-<strong><h5>Year 2019</h5></strong>
-	<ol>
-		<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
+<h4>Year 2019</h4>
+<ol>
+	<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
 <figure>
 <img src="/images/jpjc%20alumni%207.jpg">
 </figure></li>
@@ -158,8 +158,8 @@ There was something for everyone as alumni forged strong ties with their juniors
 <img src="/images/jpjc%20alumni%2019.jpg">
 </figure></ol>
 
-<h4><strong>Alumni Spotlight</strong></h4>
-<h5><strong>Public Service</strong></h5>
+<h3>Alumni Spotlight</h3>
+<h4>Public Service</h4>
 <p>
 <strong>Professor Pey Kin Leong</strong><br>
 Associate Provost at Singapore University of Technology and Design</p>
@@ -201,7 +201,7 @@ Member of Parliament for Aljunied Group Representation Constituency</p>
 <strong>Mr Ang Hin Kee</strong><br>
 Former Member of Parliament for the Ang Mo Kio Group Representation Constituency</p>
 
-<h5><strong>Insurance, Banking and Finance</strong></h5>
+<h4>Insurance, Banking and Finance</h4>
 
 <p>
 <strong>Ms Carmen Lee</strong><br>
@@ -212,7 +212,7 @@ Head of Research at OCBC Investment Research</p>
 <strong>Ms Lim Lay-Hui</strong><br>
 Head of Insurance at Thome Ship Management</p>
 
-<h5><strong>Law</strong></h5>
+<h4>Law</h4>
 
 <p>
 <strong>Mr Tan Chong Huat</strong><br>
@@ -230,7 +230,7 @@ Lawyer at Just Law LLC</p>
 <strong>Mr Ian Ong</strong><br>
 Lawyer at Allen & Overy</p>
 
-<h5><strong>STEM-related field</strong></h5>
+<h4>STEM-related field</h4>
 
 <p>
 <strong>Dr Lim Yee Hwee</strong><br>
@@ -253,7 +253,7 @@ Senior Research Scientist at Apple</p>
 <strong>Dr Stephen Siew</strong><br>
 Senior Resident at Tan Tock Seng Hospital</p>
 
-<h5><strong>Arts, Music and Media</strong></h5>
+<h4>Arts, Music and Media</h4>
 
 <p>
 <strong>Mr Lance Alexander</strong><br>
@@ -276,7 +276,7 @@ Founder of TCR Music Station</p>
 <strong>Ms Lim Sheau Wian</strong><br>
 President of Mus’Art Wind Orchestra</p>
 
-<h5><strong>Business and Entrepreneurs</strong></h5><br>
+<h4>Business and Entrepreneurs</h4><br>
 <p>
 <strong>Mr Shafie Shamsuddin</strong><br>
 Chief Executive Officer AEON Group Malaysia/Managing Director at AEON CO. (M) BHD.</p>
@@ -328,3 +328,4 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 <p>
 <strong>Mr Adamson Alagan</strong> <br>
 Business Development Director of Studio AG</p>
+</div>
