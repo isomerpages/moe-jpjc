@@ -35,12 +35,12 @@ third_nav_title: Character and Citizenship Edu
 <center><strong>Junior College 1</strong><br>
 Theme 3B from Module: Developing Healthy Relationships</center>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=800px height=1100px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=800px height=980px scrolling="no"></iframe>
 
 <center><strong>Junior College 2</strong><br>
 	“Love Matters (2<sup>nd</sup> Edition)” Teaching & Learning resource package</center>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTL66NGadoDO2Bc6ACMzvu8iFgdZvVNLspsuhMFHcKvdVX-XiJy8d0GM33APr2LiAT2kiqTapdNkF6w/pub?embedded=true" width=800px height=1000px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTL66NGadoDO2Bc6ACMzvu8iFgdZvVNLspsuhMFHcKvdVX-XiJy8d0GM33APr2LiAT2kiqTapdNkF6w/pub?embedded=true" width=800px height=840px scrolling="no"></iframe>
 
 <h4><i><strong><u>eTeens Programme</u></strong></i></h4>
 <ol start="6">
@@ -49,7 +49,7 @@ Theme 3B from Module: Developing Healthy Relationships</center>
 
 <h5><strong>At Jurong Pioneer Junior College, the eTeens programme will be implemented as follows in 2022:</strong></h5>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=800px height=290px scrolling="no"></iframe>
 
 <h5><strong>Information for Parents</strong></h5>
 <ol start="8">
