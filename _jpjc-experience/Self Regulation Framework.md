@@ -4,6 +4,7 @@ permalink: /jpjc-experience/selfregulationframework/
 description: ""
 ---
 <figure>
-<img src="/images/JPJC%20Experience/Total%20Curriculum%20Framework/pic1.jpg">
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Self%20Regulation%20Framework/self%20regulation%20framework.jpg">
 </figure>
 <div align=justify>
+	
