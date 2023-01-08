@@ -18,8 +18,10 @@ description: ""
 <p><strong>Daily routines:</strong></p>
 
 <p>*   What is the daily routine that I have to put in place to achieve my short-term and long-term goals?</p>
-	<p>*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?&nbsp;</p>
-   	<p>*   How can I ensure that I commit effectively to this plan?</p>
+	<p>&ensp*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?</p>
+		
+<p>&ensp*   How can I ensure that I commit effectively to this plan?</P>
+	
 	
 <p><strong>Learning habits:</strong></p>
 
