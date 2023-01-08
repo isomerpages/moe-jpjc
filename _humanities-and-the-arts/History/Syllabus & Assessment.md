@@ -23,7 +23,7 @@ In this paper, students will examine the key developments that took place within
 
 <h4>H2 Level History Assessment</h4>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px, height=850px, scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px, height=730px, scrolling="no"></iframe>
 
 <h4>H1 Level History Syllabus</h4>
 
@@ -32,7 +32,7 @@ The H1 History syllabus focuses on the key forces and developments that shaped t
 
 <h4>H1 Level History Assessment</h4>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px, height=450px, scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px, height=330px, scrolling="no"></iframe>
 
 <p>
 For further details, please refer to the SEAB Website.</p>
