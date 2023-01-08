@@ -66,7 +66,7 @@ The Engineering Innovation Challenge 2020 was organised by Science Centre Singap
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/pic11.jpg">
 <figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure>
 
-<h3><strong>**NUS Electrical and Computer Engineering Principles and Practice**</strong></h3>
+<h3><strong>NUS Electrical and Computer Engineering Principles and Practice</strong></h3>
 <p>This module aimed to expose junior college students to computer and electrical engineering principles through a 6-week experiential learning programme. It focused on the engineering principles and practice of how computer-aided systems are designed and built. They were first taught the fundamental principles of electronic circuits through blended lessons, laboratory sessions and group discussions. They were then guided to apply these principles to build a sensor-assisted autonomous robotic vehicle. Upon completing the module, they could better appreciate the importance of circuits, signals, and sensors in system implementation.</p>
 
 <figure>
