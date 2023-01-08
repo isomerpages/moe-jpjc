@@ -5,31 +5,35 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 <div align=justify>
-<p>
-Our college aims to nurture a community of compassionate leaders with a heart to serve through the following:
+<p>The Service Learning (SL) programme serves to inculcate a sense of social and civic responsibility in the students by getting them to learn through serving the college and community. With the mission to nurture a community of compassionate leaders with a heart to serve, the college adopts a whole-school approach to SL of which all students are encouraged to participate or lead in Values-In-Action (VIA) projects through the following approaches:
 <ul>
-<li>Developing students’ awareness of community needs through discussing social issues during CCE lessons and CCAs; and by engaging with community partners and Social Service Agencies (SSA).</li>
+<li>Developing students’ awareness on the community needs through discussion of community and social issues in CCE lessons and CCAs.</li>
 
-<figure>
-	<img src="/images/VIA%201.jpg">
-	<figcaption>Photos were taken pre-COVID-19 days<br>
-The college organises the Service Learning Festival annually to provide platform for our students to interact with the advocates from various Social Service Agencies. Through the interaction with the presenters, it enabled our students to have a better understanding on the social causes by these SSA, the community’s needs and volunteering opportunities available for them to volunteer.</figcaption></figure>
-	<li>Providing opportunities for students to volunteer within school and/or community.</li>
+<li>Raising awareness on volunteerism through sharing sessions by community partners and providing opportunities for the students to volunteer within school and/or community through collaboration with community partners.</li>	
 
+<h5>o Service Learning (SL) Festival – Sharing from Community partners, alumni and students</h5>
 <figure>
-<img src="/images/VIA%202.jpg">
-<figcaption>Photos were taken pre-COVID-19 days<br>
-Collaborating with community partners in organising interaction sessions with residents and helping the elderly residents with spring cleaning of their flat.</figcaption>
+	<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA2.jpg">
+	<figcaption>Students had the opportunity to interact with the Social Service Organisations, community partners and alumni, and gained greater awareness on their social causes and source for volunteering opportunities<br>
+</figcaption></figure>
+	<li>Empowering the students to serve the community through CCA VIA, Student-initiated VIA and External VIA. Students took ownership to understand the need of the beneficiaries and initiated Values in Action project with their peers from their class or CCA</li>
+
+<p>o   Examples of Student-Initiated VIA Projects were as follows:	
+</P>
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA3.jpg">
+<figcaption>Students from Eco Club, Interact Club and Play Art organised various workshops for the senior participants and residents like Smartphone clinic (e.g. Instagram), handicraft sessions (e.g. D.I.Y. magnet and painting) and terrarium-making.<br>
+</figcaption>
 </figure>
-	<li>Empowering students to serve the community through various platforms like Class/ CCA VIA and other student-Initiated VIA.</li></ul>
+
 	
 <figure>
-	<img src="/images/VIA%203.jpg">
-	<figcaption>In view with the Safe Management Measures (SMM), our students continued to engage the community. For example, our students conducted a series of virtual workshops for the elderly of Taman Jurong, Jurong Spring and Nanyang. The topics of these workshops included the use of mobile apps for transport booking, food ordering, photo editing, and promoting awareness of scam prevention; and other hands-on workshops like terrarium-making and handicraft-making.</figcaption></figure>
+	<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA4.jpg">
+	<figcaption> Students from Gym Fit Club initiated a care pack collection drive in the college and items were donated to the needy residents of Jurong Spring Estate</figcaption></figure>
 
 <figure>
-	<img src="/images/VIA%204.jpg">
-	<figcaption>Student volunteers conducted a Corridor Farming Workshop for the CCK residents. Our students shared on how the corridor farming could beautify the common space and be part of our community efforts in building towards food security.</figcaption></figure>
+	<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA5.jpg">
+	<figcaption>For beneficiaries where face to face interaction were not suitable, our students from various classes and CCA groups continued to engage them virtually..</figcaption></figure>
 	
 <figure>
 <img src="/images/VIA%205.jpg">
