@@ -17,7 +17,7 @@ Students who are enrolled in the Chinese Language Elective Programme (CLEP) must
 
 <figure>
 <img src="/images/CLEP%202.jpg">
-<figcaption>CLEP Seniors Meet Juniors 2020<</figcaption></figure>
+<figcaption>CLEP Seniors Meet Juniors 2020</figcaption></figure>
 
 <p>
 Some of the distinctive elements of the JPJC CLEP are:</p>
