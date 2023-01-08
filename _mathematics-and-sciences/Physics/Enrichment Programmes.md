@@ -65,3 +65,11 @@ The Engineering Innovation Challenge 2020 was organised by Science Centre Singap
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/pic11.jpg">
 <figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure></div>
+
+<h3><strong>Engineering Innovation Challenge 2020</strong></h3>
+<p>
+The Engineering Innovation Challenge 2020 was organised by Science Centre Singapore and the Institute of Engineers, Singapore. In the challenge, JPJC students came up with novel ideas to improve food security in Singapore through the use of ionising radiation. They were also tasked to conduct research on how background radiation may vary with environmental conditions in Singapore. After months of hard work, four groups of students from JPJC were awarded the Merit Award in the category for junior college students.</p>
+
+<figure>
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/pic11.jpg">
+<figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure></div>
