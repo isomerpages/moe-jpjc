@@ -52,7 +52,7 @@ A community-based project that is designed to expose our scholars to higher-leve
 <p>
 Students in this programme will plan and organise a 2 Day Leadership Camp for youths residing in Choa Chu Kang GRC during the June holidays as part of their community involvement programme, in conjunction with Keat Hong Community Club. This event seeks to provide an opportunity for all scholars to gain an insight into community work while also contribute positively back to society. In the process, scholars will obtain the platform to learn important skills such as team work, communication and developing a sense of empathy for others. This is a new initiative mooted by the students themselves following the excellent and positive reviews and feedback from the Leadership Training Camp at Yuhua Community Club.</p>
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/Scholars/Picture%202.jpeg">
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/Picture%202.jpeg">
 <figcaption>Group photo with Grassroots Adviser to Choa Chu Kang GRC GROs (Keat Hong) Mr Zhulkarnain at the Leadership Training Camp (in collaboration with Keat Hong Youth Network) in June 2022</figcaption></figure>
 
 <figure>
