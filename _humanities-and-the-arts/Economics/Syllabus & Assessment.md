@@ -4,7 +4,6 @@ permalink: /humanities-and-the-arts/economics/syllabus-and-assessment/
 description: ""
 third_nav_title: Economics
 ---
-
 <div align=justify>
 <p>Both H1 and H2 Economics is offered in JPJC.</p>
 <h4><strong>Assessment Objectives for H1 and H2 Economics</strong></h4>
@@ -32,10 +31,10 @@ AO4: Evaluation
 	<li>Synthesise economic arguments to arrive at well-reasoned judgements and decisions.</li></ul></p>
 
 <h4><strong>Assessment Format for H1 Economics</strong></h4>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRb7TOHsWRubuK9XzoBgtW7oD3a4ywT0Jn1qECWWxmfU0emcKrzYO_Ruw4O1yrz5jwvtmZA9Sl3zawh/pub?embedded=true" width=800px height=650px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRb7TOHsWRubuK9XzoBgtW7oD3a4ywT0Jn1qECWWxmfU0emcKrzYO_Ruw4O1yrz5jwvtmZA9Sl3zawh/pub?embedded=true" width=800px height=530px scrolling="no"></iframe>
 
 <h4><strong>Assessment Format for H2 Economics</strong></h4>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width=800px height=1300 scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width=800px height=1200 scrolling="no"></iframe>
 
 <h5><strong>Note:</strong></h5>
 <p>

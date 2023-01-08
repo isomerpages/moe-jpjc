@@ -32,7 +32,7 @@ The <i><strong>Learning Experiences</strong></i> refer to a range of learning 
 
 <h4><strong>Scheme of Assessment</strong></h4>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width=800px height=220px scrolling="no"></iframe>
 
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
 <p>
@@ -95,7 +95,7 @@ The <i><strong>Learning Experiences</strong></i> refer to a range of learning 
 <p>
 All school candidates are required to enter for Papers 1 and 2.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQsFiP9zAWpGt_NzgTVte5FzAWAIqMADdyyH4kR2iRK4gdlNHSf_evz-6f5Tysc9s_jM1a5HeRbPxcw/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQsFiP9zAWpGt_NzgTVte5FzAWAIqMADdyyH4kR2iRK4gdlNHSf_evz-6f5Tysc9s_jM1a5HeRbPxcw/pub?embedded=true" width=800px height=150px scrolling="no"></iframe>
 
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h6>
 <p>

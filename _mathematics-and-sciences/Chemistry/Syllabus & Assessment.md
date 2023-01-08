@@ -16,7 +16,7 @@ The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extensio
 <figcaption>H1 Chemistry Curriculum Framework</figcaption>
 	</figure>
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width=800px height=240px scrolling="no"></iframe>
 
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic2.jpg">
@@ -27,7 +27,7 @@ Candidates will be assumed to have knowledge and understanding of Chemistry at O
 <p>
 Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRNNrIQv3IwzNf9VZhZ7bsAjPqMwW80L85thHy-97qQIIoRWDzAbvGomPCdaPVeMnPe9hcsBJq9EosU/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRNNrIQv3IwzNf9VZhZ7bsAjPqMwW80L85thHy-97qQIIoRWDzAbvGomPCdaPVeMnPe9hcsBJq9EosU/pub?embedded=true" width=800px height=180px scrolling="no"></iframe>	
 
 
 <h4><strong>Paper 1 (1 h, 30 marks)</strong></h4>
@@ -64,7 +64,7 @@ The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extensio
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic3.jpg">
 <figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width=800px height=400px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
 
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic4.jpg">
@@ -76,7 +76,7 @@ Candidates will be assumed to have knowledge and understanding of Chemistry at O
 <h4><strong>Assessment for H2 Chemistry</strong></h4>
 	
 <p>All candidates are required to enter for Papers 1, 2 3 and 4.</p>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width=800px height=240px scrolling="no"></iframe>
 
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
 <p>
@@ -125,7 +125,7 @@ H3 Chemistry syllabus has been designed to build on and extend the knowledge, un
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic5.jpg">
 <figcaption>H3 Chemistry Curriculum Framework</figcaption></figure>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQIr4tZIG1ZIz7W8YQuejxxCG48sIbFxfnHUso6n5jq_bqZv5Uq22wNhAQaNtoyLKWo5VtWzZh6xpuf/pub?embedded=true" width=800px height=350px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQIr4tZIG1ZIz7W8YQuejxxCG48sIbFxfnHUso6n5jq_bqZv5Uq22wNhAQaNtoyLKWo5VtWzZh6xpuf/pub?embedded=true" width=800px height=220px scrolling="no"></iframe>
 <center>
 Candidates should simultaneously offer H2 Chemistry.</center>
 
