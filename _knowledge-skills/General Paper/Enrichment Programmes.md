@@ -21,4 +21,6 @@ Held annually in June during the first week of the term break. A group of 20 stu
 
 <figure>	
 <img src="/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/General%20Paper/Enrichment%20Programmes/pic2.jpg">
-<figcaption>Some of our delegates with teacher advisor, Mr Ariffin at Pre-U Seminar 2019</figcaption></figure></ol>
+<figcaption> 
+
+Some of our delegates with members from other participating institutions.</figcaption></figure></ol>
