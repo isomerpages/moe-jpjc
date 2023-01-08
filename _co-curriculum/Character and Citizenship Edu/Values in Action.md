@@ -18,8 +18,7 @@ third_nav_title: Character and Citizenship Edu
 </figcaption></figure>
 	<li>Empowering the students to serve the community through CCA VIA, Student-initiated VIA and External VIA. Students took ownership to understand the need of the beneficiaries and initiated Values in Action project with their peers from their class or CCA</li>
 
-<h5><p>o   Examples of Student-Initiated VIA Projects were as follows:	</h5>
-</P>
+<h5>o   Examples of Student-Initiated VIA Projects were as follows:</h5>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA3.jpg">
 <figcaption>Students from Eco Club, Interact Club and Play Art organised various workshops for the senior participants and residents like Smartphone clinic (e.g. Instagram), handicraft sessions (e.g. D.I.Y. magnet and painting) and terrarium-making.<br>
