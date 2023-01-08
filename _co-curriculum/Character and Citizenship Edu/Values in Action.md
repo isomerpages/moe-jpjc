@@ -43,4 +43,4 @@ third_nav_title: Character and Citizenship Edu
 Annually, the college organises the Blood Donation Drive to raise awareness of the National Blood Donation Programme and encourages our staff and students to donate their blood to save lives.
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA6.jpg">
-	<figcaption></div>
+<figcaption></div>
