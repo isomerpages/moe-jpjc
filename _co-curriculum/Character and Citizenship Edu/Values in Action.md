@@ -18,7 +18,7 @@ third_nav_title: Character and Citizenship Edu
 </figcaption></figure>
 	<li>Empowering the students to serve the community through CCA VIA, Student-initiated VIA and External VIA. Students took ownership to understand the need of the beneficiaries and initiated Values in Action project with their peers from their class or CCA</li>
 
-<p>o   Examples of Student-Initiated VIA Projects were as follows:	
+<h5><p>o   Examples of Student-Initiated VIA Projects were as follows:	</h5>
 </P>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA3.jpg">
