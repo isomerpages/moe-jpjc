@@ -18,7 +18,7 @@ third_nav_title: Character and Citizenship Edu
 </figcaption></figure>
 	<li>Empowering the students to serve the community through CCA VIA, Student-initiated VIA and External VIA. Students took ownership to understand the need of the beneficiaries and initiated Values in Action project with their peers from their class or CCA</li>
 
-<p>o   Examples of Student-Initiated VIA Projects were as follows:	
+<h5><p>o   Examples of Student-Initiated VIA Projects were as follows:	</h5>
 </P>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA3.jpg">
@@ -33,15 +33,15 @@ third_nav_title: Character and Citizenship Edu
 
 <figure>
 	<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA5.jpg">
-	<figcaption>For beneficiaries where face to face interaction were not suitable, our students from various classes and CCA groups continued to engage them virtually.</figcaption></figure>
+<figcaption>For beneficiaries where face to face interaction were not suitable, our students from various classes and CCA groups continued to engage them virtually.</figcaption></figure>
 	
 <p>Students from Community Engagement Council and Interact Club initiated VIA projects to show their appreciation to our support staff and contract cleaners in our college. For example, presenting goodie bags to them during festive seasons, and sharing by the staff on their hobbies for the college to know them better.</p>
 
-<p>o   **Blood Donation Drive**</P>
-Annually, the college organises the Blood Donation Drive to raise awareness of the National Blood Donation Programme and encourages our staff and students to donate their blood to save lives.
+<h5><p>o   Blood Donation Drive</P></h5>
+
+<p>Annually, the college organises the Blood Donation Drive to raise awareness of the National Blood Donation Programme and encourages our staff and students to donate their blood to save lives.</p>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA6.jpg"></figure>
 	
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA7.jpg"></figure>
-</div>
