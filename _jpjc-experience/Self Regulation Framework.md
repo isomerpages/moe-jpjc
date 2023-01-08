@@ -18,22 +18,22 @@ description: ""
 <p><strong>Daily routines:</strong></p>
 
 <p>*   What is the daily routine that I have to put in place to achieve my short-term and long-term goals?</p>
-	<p>&ensp*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?</p>
+	<p>&emsp;&emsp;*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?</p>
 		
-<p>&ensp*   How can I ensure that I commit effectively to this plan?</P>
+<p>&emsp;&emsp;*   How can I ensure that I commit effectively to this plan?</P>
 	
 	
 <p><strong>Learning habits:</strong></p>
 
 <p>*   What are the good learning habits that I have to put in place to achieve my short-term and long-term goals?</p>
-    <p>*   Do I know effective subject-specific study skills?</p>
+ <p>&emsp;&emsp;*   Do I know effective subject-specific study skills?</p>
 	
 <p><strong>Self-care:</strong></p>
 
 <p>*   How can I take care of myself?</p>
     
-<p>*   What are my physical, intellectual, emotional &amp; social needs?&nbsp;</p>
-    <p>*   What do I need to pay more attention to?</p>
-    <p>	*   How can I get myself to be more mindful?</p>
+<p>&emsp;&emsp;*   What are my physical, intellectual, emotional &amp; social needs?</p>
+    <p>&emsp;&emsp;*   What do I need to pay more attention to?</p>
+    <p>&emsp;&emsp;	*   How can I get myself to be more mindful?</p>
  
  </ol></div>
