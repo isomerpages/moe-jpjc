@@ -12,7 +12,7 @@ Objectives:</h3>
 	<li>To develop students’ potential for creativity and expression through the arts.</li>
 	<li>Through arts education, students will be empowered by the arts and grow to be confident, articulate and creative adults who will contribute as active citizens to the community.</li></ul>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width=800px height=600px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width=800px height=470px scrolling="no"></iframe>
 
 <center><h4>2022</h4></center>
 <figure>
