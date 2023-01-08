@@ -15,7 +15,7 @@ description: ""
 <p>The JPJC Self-Regulation Framework comprises three aspects: (i) daily routines (ii) self-care and (iii) learning habits.
 </p>
 
-<p><strong><ul>Daily routines:</strong>
+<p><strong>Daily routines:</strong>
 
 *   What is the daily routine that I have to put in place to achieve my short-term and long-term goals?</P>
 	<p>*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests? </p>
@@ -28,7 +28,7 @@ description: ""
 	
 <p><strong>Self-care:</strong>
 
-*   How can I take care of myself?
+*   How can I take care of myself?</P>
     
 	<p>*   What are my physical, intellectual, emotional & social needs? </P>
     <p>*   What do I need to pay more attention to?</P>
