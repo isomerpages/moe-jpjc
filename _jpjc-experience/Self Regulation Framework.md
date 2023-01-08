@@ -35,11 +35,3 @@ description: ""
     <p>	*   How can I get myself to be more mindful?</p>
  
  </div>
-
-    
-
-    
-	
-	
-	
-	
