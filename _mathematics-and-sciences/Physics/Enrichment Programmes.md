@@ -64,12 +64,11 @@ The Engineering Innovation Challenge 2020 was organised by Science Centre Singap
 
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/pic11.jpg">
-<figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure></div>
+<figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure>
 
-<h3><strong>Engineering Innovation Challenge 2020</strong></h3>
-<p>
-The Engineering Innovation Challenge 2020 was organised by Science Centre Singapore and the Institute of Engineers, Singapore. In the challenge, JPJC students came up with novel ideas to improve food security in Singapore through the use of ionising radiation. They were also tasked to conduct research on how background radiation may vary with environmental conditions in Singapore. After months of hard work, four groups of students from JPJC were awarded the Merit Award in the category for junior college students.</p>
+<h3><strong>**NUS Electrical and Computer Engineering Principles and Practice**</strong></h3>
+<p>This module aimed to expose junior college students to computer and electrical engineering principles through a 6-week experiential learning programme. It focused on the engineering principles and practice of how computer-aided systems are designed and built. They were first taught the fundamental principles of electronic circuits through blended lessons, laboratory sessions and group discussions. They were then guided to apply these principles to build a sensor-assisted autonomous robotic vehicle. Upon completing the module, they could better appreciate the importance of circuits, signals, and sensors in system implementation.</p>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/pic11.jpg">
-<figcaption>Mock-up of Project Idea – Irradiation of nutrition solution for use in food crops</figcaption></figure></div>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/NUS%20electrical%20and%20comp%20eng.jpg">
+<figcaption>JPJC students having laboratory session at the NUS Electrical and Computer Engineering Principles and Practice course</figcaption></figure></div>
