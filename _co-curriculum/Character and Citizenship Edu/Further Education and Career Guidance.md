@@ -19,7 +19,7 @@ Deepening awareness of self-identity and of opportunities and resources availabl
 Exploring higher education and career options through experiential learning</p>
 	<li><h5><strong>How do I get there? (Planning and Transiting)</strong></h5></li>
 <p>
-Acquiring knowledge and skills to make informed decisions regarding higher education and career options</p></ul>
+Acquiring knowledge and skills to make informed decisions regarding higher education and career options</p>
 
 <figure>
 <img src="/images/CCE1a.jpg">
