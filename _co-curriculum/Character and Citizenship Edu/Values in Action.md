@@ -8,7 +8,7 @@ third_nav_title: Character and Citizenship Edu
 <p>
 Our college aims to nurture a community of compassionate leaders with a heart to serve through the following:
 <ul>
-	<li>Developing students’ awareness of community needs through discussing social issues during CCE lessons and CCAs; and by engaging with community partners and Social Service Agencies (SSA).</li></ul>
+<li>Developing students’ awareness of community needs through discussing social issues during CCE lessons and CCAs; and by engaging with community partners and Social Service Agencies (SSA).</li>
 
 <figure>
 	<img src="/images/VIA%201.jpg">
