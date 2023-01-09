@@ -3,9 +3,9 @@ title: Parent Support Group
 permalink: /partnerships/psg/
 description: ""
 ---
-<div align=justify>
+<div align="justify">
 <p>
-The PSG@JPJC is a group of parents who are passionate about providing support to enrich the learning experience for their children. PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.</p>
+The PSG@JPJC is&nbsp;a group of parents who are passionate about providing support to enrich the learning experience for their children.&nbsp;PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.</p>
 
 <h4><strong>Objectives of PSG@JPJC</strong></h4>
 <ul>
@@ -15,7 +15,7 @@ The PSG@JPJC is a group of parents who are passionate about providing support t
 
 <h4><strong>Areas of Contributions</strong></h4>
 <ul>
-	<li>Participation and involvement in college events (such as Open House, Parents Engagement Session, Get-To-Know Session,  Night Study Programme and J2 Farewell Assembly)</li>
+	<li>Participation and involvement in college events (such as&nbsp;Open House, Parents Engagement Session, Get-To-Know Session,&nbsp; Night Study Programme and J2 Farewell Assembly)</li>
 	<li>Organise workshops, learning journeys and provide work attachment opportunities</li>
 	<li>Resource personnel for fundraising</li></ul>
 
@@ -23,14 +23,16 @@ The PSG@JPJC is a group of parents who are passionate about providing support t
 If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.</p>
 
 <h4><strong>How to join PSG@JPJC</strong></h4>
-<p>You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a></p>
+<p>You may write to us at&nbsp;<a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a></p>
 
 <h4><strong>Past Activities</strong></h4>
 	
 <h4>Year 2022</h4>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/PSG%20Connect%202022.jpeg">
-<figcaption>JPJC Partnership Committee hosted PSG Connect on 7 May. The primary objectives of this session was to bond with new parents, and to inform them about Parent Support Group activities and how they could be actively involved. Watch video here:[https://fb.watch/grbMeRu00x/](https://fb.watch/grbMeRu00x/)</figcaption></figure>	
+<figcaption>JPJC Partnership Committee hosted PSG Connect on 7 May. The primary objectives of this session was to bond with new parents, and to inform them about Parent Support Group activities and how they could be actively involved. 
+<p>Watch video here</p>
+</figcaption></figure>	
 	
 	
 <figure>
@@ -53,7 +55,7 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <img src="/images/psg%202b.jpg">		 
 <img src="/images/psg%203a.jpg">
 <img src="/images/psg%203b.jpg">		 		 
-<figcaption>PSG EXCO collated well-wishes from parents for the JC2 Farewell Assembly 2021. Here are some of the messages from parents to the Class of 2021 </figcaption></figure>
+<figcaption>PSG EXCO collated well-wishes from parents for the JC2 Farewell Assembly 2021. Here are some of the messages&nbsp;from parents to the Class of 2021 </figcaption></figure>
 	
 <h4>Year 2020</h4>
 <h5>2020 JPJC Open House</h5>
@@ -62,8 +64,8 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <img src="/images/PSG1.jpg">
 <figcaption>Our current and former PSG EXCO working hand-in-hand to share more about their collaboration with the college during the 2020 JPJC Open House.</figcaption></figure>
 
-<h4>Year 2019<h4>
-<h5>JPJC Education and Career Guidance (ECG) Parents’ Evening</h5>
+<h4>Year 2019</h4><h4>
+</h4><h5>JPJC Education and Career Guidance (ECG) Parents’ Evening</h5>
 
 <figure>
 <img src="/images/PSG2.jpg">
@@ -83,4 +85,4 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <h5>Foodie Day for Night Study Programme</h5>
 <figure>
 <img src="/images/psg5.jpg">
-<figcaption>PSG EXCO/members distributing dinner to students during foodie nights for Night Study Programme.</figcaption></figure>
+<figcaption>PSG EXCO/members distributing dinner to students during foodie nights for Night Study Programme.</figcaption></figure></div>
