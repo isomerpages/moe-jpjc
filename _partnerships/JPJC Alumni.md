@@ -44,7 +44,7 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 
 <h4>Year 2022</h4>
 <ol>
-	<li><strong>Mr Timothy Beh and Yeo Wei Ern (JJC Alumni, Class of 2016)</strong> Law Undergraduates from the National University of Singapore
+<li><strong>Mr Timothy Beh and Yeo Wei Ern (JJC Alumni, Class of 2016)</strong> Law Undergraduates from the National University of Singapore
 <figure>
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%201.jpg"></figure></li>
 	<li><strong>Dr Nagarajan Raghavan (JJC Alumnus, Class of 2002)</strong> Assistant Professor at the Singapore University of Technology and Design (SUTD)
@@ -53,74 +53,74 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 	<li><strong>Dr Goh Han Lin (JJC Alumnus, Class of 1999)</strong> AI Research Scientist based with Apple Inc
 <figure>
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%203.jpg"></figure></li>
-	<li><strong>Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006)</strong> CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
+<li><strong>Dr Mark Lim Jian Wei (JJC Alumnus, Class of 2006)</strong> CEO at Aliena Pte Ltd, a Singapore space-tech startup that develops advanced plasma-based propulsion engines to provide mobility solutions for satellites.
 <figure>
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%204.jpg">
 <img src="/images/Partnerships/JPJC%20Alumni/2022%20Photo%205.jpg"></figure></li></ol>
 
 <h4>Year 2021</h4>
 <ol>
-	<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
+<li><strong>Mr Jeremy Chin (PJC Alumnus, Class of 2014)</strong> PSC Scholar, graduated from University of Warwick with a Bachelor of Arts (with Honours) in Politics and Sociology. Senior Executive at Youth Division at Ministry of Culture, Community and Youth.
 <figure>
 <img src="/images/jpjc%20alumni%201.jpg">
 </figure></li>
-	<li><strong>Ms Stephanie Lee (PJC Alumna, Class of 2014)</strong> Pharmacist at Ng Teng Fong General Hospital
+<li><strong>Ms Stephanie Lee (PJC Alumna, Class of 2014)</strong> Pharmacist at Ng Teng Fong General Hospital
 <figure>
 <img src="/images/jpjc%20alumni%202.jpg">
 </figure></li>
-	<li><strong>Mr Jasper Chan (JJC Alumnus, Class of 2011 )</strong> Regulatory Counsel with the Law Society of Singapore
+<li><strong>Mr Jasper Chan (JJC Alumnus, Class of 2011 )</strong> Regulatory Counsel with the Law Society of Singapore
 <figure>
 <img src="/images/jpjc%20alumni%203.jpg"></figure></li></ol>
 																				 
 <h4>Year 2020</h4>
 <ol>
-	<li><strong>Mr Damien Ng (JJC Alumnus, Class of 1993)</strong> Thematic Research Analyst at Julius Baer
+<li><strong>Mr Damien Ng (JJC Alumnus, Class of 1993)</strong> Thematic Research Analyst at Julius Baer
 <figure>	 
 <img src="/images/jpjc%20alumni%204.jpg">
 </figure></li>
-	<li><strong>Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)</strong> Founders of Mr G and 51 Label
+<li><strong>Mr Gary Ong and Jonathan Wong (JJC Alumnus, Class of 2010)</strong> Founders of Mr G and 51 Label
 <figure>
 <img src="/images/jpjc%20alumni%205.jpg"></figure></li>
-	<li><strong>Mr Chio Wen Tian (JJC Alumnus, Class of 2006)</strong> Principal Architect at WNVA
+<li><strong>Mr Chio Wen Tian (JJC Alumnus, Class of 2006)</strong> Principal Architect at WNVA
 <figure>
 <img src="/images/jpjc%20alumni%206.jpg">
 </figure></li></ol>
 		 
 <h4>Year 2019</h4>
 <ol>
-	<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
+<li><strong>Mr Loo Cheng Chuan (JJC Alumnus, Class of 1998)</strong> CEO of Premiummall and Founder of 1M65 Movement
 <figure>
 <img src="/images/jpjc%20alumni%207.jpg">
 </figure></li>
-		<li><strong>Dr Lim Yee Hwee (JJC Alumna, Class of 2000)</strong> Scientist and Team Leader with the Institute of Chemical and Engineering Sciences (A\*STAR)
+<li><strong>Dr Lim Yee Hwee (JJC Alumna, Class of 2000)</strong> Scientist and Team Leader with the Institute of Chemical and Engineering Sciences (A\*STAR)
 <figure>
 <img src="/images/jpjc%20alumni%208.jpg">
 </figure></li>
-		<li><strong>Mr Vincent Choy (JJC Alumnus, Class of 1985)</strong> Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
+<li><strong>Mr Vincent Choy (JJC Alumnus, Class of 1985)</strong> Senior Consultant for Cloud Infrastructure and Microsoft 'Most Valuable Professional' since 2014
 <figure>
 <img src="/images/jpjc%20alumni%209.jpg">
 </figure></li>
-		<li><strong>Mr Roderick Chia (JJC Alumnus, Class of 1990)</strong> Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
+<li><strong>Mr Roderick Chia (JJC Alumnus, Class of 1990)</strong> Founder of rodVenture (VC), Chief Strategy Officer of Oyika, Director of Modern Pick Entertainment and Co-Founder of SoCo Foundation.
 <figure>
 <img src="/images/jpjc%20alumni%2010.jpg">
 </figure></li>
-		<li><strong>Ms Alice Tan (JJC Alumna, Class of 1998)</strong> Senior Director of Research and Consulting for Edmund Tie.
+<li><strong>Ms Alice Tan (JJC Alumna, Class of 1998)</strong> Senior Director of Research and Consulting for Edmund Tie.
 <figure>
 <img src="/images/jpjc%20alumni%2011.jpg">
 </figure></li>
-		<li><strong>Mr Adamson Alagan (PJC Alumnus, Class of 2005)</strong> Business Development Director of Studio AG.
+<li><strong>Mr Adamson Alagan (PJC Alumnus, Class of 2005)</strong> Business Development Director of Studio AG.
 <figure>
 <img src="/images/jpjc%20alumni%201.jpg">
 </figure></li>
-		<li><strong>Dr Stephen Siew (PJC Alumnus, Class of 2005)</strong> Senior Resident at Tan Tock Seng Hospital.
+<li><strong>Dr Stephen Siew (PJC Alumnus, Class of 2005)</strong> Senior Resident at Tan Tock Seng Hospital.
 <figure>
 <img src="/images/jpjc%20alumni%2013.jpg">
 </figure></li>
-		<li><strong>Mr Tan Ying Quan (JJC Alumnus, Class of 2008)</strong> Senior Business Manager, Barramundi Asia Pte Ltd.
+<li><strong>Mr Tan Ying Quan (JJC Alumnus, Class of 2008)</strong> Senior Business Manager, Barramundi Asia Pte Ltd.
 <figure>
 <img src="/images/jpjc%20alumni%2014.jpg">
 </figure></li></ol>
-	<strong><li>Homecoming Events</li></strong>
+<strong><li>Homecoming Events</li></strong>
 <p>
 Over the past few years, we have welcomed home many batches of alumni, together with their loved ones for various homecoming events held in both colleges. Many who turned up brought their yearbooks and old photos along, and reconnected with former college mates and teachers, recounting the good old days spent in the college campuses.</p>
 
