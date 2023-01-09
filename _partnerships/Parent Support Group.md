@@ -23,7 +23,7 @@ The PSG@JPJC is a group of parents who are passionate about providing support t
 If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.</p>
 
 <h4><strong>How to join PSG@JPJC</strong></h4>
-You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a>.
+<p>You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a></p>
 
 <h4><strong>Past Activities</strong></h4>
 <h5>Year 2021<br>
