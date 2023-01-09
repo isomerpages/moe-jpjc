@@ -2,6 +2,7 @@ collections:
   jpjc-experience:
     output: true
     order:
+      - Co Curriculum.md
       - Total Curriculum Framework.md
       - Self Regulation Framework.md
       - Curriculum.md
