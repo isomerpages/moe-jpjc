@@ -26,6 +26,23 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <p>You may write to us at <a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a></p>
 
 <h4><strong>Past Activities</strong></h4>
+	
+<h4>Year 2022</h4>
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/PSG%20Connect%202022.jpeg">
+<figcaption>JPJC Partnership Committee hosted PSG Connect on 7 May. The primary objectives of this session was to bond with new parents, and to inform them about Parent Support Group activities and how they could be actively involved. Watch video here: https://fb.watch/grbMeRu00x/</figcaption></figure>	
+	
+	
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/J1%20Wishes.jpg">
+
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/J2%20Wishes.jpg">
+
+
+<figcaption>PSG EXCO collated well-wishes from parents for the graduating Class of 2022, encouraging them for their upcoming A-Level examination. Parents also sent their blessings for the JC1s who will be sitting for their Mother Tongue and Project Work examinations.</figcaption></figure>		
+	
+	
+	
 <h5>Year 2021<br>
 	JC2 Farewell Assembly</h5>
 
