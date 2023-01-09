@@ -31,7 +31,9 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/PSG%20Connect%202022.jpeg">
 <figcaption>JPJC Partnership Committee hosted PSG Connect on 7 May. The primary objectives of this session was to bond with new parents, and to inform them about Parent Support Group activities and how they could be actively involved. 
-<p>Watch video here</p>
+
+
+<p>Watch video  <a href="https://www.facebook.com/jpjc.sg/videos/391536189521899/"></a>here</p>
 </figcaption></figure>	
 	
 	
