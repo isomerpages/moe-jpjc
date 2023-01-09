@@ -81,7 +81,7 @@ Internship opportunities are provided for CLEP students in various organisations
 <img src="/images/CLEP%2015.jpg">
 </figure>
 
-<h4>“新空下” National Xinyao Singing and Song Writing Competition</h5>
+<h4>“新空下” National Xinyao Singing and Song Writing Competition</h4>
 	
 <p>
 Xinyao played an important part in the development of Singapore's cultural history. In the early 1980s, students got together and sang the songs which they have composed on their own, a first for the local music scene. Many of the pioneers of Xinyao, amongst which one of the most distinguished, Eric Moo, began their music journey in JJC in the early 1980s, before going on the bigger regional stage.  Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also started penning songs in JJC.</p>
@@ -99,6 +99,5 @@ Despite the challenges of COVID-19 pandemic since 2020, timely changes were made
 
 <strong>For Further Clarification</strong>
 <p>
-Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a>.</p>
-
+Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
 </div>
