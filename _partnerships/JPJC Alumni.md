@@ -110,7 +110,7 @@ From 2019 to 2022, we were privileged to have alumni from various fields and dis
 </figure></li>
 <li><strong>Mr Adamson Alagan (PJC Alumnus, Class of 2005)</strong> Business Development Director of Studio AG.
 <figure>
-<img src="/images/jpjc%20alumni%201.jpg">
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/JPJC%20Alumni/Adam.jpg">
 </figure></li>
 <li><strong>Dr Stephen Siew (PJC Alumnus, Class of 2005)</strong> Senior Resident at Tan Tock Seng Hospital.
 <figure>
@@ -328,4 +328,3 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 <p>
 <strong>Mr Adamson Alagan</strong> <br>
 Business Development Director of Studio AG</p>
-	
