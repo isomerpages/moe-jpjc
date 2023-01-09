@@ -35,7 +35,7 @@ Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu
 <h3>Past Activities</h3>
 <style>ol.a{list-style-type: lower-alpha;}</style>
 <ol class="a">
-<strong><li>Alumni Speaker’s Series</strong>
+	<strong><li>Alumni Speaker’s Series</li></strong>
 <p>
 The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
 
@@ -329,4 +329,3 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 <strong>Mr Adamson Alagan</strong> <br>
 Business Development Director of Studio AG</p>
 	
-</div>
