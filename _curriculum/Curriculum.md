@@ -1,8 +1,9 @@
 ---
 title: Curriculum
-permalink: /jpjc-experience/curriculum/
+permalink: /jpjc-experience/curriculum/curriculum/
 description: ""
 ---
+
 
 <ul>
 	<li><a href="/humanities-and-the-arts/">Humanities & the Arts</a></li>
