@@ -15,8 +15,8 @@ Since 2019, the alumni of both colleges have come together, working in partnersh
 <p>
 For JJC and PJC alumni who wish to reconnect with their former college mates and teachers, you can visit the following URLs:
 <ul>
-	<li><a href="https://www.facebook.com/JJAlumni/">https://www.facebook.com/JJAlumni/</a> (for Jurong JC alumni)</li>
-	<li><a href="https://www.facebook.com/groups/pioneeralumnicircle/">https://www.facebook.com/groups/pioneeralumnicircle/</a> (for Pioneer JC alumni)</li></ul></p>
+<li><a href="https://www.facebook.com/JJAlumni/">https://www.facebook.com/JJAlumni/</a> (for Jurong JC alumni)</li>
+<li><a href="https://www.facebook.com/groups/pioneeralumnicircle/">https://www.facebook.com/groups/pioneeralumnicircle/</a> (for Pioneer JC alumni)</li></ul></p>
 
 <p>
 The college will be announcing the formation of JPJC Alumni soon, and will provide updates here on the school website.</p>
@@ -25,9 +25,9 @@ The college will be announcing the formation of JPJC Alumni soon, and will prov
 <p>
 We invite you to come to JPJC to contribute to the school experiences of our current students. There are a great variety of ways. For example:</p>
 <ul>
-	<li><strong>Further Education and Career Guidance:</strong> Providing advice regarding university education and career guidance in terms of providing industry insights, work attachment opportunities, learning journeys to corporations for our students.</li>
-	<li><strong>Volunteering Opportunities:</strong> Creating platforms for our students to organise VIA-related programmes so as to play a part to contribute to the community.</li>
-	<li><strong>Speaker’s Series:</strong> Establishing networks, through sharing of life experiences to motivate our students and providing further education and career guidance.</li></ul>
+<li><strong>Further Education and Career Guidance:</strong> Providing advice regarding university education and career guidance in terms of providing industry insights, work attachment opportunities, learning journeys to corporations for our students.</li>
+<li><strong>Volunteering Opportunities:</strong> Creating platforms for our students to organise VIA-related programmes so as to play a part to contribute to the community.</li>
+<li><strong>Speaker’s Series:</strong> Establishing networks, through sharing of life experiences to motivate our students and providing further education and career guidance.</li></ul>
 
 <p>
 Please contact Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a> for more details.</p>
@@ -328,3 +328,5 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 <p>
 <strong>Mr Adamson Alagan</strong> <br>
 Business Development Director of Studio AG</p>
+	
+</div>
