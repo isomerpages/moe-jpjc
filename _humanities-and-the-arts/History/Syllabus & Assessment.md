@@ -23,7 +23,8 @@ In this paper, students will examine the key developments that took place within
 
 <h4>H2 Level History Assessment</h4>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px, height=730px, scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXH32ph_xBRh3B7glqYtfYLkEZUAAda-WqZj14a-_03FfGGFNB3BH3FtryyQAB8aDus0mALiU5J9qj/pub?embedded=true" width=800px, height=730px, scrolling="no"></iframe>	
+	
 
 <h4>H1 Level History Syllabus</h4>
 
