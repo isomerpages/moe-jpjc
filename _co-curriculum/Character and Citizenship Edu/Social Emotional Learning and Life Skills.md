@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 <figure>
-<img src="/images/Civics%20Tutorial%20and%20Assembly.jpg"></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Social%20Emotional%20L%20and%20LS/SEL.jpg"></figure>
 
 <div align=justify>
 <p>
