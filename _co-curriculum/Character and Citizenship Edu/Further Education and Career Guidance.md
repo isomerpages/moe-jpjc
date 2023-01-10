@@ -29,10 +29,40 @@ Acquiring knowledge and skills to make informed&nbsp;decisions regarding&nbsp;hi
 
 
 <p><b>Learning Journey to Institute of Higher Learning and Industries</b></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure><p></p>
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure></p>
+
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJNTU.jpg">Visit to School of Mechanical and Aerospace Engineering (NTU)</figure></p>
+	
+<p><b>Careers and Higher Education Day</b></p>	
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/CHEDay1.jpg">
+Booths by industries and university partners</figure></p>
+
+<p><figure><img src="
+https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/CHEDay2.jpg">
+Students talking to industry partners</figure></p>	
+	
+<p><figure><img src="
+https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/CHEDay3.jpg">
+Panel Q&A with university representatives</figure></p>	
+	
+<p><b>Work Shadowing</b></p>	
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/WS1.jpg">Students learning how to care for animals</figure></p>
+
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/WS2.jpg">Students mentored by lawyers</figure></p>
+
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/WS3.jpg">Work shadowing at company involved in sustainability</figure></p>
 
 	
+<p><b>Talks/Workshops by Institute of Higher Learning and Industries</b></p>	
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Workshop1.jpg">Attending talks by our university partners</figure></p>
+
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Workshop2.jpg">Students after attending healthcare talk by WHC</figure></p>
+	
+<p><b>Parents Evening</b></p>	
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Parent1.jpg">Attending talks by our university partners</figure></p>	
+	
+<p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Parent2.jpg">Parents asking questions at university booths</figure></p>	
 	
 	
-<img src="/images/Higher%20Education%203.jpg">		 
-</ol></div>
+	
+	
