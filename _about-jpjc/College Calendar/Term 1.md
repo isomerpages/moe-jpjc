@@ -4,6 +4,4 @@ permalink: /about/college-calender/term-1/
 description: ""
 third_nav_title: College Calendar
 ---
-<center><center>Work in progress</center>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSr05C3_6VuOOP0oUraAHwTr0i3DJlLSgpEFE_V8rdGNuy6UnkXZJe2AN3SghAjDaphhDFUtcxYMNnY/pub?embedded=true" width=800px height=1100px scrolling="no"></iframe>
-</center>
+<iframe scrolling="no" height="1100px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vS1dKN2tp3wmgdM6I78GTiownxwRFgnzcdLimLlQ_f-FNFuNJpqffdPditRvs6VDA/pub?embedded=true"></iframe>
