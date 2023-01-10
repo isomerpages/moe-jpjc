@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - College Calendar1.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/College's Vision, Mission, Values and Motto.md
