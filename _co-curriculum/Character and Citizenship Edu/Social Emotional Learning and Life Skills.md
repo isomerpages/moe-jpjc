@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 ---
 <figure>
-<img src="/images/Civics%20Tutorial%20and%20Assembly.jpg"></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Social%20Emotional%20L%20and%20LS/SEL.jpg"></figure>
 
 <div align=justify>
 <p>
@@ -21,7 +21,7 @@ The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values
 through the implementation of the 2021 MOE CCE curriculum.</p>
 
 <p>
-CCE curriculum includes Values Education, Sexuality Education (SEd), Cyberwellness, Education and Career Guidance, National Education and Values in Action.</p>
+CCE curriculum includes Values Education, Family Education, Cyberwellness, Financial Literacy, Education and Career Guidance, National Education and Values in Action.</p>
 
 <p>
 JPJC undertakes a thematic approach and the 2 major themes will guide all the assembly and CT lessons across JC1 and JC2.</p>
