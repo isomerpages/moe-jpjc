@@ -1,9 +1,11 @@
 ---
 title: College Calendar
 permalink: /about-jpjc/College-Calendar/
-description: ""
+description: College Calendar
 third_nav_title: College Calendar
 ---
+
+
 
 
 
