@@ -26,5 +26,3 @@ Acquiring knowledge and skills to make informed decisions regarding higher edu
 <img src="/images/Higher%20Education%203.jpg">		 
 </figure>
 
-<p>
-For more information about the college's ECG programme, please visit our <a href="https://jpjcecg.wixsite.com/jpjcecghome">JPJC ECG website</a>.</p>
