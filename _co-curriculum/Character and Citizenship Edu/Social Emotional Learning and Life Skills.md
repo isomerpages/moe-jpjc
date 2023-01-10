@@ -21,7 +21,7 @@ The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values
 through the implementation of the 2021 MOE CCE curriculum.</p>
 
 <p>
-CCE curriculum includes Values Education, Sexuality Education (SEd), Cyberwellness, Education and Career Guidance, National Education and Values in Action.</p>
+CCE curriculum includes Values Education, Family Education, Cyberwellness, Financial Literacy, Education and Career Guidance, National Education and Values in Action.</p>
 
 <p>
 JPJC undertakes a thematic approach and the 2 major themes will guide all the assembly and CT lessons across JC1 and JC2.</p>
