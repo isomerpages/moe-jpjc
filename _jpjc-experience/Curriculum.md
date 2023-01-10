@@ -1,5 +1,6 @@
 ---
 title: Curriculum
-permalink: /jpjc-experience/curriculum/
+permalink: /curriculum/curriculum/
 description: Curriculum
 ---
+
