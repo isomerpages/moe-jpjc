@@ -31,7 +31,7 @@ NS Engagement sessions aim to prepare our students for their National Service. S
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/NS%20engagement.jpg"></figure><p></p>	
 
-<li><b><p>Respond Ready Program</b></li>
+<p><li><b>Respond Ready Program</b></li>
 Annually, our college invites SDCF Officers to conduct Community Emergency Preparedness Programme (CEPP) - Response Ready Programme for JC1 students to equip them with the core life-saving skills like basic first aid, CPR and AED and Fire Fighting skills, and to raise their awareness on the emergency procedures.</p>
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/Respondready.jpg"></figure><p></p>	
