@@ -1,8 +1,9 @@
 ---
 title: Humanities & the Arts
-permalink: /humanities-and-the-arts/overview/
+permalink: /humanities-and-the-arts/
 description: ""
 ---
+
 
 
 
