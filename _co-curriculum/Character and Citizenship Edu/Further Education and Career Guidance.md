@@ -22,7 +22,11 @@ Exploring higher education and career options through experiential learning</p>
 Acquiring knowledge and skills to make informed decisions regarding higher education and career options</p>
 
 <figure>
-<img src="/images/CCE1a.jpg">
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGlessons.jpg">
+
+	
+	
+	
+	
 <img src="/images/Higher%20Education%203.jpg">		 
 </figure>
-
