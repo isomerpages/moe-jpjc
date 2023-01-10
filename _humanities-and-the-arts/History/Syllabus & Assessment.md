@@ -31,8 +31,7 @@ In this paper, students will examine the key developments that took place within
 The H1 History syllabus focuses on the key forces and developments that shaped the second half of the 20th Century, providing students with the necessary historical context to understand key contemporary geopolitical and economic shifts. The syllabus equips students with breadth and depth of knowledge in global, regional and local developments and their interconnections, as well as the agency of diverse historical actors, with the Cold War as the overarching narrative framework.</p>
 
 <h4>H1 Level History Assessment</h4>
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px, height=330px, scrolling="no"></iframe>
+<P><iframe src="https://docs.google.com/document/d/e/2PACX-1vRCsjDCKzQh4bixeo0WqAYMYN3ZK_xh4Pl44ak2KC2bUVxNKPp6VB-i0AfFZLY25n3uQzQrD7sVucby/pub?embedded=true" width=800px, height=330px, scrolling="no"></iframe></P>
 
 <p>
 For further details, please refer to the SEAB Website.</p>
