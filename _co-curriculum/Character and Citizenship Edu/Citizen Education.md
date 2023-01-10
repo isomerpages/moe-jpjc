@@ -22,22 +22,21 @@ Students participating actively in conversations on contemporary issues with the
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/students%20ND.jpg">Students participated in the National Day Observance Ceremony, Class Bonding activities and Mass Sing-Along during the National Day Celebrations.</figure><p></p>	
 	
 <li><b>SG Perspectives dialogue sessions</b></li>
-<a><p>JC1 students attended a dialogue session with an Ambassador from the Ministry of Foreign Affairs to gain a deeper understanding of the issues related to Singapore’s foreign policy. JC2 students attended a dialogue session with an Office Holder to broaden their perspectives on contemporary issues and Singapore policies.</p></a>
+<p>JC1 students attended a dialogue session with an Ambassador from the Ministry of Foreign Affairs to gain a deeper understanding of the issues related to Singapore’s foreign policy. JC2 students attended a dialogue session with an Office Holder to broaden their perspectives on contemporary issues and Singapore policies.</p>
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/SGperspect.jpg"></figure><p></p>	
 	
 <li><b>National Service (NS) Engagement</b></li>
-<a><p>NS Engagement sessions aim to prepare our students for their National Service. Speakers from CMPB and MINDEF were invited to share with our students on the pre-enlistment and vocation selection process. Alumni were invited to share their NS experiences with their juniors. Officers from SAF Volunteer Corps and ARMY Recruitment Centre were also invited to share with our female students on opportunities for them to serve the nation.</p></a>
+<p>NS Engagement sessions aim to prepare our students for their National Service. Speakers from CMPB and MINDEF were invited to share with our students on the pre-enlistment and vocation selection process. Alumni were invited to share their NS experiences with their juniors. Officers from SAF Volunteer Corps and ARMY Recruitment Centre were also invited to share with our female students on opportunities for them to serve the nation.</p>
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/NS%20engagement.jpg"></figure><p></p>	
 
 <li><b>Respond Ready Program</b></li>
-<a><p>Annually, our college invites SDCF Officers to conduct Community Emergency Preparedness Programme (CEPP) - Response Ready Programme for JC1 students to equip them with the core life-saving skills like basic first aid, CPR and AED and Fire Fighting skills, and to raise their awareness on the emergency procedures.</p></a>
+<p>Annually, our college invites SDCF Officers to conduct Community Emergency Preparedness Programme (CEPP) - Response Ready Programme for JC1 students to equip them with the core life-saving skills like basic first aid, CPR and AED and Fire Fighting skills, and to raise their awareness on the emergency procedures.</p>
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/Respondready.jpg"></figure><p></p>	
 	
-<li><b>Festive Celebration</b></li>
-<a><p>Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.</a></ul></p>
+<li><b>Festive Celebration</b></li><p>Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.</ul></p>
 	
 
 <p><li>  Empowering students to take lead and to contribute back to the college and beyond.</li></p>
