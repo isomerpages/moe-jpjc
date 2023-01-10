@@ -37,7 +37,7 @@ Annually, our college invites SDCF Officers to conduct Community Emergency Prepa
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/Respondready.jpg"></figure><p></p>	
 	
 <p><li><b>Festive Celebration</b></li>
-Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.</p>
+Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.</p></ul>
 	
 
-<p><li>  Empowering students to take lead and to contribute back to the college and beyond.</li></p></div>
+<p><li>Empowering students to take lead and to contribute back to the college and beyond.</li></p></div>
