@@ -1,8 +1,10 @@
 ---
 title: Co Curriculum
-permalink: /jpjc-experience/co-curriculum/
+permalink: /co-curriculum/jpjc-experience/co-curriculum/
 description: Co-curriculum
 ---
+
+
 
 
 
