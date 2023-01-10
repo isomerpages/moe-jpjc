@@ -11,7 +11,7 @@ third_nav_title: China Studies in English
 <p>
 The syllabus is focused on studying developments in contemporary China from circa 2000 to the present day through an examination of four Key Issues across the content dimensions of China’s economy, politics, society and international relations. Studying the four Key Issues will equip students with the necessary knowledge and understanding to make sense of contemporary developments in China today.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTDXMKzo8HVFyZM4F-ddfXK98Gnj_C31bmYF2Z01qj4a5LQ4N7p4nVrZ88rihrTRC_-o1bpMQmUGwEd/pub?embedded=true" width=1000px, height=270px, scrolling="no"></iframe>
+<p><iframe src="https://docs.google.com/document/d/e/2PACX-1vTDXMKzo8HVFyZM4F-ddfXK98Gnj_C31bmYF2Z01qj4a5LQ4N7p4nVrZ88rihrTRC_-o1bpMQmUGwEd/pub?embedded=true" width=1000px, height=270px, scrolling="no"></iframe></p>
 
 <h4>Description of Assessment Components</h4>
 
