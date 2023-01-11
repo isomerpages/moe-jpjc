@@ -2,7 +2,6 @@ collections:
   admission-matters:
     output: true
     order:
-      - Joint Admissions Exercise 2023.md
       - JAE Appeals 2022.md
       - Returning Singaporeans (RS) and International Students (IS).md
       - KM Portal Registration & Selection of Subject Combination.md
