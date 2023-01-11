@@ -3,8 +3,7 @@ title: Joint Admissions Exercise 2022
 permalink: /about/admission-matters/joint-admissions-exercise-2022/
 description: ""
 ---
-
-### **Joint Admissions Exercise 2022**
+### **Joint Admissions Exercise 2023**
 #### **Registration**
 The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by:
 
@@ -18,7 +17,6 @@ The following candidates are eligible to participate in the JAE **except** tho
 *   All Singapore Citizens (SC) or Singapore Permanent Residents (SPR) with valid Singapore-Cambridge GCE ‘O’ Level Examination results from any year.
 *   International candidates studying in a Government School, Government-Aided School, or an Independent School in Singapore with valid Singapore-Cambridge GCE ‘O’ Level Examination results.
 
-Applicants may submit their applications through the JAE Internet System (JAE-IS) using their SingPass or alternatively, the JAE PIN. Registration starts from 03:00 PM on Wednesday, 12 January 2022 and ends at 04:00 PM on Monday, 17 January 2022 (tentative).
+Applicants may submit their applications through the JAE Internet System (JAE-IS) using their SingPass or alternatively, the JAE PIN. Registration starts from 03:00 PM on Thursday, 12 January 2023 and ends at 04:00 PM on Tuesday, 17 January 2023.
 
 Please visit [MOE Admissions](https://www.moe.gov.sg/post-secondary/admissions/jae) website for more information.
-
