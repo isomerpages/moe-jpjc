@@ -28,6 +28,7 @@ description: ""
 <iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></figure>
 
 <p style="font-size: 16px"><strong>Note: </strong><br>
+<sup>^</sup> Please note that Tamil Language & Literature will not be offered in 2023.<br>
 <sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
 <sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 <sup>b</sup> Extended, in-depth research (HSSR)<br>
