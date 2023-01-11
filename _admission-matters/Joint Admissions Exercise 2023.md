@@ -1,8 +1,9 @@
 ---
 title: Joint Admissions Exercise 2023
-permalink: /about-jpjc/admission-matters/joint-admissions-exercise-2023/
+permalink: /about-jpjc/admission-matters/jointadmissionsexercise2023/
 description: ""
 ---
+
 
 
 ### **Joint Admissions Exercise 2023**
