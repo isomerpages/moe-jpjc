@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Joint Admissions Exercise 2023.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/College's Vision, Mission, Values and Motto.md
