@@ -6,8 +6,8 @@ third_nav_title: Computing
 ---
 <div align=justify>
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Computing/pic1.jpg">
-<figcaption>Students participated in the NTU SCSE Computing Challenge</figcaption></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Computing/pic2.jpg">
+<figcaption>STEM Day 2022 – Imagine Cup Junior Singapore 2022 Top 10 Team</figcaption></figure>
 
 <h3><strong>Introduction</strong></h3>
 
