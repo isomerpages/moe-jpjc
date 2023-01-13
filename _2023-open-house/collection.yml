@@ -2,6 +2,7 @@ collections:
   2023-open-house:
     output: true
     order:
+      - Frequently Asked Questions (FAQs).md
       - JPJC Open House 2023.md
       - Coming Home to JPJC.md
       - Back to College with my son.md
