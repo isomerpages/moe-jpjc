@@ -3,8 +3,7 @@ title: JAE Appeals 2022
 permalink: /about/admission-matters/jae-appeals-2022/
 description: ""
 ---
-
-### **JAE Appeals 2022**
+### **JAE Appeals 2023**
 
 The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.
 
