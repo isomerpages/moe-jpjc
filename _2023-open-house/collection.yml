@@ -1,5 +1,5 @@
 collections:
-  open-house:
+  2023-open-house:
     output: true
     order:
       - JPJC Open House 2023.md
