@@ -2,6 +2,7 @@ collections:
   to-be-updated-info:
     output: true
     order:
+      - Direct School Admission 2022.md
       - JAE Appeals 2023.md
       - Returning Singaporeans (RS) and International Students (IS).md
       - KM Portal Registration & Selection of Subject Combination.md
