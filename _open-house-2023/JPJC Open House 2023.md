@@ -10,7 +10,7 @@ description: JPJC Open House 2023
 <center>
 <img src="/images/About%20JPJC/Open%20House%202023/CD1.png"></center>
 
-<p>Click <a href="https://moe-singapore.zoom.us/j/83899390063">here</a> to join our webinar!</p>
+<center><p>Click <a href="https://moe-singapore.zoom.us/j/83899390063">here</a> to join our webinar!</p>
 
-<p>Webinar password: <strong>WhyJP</strong></p>
+<p>Webinar password: <strong>WhyJP</strong></p></center>
 </div>
