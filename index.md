@@ -13,7 +13,7 @@ sections:
         title: Announcements
         options:
           - title: JPJC Open House 2023
-            url: /2023-open-house/index/
+            url: /about-jpjc/open-house-2023/index/
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
