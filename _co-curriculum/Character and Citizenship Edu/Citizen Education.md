@@ -31,12 +31,12 @@ NS Engagement sessions aim to prepare our students for their National Service. S
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/NS%20engagement.jpg"></figure><p></p>	
 
-<p><li><b>Respond Ready Program</b></li>
+<p><li><b>Respond Ready Programme</b></li>
 Annually, our college invites SDCF Officers to conduct Community Emergency Preparedness Programme (CEPP) - Response Ready Programme for JC1 students to equip them with the core life-saving skills like basic first aid, CPR and AED and Fire Fighting skills, and to raise their awareness on the emergency procedures.</p>
 	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/Respondready.jpg"></figure><p></p>	
 	
-<p><li><b>Festive Celebration</b></li>
+<p><li><b>Festive Celebrations</b></li>
 Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.</p></ul>
 	
 
