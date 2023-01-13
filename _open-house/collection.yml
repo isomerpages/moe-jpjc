@@ -2,4 +2,5 @@ collections:
   open-house:
     output: true
     order:
+      - Skjafb/.keep
       - JPJC Open House 2023.md
