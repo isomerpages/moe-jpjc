@@ -1,0 +1,8 @@
+collections:
+  open-house-2023:
+    output: true
+    order:
+      - JPJC Open House 2023.md
+      - Coming Home to JPJC.md
+      - Back to College with my son.md
+      - Frequently Asked Questions (FAQs).md
