@@ -2,5 +2,6 @@ collections:
   2023-open-house:
     output: true
     order:
+      - Back to College with my son.md
       - Coming Home to JPJC.md
       - JPJC Open House 2023.md
