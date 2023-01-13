@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Jurong Pioneer Junior College
-description: Brief site description here
+description: Official website of Jurong Pioneer Junior College (Singapore)
 image: /images/jpjc_logo.png
 permalink: /
 notification: ""
@@ -38,3 +38,4 @@ sections:
       button: CLick here
       url: /accomplishments/Students/2022accomplishments/
 ---
+

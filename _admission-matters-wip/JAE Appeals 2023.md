@@ -1,12 +1,14 @@
 ---
-title: JAE Appeals 2022
-permalink: /about/admission-matters/jae-appeals-2022/
+title: JAE Appeals 2023
+permalink: /about/admission-matters/jae-appeals-2023/
 description: ""
 ---
+<div align=justify>
+<h2>JAE Appeals 2023</h2>
+	
 
-### **JAE Appeals 2022**
 
-The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.
+<p>The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.</p>
 
 JAE posting results will be released on Friday, 4 February 2022. Appeals for admission to JPJC will commence on Friday, 4 February 2022 and end on Thursday, 10 February 2022. Students are required to apply **online** via this [portal](http://jae.jpjc.edu.sg/). Please note that we do not accept hard copy application forms.
 

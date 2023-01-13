@@ -1,0 +1,5 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - Skjafb/.keep

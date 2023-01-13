@@ -4,6 +4,10 @@ permalink: /about-jpjc/Admission-Matters/openhouse2023/
 description: JPJC Open House 2023
 third_nav_title: Admission Matters
 ---
+
+
+
+
 <div align=justify>
 <center>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/About%20JPJC/Admission%20Matters/JPJC%20Open%20House%202023/MOTD.jpg"></center>
