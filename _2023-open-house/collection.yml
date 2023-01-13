@@ -2,4 +2,5 @@ collections:
   2023-open-house:
     output: true
     order:
+      - Coming Home to JPJC.md
       - JPJC Open House 2023.md
