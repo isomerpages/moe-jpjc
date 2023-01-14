@@ -1,5 +1,4 @@
 collections:
   open-house-2023:
     output: true
-    order:
-      - Frequently Asked Questions (FAQs).md
+    order: []
