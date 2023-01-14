@@ -1,8 +1,9 @@
 ---
 title: Frequently Asked Questions (FAQs)
-permalink: /about-jpjc/open-house-2023/faqs/
+permalink: /about/open-house-2023/faqs/
 description: ""
 ---
+
 
 <div align=justify>
 

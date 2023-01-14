@@ -1,8 +1,9 @@
 ---
 title: Coming Home to JPJC
-permalink: /about-jpjc/open-house-2023/cominghome/
+permalink: /about/open-house-2023/cominghome/
 description: ""
 ---
+
 
 <div align=justify>
 

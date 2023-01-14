@@ -1,8 +1,9 @@
 ---
 title: Back to College with my son
-permalink: /about-jpjc/open-house-2023/backtocollege/
+permalink: /about/open-house-2023/backtocollege/
 description: ""
 ---
+
 
 <div align=justify>
 
