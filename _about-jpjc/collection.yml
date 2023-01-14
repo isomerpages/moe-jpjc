@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Open House 2023/.keep
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/College's Vision, Mission, Values and Motto.md
@@ -19,6 +18,7 @@ collections:
       - Admission Matters/.keep
       - Admission Matters/Joint Admissions Exercise 2023.md
       - Admission Matters/JAE Appeals 2023.md
+      - Open House 2023/.keep
       - Financial Assistance Scheme.md
       - History/.keep
       - History/Jurong Junior College.md
