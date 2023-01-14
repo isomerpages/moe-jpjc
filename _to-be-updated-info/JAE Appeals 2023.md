@@ -16,10 +16,21 @@ description: ""
 
 <p>The following table shows the 2022 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</P>
 
-| Year | Arts | Science |
-|:---:|:---:|:---:|
-| 2022 | 16 | 14 |
-|
+         
+<table style=”width:100%”>  
+<tr>  
+<th>Year</th>  
+<th>Arts</th>  
+<th>Science</th>  
+</tr>  
+  
+
+<tr>  
+<td>2023</td>  
+<td>16</td>  
+<td>14</td>  
+</tr>
+</table>
 
 https://jae.jpjc.edu.sg/
 <h5>Please click  for online appeals</h5>
