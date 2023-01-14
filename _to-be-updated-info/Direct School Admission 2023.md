@@ -35,6 +35,11 @@ description: ""
 <p>Ms Leo Ying Ching, Head of Department (Physical Education & Co-Curricular Activities)  at tel no. 65646878  or email [leo\_ying\_ching@moe.edu.sg](mailto:leo_ying_ching@moe.edu.sg) or [leo\_ying\_ching@schools.gov.sg](mailto:leo_ying_ching@schools.gov.sg)
 * Mr Yeo Cheng Feng, Acting Subject Head (Physical Education) at tel no. 6564 6878 or email [ong\_sin\_teck@schools.gov.sg](mailto:ong_sin_teck@schools.gov.sg)<p>
 
+	
+	
+
+	
+
 ### **DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2022**
 JPJC will consider direct admission for the following programmes and CCAs:
 
