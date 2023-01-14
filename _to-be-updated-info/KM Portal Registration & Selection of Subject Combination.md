@@ -15,5 +15,4 @@ We will need you to update your particulars via our college’s Knowledge Manage
 <a href="https://portal.jpjc.edu.sg">https://portal.jpjc.edu.sg</a>
 Please refer to the following documents for the slides used for the KM Portal and Subject Combination briefing.</P>
 
-<a href="/files/2022%20KM%20Portal%20and%20Registration%20Briefing.pdf"> KM Portal and Registration Briefing.pdf</a>
-	
+<a href="/files/2022%20KM%20Portal%20and%20Registration%20Briefing.pdf"> KM Portal and Registration Briefing.pdf</a></div>
