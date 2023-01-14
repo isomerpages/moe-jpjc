@@ -2,6 +2,5 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Coming Home to JPJC.md
       - Back to College with my son.md
       - Frequently Asked Questions (FAQs).md
