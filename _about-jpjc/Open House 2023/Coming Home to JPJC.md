@@ -2,7 +2,9 @@
 title: Coming Home to JPJC
 permalink: /about/open-house-2023/cominghome/
 description: ""
+third_nav_title: Open House 2023
 ---
+
 
 
 <div align=justify>

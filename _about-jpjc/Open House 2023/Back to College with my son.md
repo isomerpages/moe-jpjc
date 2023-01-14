@@ -2,7 +2,9 @@
 title: Back to College with my son
 permalink: /about/open-house-2023/backtocollege/
 description: ""
+third_nav_title: Open House 2023
 ---
+
 
 
 <div align=justify>

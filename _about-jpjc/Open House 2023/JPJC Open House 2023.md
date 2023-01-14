@@ -2,7 +2,9 @@
 title: JPJC Open House 2023
 permalink: /about/open-house-2023/
 description: JPJC Open House 2023
+third_nav_title: Open House 2023
 ---
+
 
 
 <div align=justify>
