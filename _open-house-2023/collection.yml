@@ -2,5 +2,4 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Back to College with my son.md
       - Frequently Asked Questions (FAQs).md
