@@ -24,17 +24,17 @@ description: ""
 https://jae.jpjc.edu.sg/
 <h5>Please click  for online appeals</h5>
 
-Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. We will not be conducting any in-person interviews in light of COVID-19 situation.
+<p>Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. We will not be conducting any in-person interviews in light of COVID-19 situation.</p>
 
-In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to [jpjc@moe.edu.sg](mailto:jpjc@moe.edu.sg). For information about subject combinations and pre-requisites, you may refer to this [webpage](https://staging.d1kt1aspitrtfv.amplifyapp.com/about/subject-combination/).
+<p>In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to [jpjc@moe.edu.sg](mailto:jpjc@moe.edu.sg). For information about subject combinations and pre-requisites, you may refer to this [webpage](https://staging.d1kt1aspitrtfv.amplifyapp.com/about/subject-combination/).</p>
 
-Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:
+<p>Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:</p>
 *   latest ‘O’ Level result slips,
 *   secondary school testimonials,
 *   secondary school CCA records, and
 *   other supporting documents.
 
-#### **Important Note**
-All applicants are still required to report to the college that they are posted to on Monday, 7 February 2022 at 07:30 AM, pending the outcome of their application to Jurong Pioneer Junior College.
+<h3>Important Note</h3>
+<p>All applicants are still required to report to the college that they are posted to on Monday, 7 February 2022 at 07:30 AM, pending the outcome of their application to Jurong Pioneer Junior College.</p>
 
-Please contact 6564 6878 if you have further enquiry regarding JAE.
+<p>Please contact 6564 6878 if you have further enquiry regarding JAE.</p></div>
