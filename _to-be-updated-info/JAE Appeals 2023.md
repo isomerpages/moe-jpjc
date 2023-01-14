@@ -8,20 +8,21 @@ description: ""
 	
 
 
-<p>The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.</p>
+<p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.</p>
 
-JAE posting results will be released on Friday, 4 February 2022. Appeals for admission to JPJC will commence on Friday, 4 February 2022 and end on Thursday, 10 February 2022. Students are required to apply **online** via this [portal](http://jae.jpjc.edu.sg/). Please note that we do not accept hard copy application forms.
+<p>JAE posting results will be released on Friday, 4 February 2022. Appeals for admission to JPJC will commence on Friday, 4 February 2022 and end on Thursday, 10 February 2022. Students are required to apply **online** via this [portal](http://jae.jpjc.edu.sg/). Please note that we do not accept hard copy application forms.</P>
 
-Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2022, subject to the availability of vacancies and fulfilment of the college’s admission requirements.
+<p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2022, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</P>
 
-The following table shows the 2022 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.
+<p>The following table shows the 2022 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</P>
 
 | Year | Arts | Science |
 |:---:|:---:|:---:|
 | 2022 | 16 | 14 |
 |
 
-#### **Please click [here](https://jae.jpjc.edu.sg/) for online appeals**
+https://jae.jpjc.edu.sg/
+<h5>Please click  for online appeals</h5>
 
 Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. We will not be conducting any in-person interviews in light of COVID-19 situation.
 
