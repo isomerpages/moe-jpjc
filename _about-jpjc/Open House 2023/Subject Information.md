@@ -9,7 +9,7 @@ third_nav_title: Open House 2023
 <h3>Subject Information</h3>
 <h4><strong>Sharing on subjects offered at JPJC</strong></h4>
 
-<p><strong>General Paper and English Literature</strong></P>
+<p><strong>General Paper</strong></P>
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/-zKQ1m1-kyc" title="#WhyJP Open House 2023 - General Paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
 <p><strong>Mother Tongue Languages</strong></P>
