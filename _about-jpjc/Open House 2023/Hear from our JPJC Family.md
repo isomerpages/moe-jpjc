@@ -26,3 +26,9 @@ Check out this video featuring a candid sharing by Jurong JC Alumnus Mr Loo Chen
 	
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x73CzcX8wro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+
+<h5>Hear more from our JPJC PSG Chairperson</h5>
+
+<p>Dear parents, what can you do to guide and support your child in his or her junior college journey? Hear first hand experiences of Mr Jasper Liow, JPJC PSG Chairperson whose daughter has recently graduated from JPJC. If you would like to find out more about the roles of PSG@JPJC or join as a member, please see <a href="https://jpjc.moe.edu.sg/partnerships/parent-support-group">https://jpjc.moe.edu.sg/partnerships/parent-support-group</a></P>
+<br>
+<figure><iframe width="600" height="265" src="https://www.youtube.com/embed/k0FqDzVkON8" title="#WhyJP Open House 2023 - Parent Support Group Sharing by Jasper Liow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></div>
