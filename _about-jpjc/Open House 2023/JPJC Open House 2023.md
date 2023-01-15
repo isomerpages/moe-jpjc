@@ -6,6 +6,7 @@ third_nav_title: Open House 2023
 ---
 <div align=justify>
 
+<h3>JPJC Open House 2023</h3>	
 <p>Missed our #WhyJP Open House? Join our webinar on Monday, 16 January 2023, from 10:00 AM to 11:00 AM! No registration is needed. Join the webinar using this link and password.
 
 <center><p>Click <a href="https://moe-singapore.zoom.us/j/83899390063">here</a> to join our webinar!
