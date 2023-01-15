@@ -20,7 +20,4 @@ third_nav_title: Open House 2023
 <img src="/images/About%20JPJC/Open%20House%202023/TD1.png"></center>
 	
 <center>
-<img src="/images/About%20JPJC/Open%20House%202023/CD1.png"></center>
-
-
-</div>
+<img src="/images/About%20JPJC/Open%20House%202023/CD1.png"></center></div>
