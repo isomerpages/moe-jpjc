@@ -21,9 +21,9 @@ CCA is an integral part of every student’s experience in the college. CCAs pro
 <p>
 All students are expected to play an active role in their CCAs for their development can be reflected in the School Graduation Certificate (SGC).</p>
 
-<h3><strong>CCAs Offered in 2022</strong></h3>
+<h3><strong>CCAs Offered in 2023</strong></h3>
 
 <figure>
 <img src="/images/CCA%20(1).jpg"></figure>
 		
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSQ6e0ZVmplAFFdbM7N3DG5dP5PCAgh7K2lK8iWIdm_iy-c1ET2v-63dFRaebFCPvQlFnbCe2Ou91Fu/pub?embedded=true" width=900px height=1000px scrolling="no"></iframe>
+<center><iframe src="https://docs.google.com/document/d/e/2PACX-1vSQ6e0ZVmplAFFdbM7N3DG5dP5PCAgh7K2lK8iWIdm_iy-c1ET2v-63dFRaebFCPvQlFnbCe2Ou91Fu/pub?embedded=true" width=900px height=1000px scrolling="no"></iframe></center>
