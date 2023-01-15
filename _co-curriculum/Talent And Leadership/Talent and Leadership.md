@@ -4,7 +4,6 @@ permalink: /jpjc-experience/co-curriculum/talent-and-leadership/
 description: ""
 third_nav_title: Talent And Leadership
 ---
-
 <div align=justify>
 <p>
 The Talent and Leadership Development (TLD) Programme stems from the core belief that every student has talents, interest areas and leadership potential that can be nurtured. This programme provides a wide range of opportunities to encourage the pursuit of interests and development of leadership capabilities. The TLD framework follows Dr. Treffinger’s Levels of Services Approach, and guides students in setting goals, monitoring and evaluating their own progress through the activities made available to them.</p>
@@ -22,13 +21,13 @@ As students embark on this journey of discovery, they can develop and excel in t
 The wide variety of activities are organised by different committees under the Talent and Leadership Development Council. These committees are:</p>
 
 <figure>
-<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/cca/">Co-Curricular Activities (CCA)</a>
+<a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">Co-Curricular Activities (CCA)</a>
 <img src="/images/cca.jpg" style="width:40%">
 <figcaption>Discover, Develop, Excel</figcaption>
 </figure>
 
 <figure>
-<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/house-system/">House System</a>
+<a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/house-system/">House System</a>
 <img src="/images/house%20system.jpg" style="width:50%">		 
 <figcaption>House spirit flying high</figcaption></figure>
 
