@@ -7,7 +7,7 @@ third_nav_title: Open House 2023
 <div align=justify>
 
 <h3>Subject Information</h3>
-<h5>Sharing on subjects offered at JPJC</h5>
+<h4><strong>Sharing on subjects offered at JPJC</strong></h4>
 
 <p><strong>General Paper and English Literature</strong></P>
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/-zKQ1m1-kyc" title="#WhyJP Open House 2023 - General Paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
