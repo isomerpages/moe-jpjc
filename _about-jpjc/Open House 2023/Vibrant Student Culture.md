@@ -13,7 +13,7 @@ third_nav_title: Open House 2023
 <h5>Sports and Games</h5>
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/Uwe3ukSfGDM" title="#WhyJP Open House 2023 - Sports CCAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
-<h5>Performing Arts,Clubs & Societies</h5>
+<h5>Performing Arts, Clubs & Societies</h5>
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/OAzXrFVRzv0" title="#WhyJP Open House 2023 - Performing Arts, Clubs and Societies CCAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 
