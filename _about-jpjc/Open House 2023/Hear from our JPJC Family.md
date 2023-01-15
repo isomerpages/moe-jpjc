@@ -12,3 +12,4 @@ third_nav_title: Open House 2023
 
 
 <figure><iframe width="600" height="265" src="https://www.youtube.com/embed/EGHvZ0HTAxk" title="#WhyJP Open House 2023 - 5 Reasons #WhyJP is the college for you" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></div>
+
