@@ -7,7 +7,21 @@ third_nav_title: Open House 2023
 <div align=justify>
 
 <h3>Niche Programmes</h3>
-<h5>Sharing on Niche Programmes offered at JPJC</h5>
+<h4>Sharing on Niche Programmes offered at JPJC</h4>
 
-<p><strong>Talent and Leadership Development (TLD)</strong></P>
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/X4Vv-uUVfiw" title="#WhyJP Open House 2023 - Talent and Leadership Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></div>
+<h5>Talent and Leadership Development (TLD)</h5>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/X4Vv-uUVfiw" title="#WhyJP Open House 2023 - Talent and Leadership Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+	
+<h5>Education and Career Guidance (ECG)</h5>  
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X20hydiVzHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+
+<h5>Chinese Language Elective Programme (CLEP)</h5>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/raiaiSVxl_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Part 1</figcaption>
+</figure>
+	
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfkWoYOjWaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Part 2</figcaption></figure>
