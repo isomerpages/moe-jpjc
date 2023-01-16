@@ -13,7 +13,7 @@ description: ""
 
 <p>Returning Singaporean applicants must provide their personal particulars, contact details, academic results, co-curricular achievements and other relevant supporting documents in their application.<br>
 	
-<p>Please click <a href="/files/JPJC_Admission%20Application%20Form.pdf">here</a> to download the admission application form. For applicants who have sat for the SPERS-JC/MI, they must include their list of eligible JCs and/or test results. All documents should be submitted through postage mail or in person to JPJC by <strong>31 December</strong> to be considered for admission in the next academic year.</p>
+<p>Please click <a href="https://www.jpjc.moe.edu.sg/files/JPJC_Admission%20Application%20Form.pdf">here</a> to download the admission application form. For applicants who have sat for the SPERS-JC/MI, they must include their list of eligible JCs and/or test results. All documents should be submitted through postage mail or in person to JPJC by <strong>31 December</strong> to be considered for admission in the next academic year.</p>
 
 <p>Shortlisted applicants will called up for interview and further placement tests may be required to ascertain desired subject combination. Any decision taken by the college is final.</p>
 
