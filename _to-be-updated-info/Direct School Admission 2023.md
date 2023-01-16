@@ -32,8 +32,8 @@ description: ""
 <h5>Enquiries</h5>
 
 <p>If you have any enquiries, please contact the following teachers:</p>
-<p>Ms Leo Ying Ching, Head of Department (Physical Education & Co-Curricular Activities)  at tel no. 65646878  or email [leo\_ying\_ching@moe.edu.sg](mailto:leo_ying_ching@moe.edu.sg) or [leo\_ying\_ching@schools.gov.sg](mailto:leo_ying_ching@schools.gov.sg)
-* Mr Yeo Cheng Feng, Acting Subject Head (Physical Education) at tel no. 6564 6878 or email [ong\_sin\_teck@schools.gov.sg](mailto:ong_sin_teck@schools.gov.sg)<p>
+<p>Ms Leo Ying Ching, Head of Department (Physical Education & Co-Curricular Activities)  at tel no. 65646878  or email <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></P>
+<p>Mr Yeo Cheng Feng, Acting Subject Head (Physical Education) at tel no. 6564 6878 or email [ong\_sin\_teck@schools.gov.sg](mailto:ong_sin_teck@schools.gov.sg)<p>
 
 	
 	
