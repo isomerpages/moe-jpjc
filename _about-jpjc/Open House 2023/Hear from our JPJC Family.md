@@ -59,5 +59,4 @@ STEM- this has become an increasingly familiar term. At JPJC, we pride ourselves
 Dear parents, what can you do to guide and support your child in his or her junior college journey? Hear first hand experiences of Mr Jasper Liow, JPJC PSG Chairperson whose daughter has recently graduated from JPJC. If you would like to find out more about the roles of PSG@JPJC or join as a member, click <a href="/partnerships/psg/">here</a>.
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smwqTG9YA_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smwqTG9YA_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></div>
