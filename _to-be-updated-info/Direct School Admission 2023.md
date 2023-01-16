@@ -3,7 +3,6 @@ title: Direct School Admission 2023
 permalink: /about/dsa-2023/
 description: ""
 ---
-
 <div align=justify>
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2022. Successful DSA-JC candidates will gain admission to JPJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</P>
 
@@ -11,7 +10,7 @@ description: ""
 
 <h5>Application Procedures</h5>
 
-<p>1.  All applicants are to submit their application form through the website using the link: [https://dsa.jpjc.edu.sg](https://dsa.jpjc.edu.sg/) from 5 May 2022, Wednesday, onward.  All applications must be submitted by:</p>
+<p>1.  All applicants are to submit their application form through the website using the <a href="https://dsa.jpjc.edu.sg"> link</a> from 5 May 2022, Wednesday, onward.  All applications must be submitted by:</p>
 
 <ul><li> 8 Jul 2022, Friday, 2359hrs for Phase 1 Application</li>
 	<li>17 Aug 2022, Wednesday, 2359hrs for Phase 2 Application</li></ul>
@@ -55,35 +54,38 @@ description: ""
 Malay Language Elective Programme (MLEP)</td> 
 
 <td>Applicants must:  
-<ul>- Fulfil MOE’s age criteria (as of 1 Jan 2023)</ul>  
-<ul>- For SC and SPR: 16 to 20 years old </ul>  
-<ul>- For International Students: 16 to 18 years old</ul>   
+<ul>- Fulfil MOE’s age criteria (as of 1 Jan 2023)  
+<br>- For SC and SPR: 16 to 20 years old 
+<br>- For International Students: 16 to 18 years old</ul>  
 <strong>AND</strong>  
 <ul>- Be sitting for the GCE ‘O’ Level Examinations in 2022, or already hold GCE ‘O’ Level qualifications that qualify for admission to a Junior College.</ul>  
   
-**AND**  
-\- Submit a portfolio with evidence of strength in the respective languages, including:  
+<strong>AND</strong><ul>- Submit a portfolio with evidence of strength in the respective languages, including:</ul>  
+<ul>- Candidates should possess a good command of the Chinese/Malay language. They must also attain:  </ul>
+<ul>- A minimum of A2 in Chinese/Malay</ul>  
   
-\- Candidates should possess a good command of the Chinese/Malay language. They must also attain:  
+<strong>OR</strong>
+<ul>- A minimum of B3 in Higher Chinese/Higher Malay in the Secondary 3 End of Year Examinations.</ul>  
+<ul>- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions  </ul>
+<ul>- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:  </ul>
   
-\- A minimum of A2 in Chinese/Malay  
+<p>1. Their reasons for applying to the programme;  <br>
+	2. Their experiences in the learning of Chinese/Malay language and their aspirations.  </P>
   
-**OR**  
+<p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p>  
   
-\- A minimum of B3 in Higher Chinese/Higher Malay in the Secondary 3 End of Year Examinations.  
-  
-\- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions  
-  
-\- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:  
-  
-1\. Their reasons for applying to the programme;  
-2\. Their experiences in the learning of Chinese/Malay language and their aspirations.  
-  
-\* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC  
-  
-\* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature. </td> 
-
+<p>* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature.</p> </td> 
 </tr>
+
+
+
+
+
+
+<table style=”width:100%”> 
+<tr> 
+<th style="width:30%">Language and Humanities</th> 
+<th>Eligibility Criteria</th>  
 
 | Language and Humanities | Eligibility Criteria |
 |:---:|---|
