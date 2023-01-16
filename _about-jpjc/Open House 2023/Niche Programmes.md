@@ -25,3 +25,8 @@ third_nav_title: Open House 2023
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XfkWoYOjWaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption>Part 2</figcaption></figure>
+	
+<h5>Malay Language Elective Programme (MLEP)</h5>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJDcWuYXppk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+</div>
