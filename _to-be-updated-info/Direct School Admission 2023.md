@@ -3,6 +3,7 @@ title: Direct School Admission 2023
 permalink: /about/dsa-2023/
 description: ""
 ---
+
 <div align=justify>
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2022. Successful DSA-JC candidates will gain admission to JPJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</P>
 
@@ -32,16 +33,57 @@ description: ""
 <h5>Enquiries</h5>
 
 <p>If you have any enquiries, please contact the following teachers:</p>
-<p>Ms Leo Ying Ching, Head of Department (Physical Education & Co-Curricular Activities)  at tel no. 65646878  or email [leo\_ying\_ching@moe.edu.sg](mailto:leo_ying_ching@moe.edu.sg) or [leo\_ying\_ching@schools.gov.sg](mailto:leo_ying_ching@schools.gov.sg)
-* Mr Yeo Cheng Feng, Acting Subject Head (Physical Education) at tel no. 6564 6878 or email [ong\_sin\_teck@schools.gov.sg](mailto:ong_sin_teck@schools.gov.sg)<p>
+<p>Ms Leo Ying Ching, Head of Department (Physical Education & Co-Curricular Activities)  at tel no. 65646878  or email <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></P>
+<p>Mr Yeo Cheng Feng, Acting Subject Head (Physical Education) at tel no. 6564 6878 or email <a href="mailto:yeo_cheng_feng@schools.gov.sg">yeo_cheng_feng@moe.edu.sg</a> or <a href="mailto:yeo_cheng_feng@schools.gov.sg">yeo_cheng_feng@schools.gov.sg</a></P>
 
 	
 	
 
 	
+<h5>DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2022</h5>
+<p>JPJC will consider direct admission for the following programmes and CCAs:</P></div>
 
-### **DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2022**
-JPJC will consider direct admission for the following programmes and CCAs:
+
+<table style=”width:100%”> 
+<tr> 
+<th style="width:30%">Language and Humanities</th> 
+<th>Eligibility Criteria</th> 
+</tr>
+<tr> 
+
+<td>Chinese Language Elective Programme (CLEP)  
+Malay Language Elective Programme (MLEP)</td> 
+
+<td>Applicants must:  
+<ul>- Fulfil MOE’s age criteria (as of 1 Jan 2023)</ul>  
+<ul>- For SC and SPR: 16 to 20 years old </ul>  
+<ul>- For International Students: 16 to 18 years old</ul>   
+<strong>AND</strong>  
+<ul>- Be sitting for the GCE ‘O’ Level Examinations in 2022, or already hold GCE ‘O’ Level qualifications that qualify for admission to a Junior College.</ul>  
+  
+**AND**  
+\- Submit a portfolio with evidence of strength in the respective languages, including:  
+  
+\- Candidates should possess a good command of the Chinese/Malay language. They must also attain:  
+  
+\- A minimum of A2 in Chinese/Malay  
+  
+**OR**  
+  
+\- A minimum of B3 in Higher Chinese/Higher Malay in the Secondary 3 End of Year Examinations.  
+  
+\- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions  
+  
+\- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:  
+  
+1\. Their reasons for applying to the programme;  
+2\. Their experiences in the learning of Chinese/Malay language and their aspirations.  
+  
+\* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC  
+  
+\* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature. </td> 
+
+</tr>
 
 | Language and Humanities | Eligibility Criteria |
 |:---:|---|

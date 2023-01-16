@@ -1,8 +1,9 @@
 ---
 title: JAE Appeals 2023
-permalink: /about/admission-matters/jae-appeals-2023/
+permalink: /about-jpjc/admission-matters/jae-appeals-2023/
 description: ""
 ---
+
 <div align=justify>
 <h2>JAE Appeals 2023</h2>
 	
@@ -34,7 +35,9 @@ description: ""
 
 <h5>Please click  for online appeals</h5>
 
-<p>Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. ****Cancel***We will not be conducting any in-person interviews in light of COVID-19 situation.******</p>
+<p>Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. </P>
+	
+<P>	****Cancel***We will not be conducting any in-person interviews in light of COVID-19 situation.******</p>
 
 <p>In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href="jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to <a href="https://www.jpjc.moe.edu.sg/about/subject-combination">this.</a></p>
 
