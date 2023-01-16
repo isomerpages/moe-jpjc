@@ -6,18 +6,15 @@ third_nav_title: Open House 2023
 ---
 <div align=justify>
 
-<h3>JPJC Open House 2023</h3>	
-<p>Missed our #WhyJP Open House? Join our webinar on Monday, 16 January 2023, from 10:00 AM to 11:00 AM! No registration is needed. Join the webinar using this link and password.
+<p>
+Wondering which junior college is suitable for you? Hear more from our Principal, Mr Kevin Ang, as he shares about his beliefs and 5 reasons why JP is the college for you.</p>
 
-<center><p>Click <a href="https://moe-singapore.zoom.us/j/83899390063">here</a> to join our webinar!
-<br>Webinar password: <strong>WhyJP</strong></p></center>
-
-<p>Besides hearing from our Principal, Mr Kevin Ang, you can learn more about subject combinations available at our college, as well as participate in a live Q&A segment!</p>
-
-<p>See you there!</P>
-<center>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpim8ynAoQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
 	
-<img src="/images/About%20JPJC/Open%20House%202023/TD1.png"></center>
-	
-<center>
-<img src="/images/About%20JPJC/Open%20House%202023/CD1.png"></center>
+<p>
+JPJC provides a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. Hear more from Ms Eileen Toh (HOD/Chemistry) as she shares about the JC Curriculum and Subject Combination.</p>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJFCavtjPQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+</div>
