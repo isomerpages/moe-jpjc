@@ -1,8 +1,9 @@
 ---
 title: JAE Appeals 2023
-permalink: /about-jpjc/admission-matters/jae-appeals-2023/
+permalink: /abc/
 description: ""
 ---
+
 
 <div align=justify>
 <h2>JAE Appeals 2023</h2>

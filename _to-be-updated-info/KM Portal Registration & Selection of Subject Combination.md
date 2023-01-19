@@ -1,8 +1,9 @@
 ---
 title: KM Portal Registration & Selection of Subject Combination
-permalink: /about-jpjc/admission-matters/km-portal-registration-and-selection-of-subject-combination/
+permalink: /abc/
 description: ""
 ---
+
 
 <div align=justify>
 <h3>KM Portal Registration & Selection of Subject Combination</h5>

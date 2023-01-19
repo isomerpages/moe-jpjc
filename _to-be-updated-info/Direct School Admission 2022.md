@@ -1,8 +1,10 @@
 ---
-title: Direct School Admission 2023
-permalink: /about/dsa-2023/
+title: Direct School Admission 2022
+permalink: /abc/
 description: ""
 ---
+
+
 <div align=justify>
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2022. Successful DSA-JC candidates will gain admission to JPJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</P>
 

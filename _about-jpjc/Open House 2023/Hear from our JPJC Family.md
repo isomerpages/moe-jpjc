@@ -8,7 +8,7 @@ third_nav_title: Open House 2023
 <h3>Hear from our JPJC Family</h3>
 <h4>5 Reasons why JPJC</h4>
 
-<p>Hear ye! Hear ye! Check out this video featuring our JPJC student leaders sharing with you <strong>#WhyJP</strong> is the college for you. Here are 5 reasons to choose JPJC. Find out what makes JPJC a place with vibrant student culture and how our JPJC family is like.</P>
+<p>Hear ye! Hear ye! Check out this video featuring our JPJC student leaders sharing with you <strong>#WhyJP</strong> is the college for you. Here are 5 reasons to choose JPJC. Find out what makes JPJC a place with vibrant student culture and how our JPJC family is like.</p>
 
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/EGHvZ0HTAxk" title="#WhyJP Open House 2023 - 5 Reasons #WhyJP is the college for you" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
@@ -59,4 +59,4 @@ STEM- this has become an increasingly familiar term. At JPJC, we pride ourselves
 Dear parents, what can you do to guide and support your child in his or her junior college journey? Hear first hand experiences of Mr Jasper Liow, JPJC PSG Chairperson whose daughter has recently graduated from JPJC. If you would like to find out more about the roles of PSG@JPJC or join as a member, click <a href="/partnerships/psg/">here</a>.
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smwqTG9YA_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smwqTG9YA_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></div>
