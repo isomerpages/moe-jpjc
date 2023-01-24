@@ -50,3 +50,12 @@ third_nav_title: Character and Citizenship Edu
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2023:</b></h6>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
+
+<h4>Information for Parents</h4>
+
+<ol start="8">
+	<li>Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
+	<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can also downloadable <a href="/files/Co%20Curriculum/Character%20and%20Citizenship%20Educ/SED/2023%20SEd%20Lessons%20Parents%20Opt-out%20Form%20(1).pdf">here</a>. The completed form is to be submitted by 10 February 2023 (JC2) and 28 July 2023 (JC1).</li>
+	<li>Parents who wish to opt their children out of the <b><i>eTeens programme</i></b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Co%20Curriculum/Character%20and%20Citizenship%20Educ/SED/2023%20eTeens%20Parents%20Opt-out%20Form.pdf">here</a>. The completed form is to be submitted by 28 July 2023.</li>
+	<li>Parents can contact the school at 6564 6878 or e-mail us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
+</div>
