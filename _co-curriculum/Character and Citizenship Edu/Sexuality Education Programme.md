@@ -6,7 +6,7 @@ third_nav_title: Character and Citizenship Edu
 ---
 <div align=justify>
 
-<h2>MOE Sexuality Education in Schools</h2>
+<h3>MOE Sexuality Education in Schools</h3>
 
 <ol>
 	<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
@@ -26,3 +26,13 @@ third_nav_title: Character and Citizenship Edu
 </ol>
 	
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.</p>
+	
+<h3>Overview of Jurong Pioneer Junior College’s Sexuality Education Programme for 2023</h3>
+
+<ol start="4">
+	<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li></ol>
+
+<h3>Sexuality Education</h3>
+
+<ol start="5">
+	<li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
