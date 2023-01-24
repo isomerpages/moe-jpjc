@@ -53,7 +53,7 @@ description: ""
 <td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><strong>Chinese Language Elective Programme (CLEP)  
 Malay Language Elective Programme (MLEP)</strong></td> 
 
-<td>Applicants must:  
+<td align=justify>Applicants must:  
 <ul>- Fulfil MOE’s age criteria (as of 1 Jan 2023)  
 <br>- For SC and SPR: 16 to 20 years old 
 <br>- For International Students: 16 to 18 years old</ul>  
@@ -69,26 +69,36 @@ Malay Language Elective Programme (MLEP)</strong></td> 
 <ul>- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions  </ul>
 <ul>- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:  </ul>
   
-<p>1. Their reasons for applying to the programme;  <br>
-	2. Their experiences in the learning of Chinese/Malay language and their aspirations.  </P>
-  
-<p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p>  
+<p>1. Their reasons for applying to the programme; <br> 
+	2. Their experiences in the learning of Chinese/Malay language and their aspirations.  <br>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p>  
   
 <p>* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature.</p> </td> 
 </tr>
 
 
-<td><br><br><br><br><br><br><strong>Humanities Programme</strong> </td> 
+<td><br><br><br><br><br><br><strong>Humanities <br>Programme</strong> </td> 
 
-<td>Applicants must: 
-<ul>- Applicants should demonstrate a strong interest and ability in the study of the humanities. They should possess good knowledge of one or more of the following: geographical, historical issues and global affairs. 
-They should also demonstrate skills related to the Humanities discipline, such as critical and analytical thinking as well as thinking from multiple perspectives.<ul>
-	
-\- Attain a minimum of B4 in English Language
-	
-	
-<br>\* Candidates should possess a good command of the English language. They must also:
-<br>- For International Students: 16 to 18 years old</ul>  </td>
+<td align=justify>Applicants must:
+<p>- Applicants should demonstrate a strong interest and ability in the study of the humanities. They should possess good knowledge of one or more of the following: geographical, historical issues and global affairs. 
+They should also demonstrate skills related to the Humanities discipline, such as critical and analytical thinking as well as thinking from multiple perspectives.</P>
+<p>* Candidates should possess a good command of the English language. They must also:<br>- Attain a minimum of B4 in English Language</p>
+<strong>OR</strong>
+
+<p>- A Humanities subject (SS/Geography, SS/History, SS/English Literature, Pure Geography or Pure History) for the Secondary 3 End of Year Examinations or Sec 4 Mid-year Examinations  
+* Submit a one-page write-up on:</p>
+
+  
+<p>- The student’s personal experience in learning of the Humanities and future aspirations; and why the study of Humanities is important to an individual.</p>  
+  
+<p>* Candidates may submit a portfolio. The portfolio can include:  </p>
+  
+<p>- Awards/Certificates from any involvement in external or school-related Humanities events and competitions (Model United Nations, ASEAN quizzes, NUS Geography Challenge etc.)  </p>
+  
+<p>* Shortlisted candidates will attend the following in one sitting:  <br>- Face-to-face Interview <br>- Written Test:  </p>
+<p>Answer an essay question (out of a choice of 4 questions), which will test the student’s knowledge about Geography/History/Politics/China Studies in English. The essay should not exceed 600 words, and should be written in under an hour.</p>  
+  
+<p>Successful candidates <strong>have to</strong> choose the <strong>Arts Stream</strong> and offer a subject combination with <strong>AT LEAST</strong> one of the following subjects: H2 Geography, H2 History or H2 China Studies in English.
+<br>- For International Students: 16 to 18 years old</p>  </td>
 
 
 
