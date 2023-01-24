@@ -76,7 +76,7 @@ Malay Language Elective Programme (MLEP)</strong></td> 
 </tr>
 
 
-<td><br><br><br><br><br><br><strong>Humanities <br>Programme</strong> </td> 
+<tr><td><br><br><br><br><br><br><br><br><br><br><br><strong>Humanities <br>Programme</strong> </td> 
 
 <td align=justify>Applicants must:
 <p>- Applicants should demonstrate a strong interest and ability in the study of the humanities. They should possess good knowledge of one or more of the following: geographical, historical issues and global affairs. 
@@ -97,13 +97,33 @@ They should also demonstrate skills related to the Humanities discipline, such a
 <p>* Shortlisted candidates will attend the following in one sitting:  <br>- Face-to-face Interview <br>- Written Test:  </p>
 <p>Answer an essay question (out of a choice of 4 questions), which will test the student’s knowledge about Geography/History/Politics/China Studies in English. The essay should not exceed 600 words, and should be written in under an hour.</p>  
   
-<p>Successful candidates <strong>have to</strong> choose the <strong>Arts Stream</strong> and offer a subject combination with <strong>AT LEAST</strong> one of the following subjects: H2 Geography, H2 History or H2 China Studies in English.
-<br>- For International Students: 16 to 18 years old</p>  </td>
+<p>Successful candidates <strong>have to</strong> choose the <strong>Arts Stream</strong> and offer a subject combination with <strong>AT LEAST</strong> one of the following subjects: H2 Geography, H2 History or H2 China Studies in English.</p> </tr> </td>
+
+
+<tr><td><br><br><br><br><strong>English<br>Debating</strong> </td> 
+
+<td align=justify>* Applicants who **meet one or more** of the following criteria will be shortlisted for interviews/auditions:
+<p>- Have prior experience in debating at school / national level. <br>- Able to demonstrate that he or she is articulate, confident and knowledgeable.</P>
+<p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p></tr> </td>
+
+<tr><td><br><br><br><br><strong>Science, Technology,<br> Engineering and <br>Mathematics</strong> </td> 
+
+<td align=justify>* Applicants who **meet one or more** of the following criteria will be shortlisted for interviews/auditions:
+<p>- Demonstrate high level of interest in STEM-related subjects or out-of-class learning<br>- Member of STEM-related, Innovation or Robotics/Programming related CCAs in secondary school<br>- Represented school at Inter-School STEM-related Competitions<br>Coding in any Programming Language  
+Use of Computer-aided Design (CAD) Software  
+Use of 3D printers</P>
+<p>* Candidates may submit any relevant portfolio/projects/awards together with their application via the online DSA-JC Portal.</p>
+<p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC</p>
+<p>* Successful candidates must offer **at least one** of the following subjects at H2 level:  <br>
+- Computing  <br>
+- Further Mathematics<br>  
+- Physics</p>
+<p>* Successful candidates are expected to join Infocomm Club, or a STEM Interest Group in JPJC.</p>
+</tr> </td>
 
 
 
 
-	
 | Language and Humanities | Eligibility Criteria |
 |:---:|---|
 | <br><br><br><br><br><br><br><br><br><br><br><br>**Chinese Language Elective Programme (CLEP)<br>Malay Language Elective Programme (MLEP)** | * Applicants must:<br><br>- Fulfil MOE’s age criteria (as of 1 Jan 2023)<br>- For SC and SPR: 16 to 20 years old<br>- For International Students: 16 to 18 years old<br>**AND**<br>- Be sitting for the GCE ‘O’ Level Examinations in 2022, or already hold GCE ‘O’ Level qualifications that qualify for admission to a Junior College<br><br>**AND**<br>- Submit a portfolio with evidence of strength in the respective languages, including:<br><br>- Candidates should possess a good command of the Chinese/Malay language. They must also attain:<br><br>- A minimum of A2 in Chinese/Malay<br><br>**OR**<br><br>- A minimum of B3 in Higher Chinese/Higher Malay in the Secondary 3 End of Year Examinations.<br><br>- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions<br><br>- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:<br><br>1. Their reasons for applying to the programme;<br>2. Their experiences in the learning of Chinese/Malay language and their aspirations.<br><br>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC<br><br>* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature. |
