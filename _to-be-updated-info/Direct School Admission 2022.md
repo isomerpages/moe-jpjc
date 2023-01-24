@@ -3,8 +3,6 @@ title: Direct School Admission 2022
 permalink: /abc/
 description: ""
 ---
-
-
 <div align=justify>
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2022. Successful DSA-JC candidates will gain admission to JPJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</P>
 
@@ -52,8 +50,8 @@ description: ""
 </tr>
 <tr> 
 
-<td>Chinese Language Elective Programme (CLEP)  
-Malay Language Elective Programme (MLEP)</td> 
+<td><strong>Chinese Language Elective Programme (CLEP)  
+Malay Language Elective Programme (MLEP)</strong></td> 
 
 <td>Applicants must:  
 <ul>- Fulfil MOE’s age criteria (as of 1 Jan 2023)  
@@ -80,15 +78,22 @@ Malay Language Elective Programme (MLEP)</td> 
 </tr>
 
 
+<td><strong>Humanities Programme</strong> </td> 
+
+<td>Applicants must: 
+<ul>- Applicants should demonstrate a strong interest and ability in the study of the humanities. They should possess good knowledge of one or more of the following: geographical, historical issues and global affairs. 
+They should also demonstrate skills related to the Humanities discipline, such as critical and analytical thinking as well as thinking from multiple perspectives.<ul>
+	
+\- Attain a minimum of B4 in English Language
+	
+	
+<br>\* Candidates should possess a good command of the English language. They must also:
+<br>- For International Students: 16 to 18 years old</ul>  </td>
 
 
 
 
-<table style=”width:100%”> 
-<tr> 
-<th style="width:30%">Language and Humanities</th> 
-<th>Eligibility Criteria</th>  
-
+	
 | Language and Humanities | Eligibility Criteria |
 |:---:|---|
 | <br><br><br><br><br><br><br><br><br><br><br><br>**Chinese Language Elective Programme (CLEP)<br>Malay Language Elective Programme (MLEP)** | * Applicants must:<br><br>- Fulfil MOE’s age criteria (as of 1 Jan 2023)<br>- For SC and SPR: 16 to 20 years old<br>- For International Students: 16 to 18 years old<br>**AND**<br>- Be sitting for the GCE ‘O’ Level Examinations in 2022, or already hold GCE ‘O’ Level qualifications that qualify for admission to a Junior College<br><br>**AND**<br>- Submit a portfolio with evidence of strength in the respective languages, including:<br><br>- Candidates should possess a good command of the Chinese/Malay language. They must also attain:<br><br>- A minimum of A2 in Chinese/Malay<br><br>**OR**<br><br>- A minimum of B3 in Higher Chinese/Higher Malay in the Secondary 3 End of Year Examinations.<br><br>- Certificates of accomplishments/achievements in Chinese Language (for CLEP) or Malay Language (for MLEP) related CCA and/or competitions<br><br>- A 200-250 word personal statement written in Chinese (for CLEP) or Malay (for MLEP) on:<br><br>1. Their reasons for applying to the programme;<br>2. Their experiences in the learning of Chinese/Malay language and their aspirations.<br><br>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC<br><br>* Successful candidates are expected to offer H2 Chinese Language and Literature or H2 Malay Language and Literature. |
