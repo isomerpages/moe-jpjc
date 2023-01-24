@@ -1,10 +1,8 @@
 ---
 title: KM Portal Registration & Selection of Subject Combination
-permalink: /abc/
+permalink: /permalink/
 description: ""
 ---
-
-
 <div align=justify>
 <h3>KM Portal Registration & Selection of Subject Combination</h5>
 

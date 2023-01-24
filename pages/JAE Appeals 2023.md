@@ -1,10 +1,8 @@
 ---
 title: JAE Appeals 2023
-permalink: /abc/
+permalink: /permalink/
 description: ""
 ---
-
-
 <div align=justify>
 <h2>JAE Appeals 2023</h2>
 	

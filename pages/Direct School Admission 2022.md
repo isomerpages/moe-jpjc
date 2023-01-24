@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission 2022
-permalink: /abc/
+permalink: /permalink/
 description: ""
 ---
 <div align=justify>
