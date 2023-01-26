@@ -39,7 +39,7 @@ third_nav_title: Character and Citizenship Edu
 	
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=800px height=4300px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=1000px height=4300px scrolling="no"></iframe>
 
 <h3><i><u>eTeens Programme</u></i></h3>
 
@@ -49,7 +49,7 @@ third_nav_title: Character and Citizenship Edu
 
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2023:</b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=800px height=300px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=1000px height=300px scrolling="no"></iframe>
 
 <h4>Information for Parents</h4>
 
