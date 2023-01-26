@@ -41,7 +41,7 @@ third_nav_title: Character and Citizenship Edu
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=1000px height=4300px scrolling="no"></iframe>
 
-<h3><i><u>eTeens Programme</u></i></h3>
+<h4>eTeens Programme</h4>
 
 <ol start="6">
 	<li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.</li>
