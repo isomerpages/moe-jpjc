@@ -33,7 +33,9 @@ third_nav_title: Character and Citizenship Edu
 <li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b></h6>
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS\_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=1600px height=2580px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=1600px height=2580px scrolling="no"></iframe>
+
+
 
 <h4>eTeens Programme</h4>
 <ol start="6">
@@ -42,7 +44,8 @@ third_nav_title: Character and Citizenship Edu
 <li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li></ol>
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2023:</b></h6>
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd\_RLw1Zm9-GCQl8AJl\_O9Mw/pub?embedded=true" width=1000px height=265px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpqZYGCoRVNVPTrBfbRfGGwZHCu3sk83SuJwBmCsy65hRYFmM9YXs4Cd_RLw1Zm9-GCQl8AJl_O9Mw/pub?embedded=true" width=1000px height=265px scrolling="no"></iframe>
+	
 
 <h4>Information for Parents</h4>
 <ol start="8">
@@ -51,5 +54,3 @@ third_nav_title: Character and Citizenship Edu
 <li>Parents who wish to opt their children out of the <b><i>eTeens programme</i></b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Co%20Curriculum/Character%20and%20Citizenship%20Educ/SED/2023%20eTeens%20Parents%20Opt-out%20Form.pdf">here</a>. The completed form is to be submitted by 28 July 2023.</li>
 <li>Parents can contact the school at 6564 6878 or e-mail us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
 </div>
-
-	
