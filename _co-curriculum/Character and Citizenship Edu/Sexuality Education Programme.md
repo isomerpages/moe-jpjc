@@ -33,10 +33,6 @@ third_nav_title: Character and Citizenship Edu
 <li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b></h6>
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=1600px height=2580px scrolling="no"></iframe>
-
-
-	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTTJQQMT04jHesX9fUloK6ApWSz5ZT7gbfKyE_JH6y3uTUojqycmuEAkBFPg25IQGAvwMxXGqtI20jI/pub?embedded=true" width=1600px height=1500px scrolling="no"></iframe>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vS92NMNxqEDBsD2zUYmIxfG7UrHSJoih1t8irZNNZq5--uOwheyO0Dbn4q5DrHXrpaG3XT6sDZ-uxqk/pub?embedded=true" width=1600px height=1100px scrolling="no"></iframe>	
