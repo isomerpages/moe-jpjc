@@ -34,9 +34,6 @@ third_nav_title: Character and Citizenship Edu
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2023</u>:</b></h6>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRTVt299ndbFCuuepzdU8EmrS_7YFqice1p1cF6XAe0Uj1EbdBTBA5lD7c2hGVqWIjR1SG1pu3wnYEi/pub?embedded=true" width=800px height=2770px scrolling="no"></iframe>
-	
-	
-	
 
 <h4>eTeens Programme</h4>
 <ol start="6">
