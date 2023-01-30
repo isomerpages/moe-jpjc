@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2023 Events/Open House.md
       - 2023 Events/2023 Events Overview.md
       - 2023 Events/.keep
       - 2022 Events/.keep
