@@ -1,9 +1,10 @@
 ---
 title: 2022 Events Overview
-permalink: /life-at-jpjc/2022-Events/
+permalink: /life-at-jpjc/2022-events/
 description: ""
 third_nav_title: 2022 Events
 ---
+
 | Date | Events | 
 | -------- | -------- |
 |23 November 2022|[Alumni Speakers Series (Concluded in Nov 2022)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/AlumniSpeakersSeries/)| 
