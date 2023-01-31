@@ -54,6 +54,8 @@ third_nav_title: 2023 Events
 </em>
 </figcaption>	</figure>
 
-<figure>	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bX2LuHExZPQ" title="#WhyJP Open House 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure>
+<p>Watch Open House video <a href="https://www.youtube.com/watch?v=bX2LuHExZPQ">here.</a></p>	
+
+	
+	
 </div>
