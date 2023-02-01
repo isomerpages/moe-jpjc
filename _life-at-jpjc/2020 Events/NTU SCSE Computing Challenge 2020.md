@@ -15,7 +15,7 @@ third_nav_title: 2020 Events
 
 <figure>
 <img src="NTUSCSE2020_A.jpg">
-<figcaption align="center"><em>Visitors greeted by our Student Councillors
+<figcaption align="center"><em>Special Mention in the Technical Category
 </em>
 </figcaption>	</figure>
 	
