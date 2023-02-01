@@ -24,4 +24,3 @@ third_nav_title: 2020 Events
 </em>
 </figcaption>	</figure>
 	
-</div>
