@@ -6,7 +6,7 @@ third_nav_title: 2020 Events
 ---
 <div align= justify>
 
-<p>School of Computer Science and Engineering, NTU (SCSE) hosted its second Computing Challenge on 18th and 19th of January at The Arc. 20 teams from Junior Colleges battled to clinch the top prizes. The hackathon event saw two days of development where teams had to complete their web or mobile application designs using Amazon Web Service platform. After which, each team was allocated ten minutes to pitch and present a live demo to a panel of judges. AC Acad Prof Nicholas Vun and Prof Oh Hong Lye spearheaded the event.<p>
+<p>School of Computer Science and Engineering, NTU (SCSE) hosted its second Computing Challenge on 18th and 19th of January at The Arc. 20 teams from Junior Colleges battled to clinch the top prizes. The hackathon event saw two days of development where teams had to complete their web or mobile application designs using Amazon Web Service platform. After which, each team was allocated ten minutes to pitch and present a live demo to a panel of judges. AC Acad Prof Nicholas Vun and Prof Oh Hong Lye spearheaded the event.
 
 <figure>
 <img src="/images/NTUSCSE2020_B.jpg">
