@@ -3,7 +3,7 @@ title: J1 Parents’ Engagement on Subject Combination
 permalink: /announcements/j1parentsengagement/
 description: Information on J1 Parents’ Engagement on Subject Combination
 ---
-<div align=justify>
+<div align="justify">
 
 <p>
 Dear J1 Parents and Guardians,<br><br>
@@ -13,7 +13,7 @@ As part of the support given by the College to new J1 students in the selection 
 <p>
 In this engagement session, you will hear presentations from Heads of Departments (HODs) and the Education and Career Guidance (ECG) Counsellor on the various subject combinations offered in the college and the various considerations when choosing a subject combination. The HODs and ECG counsellor will also be responding to your questions during this session.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vScHSd_Yi18ZFsIrzmIaxf_tep_NElpe6jYcnuNB-3o-O94lZWc-B3mneL62rXozyPrde18pdbGA3Tq/pub?embedded=true" width=800px height=260px scrolling="no"></iframe>
+<iframe scrolling="no" height="160px" width="1200px" src="https://docs.google.com/document/d/e/2PACX-1vScHSd_Yi18ZFsIrzmIaxf_tep_NElpe6jYcnuNB-3o-O94lZWc-B3mneL62rXozyPrde18pdbGA3Tq/pub?embedded=true"></iframe>
 
 <p>Click <a href="https://moe-singapore.zoom.us/j/83351624402">here</a> to access the zoom webinar.</p>
 
