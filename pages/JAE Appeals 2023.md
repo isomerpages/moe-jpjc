@@ -17,12 +17,19 @@ description: ""
 <p>	Students are required to apply online through this <a href="http://jae.jpjc.edu.sg/">portal.</a> Please note that we do not accept hard copy application forms.</p>
 
 
-<p>Only shortlisted candidates will be notified via email to attend an interview with the school leaders and HODs. More details will be provided in the email notification. In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to [jpjc@moe.edu.sg](mailto:jpjc@moe.edu.sg). For information about subject combinations and pre-requisites, you may refer to this [webpage](https://staging.d1kt1aspitrtfv.amplifyapp.com/about/subject-combination/).
+<p>Only shortlisted candidates will be notified via email to attend an interview with the school leaders and HODs. More details will be provided in the email notification. In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href = "mailto: jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to this <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">webpage.</a>
+
+<p>Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:</p>
+<ol>     
+
+latest ‘O’ Level result slips,
+	
+	</ol>
+<h5>Important Note</h5>
 
 
-<h5>Please click  for online appeals</h5>
-
-
+	
+	
 
 
 <p>In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href="jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to <a href="https://www.jpjc.moe.edu.sg/about/subject-combination">this.</a></p>
