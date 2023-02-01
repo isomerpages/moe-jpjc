@@ -106,7 +106,7 @@ They should also demonstrate skills related to the Humanities discipline, such a
 <p>- Have prior experience in debating at school / national level. <br>- Able to demonstrate that he or she is articulate, confident and knowledgeable.</P>
 <p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p></tr> </td>
 
-<tr><td><br><br><br><br><strong>Science, Technology,<br> Engineering and <br>Mathematics</strong> </td> 
+<tr><td><br><br><br><br><br><br><br><br><br><strong>Science, Technology,<br> Engineering and <br>Mathematics</strong> </td> 
 
 <td align=justify>* Applicants who **meet one or more** of the following criteria will be shortlisted for interviews/auditions:
 <p>- Demonstrate high level of interest in STEM-related subjects or out-of-class learning<br>- Member of STEM-related, Innovation or Robotics/Programming related CCAs in secondary school<br>- Represented school at Inter-School STEM-related Competitions<br>Coding in any Programming Language  
@@ -120,6 +120,14 @@ Use of 3D printers</P>
 - Physics</p>
 <p>* Successful candidates are expected to join Infocomm Club, or a STEM Interest Group in JPJC.</p>
 </tr> </td>
+
+
+
+
+
+
+
+
 
 
 
