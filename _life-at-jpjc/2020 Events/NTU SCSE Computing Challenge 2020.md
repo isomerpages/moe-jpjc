@@ -23,4 +23,3 @@ third_nav_title: 2020 Events
 <figcaption align="center"><em>Special Mention in the Technical Category
 </em>
 </figcaption>	</figure>
-	
