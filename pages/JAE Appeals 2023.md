@@ -8,35 +8,22 @@ description: ""
 	
 
 
-<p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) are not eligible for this exercise.</p>
+<p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <b> are not eligible</b> for this exercise.</p>
 
-<p>JAE posting results will be released on Friday, 4 February 2022. Appeals for admission to JPJC will commence on Friday, 4 February 2022 and end on Thursday, 10 February 2022. Students are required to apply <a href="http://jae.jpjc.edu.sg/">online.</a>
-<p>Please note that we do not accept hard copy application forms.</P>
+<p>JAE posting results will be released on Thursday, 2 February 2023. Appeals for admission to JPJC will commence on Thursday, 2 February 2023 and end at 2 pm on Wednesday, 8 February 2023.</p>
+	
+<p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2023, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 
-<p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2022, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</P>
+<p>	Students are required to apply online through this <a href="http://jae.jpjc.edu.sg/">portal.</a> Please note that we do not accept hard copy application forms.</p>
 
-<p>The following table shows the 2022 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</P>
 
-         
-<table style=”width:100%”>  
-<tr>  
-<th>Year</th>  
-<th>Arts</th>  
-<th>Science</th>  
-</tr>  
-  
-<tr>  
-<td>2023</td>  
-<td>16</td>  
-<td>14</td>  
-</tr>
-</table>
+<p>Only shortlisted candidates will be notified via email to attend an interview with the school leaders and HODs. More details will be provided in the email notification. In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to [jpjc@moe.edu.sg](mailto:jpjc@moe.edu.sg). For information about subject combinations and pre-requisites, you may refer to this [webpage](https://staging.d1kt1aspitrtfv.amplifyapp.com/about/subject-combination/).
+
 
 <h5>Please click  for online appeals</h5>
 
-<p>Please note that only shortlisted candidates will be notified via email to attend an e-interview via video conferencing with the school leaders and HODs. More details will be provided in the email notification. </P>
-	
-<P>	****Cancel***We will not be conducting any in-person interviews in light of COVID-19 situation.******</p>
+
+
 
 <p>In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href="jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to <a href="https://www.jpjc.moe.edu.sg/about/subject-combination">this.</a></p>
 
