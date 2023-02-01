@@ -4,8 +4,6 @@ permalink: /about-jpjc/admission-matters/jae-appeals-2023/
 description: JAE Appeals 2023
 third_nav_title: Admission Matters
 ---
-
-	
 <div align=justify>
 <h2>JAE Appeals 2023</h2>
 	
@@ -37,6 +35,5 @@ third_nav_title: Admission Matters
 
 <p> All applicants are still required to report to the college that they are posted to on morning of Friday, 3 February 2023, pending the outcome of their application to Jurong Pioneer Junior College.</p>
 
-Please contact 6564 6878 if you have further enquiry regarding JAE.
+<p>Please contact 6564 6878 if you have further enquiry regarding JAE.</p>
 	
-</div>
