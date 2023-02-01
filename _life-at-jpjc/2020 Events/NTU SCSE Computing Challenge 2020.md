@@ -14,7 +14,7 @@ third_nav_title: 2020 Events
 
 
 <figure>
-<img src="NTUSCSE2020_A.jpg">
+<img src="1Deca.jpg">
 <figcaption align="center"><em>Special Mention in the Technical Category
 </em>
 </figcaption>	</figure>
