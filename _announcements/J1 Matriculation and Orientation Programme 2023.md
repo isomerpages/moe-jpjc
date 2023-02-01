@@ -9,7 +9,7 @@ description: Information on J1 Matriculation and Orientation Programme 2023
 
 Congratulations on the admission to Jurong Pioneer Junior College! The college has lined up a series of activities for you as part of the Matriculation and Orientation (M&O) programme. The M&O programme will run from 3 Feb (Fri) to 10 Feb (Fri).</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTxC__12NmUjHimNUQz4WrW-G_YOhqnoytipw1VaztV9amWFPoVRb1v9lf96AJvD9z2n8_5gNaKbato/pub?embedded=true" width=600px height=190px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTxC__12NmUjHimNUQz4WrW-G_YOhqnoytipw1VaztV9amWFPoVRb1v9lf96AJvD9z2n8_5gNaKbato/pub?embedded=true" width=800px height=190px scrolling="no"></iframe>
 	
 <p>You will receive a phone call from your Orientation Group Leader (OGL) on Thursday, 2 Feb, who will provide you with the reporting details. </p>
 
