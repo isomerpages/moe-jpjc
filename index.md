@@ -14,7 +14,7 @@ sections:
         options:
           - title: J1 Matriculation and Orientation 2023
             url: /announcements/j1mo
-          - title: Parents’ Engagement on Subject Combination
+          - title: J1 Parents’ Engagement on Subject Combination
             url: /announcements/j1parentsengagement/
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
