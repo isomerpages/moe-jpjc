@@ -14,7 +14,6 @@ third_nav_title: 2020 Events
 
 
 <figure>
-
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/Open%20House/1%20Visitors%20greeted%20by%20our%20Student%20Councillors.jpeg">
 <figcaption align="center"><em>Visitors greeted by our Student Councillors
 </em>
