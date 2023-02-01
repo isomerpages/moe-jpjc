@@ -6,7 +6,7 @@ description: Information on J1 Parents’ Engagement on Subject Combination
 <div align=justify>
 
 <p>
-Dear J1 Parents and Guardians,<br>
+Dear J1 Parents and Guardians,<br><br>
 
 As part of the support given by the College to new J1 students in the selection of their subject combinations, the College would like to invite you to a Parents’ Engagement on Subject Combination held virtually over Zoom on 3 Feb (Fri) from 1800 – 1900hrs.</p>
 
