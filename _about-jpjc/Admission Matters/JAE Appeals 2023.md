@@ -15,6 +15,22 @@ third_nav_title: Admission Matters
 	
 <p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2023, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 
+<p>The following table shows the 2023 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</p>
+
+<table> 
+<tr> 
+<th>Year</th> 
+<th>Arts</th> 
+<th>Science</th> 
+</tr> 
+<tr> 
+<td>2023</td> 
+<td>17</td> 
+<td>14</td> 
+</tr>
+<tr></tr>	
+</table>	
+	
 <p>	Students are required to apply online through this <a href="http://jae.jpjc.edu.sg/">portal.</a> Please note that we do not accept hard copy application forms.</p>
 
 
@@ -36,4 +52,3 @@ third_nav_title: Admission Matters
 <p> All applicants are still required to report to the college that they are posted to on morning of Friday, 3 February 2023, pending the outcome of their application to Jurong Pioneer Junior College.</p>
 
 <p>Please contact 6564 6878 if you have further enquiry regarding JAE.</p>
-	
