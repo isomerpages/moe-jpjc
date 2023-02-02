@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - JAE Appeals 2023.md
       - J1 Parents’ Engagement on Subject Combination.md
       - J1 Matriculation and Orientation Programme 2023.md
