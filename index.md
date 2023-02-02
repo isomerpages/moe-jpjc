@@ -12,6 +12,8 @@ sections:
       dropdown:
         title: Announcements
         options:
+          - title: JAE Appeals 2023
+            url: /announcements/jaeappeals2023
           - title: J1 Matriculation and Orientation Programme 2023
             url: /announcements/j1mo
           - title: J1 Parents’ Engagement on Subject Combination
@@ -39,4 +41,9 @@ sections:
       image: /images/Homepage/Realising-dreams.png
       button: CLick here
       url: /accomplishments/Students/2022accomplishments/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
