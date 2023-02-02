@@ -17,7 +17,7 @@ third_nav_title: Admission Matters
 
 <p>The following table shows the 2023 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</P>
 
-<table style=”width:100%”> 
+<table> 
 <tr> 
 <th>Year</th> 
 <th>Arts</th> 
