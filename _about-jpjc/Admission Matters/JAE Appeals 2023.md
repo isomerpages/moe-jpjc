@@ -15,9 +15,9 @@ third_nav_title: Admission Matters
 	
 <p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2023, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 
-<p>The following table shows the 2023 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</P>
+<p>The following table shows the 2023 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</p>
 
-<table> 
+<table style=”width:100%”> 
 <tr> 
 <th>Year</th> 
 <th>Arts</th> 
