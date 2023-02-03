@@ -24,7 +24,7 @@ Objectives:</h3>
 <figcaption>Champion of JP Spotlight, Jara Chelsea from 22S07</figcaption></figure>
 
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/TLD/AA/2022%20photo%203.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/2022_img3.jpg">
 <figcaption>Literary and visual arts exhibition at Arts Fest</figcaption></figure>
 	
 <figure>
