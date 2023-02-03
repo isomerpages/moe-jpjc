@@ -14,7 +14,7 @@ third_nav_title: Admission Matters
 
 <p><li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2a)%202023%20KM%20Portal%20and%20Registration%20Briefing.pdf">2023 KM Portal and Registration Briefing</a></li>
 <li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2b)%202023%20Subject%20Combination%20Talk.pdf">2023 Subject Combination Talk</a></li>
-	<li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/JPJC%20J1%20Parents%202023.pdf">ECG Considerations when Choosing Subject Combinations</a></li></p>
+<li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/JPJC%20J1%20Parents%202023.pdf">ECG Considerations when Choosing Subject Combinations</a></li></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 6 Feb (Mon) 8.30 am.</b></p>
 </div>
