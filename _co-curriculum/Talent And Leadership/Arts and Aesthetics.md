@@ -16,11 +16,11 @@ Objectives:</h3>
 
 <center><h4>2022</h4></center>
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/TLD/AA/2022%20photo%201.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/2022_img1.jpg">
 <figcaption>Finalists of JP Spotlight</figcaption></figure>
 	
 <figure>
-<img src="images/JPJC%20Experience/Co%20Curriculum/TLD/AA/2022%20photo%202.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/2022_img2.jpg">
 <figcaption>Champion of JP Spotlight, Jara Chelsea from 22S07</figcaption></figure>
 
 <figure>
