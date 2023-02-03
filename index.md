@@ -14,10 +14,10 @@ sections:
         options:
           - title: JAE Appeals 2023
             url: /about/Admission-Matters/jaeappeals2023/
-          - title: J1 Matriculation and Orientation Programme 2023
-            url: /announcements/j1mo
           - title: J1 Parents’ Engagement on Subject Combination
             url: /announcements/j1parentsengagement/
+          - title: J1 Matriculation and Orientation Programme 2023
+            url: /announcements/j1mo
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
