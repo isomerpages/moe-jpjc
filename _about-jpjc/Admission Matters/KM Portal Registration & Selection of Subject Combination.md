@@ -17,4 +17,3 @@ third_nav_title: Admission Matters
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 6 Feb (Mon) 8.30 am.</b></p>
 </div>
-
