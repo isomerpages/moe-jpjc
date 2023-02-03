@@ -31,15 +31,14 @@ description: ""
 
 <p>Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:</p>
 
+<ul><li>latest ‘O’ Level result slips,</li>
+<li>secondary school testimonials,</li>
+<li>secondary school CCA records, and</li>
+<li>other supporting documents.</li>
+</ul>
+<h5> Important Note</h5>
 
-*   latest ‘O’ Level result slips,
-*   secondary school testimonials,
-*   secondary school CCA records, and
-*   other supporting documents.
+<p>All applicants are still required to report to the college that they are posted to on morning of Friday, 3 February 2023, pending the outcome of their application to Jurong Pioneer Junior College.</p>
 
-##### Important Note
-
-All applicants are still required to report to the college that they are posted to on morning of Friday, 3 February 2023, pending the outcome of their application to Jurong Pioneer Junior College.
-
-Please contact 6564 6878 if you have further enquiry regarding JAE.
-</div>
+<p>Please contact 6564 6878 if you have further enquiry regarding JAE.
+</p></div>
