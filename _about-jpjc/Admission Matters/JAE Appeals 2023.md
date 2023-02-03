@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admission Matters
 ---
 <div align=justify>
-	<h5>JAE Appeals 2023</h5>
+<h5>JAE Appeals 2023</h5>
 <p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <b>are not eligible </b>for this exercise.<p>
 
 <p>JAE posting results will be released on Thursday, 2 February 2023. Appeals for admission to JPJC will commence on Thursday, 2 February 2023 and end at 2 pm on Wednesday, 8 February 2023.</p>
@@ -43,4 +43,4 @@ third_nav_title: Admission Matters
 <p>All applicants are still required to report to the college that they are posted to on morning of Friday, 3 February 2023, pending the outcome of their application to Jurong Pioneer Junior College.</p>
 
 <p>Please contact 6564 6878 if you have further enquiry regarding JAE.
-</p></div>
+</p>
