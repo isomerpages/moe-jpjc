@@ -1,9 +1,10 @@
 ---
 title: JAE Appeals 2023
-permalink: /about/Admission-Matters/jaeappeals2023/
-description: ""
+permalink: /about/Admission-Matters/jae-appeals-2023/
+description: Information about appeals to JPJC in 2023
 third_nav_title: Admission Matters
 ---
+
 <div align=justify>
 <h5>JAE Appeals 2023</h5>
 <p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <b>are not eligible </b>for this exercise.<p>
