@@ -44,7 +44,7 @@ third_nav_title: 2023 Events
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/OGLC/D2_3.jpg">
-<figcaption align="center"><em>Students from 2 different team competing against one another to win ice cream sticks as tokens during Mass Games
+<figcaption align="center"><em>Students from 2 different teams competing against one another to win ice cream sticks as tokens during Mass Games
 </em>
 </figcaption>	</figure>	
 	
