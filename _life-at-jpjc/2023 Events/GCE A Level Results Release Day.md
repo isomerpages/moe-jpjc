@@ -6,63 +6,49 @@ third_nav_title: 2023 Events
 ---
 <div align=justify>
 
-<p>
+<p>On the 17th of February, Jurong Pioneer Junior College (JPJC) welcomed her fourth batch of students back to college for the release of the 2022 GCE A Level Examination results. While all candidates had the official option of receiving their results online, in line with Singapore’s exit from the acute phase of the COVID-19 pandemic, the college invited all students from the cohort to receive their results together in the college Hall – a welcome first after three years.
 </p>
 
-<p>
-On 20th January, JPJC’s Student Councilors kickstarted the festivities by presenting mandarin oranges and greeting all teachers with auspicious New Year wishes in the morning. This year, our theme for celebration was ‘锣鼓喧天,’ or ‘Drumming in the New Year.’ A wide array of activities was lined up, from class activities to an inaugural Chinese New Year bazaar, as well as performances by our JP Family’s Arts & Aesthetic groups, staff and a professional external Lion Dance troupe.</p>
+<p>It was a heartwarming sight to see our returning graduands reuniting for this occasion. Our returning students were happy to meet their teachers and classmates – some of whom they had not seen for some time – and catch up with them. The Class of 2022 had to face and overcome many challenges throughout their two years in JC, and in preparing for their GCE A Level examination. In his address to the cohort, our Principal Mr Kevin Ang congratulated them on completing their JC journey and emphasised that “success is so much more than your grades, and that piece of paper that you will receive – you, are much more than your academic performance, that does not define you”. As a testament to this, Mr Ang encouraged both the Class of 2022 and current students who were present in the Hall, by sharing that the top students for this year had come far, demonstrating excellent holistic performance all-round, despite coming from different starting points with varying L1R5 points when they first entered JPJC. “They defied the odds, and the conventional wisdom that one’s L1R5 typically reflects how far you can go, but as you can see, you have defied the odds”, Mr Ang shared to rousing cheers of delight from the cohort.
+</p>
 
-<p>
-An hour was allocated to the students to participate in classroom activities in their respective Civics classes. Led by the Class Managers (CMs) and Assistant Class Managers (ACMs), students were tasked to decorate their classrooms with Chinese New Year decorations and ornaments they had made from scratch following fun and interactive video tutorials. The students also played a Chinese New Year quiz, where they learnt more about the customs and traditions of Chinese New Year. </p>
+<p>In closing, Mr Ang reminded the Class of 2022 that they would not have come this far without the support and guidance of their teachers, parents and peers, and urged them to express their appreciation and gratitude for what they have been blessed with. Mr Ang ended his address by reiterating how it is crucial for all graduands to plan and envision their next steps, rather than be swept away by emotions, be they positive or negative, in order to achieve the success that they desire moving forward.</p>
 
-<p>
-After the class activities, classes were split into two groups. Half the classes first visited the CNY bazaar booths at the concourse and enjoyed the performances at the same time. The other classes proceeded to the Hall to enjoy the performances via livestreaming and visited the cultural booths. In the bazaar at the concourse, there was a variety of lovely snacks, such as Korean food, ice cream and bubble tea sold by external vendors. Canteen vendors were also invited to the bazaar to sell finger food to the students and staff. In addition to that, there were student-initiated booths set up in the hall. Student facilitators manned the cultural booths and facilitated activities such as the guessing of lantern riddles, writing of Chinese calligraphy, making of CNY handicrafts, and learning the correct way to use chopsticks. Interact Club also set up a fundraising booth selling handmade handicrafts, to raise funds for ‘ItsRainingRaincoats’, an initiative for supporting the needs of migrant workers in Singapore.</p>
+<p>“Success is not final. Failure is not fatal; it is the courage to continue that counts.” As Sir Winston Churchill aptly put it, and Mr Ang reiterated, having overcome all challenges and obstacles to successfully complete their JC education, it is our hope that the Class of 2022 will continue to forge their own paths, demonstrate resilience and achieve success in their own ways, embodying the spirit of the JP Family – ‘While I Live I Learn, Plus Ultra’. Congratulations to the Class of 2022!
+</p>
 
-<p>
-The performances put up by Concert Band, Chinese Orchestra, Guitar Ensemble and Indian Dance were very well-received by the audience and created a joyful and festive atmosphere. Even our very own Mother Tongue Languages Department teachers chipped in to contribute to the celebration. Mr. Yang Zhizhong showcased one of the most popular Tai Chi Quan techniques in Singapore, the Chen-style Tai Chi Quan. He wowed the crowds with his alternating fast and slow punches, feet banging and jumping. The song performance by Dr Kelvin Sng was equally impressive and engaging. Dr Sng was unanimously crowned our unofficial JP Idol with his effortlessly cool stage charisma and the meaningful lyrics ‘face the wind, embrace the rainbow and bravely strut on’ from the Chinese song ‘Your Answer.’</p>
-
-<p>
-JPJC is the only college in Singapore to offer both the Chinese and Malay Language Elective Programmes. As part of a special performance, the two LEPs had the opportunity to come together, with the CLEP students learning how to play the traditional Malay percussion musical instrument, the ‘kompang’, which originated from Indonesia which enliven the atmosphere and are integral in celebratory occasions. On the other hand, the MLEP students got to learn how to play the Chinese drums, which in the Chinese culture, is an essential element in creating a joyous and celebratory atmosphere which is very similar to the Malay kompang. Together they managed to integrate both instruments to create the "锣鼓喧天" atmosphere befitting of the theme of this year’s celebration.</p>
-
-<p>
-This year, our college also invited the Tian Eng Dragon & Lion Dance to perform in the finale. In Chinese culture, lion dance brings forth happiness, joy, prosperity, luck and success in important Chinese festivities and celebrations. The lion dance is a perfect combination of martial arts, acrobatics and even dance. As part of the finale programme, it was indeed a crowd puller and kept the audience captivated right till the very end. The God of Fortune Mascot and the two Southern Lions presented the auspicious scroll as well as plucking-the-green to our school leaders. Staff and students enjoyed interacting with the mascot and rushed to grab the gold coin chocolates which symbolize wealth and fortune. The finale event ended on a high note with the troupe’s dancing and drumming.</p>
-
-<p>
-Concluding JPJC’s 2023 CNY Celebration was a ‘lohei’ session and a sumptuous reunion buffet lunch for all staff. It was a new, meaningful and enjoyable celebration that well-received by both staff and students alike.</p>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/1%20Concourse%20Performance%20by%20Performing%20Arts%20Groups.jpg">
-<figcaption>Concourse Performance by Performing Arts Groups</figcaption></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number1.jpg">
+<figcaption>In a first after three years, a mass Results Release session was held in the college Hall</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/2%20Concourse%20Performance%20by%20Dr%20Sng.jpg">
-<figcaption>Concourse Performance by Dr Sng</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/3%20Bazaar%20Booths%20at%20Concourse.jpg">
-<figcaption>Bazaar Booths at Concourse</figcaption></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number2.jpg">
+<figcaption>Our Principal Mr Kevin Ang addressing the Class of 2022</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/4%20Cultural%20Booths%20in%20the%20Hall_Calligraphy.jpg">
-<figcaption>Cultural Booths in the Hall - Calligraphy</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/5%20Cultural%20Booths%20in%20the%20Hall_Chopstics%20Challenge.jpg">
-<figcaption>Cultural Booths in the Hall - Chopsticks Challenge</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/6%20CEC%20OSO%20Appreciation%20Project%20_Presenting%20of%20Hampers.jpg">
-<figcaption>CEC OSO Appreciation Project  - Presenting of Hampers</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/7%20Lion%20Dance%20Photo%20Moment%20with%20SLs.jpg">
-<figcaption>Lion Dance Photo Moment with SLs</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/8%20Lion%20Dance%20Performance.jpg">
-<figcaption>Lion Dance Performance</figcaption></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number3.jpg">
+<figcaption> Mr Ang sharing pearls of wisdom with the cohort before they collected their results</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/Chinese%20New%20Year%20Celebration/9%20Staff%20Lohei%20_%20Reunion%20Lunch.jpeg">
-<figcaption>Staff Lohei - Reunion Lunch</figcaption></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number4.jpg">
+<figcaption>All hands were on deck in a show of support for our returning graduands, including our former Principal Dr Hang Kim Hoo, who returned to witness the Class of 2022 receive their results (From left to right - VP Mr Nah Hong Leong, Assistant YH Ms Tan Zhi Ai, YH Mr Subash Ramiah and Dr Hang)</figcaption></figure>	
+
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number5.jpg">
+<figcaption> Rousing cheers and applause for Dr Hang, who came down personally to support our students</figcaption></figure>
+	
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number6.jpg">
+<figcaption>It was all smiles as everyone was delighted to see old friends and reconnect after so long</figcaption></figure>
+	
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number7.jpg">
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number7a.jpg">
+<figcaption> The mass Results Release session was a welcome return to pre-pandemic normalcy, as students and staff alike were able to meet each other once again</figcaption></figure>	
+
+<figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/A%20level%20results%20release/number8.jpg">
+<figcaption> Our ECG Counsellor Ms Michelle Lee also shared with graduands crucial information on their options and pathways moving forward</figcaption></figure>	
+	
 </div>
