@@ -3,7 +3,6 @@ title: Direct School Admission 2023
 permalink: /permalink/
 description: ""
 ---
-
 <div align=justify>
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2023. Successful DSA-JC candidates will gain admission to JPJC in 2024 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</p>
 
@@ -101,21 +100,21 @@ They should also demonstrate skills related to the Humanities discipline, such a
 <p>Successful candidates <strong>have to</strong> choose the <strong>Arts Stream</strong> and offer a subject combination with <strong>AT LEAST</strong> one of the following subjects: H2 Geography, H2 History or H2 China Studies in English.</p> </tr> </td>
 
 
-<tr><td><br><br><br><br><strong>English<br>Debating</strong> </td> 
+<tr><td><br><br><br><strong>English<br>Debating</strong> </td> 
 
-<td align=justify>* Applicants who **meet one or more** of the following criteria will be shortlisted for interviews/auditions:
+<td align=justify>* Applicants who <b>meet one or more</b> of the following criteria will be shortlisted for interviews/auditions:
 <p>- Have prior experience in debating at school / national level. <br>- Able to demonstrate that he or she is articulate, confident and knowledgeable.</P>
 <p>* Shortlisted candidate will be invited to attend a face-to-face interview in JPJC.</p></tr> </td>
 
-<table style=”width:100%”> 
+
 <tr> 
 <th style="width:30%"><strong>Science, Technology,<br> Engineering and <br>Mathematics</strong></th> 
 <th>Eligibility Criteria</th> 
 </tr>
 
-<tr><td><br><br><strong>Mathematics <br>and Science</strong> </td> 
+<tr><td><br><br><br><br><br><br><br><br><br><br><br><br><strong>Mathematics <br>and Science</strong> </td> 
 
-<td align=justify>* Applicants who **meet one or more** of the following criteria will be shortlisted for interviews/auditions:
+<td align=justify>* Applicants who <b>meet one or more</b> of the following criteria will be shortlisted for interviews/auditions:
 <p>- Demonstrate high level of interest in STEM-related subjects or out-of-class learning<br>- Member of STEM-related, Innovation or Robotics/Programming related CCAs in secondary school<br>- Represented school at Inter-School STEM-related Competitions<br>Coding in any Programming Language  
 Use of Computer-aided Design (CAD) Software  
 Use of 3D printers</P>
@@ -128,7 +127,10 @@ Use of 3D printers</P>
 <p>* Successful candidates are expected to join Infocomm Club, or a STEM Interest Group in JPJC.</p>
 </tr> </td>
 
-
+<tr> 
+<th style="width:30%"><strong>Visual Arts, Design & Media</strong></th> 
+<th>Eligibility Criteria</th> 
+</tr>
 
 
 
