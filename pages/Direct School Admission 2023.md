@@ -45,7 +45,7 @@ description: ""
 
 <table style=”width:100%”> 
 <tr> 
-<th style="width:30%">Language and Humanities</th> 
+<th style="width:20%">Language and Humanities</th> 
 <th>Eligibility Criteria</th> 
 </tr>
 <tr> 
