@@ -131,12 +131,3 @@ Use of 3D printers</P>
 <th style="width:30%"><strong>Visual Arts, Design & Media</strong></th> 
 <th>Eligibility Criteria</th> 
 </tr>
-
-
-
-
-
-
-
-
-
