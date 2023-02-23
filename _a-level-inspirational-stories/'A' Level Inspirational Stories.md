@@ -3,9 +3,7 @@ title: "'A' Level Inspirational Stories"
 permalink: /accomplishments/students/a-level-inspirational-stories/
 description: ""
 ---
-
-
-<h3><a href="/a-level-inspirational-stories/2022/overview/">2023</a></h3>
+<h3><a href="/a-level-inspirational-stories/2023/overview/">2023</a></h3>
 
 <figure>
 <img src="/images/Accomplishment/2023/A Level Inspirational Stories 2023 Landing Page Collage.jpg">
@@ -20,3 +18,4 @@ description: ""
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
+
