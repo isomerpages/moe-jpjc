@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
-      - 2023/Chloe Yeoh Zi Lin (21A01).md
-      - 2023/Chionh Wan Qi (21A01).md
       - 2023/.keep
       - 2023/2023.md
       - 2023/Narmatha (21A05).md
@@ -12,6 +10,8 @@ collections:
       - 2023/Tan Wee Teck, Alfonso (21S20).md
       - 2023/Tan Qian Yu Bridget (21A05).md
       - 2023/Lee Wei En (21S24).md
+      - 2023/Chionh Wan Qi (21A01).md
+      - 2023/Chloe Yeoh Zi Lin (21A01).md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Lim Wai Keong, Deca (20S20).md
