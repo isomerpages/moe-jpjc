@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/3Tan Wee Teck Alfonso.jpg">
 <figcaption>    Having bravely hit the ‘restart’ button after a rollercoaster journey of hardships, Tan Wee Teck, Alfonso (21S20) thrived in JPJC in 2022 with an abundance of academic and enrichment opportunities, and is grateful for the strong support network he had in college.</figcaption></figure>
 
-<center><h5>Unstoppable</center></h5>
+<center><h5>Unstoppable</h5></center>
 	
 <p> “A great artist can come from anywhere.” These are the words of Tan Wee Teck, Alfonso – a boy wise beyond his years – who hopes that his contemporaries can draw courage from his experience, and discover their own fields of passion to excel in. “Do not be held back by societal norms because I believe everyone has the right to pursue their passion and fulfil their dreams,” he shared resolutely.</p>
 
