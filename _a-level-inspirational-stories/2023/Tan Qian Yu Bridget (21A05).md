@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/4Tan Qian Yu Bridget.jpg">
 <figcaption> Having spent all her growing years away from Singapore, Tan Qian Yu Bridget (21A05) returned to pursue her A Levels in JPJC and found ‘home’, having the opportunity to grow roots and serve the community both in college, and beyond.</figcaption></figure>
 
-<center><h5>She finally found ‘home’ at 18</center></h5>
+<center><h5>She finally found ‘home’ at 18</h5></center>
 	
 <p>While most of her peers experienced general hesitations on coming to a new school for the next phase of their post-secondary education, Bridget experienced another layer of anxiousness.  “I remember feeling very nervous on my way to college on the first day. I told myself to observe those around me and try to adapt accordingly since I did not know what to expect and felt unprepared.” Bridget was about to experience the Singapore school system for the very first time. Her father’s business was based in China and she had studied exclusively in international schools in Beijing and Shanghai since the age of two. Coming to Singapore was a whole new experience for her, let alone having to adjust to the Singapore education system.</p>
 
