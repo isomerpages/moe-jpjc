@@ -2,9 +2,9 @@ collections:
   a-level-inspirational-stories:
     output: true
     order:
-      - 2023/2023.md
-      - 2023/.keep
       - "'A' Level Inspirational Stories.md"
+      - 2023/.keep
+      - 2023/2023.md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Lim Wai Keong, Deca (20S20).md
