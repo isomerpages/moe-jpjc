@@ -4,7 +4,6 @@ permalink: /a-level-inspirational-stories/2023/Rukhsana/
 description: ""
 third_nav_title: "2023"
 ---
-
 <div align=justify>
 
 <figure>
@@ -12,8 +11,7 @@ third_nav_title: "2023"
 <figcaption>“Despite losing her father suddenly before the start of her final year in JC, Rukhsana Bi D/O Abdul Wahid (21A07) excelled as an ODAC leader and MLEP scholar.”</figcaption></figure>
 
 	
-	
-<center><h5>"Steady Lah!"</center></h5>
+<center><h5>"Steady Lah!"</h5></center>
 
 <p>Rukhsana Bi D/O Abdul Wahid grew up in a close knitted family and the biggest turning point in her life came about when her dad passed away suddenly in December 2021, just as she was going to start her final year of the A Level course. That had a huge impact on her as he had always been her role model. Her dad would be the one proudest of even the smallest of her achievements and one poignant memory she has was in primary school when she did well in spelling test. She fondly remembers his words of encouragement “Steady lah!” Her dad would continuously push her to become a better person and student, always reminding Rukhsana, “You don’t just dream, you must put in hard work!”</p>
 
