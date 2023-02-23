@@ -4,7 +4,6 @@ permalink: /a-level-inspirational-stories/2023/Narmatha/
 description: ""
 third_nav_title: "2023"
 ---
-
 <div align=justify>
 
 <figure>
@@ -33,4 +32,4 @@ third_nav_title: "2023"
 
 <p>Furthermore, starting from secondary school Narmatha has been an active volunteer of Red Cross and has conducted multiple workshops training to mentor youth cadets in first aid and facilitation skills; all while juggling college commitments and personal health matters. When asked why this was important to her when she already had much on her plate, Narmatha said, “Being a member of Red Cross shaped my personality and taught me more about humanity, and to respect everyone as an individual. Even though it wasn’t easy to make time, I wanted to because I wanted to contribute and make a difference to the youths I was interacting with.” She is especially interested in youth leadership and wants to motivate as many youths as she can reach out to.</p>
 
-<p>Narmatha truly exemplifies resilience and a positive mindset, choosing to take challenges in her stride and pay it forward to the community. Armed with ambitions to study Psychology and pursue family therapy, she took the initiative to research and attend career talks to further her convictions. “Childhood is such an important part of life, it shapes you into what you are. Mine wasn’t the most ideal and so I hope to do more for others in my situation by pursuing this field.” Her drive and passion to give back to the community despite the challenges she faces certainly shows her compassion and heart for the less fortunate. “If I face pressure, I can overcome it as even coal can become a diamond under pressure,” she quips cheerfully.</p>
+<p>Narmatha truly exemplifies resilience and a positive mindset, choosing to take challenges in her stride and pay it forward to the community. Armed with ambitions to study Psychology and pursue family therapy, she took the initiative to research and attend career talks to further her convictions. “Childhood is such an important part of life, it shapes you into what you are. Mine wasn’t the most ideal and so I hope to do more for others in my situation by pursuing this field.” Her drive and passion to give back to the community despite the challenges she faces certainly shows her compassion and heart for the less fortunate. “If I face pressure, I can overcome it as even coal can become a diamond under pressure,” she quips cheerfully.</p></div>
