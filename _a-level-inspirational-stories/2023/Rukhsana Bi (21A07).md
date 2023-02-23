@@ -8,7 +8,7 @@ third_nav_title: "2023"
 
 <figure>
 <img src="/images/Accomplishment/2023/2Rukshana Bi DO Abdul Walid.jpg">
-<figcaption>“Despite losing her father suddenly before the start of her final year in JC, Rukhsana Bi D/O Abdul Wahid (21A07) excelled as an ODAC leader and MLEP scholar.”</figcaption></figure>
+<figcaption>Despite losing her father suddenly before the start of her final year in JC, Rukhsana Bi D/O Abdul Wahid (21A07) excelled as an ODAC leader and MLEP scholar.</figcaption></figure>
 
 	
 <center><h5>"Steady Lah!"</h5></center>
