@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
-      - 2023/Rukhsana Bi (21A07).md
-      - 2023/Narmatha (21A05).md
       - 2023/.keep
       - 2023/2023.md
+      - 2023/Narmatha (21A05).md
+      - 2023/Rukhsana Bi (21A07).md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Lim Wai Keong, Deca (20S20).md
