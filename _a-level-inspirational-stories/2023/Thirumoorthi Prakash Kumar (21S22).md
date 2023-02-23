@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/9Thirumoorthi Prakash Kumar.jpg">
 <figcaption>As he embarked on offering H2 Computing as an examinable subject in JPJC, the rich, multi-faceted curriculum experience that the Computing Department offered provided Thirumoorthi Prakash Kumar (21S22) with countless opportunities, and helped him crystallise his vision and dream of pursuing a career in computing.</figcaption></figure>
 
-<center><h5>“I Can Be This, And Much More” – Nurturing Every Side of Me in JPJC</center></h5>
+<center><h5>“I Can Be This, And Much More” – Nurturing Every Side of Me in JPJC</h5></center>
 	
 
 <p>Persistence and passion are no stranger to Thirumoorthi Prakash Kumar, who has come a long way for his junior college journey. While Jurong Pioneer Junior College (JPJC) was not the JC he originally was posted to, as fate would have it, the door opened for Prakash as he wanted to offer H2 Computing as a subject at the GCE A Level examination. The rest, as they always say, is history.</p>
@@ -31,5 +31,4 @@ third_nav_title: "2023"
 
 <p>In that light, Prakash intends to pursue a course related to Science or Computing in university, and is excited for the road ahead of him. Having concluded one enriching chapter of his life, Prakash is now awaiting for to enlist in the army, and for a new chapter to unfold. When asked if he has any further words of advice for his juniors in JPJC, he does not hesitate to share these pearls of wisdom: I’d like to just plug my favourite subject here”, he laughs, “Come with an open mind, and if you have even the slightest bit of interest, just give Computing a try, it isn’t as complex as you think, and it is truly interesting.” As for general advice, Prakash hopes that his juniors will take up a CCA that they enjoy, that can show a different side of themselves, “because that is how you grow, and have ‘colour’, or dimensions to you as a person. In addition, when you have a CCA, you keep yourself busy, and removes that sluggish, unmotivated feeling many JC students have from just being bogged down by academics – this is what makes you feel a lot more satisfaction with your JC life, at the end of the day.”</p>
 
-<p>In a jestful conclusion to our interview, he quips, “Oh! And my final gold tip for my juniors – even if you’re feeling brain-fog or fatigue in the late afternoons or evenings, NEVER take long naps, keep going, just have a hot non-caffeinated drink, and you’re good as gold – trust me on this, metaphorically, as long as you keep going, even the smallest of steps can take you beyond your wildest dreams!”
-</p>
+<p>In a jestful conclusion to our interview, he quips, “Oh! And my final gold tip for my juniors – even if you’re feeling brain-fog or fatigue in the late afternoons or evenings, NEVER take long naps, keep going, just have a hot non-caffeinated drink, and you’re good as gold – trust me on this, metaphorically, as long as you keep going, even the smallest of steps can take you beyond your wildest dreams!”</p></div>
