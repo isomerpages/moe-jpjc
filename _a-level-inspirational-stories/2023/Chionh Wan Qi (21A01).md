@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/6Chionh Wan Qi.jpg">
 <figcaption> An avid writer who would pen Chinese poems to relieve her stress, Chionh Wan Qi (21A01) deepened her learning of the Chinese language through JPJC’s Chinese Language Elective Programme (CLEP). The programme has also allowed her to deepen her love for Chinese language and culture, and more clearly narrow down her career options related to this field.</figcaption></figure>
 
-<center><h5>The CLEP valedictorian never gave up</center></h5>
+<center><h5>The CLEP valedictorian never gave up</h5></center>
 
 <p>Growing up as a little girl, Chionh Wan Qi was surrounded by various elements of Chinese culture and language. In primary school, she was a skilful player of erhu and yangqing in the Chinese Orchestra. At home, listening to JJ Lin over the audio player and watching Chinese drama were regular pastime fixtures. It was no wonder that when asked what her most memorable experience was as a student of the Chinese Language Elective Programme (CLEP), Wan Qi, immediately rattled on about the song-writing workshop conducted by two industry professionals in the field. “My group did not expect to face so much difficulty with rhyming the lyrics and matching them with the melody. Visualising the storyline helped with the wordplay. I was so proud of our final product!” Indeed, the demo was shortlisted in the top 25 song-list in the prestigious ‘Xin Kong Xia《新空下》National Schools Xinyao Singing and Song-writing Competition’ – a feat that was a first for the college.</p>
 
