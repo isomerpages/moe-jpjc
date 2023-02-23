@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/11Ai Shijun.jpg">
 <figcaption>Whilst pursuing his passion for music and interest in dance, Ai Shijun (21S24) also had a rich college life which enabled him to have a truly holistic JC experience. This ranged from involvements in the CLEP programme, to prestigious Mathematics competitions.</figcaption></figure>
 
-<center><h5> The Road Less Taken Can Be Beautiful, Too – Growing Within and Beyond One’s Comfort Zone</center></h5>
+<center><h5> The Road Less Taken Can Be Beautiful, Too – Growing Within and Beyond One’s Comfort Zone</h5></center>
 
 <p>When Ai Shijun joined Jurong Pioneer Junior College (JPJC) in 2021, music was always at the back of his mind. He knew he had always wanted to pursue music but was not sure about the pathways available to enter the music industry. Furthermore, the stereotype that music is not a viable career, especially in the context of pragmatic Singapore, sometimes pulled him away from pursuing his dream of working in the music industry.</p>
 
