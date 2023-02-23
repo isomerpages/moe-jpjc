@@ -10,7 +10,7 @@ third_nav_title: "2023"
 <img src="/images/Accomplishment/2023/5Lee Wei En.jpg">
 <figcaption>Having joined JC from polytechnic, Lee Wei En’s (21S24) unconventional journey bears testament to the fact that there are no fixed pathways to success and pursuing one’s passion.</figcaption></figure>
 
-<center><h5>  The Road Less Trodden</center></h5>
+<center><h5>  The Road Less Trodden</h5></center>
 	
 <p>
 Lee Wei En’s unconventional journey to Jurong Pioneer Junior College (JPJC) was one filled with many twists and turns. As a Normal Academic student, Wei En came to realise his interest in the Mathematics and the Sciences. In secondary school, Wei En had benefited directly from Subject-Based Banding (SBB) and had experienced firsthand how it gave him the opportunity to stretch himself in subjects he was strong in regardless of his stream. Eager to develop these passions further, Wei En decided on the Junior College route as he desired to read these subjects at a much greater depth. In turn, he dropped the idea to pursue the Polytechnic Foundation Programme.</p>
