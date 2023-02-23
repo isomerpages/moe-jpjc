@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
+      - 2023/Narmatha.md
       - 2023/.keep
       - 2023/2023.md
       - 2022/.keep
