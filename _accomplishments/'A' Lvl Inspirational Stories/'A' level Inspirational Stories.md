@@ -1,7 +1,8 @@
 ---
-title: "'A' Level Inspirational Stories"
-permalink: /accomplishments/students/a-level-inspirational-stories/
+title: "'A' level Inspirational Stories"
+permalink: /accomplishments/A-Lvl-Inspirational-Stories/
 description: ""
+third_nav_title: "'A' Lvl Inspirational Stories"
 ---
 <h3><a href="/a-level-inspirational-stories/2023/overview/">2023</a></h3>
 
@@ -18,4 +19,3 @@ description: ""
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
-

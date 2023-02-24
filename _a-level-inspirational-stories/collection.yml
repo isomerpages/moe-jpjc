@@ -3,6 +3,20 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
+      - 2023/.keep
+      - 2023/2023.md
+      - 2023/Narmatha (21A05).md
+      - 2023/Rukhsana Bi (21A07).md
+      - 2023/Tan Wee Teck, Alfonso (21S20).md
+      - 2023/Tan Qian Yu Bridget (21A05).md
+      - 2023/Lee Wei En (21S24).md
+      - 2023/Chionh Wan Qi (21A01).md
+      - 2023/Chloe Yeoh Zi Lin (21A01).md
+      - 2023/Lutfi Bin Semarluki (21A06).md
+      - 2023/Thirumoorthi Prakash Kumar (21S22).md
+      - 2023/How Zhi Qi (21S24).md
+      - 2023/Ai Shijun (21S24).md
+      - 2022/.keep
       - 2022/2022.md
       - 2022/Lim Wai Keong, Deca (20S20).md
       - 2022/Xu Zhetai (20A05).md
@@ -15,7 +29,6 @@ collections:
       - 2022/Vinay Vanjre Ravi (20S23).md
       - 2022/Nur'Ain Nadzirah Binte Mohammed Nazir (20A04).md
       - 2022/De Souza Leslie Ethan (20A05).md
-      - 2022/.keep
       - 2021/.keep
       - 2021/2021.md
       - 2021/Cai Zhen Zhi (19S23).md
@@ -31,6 +44,7 @@ collections:
       - 2021/Goh Yan Yi, Chermaine (19S10).md
       - 2021/Nur Atiqah Bte Mohammad Rafi (18A05).md
       - 2021/Antony Swami Alfred Ben (19S23).md
+      - 2020/.keep
       - 2020/2020.md
       - 2020/Chung Mae Ling Alyssa Cherish.md
       - 2020/Koh Rui Cheng, Brendan.md
@@ -42,4 +56,3 @@ collections:
       - 2020/Syarifah Aneesa Bte Mohammad.md
       - 2020/Tan Yao Hao, James.md
       - 2020/Wong Shi Ting, Calista.md
-      - 2020/.keep
