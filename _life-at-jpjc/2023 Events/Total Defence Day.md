@@ -29,20 +29,18 @@ TDD Trail @ Kampong Glam (Featuring Principal Mr Ang)</figcaption></figure>
 <figcaption>TDD Trail @ CBD area</figcaption></figure>	
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image6.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image1.jpeg">
 <figcaption>TDD Trail @ Chinatown</figcaption></figure>	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image2.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image3.jpeg">
 <figcaption>TDD Trail @ Kampong Glam</figcaption></figure>	
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image2.jpeg">
-<figcaption>
-TDD Trail @ Kampong Glam (Featuring Principal Mr Ang)</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image0.jpeg">
+<figcaption>A JC2 class enjoying the Total Defence Day CT lesson on _Readiness for Crises and Disruptions_</figcaption></figure>	
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image2.jpeg">
-<figcaption>
-TDD Trail @ Kampong Glam (Featuring Principal Mr Ang)</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image8.jpeg">
+<figcaption>JC1 Total Defence Day Assembly Engagement: A lively Chingay NE Programme</figcaption></figure>	
 	
 </div>
