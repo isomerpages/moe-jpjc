@@ -29,7 +29,7 @@ TDD Trail @ Kampong Glam (Featuring Principal Mr Ang)</figcaption></figure>
 <figcaption>TDD Trail @ CBD area</figcaption></figure>	
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image10.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image11.jpeg">
 <figcaption>TDD Trail @ Chinatown</figcaption></figure>	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image3.jpeg">
