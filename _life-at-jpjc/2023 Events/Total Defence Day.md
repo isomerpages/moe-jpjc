@@ -37,7 +37,7 @@ TDD Trail @ Kampong Glam (Featuring Principal Mr Ang)</figcaption></figure>
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image0.jpeg">
-<figcaption>A JC2 class enjoying the Total Defence Day CT lesson on _Readiness for Crises and Disruptions_</figcaption></figure>	
+<figcaption>A JC2 class enjoying the Total Defence Day CT lesson on <i>Readiness for Crises and Disruptions</i></figcaption></figure>	
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image8.jpeg">
