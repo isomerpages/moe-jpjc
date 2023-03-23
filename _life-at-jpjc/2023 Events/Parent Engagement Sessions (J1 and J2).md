@@ -38,7 +38,7 @@ Registration booth</figcaption></figure>
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/Parent%20Engagement%20Sessions/Photo%206%20-%20Parents%20taking%20part%20in%20Project%20LOVE.jpeg">
-<figcaption>Parents taking part in Project LOVE</i></figcaption></figure>	
+<figcaption>Parents taking part in Project LOVE</figcaption></figure>	
 
 <p>Overall, the session was a great opportunity for parents to gain a better understanding of the college’s education philosophy, curriculum framework, and support systems. It also provided a chance for Civics Tutors to engage parents as part of a common quest to contribute to our students’ holistic development.</p>	
 </div>
