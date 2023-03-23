@@ -36,7 +36,7 @@ third_nav_title: 2023 Events
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/Matriculation%20&%20Orientation/6%20Cohort%20Photo%20during%20Orientation%20Finale.jpg">
-<figcaption>Cohort Photo during Orientation Finale</i></figcaption></figure>	
+<figcaption>Cohort Photo during Orientation Finale</figcaption></figure>	
 
 
 	
