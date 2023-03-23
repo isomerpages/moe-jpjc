@@ -27,18 +27,18 @@ Registration booth</figcaption></figure>
 <p>To conclude the session, parents had the opportunity to meet with their child’s Civics Tutors where tips on how parents could help their child develop good habits and practice self-regulation were shared. After which, parents participated in Project LOVE, where they penned a letter of encouragement for their child to receive during the JC2 Farewell Assembly, towards their last lap of preparations for the A-Level examinations.	</p>
 	
 <figure>
-<img src="">Interaction with civics tutors</figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/Parent%20Engagement%20Sessions/Photo%203%20-%20Interaction%20with%20civics%20tutors.jpeg"><figcaption>Interaction with civics tutors</figcaption></figure>	
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image10.jpg">
-<figcaption>TDD Trail @ Chinatown</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/Parent%20Engagement%20Sessions/Photo%204%20-%20A%20civics%20tutor%20explaining%20the%20class_%20timetable.jpeg">
+<figcaption>A civics tutor explaining the class timetable</figcaption></figure>	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image3.jpeg">
-<figcaption>TDD Trail @ Kampong Glam</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/Parent%20Engagement%20Sessions/Photo%205%20-%20Parents%20taking%20part%20in%20Project%20LOVE.jpeg">
+<figcaption>Parents taking part in Project LOVE</figcaption></figure>	
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/TDD/image0.jpeg">
-<figcaption>A JC2 class enjoying the Total Defence Day CT lesson on <i>Readiness for Crises and Disruptions</i></figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/Parent%20Engagement%20Sessions/Photo%206%20-%20Parents%20taking%20part%20in%20Project%20LOVE.jpeg">
+<figcaption>Parents taking part in Project LOVE</i></figcaption></figure>	
 
 <p>Overall, the session was a great opportunity for parents to gain a better understanding of the college’s education philosophy, curriculum framework, and support systems. It also provided a chance for Civics Tutors to engage parents as part of a common quest to contribute to our students’ holistic development.</p>	
 </div>
