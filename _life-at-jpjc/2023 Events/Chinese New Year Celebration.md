@@ -1,9 +1,10 @@
 ---
 title: Chinese New Year Celebration
-permalink: /life-at-jpjc/2023-Events/cnycelebration/
+permalink: /life-at-jpjc/2023-events/cnycelebration/
 description: ""
 third_nav_title: 2023 Events
 ---
+
 
 <div align=justify>
 

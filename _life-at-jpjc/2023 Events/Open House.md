@@ -1,9 +1,10 @@
 ---
 title: Open House
-permalink: /life-at-jpjc/2023-Events/openhouse/
+permalink: /life-at-jpjc/2023-events/openhouse/
 description: ""
 third_nav_title: 2023 Events
 ---
+
 <div align= justify>
 
 <p>After a two-year hiatus, Jurong Pioneer Junior College (JPJC) held its #WhyJP Open House on 13 January 2023, and welcomed approximately 1900 visitors to the college. In line with the theme, #WhyJP, which was conceptualised by the Media Production Club, our students and staff provided prospective students and their parents an insight into the five reasons why JP should be the college of choice for them. Our visitors witnessed for themselves the quality education provided, the wide variety of programmes offered, the vibrant student culture, our conducive environment and the warmth of our big JP family, to help them make informed decisions regarding college selection and subject combination.	</p>

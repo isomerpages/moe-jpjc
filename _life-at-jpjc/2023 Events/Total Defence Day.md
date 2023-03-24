@@ -1,9 +1,10 @@
 ---
 title: Total Defence Day
-permalink: /life-at-jpjc/2023-Events/TDD/
+permalink: /life-at-jpjc/2023-events/tdd/
 description: ""
 third_nav_title: 2023 Events
 ---
+
 <div align=justify>
 
 <p>Our college’s commemoration of Total Defence Day (TDD) in February 2023 encompassed a wide range of activities with this year’s TDD theme “Together We Keep Singapore Strong” as its premise. This served as a timely reminder to our students that every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises and disruptions and that we remain resilient and united as one people.</p>

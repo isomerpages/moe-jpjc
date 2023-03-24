@@ -1,9 +1,10 @@
 ---
 title: Orientation Group Leader Camp
-permalink: /life-at-jpjc/2023-Events/OGLC/
+permalink: /life-at-jpjc/2023-events/oglc/
 description: ""
 third_nav_title: 2023 Events
 ---
+
 <div align= justify>
 
 <p>Due to the COVID-19 pandemic, the Orientation Group Leaders Camp (OGLC) 2023 was the first residential camp in three years to be hosted in Jurong Pioneer Junior College. Organised by the 5th Student Council, the three-day-two-night camp was held to prepare the Orientation Group Leaders (OGLs) for their facilitation roles in the upcoming Matriculation and Orientation (M&O) for incoming JC1 students. There was a total of 162 OGLs and 49 Pre-University Seminar student facilitators who participated in the camp. The Pre-University Seminar student facilitators were invited to join the OGLC as the facilitation and debriefing techniques taught during the camp were also vitally relevant to their roles in the 2023 Pre-University Seminar.</p>
