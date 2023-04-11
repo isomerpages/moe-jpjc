@@ -14,32 +14,37 @@ third_nav_title: 2023 Events
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot1.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure>	
+<figcaption>Audience Choice and 1st Runner-up Chong Jun Rong [22A03]</figcaption></figure>	
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot2.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
-
+<figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>
+	
+<figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.jpg">
 <figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
+A snapshot of Ursa House Bonding activities</figcaption></figure>
+	
+<figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot4.jpg">
 <figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
+A snapshot of Ursa House Bonding activities</figcaption></figure>
+	
+<figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot5.jpg">
 <figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
+A snapshot of Ursa House Bonding activities</figcaption></figure>
+	
+<figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot6.jpg">
 <figcaption>
 A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot7.jpg">
 <figcaption>
 A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot8.jpg">
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot9.jpg">
 <figcaption>
 A snapshot of Ursa House Bonding activities</figcaption></figure>	
 	
 	
-<div></div></div>
+</div>
