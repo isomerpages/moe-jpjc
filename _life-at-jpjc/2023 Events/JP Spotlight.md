@@ -41,12 +41,12 @@ third_nav_title: 2023 Events
 <figcaption> Finalist 0511 Victoria [22S03] and Jiawen [22S01]</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.JPG">
-<figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot8.jpg">
+<figcaption>Finalist Vaden Lim [22S15]</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.JPG">
-<figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot9.JPG">
+<figcaption>Student Planning Committee Members</figcaption></figure>	
 	
 	
 </div>
