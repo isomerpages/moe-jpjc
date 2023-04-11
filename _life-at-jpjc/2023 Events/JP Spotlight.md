@@ -21,30 +21,32 @@ third_nav_title: 2023 Events
 <figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.JPG">
+<figcaption> Our Principal, Mr Kevin Ang taking a wefie with the Winner, Iniudicatus</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot4.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot4.jpeg">
+<figcaption> Iniudicatus wefie taken by Mr Ang</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot5.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot5.JPG">
+<figcaption> Standing Ovation for Iniudicatus</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot6.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot6.jpeg">
+<figcaption> 3-UP wefie with Mr Ang</figcaption></figure>
+	
+<figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot7.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure><figure>
-<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot9.jpg">
-<figcaption>
-A snapshot of Ursa House Bonding activities</figcaption></figure>	
+<figcaption> Finalist 0511 Victoria [22S03] and Jiawen [22S01]</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.JPG">
+<figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/JP%20spotlight/jpspot3.JPG">
+<figcaption>2nd Runner-up 3-UP (from left to right) Yiling [22S04], Yeevone [22A05], Mikayla [22A06]</figcaption></figure>	
 	
 	
 </div>
