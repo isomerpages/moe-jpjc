@@ -3,9 +3,9 @@ title: Terms Of Use
 permalink: /terms-of-use/
 description: ""
 ---
-<div align=justify>
+<div align="justify">
 
-Thank you for visiting jpjc.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+<p>Thank you for visiting jpjc.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.</p>
 
 <h4>General</h4>
 
@@ -15,13 +15,13 @@ Thank you for visiting jpjc.moe.edu.sg. By accessing and using this website, you
 <h4>Proprietary Rights</h4>
 
 <ol start="2">
-	<li>This website is maintained by JPJC- Jurong Pioneer Junior College.</li>
+	<li>This website is maintained by JPJC - Jurong Pioneer Junior College.</li>
 	<li>The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by JPJC.</li></ol>
 
 <h4>Privacy Policy</h4>
 
 <ol start="4">
-	<li>Click here to review this website Privacy Statement.</li></ol>
+	<li>Click here to review this website&nbsp;Privacy Statement.</li></ol>
 
 <h4>Restrictions on use of Materials</h4>
 
