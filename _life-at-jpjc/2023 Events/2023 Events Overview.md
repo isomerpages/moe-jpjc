@@ -6,6 +6,7 @@ third_nav_title: 2023 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+8 March 2023|[JP Spotlight](/life-at-jpjc/2023-events/jpspot)
 1 March 2023|[Inaugural House Bonding Day](/life-at-jpjc/2023-events/hbd)
 |27 Jan and 24 February 2023|[Parent Engagement Sessions (J1 and J2)](/life-at-jpjc/2023-events/parentes/)
 |17 February 2023|[GCE A Level Results Release Day](/life-at-jpjc/2023-events/gcealevelresultsreleaseday/)
