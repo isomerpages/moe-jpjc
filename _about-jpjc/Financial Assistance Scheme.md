@@ -16,14 +16,13 @@ description: ""
 <ol class="a">
 <h5><strong><li>MOE Financial Assistance Scheme (MOE FAS)</li></strong></h5>
 
-<p>
-A Singapore Citizen student is eligible for MOE FAS if he or she meets either of the following criteria:</p>
+<p>Singapore Citizen student enrolled in a Government or Government-aided school is eligible for MOE FAS if he/she meets either of the following criteria::</p>
 <ul>
-	<li>Gross Household Income (GHI) not exceeding $2,750 per month OR</li>
-	<li>Per Capita Income (PCI)<sup>*</sup> not exceeding $690 per month</li></ul>
+	<li>Monthly Gross Household Income (GHI) not exceeding $3,000, OR</li>
+	<li>Monthly Per Capita Income (PCI)*&nbsp;not exceeding $750</li></ul>
 
 <p>
-<sup>*</sup>PCI is computed by dividing the gross household income by the number of members in the same household. Household members include the student, his/her parents, grandparents, and unmarried siblings living at the same address. Other dependents living at the same address may be included on a case-by-case basis.</p>
+<sup>*</sup>PCI is computed by dividing the gross household income by the number of members in the same household.&nbsp;Household members include the student, his/her parents, and unmarried siblings of the student, regardless of the address. Grandparents and other dependants living at the same address may be included on a case-by-case basis.</p>
 	
 <h5><strong>MOE FAS Benefits</strong></h5>
 <ul>
