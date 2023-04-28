@@ -12,10 +12,26 @@ third_nav_title: Admission Matters
 
 <h5>Application Procedures</h5>
 <ol>
-<li> All applicants are to submit their application form through the website using the link: [https://dsa.jpjc.edu.sg](https://dsa.jpjc.edu.sg) from <b>4 May 2023</b>, Thursday, onward.&nbsp; All applications must be submitted by	
-		<ul><li>Chinese Language Elective Programme (CLEP)</li>
+<li> All applicants are to submit their application form through the website using the link: [https://dsa.jpjc.edu.sg](https://dsa.jpjc.edu.sg) from <b>4 May 2023</b>, Thursday, onward. All applications must be submitted by	
+
+<ul><li><b> 7 Jul 2023</b>, Friday, 2359hrs for <u>Phase 1</u> Application</li>
+	<li> <b>16 Aug 2023</b>, Wednesday, 2359hrs for <u>Phase 2</u> Application</li></ul>
+
+</li><li>Applicants should clearly indicate their area of interest/talent/expertise and highlight their achievement for the college’s consideration.</li>
+<li>Applicants who are not offered a place in Phase 1 need not re-submit an application for Phase 2 as the first application will be considered for both phases.
+</li>	
+<li> It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately.	</li>
+	<li>All applicants will have to submit the following documents online:	</li>
+
+	
+	
+	
+	
+	
+	
+<ul><li>Chinese Language Elective Programme (CLEP)</li>
 			<li>Malay Language Elective Programme (MLEP)</li>
-			<li>Humanities Programme</li></ul></li>
+			<li>Humanities Programme</li></ul>
 	<li><b>Science, Technology, Engineering and Mathematics</b>
 		<ul><li>Mathematics/Science</li></ul></li>
 	<li><b>Visual Arts, Design &amp; Media</b>
