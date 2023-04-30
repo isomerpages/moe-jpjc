@@ -12,8 +12,6 @@ sections:
       dropdown:
         title: Announcements
         options:
-          - title: JAE Appeals 2023
-            url: /about/Admission-Matters/jae-appeals-2023/
           - title: J1 Matriculation and Orientation Programme 2023
             url: /announcements/j1mo
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
