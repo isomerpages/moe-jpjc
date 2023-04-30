@@ -11,9 +11,7 @@ sections:
       background: /images/top-banner.jpg
       dropdown:
         title: Announcements
-        options:
-          - title: J1 Matriculation and Orientation Programme 2023
-            url: /announcements/j1mo
+        options: []
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
