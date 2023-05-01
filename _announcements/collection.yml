@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - J1 Matriculation and Orientation Programme 2023.md
+    order: []
