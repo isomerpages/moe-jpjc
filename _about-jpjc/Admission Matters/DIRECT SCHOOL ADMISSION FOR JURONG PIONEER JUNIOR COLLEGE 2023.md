@@ -21,9 +21,12 @@ third_nav_title: Admission Matters
 <li>Applicants who are not offered a place in Phase 1 need not re-submit an application for Phase 2 as the first application will be considered for both phases.
 </li>	
 <li> It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately.	</li>
-	<li>All applicants will have to submit the following documents online:	</li>
-
-	
+<li>All applicants will have to submit the following documents online:	</li>
+<ul><li>Secondary 3 End-of-Year and/or Secondary 4 Mid-Year results (if Mid-Year examination was conducted)</li>
+<li>Latest CCA Records</li>
+<li>Art Portfolio (if applicable)</li>
+<li>Relevant certifications and records of achievement in national competitions related to the area of talent</li>
+	<li>Any other supporting documents (if applicable)</li>	
 	
 	
 	
@@ -46,7 +49,7 @@ third_nav_title: Admission Matters
 			<li>Basketball</li>
 			<li>Floorball</li>
 			<li>Football (Boys)</li>
-			<li>Volleyball</li></ul></li></ol>
+			<li>Volleyball</li></ul></li></ul></ol>
 	
 <p>More details about the application process for DSA-JC 2023 will be published on <b><u>3 May 2023</u></b> on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.
 
