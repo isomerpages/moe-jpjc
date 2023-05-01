@@ -12,7 +12,8 @@ third_nav_title: Admission Matters
 
 <h5>Application Procedures</h5>
 <ol>
-<li> All applicants are to submit their application form through the website using the link: [https://dsa.jpjc.edu.sg](https://dsa.jpjc.edu.sg) from <b>4 May 2023</b>, Thursday, onward. All applications must be submitted by	
+<li> All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg/">https://dsa.jpjc.edu.sg</a> from <b>4 May 2023</b>, Thursday, onward. All applications must be submitted by	
+
 
 <ul><li><b> 7 Jul 2023</b>, Friday, 2359hrs for <u>Phase 1</u> Application</li>
 	<li> <b>16 Aug 2023</b>, Wednesday, 2359hrs for <u>Phase 2</u> Application</li></ul>
