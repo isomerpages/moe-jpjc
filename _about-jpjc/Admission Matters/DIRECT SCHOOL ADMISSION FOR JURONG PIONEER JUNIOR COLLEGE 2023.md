@@ -33,35 +33,17 @@ third_nav_title: Admission Matters
 <h5><u>ENQUIRIES</u></h5>
 	
 <p>If you have any enquiries, please contact the following teachers:	
-</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email leo\_ying\_ching@moe.edu.sg or leo\_ying\_ching@schools.gov.sg</li></ul>
+</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg">leo_ying_ching@moe.edu.sg</a> or <a href="mailto=leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
 	
-<ul><li>Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email yeo\_chengfeng@schools.gov.sg</li></ul>
+<ul><li>Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg">yeo_chengfeng@schools.gov.sg</a></li></ul>
 
+	
 <h5><u>DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2023</u></h5>	
 	
-<p>JPJC will consider direct admission for the following programmes and CCAs:	</p>
+<p>JPJC will consider direct admission for the following programmes and CCAs:	
 	
 	
 	
-<ul><li>Chinese Language Elective Programme (CLEP)</li>
-			<li>Malay Language Elective Programme (MLEP)</li>
-			<li>Humanities Programme</li></ul>
-	<li><b>Science, Technology, Engineering and Mathematics</b>
-		<ul><li>Mathematics/Science</li></ul></li>
-	<li><b>Visual Arts, Design &amp; Media</b>
-		<ul><li>Art</li>
-			<li>AVA &amp; PA</li></ul></li>
-	<li><b>Performing Arts</b>
-		<ul><li>Concert Band</li>
-			<li>Choir</li>
-			<li>Chinese Orchestra</li></ul></li>
-	<li><b>Sports &amp; Games</b>
-		<ul><li>Badminton</li>
-			<li>Basketball</li>
-			<li>Floorball</li>
-			<li>Football (Boys)</li>
-			<li>Volleyball</li></ul></li></ol>
-	
-<p>More details about the application process for DSA-JC 2023 will be published on <b><u>3 May 2023</u></b> on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.
 
-	</p></div>
+
+</p></ol></div>
