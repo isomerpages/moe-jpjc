@@ -26,9 +26,19 @@ third_nav_title: Admission Matters
 <li>Latest CCA Records</li>
 <li>Art Portfolio (if applicable)</li>
 <li>Relevant certifications and records of achievement in national competitions related to the area of talent</li>
-	<li>Any other supporting documents (if applicable)</li>	
+<li>Any other supporting documents (if applicable)</li></ul>	
+<li> Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li>
+
+<h5><u>ENQUIRIES</u></h5>
 	
+<p>If you have any enquiries, please contact the following teachers:	
+</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email leo\_ying\_ching@moe.edu.sg or leo\_ying\_ching@schools.gov.sg</li></ul>
 	
+<ul><li>Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email yeo\_chengfeng@schools.gov.sg</li></ul>
+
+<h5><u>DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2023</u></h5>	
+	
+<p>JPJC will consider direct admission for the following programmes and CCAs:	</p>
 	
 	
 	
@@ -49,7 +59,7 @@ third_nav_title: Admission Matters
 			<li>Basketball</li>
 			<li>Floorball</li>
 			<li>Football (Boys)</li>
-			<li>Volleyball</li></ul></li></ul></ol>
+			<li>Volleyball</li></ul></li></ol>
 	
 <p>More details about the application process for DSA-JC 2023 will be published on <b><u>3 May 2023</u></b> on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.
 
