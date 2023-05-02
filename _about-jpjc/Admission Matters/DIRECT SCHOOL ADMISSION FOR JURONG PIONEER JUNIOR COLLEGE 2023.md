@@ -43,7 +43,7 @@ third_nav_title: Admission Matters
 <p>JPJC will consider direct admission for the following programmes and CCAs:	
 	
 
-<iframe scrolling="no" height="5700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vTbxqDE1r90HUysziIv8DIoxtqdktBhzsAm0jlIoUeTrh2e5lzXvlDPQyPPWKFk9Q/pub?embedded=true"></iframe>				
+<iframe scrolling="no" height="5900px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vTbxqDE1r90HUysziIv8DIoxtqdktBhzsAm0jlIoUeTrh2e5lzXvlDPQyPPWKFk9Q/pub?embedded=true"></iframe>				
 
 	
 
