@@ -33,7 +33,7 @@ third_nav_title: Admission Matters
 <h5><u>ENQUIRIES</u></h5>
 	
 <p>If you have any enquiries, please contact the following teachers:	
-</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. <a href="tel:65646878">65646878</a> or email <a href="mailto:leo_ying_ching@moe.edu.sg">leo_ying_ching@moe.edu.sg</a> or <a href="mailto=leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
+</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. <a href="tel:65646878">65646878</a> or email <a href="mailto:leo_ying_ching@moe.edu.sg">leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
 	
 <ul><li>Mr Yeo Chengfeng, Acting Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg">yeo_chengfeng@schools.gov.sg</a></li></ul>
 
