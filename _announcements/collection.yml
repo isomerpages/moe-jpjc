@@ -1,6 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - J1 Parents’ Engagement on Subject Combination.md
-      - J1 Matriculation and Orientation Programme 2023.md
+    order: []
