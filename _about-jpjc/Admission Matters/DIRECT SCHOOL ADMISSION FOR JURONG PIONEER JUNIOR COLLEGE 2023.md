@@ -6,7 +6,7 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">
 
-<p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2023. Successful DSA-JC candidates will gain admission to JPJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results..</p>
+<p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2023. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. Students from non-mainstream schools and those without O-Level results, regardless of nationality, may also apply for DSA-JC.</p>
 
 <p>Please note that <em>successful DSA-JC candidates will <b>NOT</b> be allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools.</em></p>
 
