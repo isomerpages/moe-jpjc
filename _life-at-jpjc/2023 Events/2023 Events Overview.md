@@ -6,6 +6,8 @@ third_nav_title: 2023 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+12 April 2023|[International Friendship Day Commemoration](/life-at-jpjc/2023-events/ifd)
+17 March 2023|[Leadership Training Camp 2023 (W2 W4 W7 Sec Schools)](/life-at-jpjc/2023-events/ltc)
 8 March 2023|[JP Spotlight](/life-at-jpjc/2023-events/jpspot)
 1 March 2023|[Inaugural House Bonding Day](/life-at-jpjc/2023-events/hbd)
 |27 Jan and 24 February 2023|[Parent Engagement Sessions (J1 and J2)](/life-at-jpjc/2023-events/parentes/)
