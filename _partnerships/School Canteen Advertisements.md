@@ -22,3 +22,17 @@ description: JPJC Canteen Advertisements
 		<td><center>Halal Rice and other food</center></td></tr></tbody></table>
 	
 <h3>Application Procedure</h3></div>
+
+<ol>
+	<li>Download and complete the application form <a href="/files/Partnerships/Canteen/canteen%20application%20form.pdf">here</a>. You may also request for a hardcopy from the School’s General Office.</li>
+	<li>Attach the following documents together with the application form:
+		<ul>
+			<li>Photocopy of NRIC (front and back)</li>
+			<li>List of proposed menu and pricing for all items</li>
+			<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li></ul></li>
+	<li>Submit the completed application form and documents by closing date via email OR to the School’s General Office:
+		<ul>
+			<li>Address: 21 Teck Whye Walk, Singapore 688258</li>
+			<li>Contact number: <a href="tel:+6565646878">+65 6564 6878</a></li>
+			<li>Email: <a href="mailto: jpjc@moe.edu.sg">jpjc@moe.edu.sg</a></li>
+			<li>Contact Person: Mdm Ang Soh Luan</li></ul></li></ol>
