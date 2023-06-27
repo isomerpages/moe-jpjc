@@ -36,3 +36,16 @@ description: JPJC Canteen Advertisements
 			<li>Contact number: <a href="tel:+6565646878">+65 6564 6878</a></li>
 			<li>Email: <a href="mailto: jpjc@moe.edu.sg">jpjc@moe.edu.sg</a></li>
 			<li>Contact Person: Mdm Ang Soh Luan</li></ul></li></ol>
+			
+<h6>Interested applicants must meet the following criteria:</h6>
+
+<ul>
+	<li>Valid Basic Food Hygiene Certificate approved by NEA/SFA (photocopy required).</li>
+	<li>Canteen assistant must have valid Basic Food Hygiene Certificate approved by NEA/SFA (photo copy required)</li>
+	<li>Familiar with Basic HMSP is preferred (photo copy required)</li>
+	<li>Fit and healthy</li>
+	<li>Experience in operating a canteen stall in Secondary Schools or Junior Colleges</li>
+	<li>Able to operate the canteen stall from 8am to 5pm daily during school week</li>
+	<li>Singaporean or Permanent Resident only (photocopy of NRIC- both sides)</li>
+	<li>To provide a complete / full pricing for proposed food items for sales at the canteen (as part of the submission)</li></ul>
+	
