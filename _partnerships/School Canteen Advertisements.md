@@ -34,9 +34,11 @@ description: JPJC Canteen Advertisements
 		<ul>
 			<li>Address: 21 Teck Whye Walk, Singapore 688258</li>
 			<li>Contact number: <a href="tel:+6565646878">+65 6564 6878</a></li>
-			<li>Email: <a href="mailto: jpjc@moe.edu.sg">jpjc@moe.edu.sg</a></li>
+			<li>Email: <a href="mailto: jpjc@moe.edu.sg">jpjc@moe.edu.sg</a></li>, <a href="mailto: ang_soh_luan@moe.edu.sg">ang_soh_luan@moe.edu.sg</a>
 			<li>Contact Person: Mdm Ang Soh Luan</li></ul></li></ol>
 			
+<h3>Eligibility Criteria</h3>
+
 <h6>Interested applicants must meet the following criteria:</h6>
 
 <ul>
@@ -48,4 +50,3 @@ description: JPJC Canteen Advertisements
 	<li>Able to operate the canteen stall from 8am to 5pm daily during school week</li>
 	<li>Singaporean or Permanent Resident only (photocopy of NRIC- both sides)</li>
 	<li>To provide a complete / full pricing for proposed food items for sales at the canteen (as part of the submission)</li></ul>
-	
