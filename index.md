@@ -14,6 +14,8 @@ sections:
         options:
           - title: Direct School Admission 2023
             url: /about-jpjc/admission-matters/dsa2023/
+          - title: School Canteen Advertisements
+            url: /partnerships/schoolcanteen/
       subtitle: Weaving Legacies A tribute to the past, A step towards the future.
   - infopic:
       title: Deepening knowledge
