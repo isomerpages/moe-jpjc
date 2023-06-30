@@ -29,7 +29,7 @@ third_nav_title: Students
 
 <table>
 	<tbody><tr>
-		<td><h4><center>CCA</center></h4></td>
+		<td><h4><center>CCA/Category</center></h4></td>
 		<td><h4><center>Award achieved</center></h4></td></tr>
 	
 <tr>
@@ -53,4 +53,31 @@ third_nav_title: Students
 			<td><h6><center><u>100m Freestyle - 8th</u><br>
 				Edward Lie Yee Wei (23A01)<br>
 				<u>50m Breaststroke - 9th</u><br>
-				Edward Lie Yee Wei (23A01)</center></h6></td></tr></tbody></table>
+				Edward Lie Yee Wei (23A01)</center></h6></td></tr>
+		<tr>
+			<td><h5><center><br><br>Wushu</center></h5></td>
+			<td><h6><center><u>1<sup>st</sup> International Nan Dao</u><br>
+				Ang Kai Ze, Dominic (23A06)<br>
+				<u>1<sup>st</sup> International Nan Gun</u><br>
+				Ang Kai Ze, Dominic (23A06)</center></h6></td></tr>
+		<tr>
+			<td><h5><center><br><br><br><br><br><br>Sportsmanship Award</center></h5></td>
+			<td><h6><center>
+				<u>Basketball</u><br>
+				Claudia Wong Hui En (22A02)<br>
+				Ling Tian Le Rayvier (22S01)<br><br>
+				<u>Taekwondo</u><br>
+				Su Jiayu (23A01)<br>
+				Muhammad Dani Mirza Bin Ahmad Affandi (22S21)<br><br>
+				<u>Volleyball</u><br>
+				Mabel Lim Pin Yu (22A06)<br>
+				Teo Wan Qin (22S15)<br>
+				Chua Zhun Kai (22A06)<br></center></h6><h6></h6></td></tr></tbody></table>
+
+<h3><center>Other CCA Achievements</center></h3>
+
+
+	<h4><center>CCA</center></h4>
+	<h4><center>Competition/Event</center></h4>
+	<h4><center>Accomplishment</center></h4>
+		
