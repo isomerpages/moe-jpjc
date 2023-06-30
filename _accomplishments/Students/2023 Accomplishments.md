@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 <div align="justify">
 
-<h3>Singapore Youth Festival
+<h3><center>Singapore Youth Festival</center></h3>
 
 <table>
 	<tbody><tr>
@@ -23,4 +23,6 @@ third_nav_title: Students
 				Concert Band</center></h6></td></tr>
 	<tr>
 		<td><h6><center>Certificate of Commendation</center></h6></td>
-		<td><h6><center>Guitar Ensemble</center></h6></td></tr></tbody></table></h3></div>
+		<td><h6><center>Guitar Ensemble</center></h6></td></tr></tbody></table>
+	
+</div>
