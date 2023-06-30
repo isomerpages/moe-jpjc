@@ -76,8 +76,13 @@ third_nav_title: Students
 
 <h3><center>Other CCA Achievements</center></h3>
 
-
-	<h4><center>CCA</center></h4>
-	<h4><center>Competition/Event</center></h4>
-	<h4><center>Accomplishment</center></h4>
-		
+<table>
+	<tbody><tr>
+		<td><h4><center>CCA</center></h4></td>
+		<td><h4><center>Competition/Event</center></h4></td>
+		<td><h4><center>Accomplishment</center></h4></td></tr>
+	<tr>
+		<td><h5><center>Touch Rugby</center></h5></td>
+		<td><h6><center>National Junior Colleges Touch Championships</center></h6></td>
+		<td><h6><center>Team 4<sup>th</sup></center></h6></td></tr>
+	</tbody></table>
