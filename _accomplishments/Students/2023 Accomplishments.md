@@ -34,10 +34,11 @@ third_nav_title: Students
 	
 <tr>
 	<td><h5><center><br><br><br>Athletics</center></h5></td>
-	<td><h6><center>800m Finals - Achieved 2nd [Lee Wen Jie (22S21)]<br>
-		Cross Country:<br>
+	<td><h6><center><u>800m Finals - 2nd</u><br>Lee Wen Jie (22S21)<br>
+		<u>Cross Country:</u><br>
 		12<sup>th</sup> place: Lee Wen Jie (22S21)<br>
-		16<sup>th</sup>place: Lieu Cea Jay Dylan (22S19)</center></h6></td></tr>
+		16<sup>th</sup> place: Lieu Cea Jay Dylan (22S19)<br>
+		18<sup>th</sup> place: Lieu Yea Jay Erwin (22S15)</center></h6></td></tr>
 	<tr>
 		<td><h5><center><br><br>Taekwondo</center></h5></td>
 		<td><h6><center>Individual:<br>
@@ -46,4 +47,10 @@ third_nav_title: Students
 			6 Silver &amp; 9 Bronze</center></h6></td></tr>
 		<tr>
 			<td><h5><center><br>Volleyball</center></h5></td>
-			<td><h6><center>4<sup>th</sup> National</center></h6></td></tr></tbody></table>
+			<td><h6><center>4<sup>th</sup> National</center></h6></td></tr>
+		<tr>
+			<td><h5><center><br><br>Swimming</center></h5></td>
+			<td><h6><center><u>100m Freestyle - 8th</u><br>
+				Edward Lie Yee Wei (23A01)<br>
+				<u>50m Breaststroke - 9th</u><br>
+				Edward Lie Yee Wei (23A01)</center></h6></td></tr></tbody></table>
