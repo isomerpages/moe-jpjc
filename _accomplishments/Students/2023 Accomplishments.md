@@ -25,4 +25,4 @@ third_nav_title: Students
 		<td><h6><center>Certificate of Commendation</center></h6></td>
 		<td><h6><center>Guitar Ensemble</center></h6></td></tr></tbody></table>
 	
-</div>
+<h3><center>National School Games</center></h3></div>
