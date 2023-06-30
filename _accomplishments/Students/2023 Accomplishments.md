@@ -85,4 +85,16 @@ third_nav_title: Students
 		<td><h5><center>Touch Rugby</center></h5></td>
 		<td><h6><center>National Junior Colleges Touch Championships</center></h6></td>
 		<td><h6><center>Team 4<sup>th</sup></center></h6></td></tr>
+		<tr>
+			<td><h5><center>Chinese Cultural Society</center></h5></td>
+			<td><h6><center>National Short Film Competition</center></h6></td>
+			<td><h6><center>Most popular short film</center></h6></td></tr>
+		<tr>
+			<td><h5><center>Debate</center></h5></td>
+			<td><h6><center>NUSPA Debate Series</center></h6></td>
+			<td><h6><center>Plate Champion</center></h6></td></tr>
+		<tr>
+			<td><h5><center>Media Production</center></h5></td>
+			<td><h6><center>N.E.mation!</center></h6></td>
+			<td><h6><center>National Top 10</center></h6></td></tr>
 	</tbody></table>
