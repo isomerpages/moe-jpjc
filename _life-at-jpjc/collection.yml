@@ -2,9 +2,9 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2023 Events/J2 SG Perspectives Dialogue.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
+      - 2023 Events/J2 SG Perspectives Dialogue.md
       - 2023 Events/International Friendship Day Commemoration.md
       - 2023 Events/Leadership Training Camp 2023 (W2 W4 W7 Sec Schools).md
       - 2023 Events/JP Spotlight.md
