@@ -22,8 +22,8 @@ third_nav_title: 2023 Events
 
 <p>(f) <b>Understanding Self as Leaders</b> – a segment that offered opportunities for leaders to reflect on their personalities, leadership and conflict management styles, and how these differences between them and their CCA partners could be used constructively, to lead the CCA;</p>
 
-In order to maximise learning, the entire camp was conducted using an experiential learning approach, in which the student leaders gained knowledge and skills primarily through gamification, case studies, simulation exercises and discussions, facilitated by the SPC and the teachers. As a conclusion to the camp, SH/Student Leadership Mr Nur Izhar issued a Teachers’ Challenge to all CCA leaders, which involved all camp participants to work together to solve various missions around the school. The newly-elected leaders worked synergistically together in their attempts to overcome the challenge – a testament to their drive, perseverance and their readiness to lead. The CCA leaders were also issued with a CCA leaders’ T-shirt upon the completion of the camp, which has since been introduced as part of the approved list of T-shirts that could be worn as part of the college’s half uniform. To instil a sense of pride and unity, this CCA T-shirt will be worn every Wednesday.
-<p></p>
+<p>In order to maximise learning, the entire camp was conducted using an experiential learning approach, in which the student leaders gained knowledge and skills primarily through gamification, case studies, simulation exercises and discussions, facilitated by the SPC and the teachers. As a conclusion to the camp, SH/Student Leadership Mr Nur Izhar issued a Teachers’ Challenge to all CCA leaders, which involved all camp participants to work together to solve various missions around the school. The newly-elected leaders worked synergistically together in their attempts to overcome the challenge – a testament to their drive, perseverance and their readiness to lead. The CCA leaders were also issued with a CCA leaders’ T-shirt upon the completion of the camp, which has since been introduced as part of the approved list of T-shirts that could be worn as part of the college’s half uniform. To instil a sense of pride and unity, this CCA T-shirt will be worn every Wednesday.
+</p>
 
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%201.JPG">
@@ -59,5 +59,3 @@ In order to maximise learning, the entire camp was conducted using an experienti
 
 
 </div>
-
-
