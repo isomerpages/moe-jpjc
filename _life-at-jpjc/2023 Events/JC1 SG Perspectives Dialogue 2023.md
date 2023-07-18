@@ -15,20 +15,5 @@ third_nav_title: 2023 Events
 <img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg1.jpg">
 <figcaption>Mr Richard Grosse addressing the JC1 cohort on Singapore’s Foreign Policy.</figcaption></figure>
 
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg2.jpg">
-<figcaption> Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg3.jpg">
-<figcaption> Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg4.jpg">
-<figcaption>  Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg5.jpg">
-<figcaption>  Michael Koh, 23S22, posing a question about the challenges that Singapore faces in its foreign policy</figcaption></figure>
-	
+
 </div>
