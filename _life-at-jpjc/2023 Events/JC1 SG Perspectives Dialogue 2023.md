@@ -12,36 +12,23 @@ third_nav_title: 2023 Events
 
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%201.JPG">
-<figcaption>Combined photo of J1 CCA leaders, J2 SPC and Group Facilitators, as well as teachers from the Student Leadership Committee and Student Council, taken at the end of the camp.</figcaption></figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg1.jpg">
+<figcaption>Mr Richard Grosse addressing the JC1 cohort on Singapore’s Foreign Policy.</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%202.JPG">
-<figcaption>    J1 CCA leaders, J2 SPC and Group Facilitators forming the JPJC college crest as part of the Teacher’s Challenge.</figcaption></figure>
-
+<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg2.jpg">
+<figcaption> Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
+	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%203.JPG">
-<figcaption>      J1 CCA leaders in the midst of clearing their penalty after failing to complete their mission during the Grit, Resilience and Drive component.</figcaption></figure>
-
+<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg3.jpg">
+<figcaption> Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
+	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%204.JPG">
-<figcaption> Acting HOD ICT Ms Michelle Quek facilitating the segment on Humanity in Leadership by posing questions to Vice-President (House) Elias from 23A07.</figcaption></figure>
-
+<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg4.jpg">
+<figcaption>  Mr Richard Grosse addressing questions from the students during the Q&amp;A segment.</figcaption></figure>
+	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%205.JPG">
-<figcaption> SH Student Leadership Mr Nur Izhar sharing with students the existence of tensions (or polarities) when leading others, and how it is important to strike a balance.</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%206.JPG">
-<figcaption>    J2 CCA leaders who contributed to the camp either as Student Planning Committee members or Group Facilitators.</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%207.JPG">
-<figcaption>    One of the LTC groups during the Teachers’ Challenge segment.</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/LTC2023/ltc%20photo%208.JPG">
-<figcaption>  One of the many group discussions during the camp. The J1 CCA leaders were placed in mixed groups, allowing them to hear the perspectives of others and to ensure richer sharing and learning.</figcaption></figure>
-
-
+<img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg5.jpg">
+<figcaption>  Michael Koh, 23S22, posing a question about the challenges that Singapore faces in its foreign policy</figcaption></figure>
+	
 </div>
