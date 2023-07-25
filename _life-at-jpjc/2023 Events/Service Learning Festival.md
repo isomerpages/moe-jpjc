@@ -12,7 +12,6 @@ third_nav_title: 2023 Events
 
 <p>Overall, the Service Learning Festival served as a platform for students to deepen their understanding of social issues, explore meaningful avenues for involvement, and foster a sense of service and empathy. The event empowered students to become compassionate and responsible citizens who are willing to step up and make significant contributions to society.</p>
 
-
 <figure>
 <img src="images/Life%20%40%20JPJC/2023%20Events/Service%20Learning%20Festival%202023/service1.jpg">
 <figcaption>Invited Speakers (J1 session)</figcaption></figure>
