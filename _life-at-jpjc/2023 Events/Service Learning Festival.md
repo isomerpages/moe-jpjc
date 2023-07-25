@@ -34,7 +34,7 @@ third_nav_title: 2023 Events
 	
 	
 <figure>
-<img src="images/Life%20%40%20JPJC/2023%20Events/Service%20Learning%20Festival%202023/service5.jpg">
+<img src="images/Life%20%40%20JPJC/2023%20Events/Service%20Learning%20Festival%202023/service5.JPG">
 <figcaption>Mascots from Singapore Association of the Visually Handicapped (SAVH)</figcaption></figure>
 
 </div>
