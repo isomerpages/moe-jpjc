@@ -17,4 +17,8 @@ The JC1 CCE Representatives subsequently attended our college’s first ever Pro
 <p>
 A week later, on Wednesday, the 19th of July 2023, student leaders from the Community Engagement Council collaborated with the Student Council, Chinese Cultural Society, Malay Cultural Society, playArt and numerous teacher and student volunteers, to organise the Racial Harmony Day (RHD) Carnival. The wide variety of colourful traditional ethnic costumes worn by students helped to create a festive atmosphere on the day itself. The Carnival – the focal finale event of our college’s RHD Commemoration – saw an unprecedented 9 cultural booths, featuring Chinese, Malay, Indian, Eurasian, Filipino, Thai, Burmese, Japanese and Korean cultures. These diverse were showcased during the Carnival, together with a concurrent RHD-themed Wellness Bazaar, and helped to conclude this significant annual milestone event on a high note.</p>
 
+	
+https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom1.jpg	
+	
+	
 </div>
