@@ -2,10 +2,10 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2023 Events/Pre University Seminar.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
       - 2023 Events/Racial Harmony Day Commemoration.md
+      - 2023 Events/Pre University Seminar.md
       - 2023 Events/Leadership Training Camp 2023.md
       - 2023 Events/JC1 SG Perspectives Dialogue 2023.md
       - 2023 Events/Partnership & Outreach Activities Semester 1.md
