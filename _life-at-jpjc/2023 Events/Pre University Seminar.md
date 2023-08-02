@@ -30,7 +30,7 @@ All in all, this platform has offered unique opportunities for students to conne
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem2.jpg">
-<figcaption>Our Principal Mr Kevin Ang, giving the Welcome Address.</figcaption></figure>
+<figcaption>Our principal, Mr Kevin Ang, giving the Welcome Address.</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem3.jpg">
