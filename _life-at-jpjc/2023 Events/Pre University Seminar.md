@@ -24,4 +24,49 @@ Throughout the event, dialogue sessions with experts, learning journeys, and pan
 <p>
 All in all, this platform has offered unique opportunities for students to connect, exchange ideas, and contribute to shaping Singapore's path towards a prosperous future. Through the fruitful discussions and interactions, they will be well-equipped to co-create a better tomorrow for Singapore.</p>
 
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem1.jpg">
+	<figcaption>Opening Ceremony Emcees – All Set and Ready!</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem2.jpg">
+<figcaption>Our Principal Mr Kevin Ang, giving the Welcome Address.</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem3.jpg">
+<figcaption>Minister Chan Chun Sing giving the Opening Speech</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem4.jpg">
+<figcaption>Panel Discussion helmed by Teacher, Ms Thandar and Student Moderator Ng Hai Han Josh (22S16)<br>
+From left: Ms Thandar, Josh, Professor Elvin Lim, Ms Chelvin Loh and Mr Loh Lik Peng</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem5.jpg">
+<figcaption>Participants on their learning journey at City Sprout Singapore</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem6.jpg">
+<figcaption>Mr Sufian bin Ahmad, one of JPJC’s Teacher Facilitators, sharing his personal experiences during one of the learning journeys – the Choa Chu Kang Community Trail</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem7.jpg">
+<figcaption>Team-building through games and activities</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem8.jpg">
+<figcaption>A wefie, post-group games</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem9.jpg">
+<figcaption>Deputy Prime Minister, Mr Lawrence Wong, listening to a student’s presentation at the Closing Ceremony</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem10.jpg">
+<figcaption>Deputy Prime Minister, Mr Lawrence Wong engaging the participants in a Q&amp;A session</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Events/Preusem/preusem11.jpg">
+<figcaption>“It’s a wrap!” – a jubilant parting shot for the co-organisers of Pre-University Seminar 2023, Jurong Pioneer Junior College</figcaption></figure>
+
 </div>
