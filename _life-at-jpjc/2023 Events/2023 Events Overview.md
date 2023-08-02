@@ -6,7 +6,7 @@ third_nav_title: 2023 Events
 ---
 | Date | Events | 
 | -------- | -------- |
-12 & 19 July|
+12 & 19 July|[Racial Harmony Day Commemoration](/life-at-jpjc/2023-events/rhd/)
 26-27 May 2023|[Leadership Training Camp 2023](/life-at-jpjc/2023-events/ltc2023/)
 24 May 2023|[JC1 SG Perspectives Dialogue](/life-at-jpjc/2023-events/jc1sgperspective)
 19 May 2023|[DSA Tea Session](/life-at-jpjc/2023-events/dsateasession/)
