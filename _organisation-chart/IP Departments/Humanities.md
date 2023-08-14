@@ -14,7 +14,7 @@ third_nav_title: IP Departments
 
 <h2>History</h2>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvtXq2TqgZ1Ot9w18ScmI-m0yEl6FYdaTvMFPne0gT5t9TRq5VJBfah0K4XMg9_hbjikB5y6Hg26sD/pub?embedded=true" width="800px" height="190px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvtXq2TqgZ1Ot9w18ScmI-m0yEl6FYdaTvMFPne0gT5t9TRq5VJBfah0K4XMg9_hbjikB5y6Hg26sD/pub?embedded=true" width="800px" height="200px" scrolling="no"></iframe>
 
 <h2>Art</h2>
 
