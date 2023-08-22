@@ -15,39 +15,12 @@ third_nav_title: 2023 Events
 <p>  All in all, STEAM Day certainly provided some respite for the student population in the midst of an academically hectic Term 3. An immersive experience, the hands-on elements at each booth enabled both staff and students to engage in experiential learning, as they witnessed the application of a scientific concept and gained insight into Arts and Social Sciences related research topics in a light-hearted manner.</p>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/steamday/steam1.jpg">
-<figcaption>Racial Harmony Day 2023 with the JP Family.</figcaption></figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam1.JPG">
+<figcaption>ASSIP Students sharing about how light affects human perception in various settings</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom2.jpg">
-<figcaption> Our principal, Mr Ang, with students dressed in ethnic costumes at the Thailand Booth.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom3.jpg">
-<figcaption> The beautifully decorated Myanmar Booth, helmed by Ms Thandar of the English Department.</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom4.jpg">
-<figcaption> Students at the Japan Booth.</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom5.jpg">
-<figcaption>Students at the India Booth, carefully creating Henna art for their peers.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom6.jpg">
-<figcaption> Students manning the South Korea Booth, dressed in a diverse variety of ethnic wear.</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom7.jpg">
-<figcaption>  The Malay Booth representatives, teaching their peeras and teachers how to play the traditional game of Congkak.
-</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom8.jpg">
-<figcaption> The booths were busy and vibrant with many students trying their hand at traditional games. Pictured here is the Filipino Booth, where students attempted to throw slippers to knock down cans</figcaption></figure>
-	
-	
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam2.JPG">
+<figcaption>Student Participants racking their brains over Sudoku puzzles at the Most Popular Mathematics booth</figcaption></figure>
 	
 	
 </div>
