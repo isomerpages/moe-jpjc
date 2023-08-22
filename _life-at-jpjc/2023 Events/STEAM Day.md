@@ -19,11 +19,31 @@ third_nav_title: 2023 Events
 <figcaption>ASSIP Students sharing about how light affects human perception in various settings</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam2.JPG">
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam2.jpg">
 <figcaption>Student Participants racking their brains over Sudoku puzzles at the Most Popular Mathematics booth</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam3.JPG">
+<figcaption>Students experiencing the prismatic wonders of Chemistry - a shake is all it takes for the contents of the flask to change colour!</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam4.JPG">
+<figcaption>Viewing infinite possibilities under the microscope at the More Than Meets the Eye Biology booth!</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam5.JPG">
+<figcaption>Literally a Hands-on Experience with Oobleck, a Non-Newtonian Fluid that flows yet hardens upon impact</figcaption></figure>	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam6.jpg">
+<figcaption>All ready for Robocar Racing, a remote-controlled car built using microbits and Lego blocks</figcaption></figure>	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam7.JPG">
+<figcaption>In Action - Robocar Racing, a remote-controlled car built using microbits and Lego blocks</figcaption></figure>	
+	
+	
+	
+	
 	
 	
 </div>
 
-
-https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Life%20%40%20JPJC/2023%20Events/STEAM/steam1.JPG
