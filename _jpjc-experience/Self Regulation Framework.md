@@ -17,23 +17,25 @@ description: ""
 
 <p><strong>Daily routines:</strong></p>
 
-<p>*   What is the daily routine that I have to put in place to achieve my short-term and long-term goals?</p>
-	<p>&emsp;&emsp;*   How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?</p>
-		
-<p>&emsp;&emsp;*   How can I ensure that I commit effectively to this plan?</P>
+<ul>
+	<li>What is the daily routine that I have to put in place to achieve my short-term and long-term goals?</li>
+	<li>How can I plan, and allocate time realistically, for my academic studies, CCA, family and other interests?</li>
+	<li>How can I ensure that I commit effectively to this plan?</li></ul>
 	
 	
 <p><strong>Learning habits:</strong></p>
 
-<p>*   What are the good learning habits that I have to put in place to achieve my short-term and long-term goals?</p>
- <p>&emsp;&emsp;*   Do I know effective subject-specific study skills?</p>
+<ul>
+	<li>What are the good learning habits that I have to put in place to achieve my short-term and long-term goals?</li>
+	<li>Do I know effective subject-specific study skills?</li></ul>
 	
 <p><strong>Self-care:</strong></p>
 
-<p>*   How can I take care of myself?</p>
-    
-<p>&emsp;&emsp;*   What are my physical, intellectual, emotional &amp; social needs?</p>
-    <p>&emsp;&emsp;*   What do I need to pay more attention to?</p>
-    <p>&emsp;&emsp;	*   How can I get myself to be more mindful?</p>
+<ul>
+	<li>How can I take care of myself?</li>
+	<ul>
+		<li>What are my physical, intellectual, emotional &amp; social needs?</li>
+		<li>What do I need to pay more attention to?</li>
+		<li>How can I get myself to be more mindful?</li></ul></ul></ol></div>
  
- </ol></div>
+ 

@@ -6,11 +6,13 @@ third_nav_title: 2023 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+2 August 2023|[STEAM Day](/life-at-jpjc/2023-events/steamday)
 12 & 19 July 2023|[Racial Harmony Day Commemoration](/life-at-jpjc/2023-events/rhd/)
-29 May - 1 June 2023|[Pre-University Seminar](/life-at-jpjc/2023-events/preusem/)
+5 July 2023|[Post Examination Activities Engagement](/life-at-jpjc/2023-events/postexam)
+29 May to 1 June 2023|[Pre University Seminar](/life-at-jpjc/2023-events/preusem/)
 26-27 May 2023|[Leadership Training Camp 2023](/life-at-jpjc/2023-events/ltc2023/)
 24 May 2023|[JC1 SG Perspectives Dialogue](/life-at-jpjc/2023-events/jc1sgperspective)
-19 May 2023|[DSA Tea Session](/life-at-jpjc/2023-events/dsateasession/)
+19 May 2023|[Partnership & Outreach Activities Semester 1](/life-at-jpjc/2023-events/dsateasession/)
 3 May 2023|[JC2 SG Perspectives Dialogue](/life-at-jpjc/2023-events/j2sgp2023/)
 12 April 2023|[International Friendship Day Commemoration](/life-at-jpjc/2023-events/ifd)
 5 April 2023|[Service Learning Festival](/life-at-jpjc/2023-events/slf/)
