@@ -6,11 +6,10 @@ description: ""
 <figure>
 <img src="/images/JPJC%20Experience/Total%20Curriculum%20Framework/pic1.jpg">
 </figure>
-<div align=justify>
+<div align="justify">
 <p> <style>ol.a{list-style-type: upper-alpha;}</style>
-<ol class="a">
-Guided by our mission to nurture a community of active learners, innovative thinkers and compassionate leaders, with confidence for the future, the JPJC Total Curriculum Framework sets the direction for the implementation of the curriculum and co-curriculum in order to achieve the desired outcomes for our students. The framework identifies six key enablers to be adopted by all staff to help our students meet their goals and aspirations. With the college values as our core and foundation, underpinned by our common beliefs, all staff and students aspire towards our college vision together.
-</p>
+</p><ol class="a">
+Guided by our mission to nurture a community of active learners, innovative thinkers and compassionate leaders, with confidence for the future, the JPJC Total Curriculum Framework sets the direction for the implementation of the curriculum and co-curriculum in order to achieve the desired outcomes for our students. The framework identifies six key enablers to be adopted by all staff to help our students meet their goals and aspirations. With the college values as our core and foundation, underpinned by our common beliefs, all staff and students aspire towards our college vision together.<p></p>
 
 <style>ol.a{list-style-type: upper-alpha;}</style>
 <ol class="a">
@@ -23,10 +22,10 @@ We believe in the potential of our students. To enable all students to discover 
 We seek to inculcate a self-directed learning disposition in our students such that as <strong>active learners</strong>, they possess a drive to learn, unlearn and re-learn throughout life. To achieve personal excellence, they commit to give their best in their pursuits, take initiative to seek continuous improvement and overcome challenges.</p>
 	
 <p>
-We enable our students to be <strong>innovative thinkers</strong> by broadening their thinking and developing their creativity. Critical thinkers with the curiosity for new and different ideas will be able to analyse problems deeply, identify opportunities for growth and create thoughtful and ethical solutions for positive change.</p>
+We enable our students to be&nbsp;<strong>innovative thinkers</strong>&nbsp;by broadening their thinking and developing their creativity. Critical thinkers with the curiosity for new and different ideas will be able to analyse problems deeply, identify opportunities for growth and create thoughtful and ethical solutions for positive change.</p>
 	
 <p>
-We place a strong emphasis on character and citizenship education with the goal to nurture <strong>compassionate leaders</strong> who demonstrate care and empathy for others and contribute actively to make a meaningful impact to the community.
+We place a strong emphasis on character and citizenship education with the goal to nurture&nbsp;<strong>compassionate leaders</strong>&nbsp;who demonstrate care and empathy for others and contribute actively to make a meaningful impact to the community.
 </p>
 	
 <p>
@@ -38,19 +37,19 @@ We are committed to equipping our students with the relevant knowledge, skills a
 The college believes in the importance of values-driven education to bring about the desired outcomes of education, so as to enable our students to thrive as concerned and active citizens of the nation and the global community.</p>
 
 <p>
-We encourage our students to have the <strong>integrity</strong> and moral courage to stand up for what is right. The integrity of every student is essential to building trust and developing constructive relationships with others.</p>
+We encourage our students to have the&nbsp;<strong>integrity</strong>&nbsp;and moral courage to stand up for what is right. The integrity of every student is essential to building trust and developing constructive relationships with others.</p>
 	
 <p>
-We commit to developing students and leaders who have a strong sense of <strong>responsibility</strong> and duty to self, family and community. They put in their best effort in whatever they do.</p>
+We commit to developing students and leaders who have a strong sense of&nbsp;<strong>responsibility</strong>&nbsp;and duty to self, family and community. They put in their best effort in whatever they do.</p>
 	
 <p>
-We instill the quality of <strong>respect</strong> in our students by developing their positive self-worth while valuing the beliefs and contributions of others.</p>
+We instill the quality of&nbsp;<strong>respect</strong>&nbsp;in our students by developing their positive self-worth while valuing the beliefs and contributions of others.</p>
 	
 <p>
-We strengthen our students’ <strong>resilience</strong> to navigate adversity and inculcate the belief that overcoming setbacks enables them to achieve their goals.</p>
+We strengthen our students’&nbsp;<strong>resilience</strong>&nbsp;to navigate adversity and inculcate the belief that overcoming setbacks enables them to achieve their goals.</p>
 	
 <p>
-We cultivate our students’ <strong>compassion</strong> to show care and concern for as well as to be sensitive to the needs of others, so that they reach out to lend a hand to those in need.</p>
+We cultivate our students’&nbsp;<strong>compassion</strong>&nbsp;to show care and concern for as well as to be sensitive to the needs of others, so that they reach out to lend a hand to those in need.</p>
 
 <h5><strong><li>Enablers</li></strong></h5>
 	<h6><u>E1: Well-Rounded Curriculum</u></h6>
@@ -81,6 +80,6 @@ The college seeks to establish impactful and sustainable partnerships with stake
 <p>
 A set of fundamental core beliefs provides the foundation for the college to achieve its VMV and for staff to be cognisant of principles that underlie their approaches to guide and develop students in both academic and co-curricular areas. These beliefs are:</p>
 <ol>
-	<li>Every student is <strong>unique</strong> and has <strong>limitless capacity for growth</strong>.</li>
-	<li>Teachers ignite <strong>joy of learning</strong>, cultivate <strong>motivation for learning</strong> and help students achieve <strong>personal excellence</strong>.</li>
-	<li>College staff show <strong>care and concern</strong> for the well-being and holistic development of students.</li></ol></ol>
+	<li>Every student is&nbsp;<strong>unique</strong>&nbsp;and has&nbsp;<strong>limitless capacity for growth</strong>.</li>
+	<li>Teachers ignite&nbsp;<strong>joy of learning</strong>, cultivate&nbsp;<strong>motivation for learning</strong>&nbsp;and help students achieve&nbsp;<strong>personal excellence</strong>.</li>
+	<li>College staff show&nbsp;<strong>care and concern</strong>&nbsp;for the well-being and holistic development of students.</li></ol></ol></ol></div>
