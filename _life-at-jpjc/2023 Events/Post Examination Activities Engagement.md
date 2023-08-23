@@ -18,26 +18,33 @@ third_nav_title: 2023 Events
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam1.jpeg">
-<figcaption></figcaption></figure>
+<figcaption>  
+
+JC2 students gathered in the Hall for our ECG Counsellor’s sharing</figcaption></figure>
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam2.jpeg">
-<figcaption></figcaption></figure>
+<figcaption> 
+Mr Mustafa Kamal, CEO of the Black Hole Group sharing his insights with the cohort</figcaption></figure>
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam3.jpeg">
-<figcaption></figcaption></figure>
+<figcaption>
+
+A JC2 student asking questions during the Q&amp;A segment with Mr Kamal</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam4.JPG">
-<figcaption></figcaption></figure>	
+<figcaption>  Students at Dragon Kiln</figcaption></figure>	
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam5.JPG">
-<figcaption></figcaption></figure>
+<figcaption> 
+
+Students engaging in pottery creation at Dragon Kiln</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/Post%20Examination%20Activities/postexam6.JPG">
-<figcaption></figcaption></figure>
+<figcaption>     A student’s beautiful pottery creation</figcaption></figure>
 	
-</div>	
+</div>
