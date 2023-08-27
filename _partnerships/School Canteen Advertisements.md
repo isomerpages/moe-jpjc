@@ -13,12 +13,8 @@ description: JPJC Canteen Advertisements
 		<th><center>Closing date</center></th>
 		<th><center>Requirements</center></th></tr>
 	<tr>
-		<td><center>Korean/Japanese Food Stall</center></td>
-		<td><center>31 July 2023</center></td>
-		<td><center>Korean/Japanese food</center></td></tr>
-	<tr>
 		<td><center>Halal Rice/Other Food Stall</center></td>
-		<td><center>31 July 2023</center></td>
+		<td><center>30 September 2023</center></td>
 		<td><center>Halal Rice and other food</center></td></tr></tbody></table>
 	
 <h3>Application Procedure</h3></div>
