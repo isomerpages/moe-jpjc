@@ -6,6 +6,7 @@ third_nav_title: 2023 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+8 August 2023|[STEAM Day](/life-at-jpjc/2023-events/steamday)
 2 August 2023|[STEAM Day](/life-at-jpjc/2023-events/steamday)
 12 & 19 July 2023|[Racial Harmony Day Commemoration](/life-at-jpjc/2023-events/rhd/)
 5 July 2023|[Post Examination Activities Engagement](/life-at-jpjc/2023-events/postexam)
