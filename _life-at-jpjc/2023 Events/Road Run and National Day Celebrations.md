@@ -21,10 +21,99 @@ third_nav_title: 2023 Events
 <p>The JP Family’s National Day Celebration in honour of Singapore's 58th Birthday was a resounding success, leaving all participants with cherished memories of unity, talent and national pride. This was the college’s first attempt at conducting a college-wide event with several different programmes combined, and its success bears strong testament to the fact that the JP Family always moves forward as one!.</p>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/roadrunnational/rrndc1.jpg">
-<figcaption>Racial Harmony Day 2023 with the JP Family.</figcaption></figure>
-	
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
+<figcaption>Our National Day Marching Contingent getting ready for the Observance Ceremony.</figcaption></figure>
 
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc2.JPG">
+<figcaption>  Marching in with the National and College flags.</figcaption></figure>
 	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc3.JPG">
+<figcaption>The college and Marching Contingent at attention waiting for the National and College flags to be raised.</figcaption></figure>
 	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc4.JPG">
+<figcaption> Our Flag Bearer and Ceremony Hosts saluting the National Flag as it was being raised.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc5.JPG">
+<figcaption> Our Principal Mr Kevin Ang giving the opening address for the event.</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc6.JPG">
+<figcaption> Our students all ready and raring to go for the Road Run segment of the event!</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc7.JPG">
+<figcaption> The Road Run provided an excellent opportunity for cross-departmental bonding among our staff.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc8.JPG">
+<figcaption>  Mr Ang taking a wefie with Staff participants before flag-off.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc9.JPG">
+<figcaption> Mr Ang flagging off the Road Run.</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc10.JPG">
+<figcaption>  All participants competed in three main categories – The Boys’, Girls’ (pictured here) and Staff categories for the Road Run.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc11.JPG">
+<figcaption>  Students enjoying the Tote Bag Design segment of the National Day Celebration</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc12.JPG">
+<figcaption>Happy with their very own designs!</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc13.JPG">
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc14.JPG"><figcaption>     Spirits were high as everyone enjoyed immersing themselves in various fun activities in the Carnival segment of the Celebration. (Above and below pictures)</figcaption>
+</figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc15.JPG">
+<figcaption>     Our booth managers and volunteers also had fun facilitating activities and games for both staff and students.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc16.JPG">
+<figcaption>  Our Vice Principal (Edu) Mrs Lee Bee Cheow with the Top 5 runners in the Staff (Female) Race</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc17.JPG">
+<figcaption>The champion of the Staff (Male) Race, Mr Yap Lok Hun (Economics Department) receiving his medal from Mrs Lee.</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc18.JPG">
+<figcaption> The champion of the JC2 Girls’ Race with our Vice Principal (Edu) Mr Nah Hong Leong.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc19.JPG">
+<figcaption>    Our JC2 Year Head Mr Subash S/O Ramiah posing for a selfie with the champion of the JC2 Boys’ Race.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc20.JPG">
+<figcaption>       The champion of the JC1 Boys’ Race with our Vice Principal (Admin) Mr Phua Yong Swee.</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc21.JPG">
+<figcaption>  Mr Ang and Volans House Mistress Miss Tan Su Lynn with the Champion House for Road Run 2023 – Volans House!</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc22.JPG">
+<figcaption></figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
+<figcaption></figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
+<figcaption></figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
+<figcaption></figcaption></figure>	
 </div>
