@@ -21,7 +21,7 @@ third_nav_title: 2023 Events
 <p>The JP Family’s National Day Celebration in honour of Singapore's 58th Birthday was a resounding success, leaving all participants with cherished memories of unity, talent and national pride. This was the college’s first attempt at conducting a college-wide event with several different programmes combined, and its success bears strong testament to the fact that the JP Family always moves forward as one!.</p>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/RHDCom/rhdcom1.jpg">
+<img src="/images/Life%20%40%20JPJC/2023%20Events/roadrunnational/rrndc1.jpg">
 <figcaption>Racial Harmony Day 2023 with the JP Family.</figcaption></figure>
 	
 
