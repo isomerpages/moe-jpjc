@@ -103,17 +103,15 @@ third_nav_title: 2023 Events
 
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc22.JPG">
-<figcaption></figcaption></figure>
+<figcaption>      An exciting round of games during the Gameshow segment of the National Day Concert.</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
-<figcaption></figcaption></figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc23.JPG">
+<figcaption>The Hall awash in a sea of lights, setting just the right mood for the Mass Sing-along segment of the Concert.</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
-<figcaption></figcaption></figure>
+<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc24.jpg">
+<figcaption>  In a rousing conclusion to the event, the JPFam sung their hearts out along to a classic National Day crowd favourite, ‘Home'.</figcaption></figure>
 	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc1.JPG">
-<figcaption></figcaption></figure>	
+
 </div>
