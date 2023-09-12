@@ -2,9 +2,9 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2023 Events/Road Run and National Day Celebrations.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
+      - 2023 Events/Road Run and National Day Celebrations.md
       - 2023 Events/STEAM Day.md
       - 2023 Events/Racial Harmony Day Commemoration.md
       - 2023 Events/Post Examination Activities Engagement.md
