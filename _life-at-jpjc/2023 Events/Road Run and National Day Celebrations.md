@@ -111,7 +111,7 @@ third_nav_title: 2023 Events
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/ND%20Celebration%20and%20Road%20Run/rrndc24.jpg">
-<figcaption>  In a rousing conclusion to the event, the JPFam sung their hearts out along to a classic National Day crowd favourite, ‘Home'.</figcaption></figure>
+<figcaption>  In a rousing conclusion to the event, the JPFam sang their hearts out along to a classic National Day crowd favourite, ‘Home'.</figcaption></figure>
 	
 
 </div>
