@@ -14,8 +14,6 @@ third_nav_title: Admission Matters
 
 <p>Returning Singaporean applicants must provide their personal particulars, contact details, academic results, co-curricular achievements and other relevant supporting documents in their application.<br>
 		
-
-https://cms.isomer.gov.sg/sites/moe-jpjc/media/files/mediaDirectory/files%2FAdmission%20Matters%2FReturning%20and%20International/editMediaSettings/jpjc_admission%20application%20form.pdf	
 	
 </p><p>Please click&nbsp;<a href="https://drive.google.com/file/d/1JXA2psklgpMWuBbidtM7QVbTRcs-ogHr/view?usp=drive_link">here</a>&nbsp;to download the admission application form.&nbsp;For applicants who have sat for the SPERS-JC/MI, they must include their list of eligible JCs and/or test results. All documents should be submitted through postage mail or in person to JPJC by&nbsp;<strong>31 December</strong>&nbsp;to be considered for admission in the next academic year.</p>
 
