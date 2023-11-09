@@ -26,8 +26,10 @@ variant: markdown
 <center><h4>Subjects offered in 2024</h4></center>
 
 <figure>
-<iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub"></iframe></figure>
-
+	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub?embedded=true" width="800px" height="680px" scrolling="no"></iframe>	
+	
+	
 <p style="font-size: 16px"><strong>Note: </strong><br>
 <sup>^</sup> Please note that Tamil Language &amp; Literature will not be offered in 2023.<br>
 <sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
@@ -117,4 +119,4 @@ variant: markdown
 	<li style="font-size:16px">At least A2 in Malay Language, OR</li>
 	<li style="font-size:16px">B3 in Higher Malay, OR</li>
 	<li style="font-size:16px">B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul><p></p>
-</div>
+</figure></div>
