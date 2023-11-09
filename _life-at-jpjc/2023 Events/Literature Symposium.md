@@ -31,26 +31,19 @@ third_nav_title: 2023 Events
 
 <p>This symposium not only celebrated the beauty of literature but also served as a source of inspiration for both the participants and audience. It is a testament to the enduring power of literature in bringing people together and igniting their imaginations.</p>
 
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career1.jpeg">
-<figcaption> Exploring careers in defending our nation</figcaption></figure>
+	
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career2.JPG">
-<figcaption>Interacting with the university admissions representatives</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym1.jpg">
+<img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym2.jpg"><figcaption>A heartfelt choral performance by Aye Naing Naing Thaw (23A04), Gisele Lau Ting Hui (23A06) and Lenka Danielle Chvojkova (23A08) kickstarted this year’s Symposium</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym3.jpg">
+<img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym4.jpg">
+<figcaption>A dramatic reading of Frankenstein by the JC2 H1 Literature in English cohort.</figcaption></figure>
 	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career3.jpeg">
-<figcaption> Careers and Higher Education Fair in the Concourse</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career4.JPG">
-<figcaption>Career Talk by a physiotherapist from Alexandra Hospital</figcaption></figure>
-
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career5.JPG">
-<figcaption> Career Talk by STMicroelectronics</figcaption></figure>
-
-
+<img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym5.jpg">
+<figcaption> An aesthetic twist to the classics our students study - The Costume Parade interpretation of Saint Joan</figcaption></figure>
 	
 </div>
