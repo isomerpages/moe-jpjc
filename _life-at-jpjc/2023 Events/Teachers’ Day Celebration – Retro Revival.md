@@ -19,12 +19,14 @@ third_nav_title: 2023 Events
 
 <p>Here's to the past, present and future as well as the magic that unfolds when we all come together!</p>
 
+	
+	
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career1.jpeg">
-<figcaption> Exploring careers in defending our nation</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img1.JPG">
+<figcaption></figcaption></figure>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career2.JPG">
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img1.JPG)/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career1.jpeg">
 <figcaption>Interacting with the university admissions representatives</figcaption></figure>
 	
 <figure>
