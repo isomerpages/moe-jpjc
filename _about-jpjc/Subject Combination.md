@@ -2,8 +2,9 @@
 title: Subject Combination
 permalink: /about/subject-combination/
 description: ""
+variant: markdown
 ---
-<div align= justify>
+<div align="justify">
 	
 <p>The JC curriculum is a two-year course leading to the GCE 'A' Level Examination, designed for students who wish to seek admission to a university or a specialised institute of higher learning, locally or abroad.
 </p>
@@ -11,24 +12,24 @@ description: ""
 <p>At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay. Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
 </p>
 
-<center><h3>2023 Subject Combinations</h3></center>
+<center><h3>2024 Subject Combinations</h3></center>
 
 <ol style="font-size:16px">
 	<li>The following table shows the standard subject combination which most students will take:
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width=800px height=370px scrolling="no"></iframe></figure></li>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width="800px" height="370px" scrolling="no"></iframe></figure></li>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
 	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
 	<li>Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.</li></ol>
 	
-<center><h4>Subjects offered in 2023</h4></center>
+<center><h4>Subjects offered in 2024</h4></center>
 
 <figure>
-<iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></figure>
+<iframe scrolling="no" height="700px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub"></iframe></figure>
 
 <p style="font-size: 16px"><strong>Note: </strong><br>
-<sup>^</sup> Please note that Tamil Language & Literature will not be offered in 2023.<br>
+<sup>^</sup> Please note that Tamil Language &amp; Literature will not be offered in 2023.<br>
 <sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
 <sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 <sup>b</sup> Extended, in-depth research (HSSR)<br>
