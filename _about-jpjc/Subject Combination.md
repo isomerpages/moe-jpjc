@@ -28,16 +28,33 @@ variant: markdown
 <figure>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub?embedded=true" width="800px" height="680px" scrolling="no"></iframe>	
+</figure>
 	
 	
 <p style="font-size: 16px"><strong>Note: </strong><br>
-<sup>^</sup> Please note that Tamil Language &amp; Literature will not be offered in 2023.<br>
 <sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
 <sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 <sup>b</sup> Extended, in-depth research (HSSR)<br>
 <sup>c</sup>  MOE-Cambridge H3</p>
 	
 <center><h4>Subject Combinations in Science Course</h4></center>
+
+
+<p style="font-size: 16px"><strong>Note: </strong><br>	
+</p><ol style="font-size:16px">
+<li>A subject cannot be taken at both H2 and H1 levels.</li>
+<li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints</li></ol>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 <figure>
 <iframe scrolling="no" height="760px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe></figure>
@@ -119,4 +136,4 @@ variant: markdown
 	<li style="font-size:16px">At least A2 in Malay Language, OR</li>
 	<li style="font-size:16px">B3 in Higher Malay, OR</li>
 	<li style="font-size:16px">B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul><p></p>
-</figure></div>
+</div>
