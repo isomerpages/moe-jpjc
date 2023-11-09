@@ -10,7 +10,7 @@ variant: markdown
 23 August 2023|[Careers and Higher Education Day](/life-at-jpjc/2023-events/careersday)
 8 August 2023|[Road Run and National Day Celebrations](/life-at-jpjc/2023-events/roadrunnationalday/)
 2 August 2023|[STEAM Day](/life-at-jpjc/2023-events/steamday)
-26 July 2023|[Careers and Higher Education Day](/life-at-jpjc/2023-events/careersday)
+26 July 2023|[Literature Symposium](/life-at-jpjc/2023-events/litsym/)
 12 & 19 July 2023|[Racial Harmony Day Commemoration](/life-at-jpjc/2023-events/rhd/)
 5 July 2023|[Post Examination Activities Engagement](/life-at-jpjc/2023-events/postexam)
 29 May to 1 June 2023|[Pre University Seminar](/life-at-jpjc/2023-events/preusem/)
