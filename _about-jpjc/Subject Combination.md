@@ -15,38 +15,35 @@ variant: markdown
 <center><h3>2024 Subject Combinations</h3></center>
 
 <ol style="font-size:16px">
-	<li>The following table shows the standard subject combination which most students will take:
+<li>The following table shows the standard subject combination which most students will take:
 <figure>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true" width="800px" height="370px" scrolling="no"></iframe></figure></li>
-	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
-	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
-	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
-	<li>Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.</li></ol>
+<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
+<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
+<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
+<li>Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.</li></ol>
 	
 <center><h4>Subjects offered in 2024</h4></center>
 
 <figure>
-	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub?embedded=true" width="800px" height="680px" scrolling="no"></iframe>	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSU1u0M8cxk_xwzTrrCUFtcmdkBPu9BnT9zDlyX8gBsS6Zudup8e99GMYcHRlp88aNlT4JerxVKBXhj/pub?embedded=true" width="800px" height="620px" scrolling="no"></iframe>	
 </figure>
 	
 	
 <p style="font-size: 16px"><strong>Note: </strong><br>
-<sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
+<sup>*</sup>Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
 <sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 <sup>b</sup> Extended, in-depth research (HSSR)<br>
 <sup>c</sup>  MOE-Cambridge H3</p>
 	
-<center><h4>Subject Combinations in Science Course</h4></center>
-
-
+<center><h4>Subject Combinations</h4></center>
 <p style="font-size: 16px"><strong>Note: </strong><br>	
 </p><ol style="font-size:16px">
 <li>A subject cannot be taken at both H2 and H1 levels.</li>
 <li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints</li></ol>
 
-	
-	
+<figure>	
+<iframe scrolling="no" height="1200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vSApaOfErFAO5BcbA4Yc07_ZndKy_q4qOKPlf49gmJlkSI-fcXQh5humbiiiOirxpms1c5Owgd0YPiP/pub?embedded=true"></iframe>	</figure>
 	
 	
 	
