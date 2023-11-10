@@ -4,7 +4,6 @@ collections:
     order:
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
-      - 2023 Events/Staff Welfare Activities.md
       - 2023 Events/Alumni Speaker Series.md
       - 2023 Events/Teachers’ Day Celebration – Retro Revival.md
       - 2023 Events/Literature Symposium.md
@@ -12,6 +11,7 @@ collections:
       - 2023 Events/Road Run and National Day Celebrations.md
       - 2023 Events/STEAM Day.md
       - 2023 Events/Racial Harmony Day Commemoration.md
+      - 2023 Events/Staff Welfare Activities.md
       - 2023 Events/Post Examination Activities Engagement.md
       - 2023 Events/Pre University Seminar.md
       - 2023 Events/Leadership Training Camp 2023.md
