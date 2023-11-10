@@ -18,6 +18,7 @@ variant: markdown
 24 May 2023|[JC1 SG Perspectives Dialogue](/life-at-jpjc/2023-events/jc1sgperspective)
 19 May 2023|[Partnership & Outreach Activities Semester 1](/life-at-jpjc/2023-events/dsateasession/)
 3 May 2023|[JC2 SG Perspectives Dialogue](/life-at-jpjc/2023-events/j2sgp2023/)
+26 April 2023|[Alumni Speaker Series](/life-at-jpjc/2023-events/alumniss/)
 12 April 2023|[International Friendship Day Commemoration](/life-at-jpjc/2023-events/ifd)
 5 April 2023|[Service Learning Festival](/life-at-jpjc/2023-events/slf/)
 17 March 2023|[Leadership Training Camp 2023 (W2 W4 W7 Sec Schools)](/life-at-jpjc/2023-events/ltc)
