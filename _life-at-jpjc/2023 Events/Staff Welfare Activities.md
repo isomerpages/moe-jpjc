@@ -29,7 +29,7 @@ third_nav_title: 2023 Events
 <figcaption>Teachers' Day Lunch - Excited about nostalgic games!</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff5.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff5.jpg">
 <figcaption> Teachers’ Day Lunch - Getting bowled over </figcaption></figure>
 
 <figure>
@@ -41,19 +41,19 @@ third_nav_title: 2023 Events
 <figcaption> </figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff8.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff8.jpg">
 <figcaption> </figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff9.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff9.png">
 <figcaption> </figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff10.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff110.png">
 <figcaption> </figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff11.jpeg">
+<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff11.jpg">
 <figcaption> </figcaption></figure>
 
 
