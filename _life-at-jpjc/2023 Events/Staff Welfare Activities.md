@@ -34,27 +34,27 @@ third_nav_title: 2023 Events
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff6.jpeg">
-<figcaption> </figcaption></figure>
+<figcaption>  Teachers’ Day Lunch - Wait for my bullseye! </figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff7.jpeg">
-<figcaption> </figcaption></figure>
+<figcaption> Teachers’ Day Lunch - The Organising Committee</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff8.jpg">
-<figcaption> </figcaption></figure>
+<figcaption>Staff Wellness Activities - Coffee Appreciation by Mr Ang</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff9.png">
-<figcaption> </figcaption></figure>
+<figcaption> Staff Wellness Activities - Our VP (Edu) Mr Nah showing VP (Admin) Mr Phua the secret to the perfect madeleine </figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff110.png">
-<figcaption> </figcaption></figure>
+<figcaption> Staff Wellness Activities - Our VP Mrs Lee serving up fun and fitness on the court</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff11.jpg">
-<figcaption> </figcaption></figure>
+<figcaption> Staff Wellness Activities - A relaxing walk along Pang Sua PCN</figcaption></figure>
 
 
 </div>
