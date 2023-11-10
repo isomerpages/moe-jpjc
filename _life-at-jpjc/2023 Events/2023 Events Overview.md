@@ -7,8 +7,8 @@ variant: markdown
 ---
 | Date | Events | 
 | -------- | -------- |
-31 October 2023|
-31 August 2023|
+31 October 2023|[Staff Welfare Activities](/life-at-jpjc/2023-events/staffwa/)
+31 August 2023|[Teachers’ Day Celebration – Retro Revival](/life-at-jpjc/2023-events/teachersday/)
 23 August 2023|[Careers and Higher Education Day](/life-at-jpjc/2023-events/careersday)
 8 August 2023|[Road Run and National Day Celebrations](/life-at-jpjc/2023-events/roadrunnationalday/)
 2 August 2023|[STEAM Day](/life-at-jpjc/2023-events/steamday)
