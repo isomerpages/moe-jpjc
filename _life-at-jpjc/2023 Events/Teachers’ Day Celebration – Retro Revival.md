@@ -23,26 +23,22 @@ third_nav_title: 2023 Events
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img1.JPG">
-<figcaption></figcaption></figure>
+<figcaption> The crowd favourite, Iniudicatus, engaging the crowd with their performance.</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img1.JPG)/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career1.jpeg">
-<figcaption>Interacting with the university admissions representatives</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career3.jpeg">
-<figcaption> Careers and Higher Education Fair in the Concourse</figcaption></figure>
-	
-<figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career4.JPG">
-<figcaption>Career Talk by a physiotherapist from Alexandra Hospital</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img2.JPG">
+<figcaption>  No better way to start a celebration than with songs!</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career5.JPG">
-<figcaption> Career Talk by STMicroelectronics</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img3.JPG">
+<figcaption> The JP Dance Club infecting the crowd with their energy.</figcaption></figure>	
 
 <figure>
-<img src="/images/Life%20%40%20JPJC/2023%20Events/Careers%20Higher%20Education%20Day/career6.jpg">
-<figcaption>  Career Talk by RSAF</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img5.JPG">
+<figcaption>     Mr Peter Crawshaw and his doppelgänger.</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img6.JPG">
+<figcaption> The Elton John Award for the most well-dressed teacher? Sounds about right!</figcaption></figure>	
 	
 </div>
