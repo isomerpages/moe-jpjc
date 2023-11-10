@@ -11,23 +11,27 @@ third_nav_title: 2023 Events
 
 	
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img1.JPG">
-<figcaption> The crowd favourite, Iniudicatus, engaging the crowd with their performance.</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni1.JPG">
+<figcaption> Cheong Wan Rong sharing his journey in reading Psychology</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img2.JPG">
-<figcaption>  No better way to start a celebration than with songs!</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni2.JPG">
+<figcaption>  Wan Rong taking questions from the students</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img3.JPG">
-<figcaption> The JP Dance Club infecting the crowd with their energy.</figcaption></figure>	
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni3.JPG">
+<figcaption>Acting SH for ECG, Ms Sandra Tian presenting a memento to Wan Rong</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img5.JPG">
-<figcaption>     Mr Peter Crawshaw and his doppelgänger.</figcaption></figure>
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni4.JPG">
+<figcaption>  Wan Rong with his JJ Civics Tutor, Ms Zhang Xiu Chen</figcaption></figure>
 
 <figure>
-<img src="/images/Life%20@%20JPJC/2023%20Teachers%20Day%20Celebration/Tday_img6.JPG">
-<figcaption> The Elton John Award for the most well-dressed teacher? Sounds about right!</figcaption></figure>	
-	
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni5.JPG">
+<figcaption>  Speaking with some student attendees after the sharing</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20Alumni%20Speaker%20Series/Alumni6.JPG">
+<figcaption>  Wan Rong with his sister who is also a JJ alumnus, and the students who attended his sharing.</figcaption></figure>
+
 </div>
