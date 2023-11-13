@@ -48,9 +48,6 @@ third_nav_title: 2023 Events
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff9.png">
 <figcaption> Staff Wellness Activities - Our VP (Edu) Mr Nah showing VP (Admin) Mr Phua the secret to the perfect madeleine </figcaption></figure>
 
-<figure>
-<img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff110.png">
-<figcaption> Staff Wellness Activities - Our VP Mrs Lee serving up fun and fitness on the court</figcaption></figure>
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Staff%20Welfare%20Activities/Staff11.jpg">
