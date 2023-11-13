@@ -93,12 +93,6 @@ variant: markdown
 	<li style="font-size:16px">A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language       OR</li>
 	<li style="font-size:16px">A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language</li></ol><p></p>
 
-<p style="font-size:16px">
-<strong><u>Note:</u></strong>
-</p><ol style="font-size:16px">
-	<li style="font-size:16px">A subject cannot be taken at both H2 and H1 levels.</li>
-	<li style="font-size:16px">The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol><p></p>
-
 <center><h4>Subject Combinations for Language Elective Programmes<br>
 	Chinese Language Elective Programme (CLEP)<sup>*</sup></h4></center>
 
