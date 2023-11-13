@@ -43,18 +43,8 @@ variant: markdown
 <li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints</li></ol>
 
 <figure>	
-<iframe scrolling="no" height="1200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vSApaOfErFAO5BcbA4Yc07_ZndKy_q4qOKPlf49gmJlkSI-fcXQh5humbiiiOirxpms1c5Owgd0YPiP/pub?embedded=true"></iframe>	</figure>
+<iframe scrolling="no" height="800px" width="1500px" src="https://docs.google.com/document/d/e/2PACX-1vSApaOfErFAO5BcbA4Yc07_ZndKy_q4qOKPlf49gmJlkSI-fcXQh5humbiiiOirxpms1c5Owgd0YPiP/pub?embedded=true"></iframe>	</figure>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-<figure>
-<iframe scrolling="no" height="760px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe></figure>
 
 <p style="font-size:16px">
 <sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -70,10 +60,7 @@ variant: markdown
 	<li style="font-size:16px">a pass in the relevant Pure Science and Combined Science.</li></ul><p></p>
 
 <p style="font-size:16px">
-<sup>^</sup> For Students opting to do the H2 Mathematics, H2 Further Mathematics and H2 Physics subject combination, it is preferred that they should have obtained at least B3 in Pure Physics.</p>
-
-<p style="font-size:16px">
-<sup>@</sup> Students opting to do H2 Art/ H2 Further Mathematics/ H2 Translation are required to sit and pass the selection test.</p>
+<sup>@</sup> Students opting to do H2 Art / H2 Translation are required to sit and pass the selection test.</p>
 
 <p style="font-size:16px">
 <sup>&amp;</sup> Students opting to do H2 Translation are required to fulfil the following:
@@ -84,6 +71,9 @@ variant: markdown
 	
 <center><h4>Subject Combinations in Arts Course</h4></center>
 
+<figure>
+<iframe scrolling="no" height="760px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe></figure>	
+	
 <figure>
 <iframe scrolling="no" height="900px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></figure>
 
