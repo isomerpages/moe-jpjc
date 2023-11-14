@@ -87,10 +87,28 @@ variant: markdown
 		<li>A2 in ‘O’ Level English Language and ‘O’ Level Chinese Language OR</li>
 		<li>A2 in ‘O’ Level English Language and B3 in ‘O’ Level Higher Chinese Language</li></ul><p></p>
 		
-<h3><center>Subject Combinations for Language Elective Programmes<h3>
-</h3><h4><center>Chinese Language Elective Programme (CLEP)<sup>*</sup></center></h4>
+<h3><center>Subject Combinations for Language Elective Programmes</center></h3>
+<h4><center>Chinese Language Elective Programme (CLEP)<sup>*</sup></center></h4>
 
 <figure><center>
 	<iframe scrolling="no" height="500px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></center></figure>
 	
-</center></h3></div>
+<p>
+	<sup>*</sup> Students opting to offer the CLEP programme must obtain
+	</p><ul>
+		<li>At least A2 in Chinese, OR</li>
+		<li>B3 in Higher Chinese, OR</li>
+		<li>B4 in Higher Chinese with B3 in Chinese Literature or equivalent.</li></ul><p></p>
+
+<h4><center>Malay Language Elective Programme (MLEP)</center></h4>
+
+<figure><center>
+	<iframe scrolling="no" height="500px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></center></figure>
+	
+<p>
+	<sup>*</sup> Students opting to offer the MLEP programme must obtain
+	</p><ul>
+		<li>At least A2 in Malay Language, OR</li>
+		<li>B3 in Higher Malay, OR</li>
+		<li>B4 in Higher Malay with B3 in Malay Literature or equivalent.</li></ul><p></p>
+</div>
