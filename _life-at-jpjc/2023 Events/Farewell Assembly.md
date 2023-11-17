@@ -33,4 +33,11 @@ Despite leaving the port early, our J2s are indeed fully-equipped with the neces
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20Farewell%20Assembly/4_Our_Principal__Mr_Ang__unveiling_the_Cohort_Identity_with_the_Student_Council.JPG">
-<figcaption>Our Principal, Mr Ang, unveiling the Cohort Identity with the Student Council</figcaption></figure></div>
+<figcaption>Our Principal, Mr Ang, unveiling the Cohort Identity with the Student Council</figcaption></figure>
+
+<p>
+Written &amp; Photographed by:<br>
+Chloe Lim En Qi (23A02)<br>
+Maia Alexandra Kiokan Pua (23S01)<br>
+Muhammad Haazim Aiman Bin Rahman (23S07) - Photography only<br>
+Lim Rui Qi (23A04) - Photography only</p></div>
