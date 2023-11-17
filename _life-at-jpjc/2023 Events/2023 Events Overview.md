@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Date | Events | 
 | -------- | -------- |
-13 October 2023|
+13 October 2023|[Farewell Assembly](/life-at-jpjc/2023-events/farewellassembly/)
 31 October 2023|[Staff Welfare Activities](/life-at-jpjc/2023-events/staffwa/)
 31 August 2023|[Teachers’ Day Celebration – Retro Revival](/life-at-jpjc/2023-events/teachersday/)
 23 August 2023|[Careers and Higher Education Day](/life-at-jpjc/2023-events/careersday)
