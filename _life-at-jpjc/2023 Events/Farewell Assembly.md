@@ -38,8 +38,10 @@ Despite leaving the port early, our J2s are indeed fully-equipped with the neces
 <figcaption>Our Principal, Mr Ang, unveiling the Cohort Identity with the Student Council</figcaption></figure>
 
 <p>
-Written &amp; Photographed by:<br>
-Chloe Lim En Qi (23A02)<br>
-Maia Alexandra Kiokan Pua (23S01)<br>
-Muhammad Haazim Aiman Bin Rahman (23S07) - Photography only<br>
-Lim Rui Qi (23A04) - Photography only</p></div>
+Written &amp; Photographed by JP Press Members:<br>
+Kyan Koh (23A07)<br>
+Lau Kok Hong (23A07)<br>
+Verma Utkarsh (23S21)<br>
+Chen Wanteng (23S21) - Photography only<br>
+Cyrus Foo Zhi Jie (23S21) - Photography only<br>
+</p></div>
