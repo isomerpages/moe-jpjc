@@ -2,9 +2,9 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2023 Events/Inter House Games.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
+      - 2023 Events/Inter House Games.md
       - 2023 Events/Staff Welfare Activities.md
       - 2023 Events/Teachers’ Day Celebration – Retro Revival.md
       - 2023 Events/Careers and Higher Education Day.md
