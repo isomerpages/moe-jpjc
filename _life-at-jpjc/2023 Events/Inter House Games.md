@@ -22,4 +22,20 @@ One thing that stood out was the undeniable team spirit showed by all the Houses
 Everyone fought valiantly for the victory of their Houses, ultimately resulting in the winning of the games by Taurus, who managed to clinch 5 wins out of the 11 games. Following close behind was Volans, and Ursa coming in third.</p>
 
 <figure>
-</figure></div>
+<img src="/images/Life%20@%20JPJC/2023%20IHG/JC1IHG1.JPG">
+<figcaption> JPFam focused on a game of chess!</figcaption></figure>
+
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20IHG/JC1IHG2.JPG">
+<figcaption>Aries in a show of team spirit</figcaption></figure>
+	
+<figure>
+<img src="/images/Life%20@%20JPJC/2023%20IHG/JC1IHG3.JPG">
+<figcaption>Our House champion, Taurus, with our Principal, Mr Ang, Year Head Ms Ong and House Mistress Mdm Jasima</figcaption></figure>
+	
+<p>
+Written &amp; Photographed by:<br>
+Chloe Lim En Qi (23A02)<br>
+Maia Alexandra Kiokan Pua (23S01)<br>
+Muhammad Haazim Aiman Bin Rahman (23S07) - Photography only<br>
+Lim Rui Qi (23A04) - Photography only</p></div>
