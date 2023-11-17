@@ -7,6 +7,8 @@ third_nav_title: 2023 Events
 ---
 <div align="justify">
 
+<center><h4>J2 Farewell Assembly: Our J2s Say Their Goodbyes before the GCE A-Level Examination</h4></center>
+	
 <p>
 In a poignant moment of calm before the impending storm, our J2s celebrated their graduation at the Farewell Assembly and bid their friends and teachers a formal goodbye before leaving in preparation for the GCE A-Level Examination. It felt like just yesterday when they were freshmen of the college, chanting and screaming during J1 Matriculation &amp; Orientation in 2022. As Albert Einstein once said, “Time is relative”, and just like that, two years’ worth of storms and joys have flown by. </p>
 
