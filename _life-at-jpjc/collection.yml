@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2023 Events/Farewell Assembly.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
       - 2023 Events/Inter House Games.md
