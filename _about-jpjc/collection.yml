@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Open House 2024.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/College's Vision, Mission, Values and Motto.md
@@ -16,9 +15,9 @@ collections:
       - College Calendar/Term 3.md
       - College Calendar/Term 4.md
       - Subject Combination.md
+      - Admission Matters/.keep
       - Admission Matters/DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR
         COLLEGE 2023.md
-      - Admission Matters/.keep
       - Admission Matters/JAE Appeals 2023.md
       - Admission Matters/Joint Admissions Exercise 2023.md
       - Admission Matters/KM Portal Registration & Selection of Subject
@@ -33,6 +32,7 @@ collections:
       - Open House 2023/Subject Information.md
       - Open House 2023/Niche Programmes.md
       - Open House 2023/Frequently Asked Questions (FAQs).md
+      - Open House 2024.md
       - Financial Assistance Scheme.md
       - History/.keep
       - History/Jurong Junior College.md
