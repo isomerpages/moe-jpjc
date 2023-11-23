@@ -2,6 +2,8 @@ collections:
   about-jpjc:
     output: true
     order:
+      - "Open House 2024/Hear from our JPJC family #WHYJP is the college for
+        you!.md"
       - Open House 2024/Welcome to JPJC's Open House 2024!.md
       - Open House 2024/.keep
       - Principal's Message.md
