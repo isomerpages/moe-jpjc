@@ -2,13 +2,13 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Open House 2024/FAQ.md
-      - Open House 2024/CCA.md
       - Open House 2024/.keep
       - Open House 2024/Main Page.md
       - Open House 2024/Hear from the JP Fam.md
       - Open House 2024/Curriculum.md
       - Open House 2024/Co Curriculum.md
+      - Open House 2024/CCA.md
+      - Open House 2024/FAQ.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/College's Vision, Mission, Values and Motto.md
