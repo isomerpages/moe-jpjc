@@ -11,31 +11,27 @@ third_nav_title: Open House 2024
 	
 <p></p><center>For subject combinations offered for 2024-2025, please click here.</center><p></p>
 	
-<table border="24">
+<table border="1">
  <tbody><tr> 
-    <th></th>
-    <th>Column Header 1</th>
-    <th>Column Header 2</th>
-    <th>Column Header 3</th>
-  </tr>
+    <th>Subject</th>
+    <th>Link</th>
+      </tr>
   <tr>
-    <th>Row Header 1</th>
-    <td>Data</td>
-    <td>Data</td>
-    <td>Data</td>
-  </tr>
+    <th>Biology</th>
+    <td>https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/</td>
+    </tr>
   <tr> 
-    <th>Row Header 2</th>
-    <td>Data</td>
-    <td>Data</td>
-    <td>Data</td>
+    <th>Chemistry</th>
+    <td>https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/</td>
  </tr>
  <tr> 
-    <th>Row Header 3</th>
-    <td>Data</td>
-    <td>Data</td>
-    <td>Data</td>
+    <th>Computing</th>
+    <td> https://www.jpjc.moe.edu.sg/mathematics-and-sciences/computing/</td>
  </tr>
+ 
+<tr>
+</tr>
+	
 </tbody></table>
 	
 	
