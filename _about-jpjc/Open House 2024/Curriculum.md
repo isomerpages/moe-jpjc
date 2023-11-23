@@ -9,7 +9,9 @@ third_nav_title: Open House 2024
 
 <h3><center>Find out more about the wide range of subjects offered at JPJC here!</center></h3>
 	
-<p></p><center>For subject combinations offered for 2024-2025, please click here[Subject combination](https://www.jpjc.moe.edu.sg/about/subject-combination/).</center><p></p>
+<p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
+	
+
 	
 <table border="1">
  <tbody><tr> 
