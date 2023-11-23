@@ -2,6 +2,7 @@ collections:
   about-jpjc:
     output: true
     order:
+      - Open House 2024/FAQ.md
       - Open House 2024/CCA.md
       - Open House 2024/.keep
       - Open House 2024/Main Page.md
