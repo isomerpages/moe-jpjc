@@ -18,7 +18,8 @@ third_nav_title: Open House 2024
 
 <h3><center>Have a vicarious experience of a day in the lives of JPJC students</center></h3>
 
-<h3><center>	Feel the adrenaline of the vibrant CCA landscape at JPJC</center></h3>
+<h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC</center></h3>
+	
 
 
 
