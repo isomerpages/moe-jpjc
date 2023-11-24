@@ -44,7 +44,11 @@ third_nav_title: Open House 2024
 
 <p>Generally students are allocated a House based on the class that they are in. Students who are interested in fostering the school spirit through their House can either become a House Executive of their class or through joining the Student Council.</p>
 
+<p></p><h5><b>7. How many days are CCA Days and what are the timings?</b></h5><p></p>
+<p> In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fridays (4pm to 7pm). Depending on the nature of the CCA and activities, the duration of the CCA activities will last between 2-3 hours per session.</p>
 
+<p></p><h5><b>8. Can you share more about STEAM?</b></h5><p></p>
+<p> For information on the STEAM programme, please access this link: XX</p>
 
 
 
