@@ -39,3 +39,21 @@ description: ""
 <div class="row">
 	<div class="column">
 		<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:210px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+
+<center><h3>Performing Arts</h3></center>
+
+<div class="row">
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcco/"><img alt="Chinese Orchestra" src="/images/Open%20house%202024/CCA/Chinese_Orchestra.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jp_choir/"><img alt="Choir" src="/images/Open%20house%202024/CCA/Choir.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Open%20house%202024/CCA/Concert_Band.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjceds/"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a></div></div>
+
+<div class="row">
+	<div class="column">
+		<a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcdanceclub/"><img alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
