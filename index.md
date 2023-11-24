@@ -21,7 +21,7 @@ sections:
       title: Open House 2024
       id: infopic
       button: Click here
-      alt: Image alt text
+      alt: Open House 2024
       url: /about-jpjc/open-house-2024/
       image: /images/Open house 2024/Open_House.jpg
   - infopic:
