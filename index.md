@@ -22,9 +22,10 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Click here
       alt: Image alt text
       url: /about-jpjc/open-house-2024/permalink/
+      image: /images/Open house 2024/Open_House.jpg
   - infopic:
       title: Deepening knowledge
       description: Nurturing creative thinkers of today, scholars of tomorrow
