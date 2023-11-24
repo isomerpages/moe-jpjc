@@ -38,7 +38,7 @@ Prize-winners for Essay Writing competition organised by YIJC (Pre-University Se
 <img src="/images/Curriculum/Tamil%20Language/Tamil6.jpeg">
  Indian Dance for Biennial Arts Production 2022</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil7.jpg">
+<img src="/images/Curriculum/Tamil%20Language/Tamil7.jpeg">
  Indian Cultural Activity Booths for RHD &amp; Cross-Cultural experiences during festive celebrations</figure>
 	
 </div>
