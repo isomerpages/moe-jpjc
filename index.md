@@ -19,12 +19,10 @@ sections:
       subtitle: "Weaving Legacies: A tribute to the past, a step towards the future."
   - infopic:
       title: Open House 2024
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
       button: Click here
       alt: Image alt text
-      url: /about-jpjc/open-house-2024/permalink/
+      url: /about-jpjc/open-house-2024/
       image: /images/Open house 2024/Open_House.jpg
   - infopic:
       title: Deepening knowledge
