@@ -9,14 +9,14 @@ variant: markdown
 <h5><strong>1. Inter-Class Current Affairs Quiz</strong></h5>
 <p>
 Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.</p>
-
-<figure>
+<p>
+</p><figure>
 <img src="/images/Curriculum/Knowledge%20skills/Quiz.jpg">
 2023 JC1 Current Affairs Quiz Final Round</figure>
 
 <figure>
 <img src="/images/Curriculum/Knowledge%20skills/quiz2.jpg">
-Congratulations to the Top 3 Teams!</figure>
+Congratulations to the Top 3 Teams!</figure><p></p>
 
 <h5><strong>2. Pre-University Seminar</strong></h5>
 
