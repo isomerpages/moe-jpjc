@@ -39,4 +39,4 @@ third_nav_title: Open House 2024
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/humans.of.jpjc/"><img width="600px" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+		<a href="https://www.instagram.com/humans.of.jpjc/"><img height="600px" width="600px" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
