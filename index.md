@@ -37,6 +37,6 @@ sections:
       description: Believing in what we can be, becoming what we believe in.
       alt: Image alt text
       image: /images/Homepage/Realising-dreams.png
-      button: CLick here
+      button: Click here
       url: /accomplishments/students/2023accomplishments/
 ---
