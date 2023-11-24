@@ -3,10 +3,11 @@ title: Enrichment Programmes
 permalink: /knowledge-skills/general-paper/enrichment-programmes/
 description: ""
 third_nav_title: General Paper
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <ol>
-	<li><h5><strong>Inter-Class Current Affairs Quiz.</strong></h5></li>
+	<li><h5><strong>Inter-Class Current Affairs Quiz</strong></h5></li>
 <p>
 Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.</p>
 
@@ -23,4 +24,4 @@ Held annually in June during the first week of the term break. A group of 20 stu
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/General%20Paper/Enrichment%20Programmes/Pre%20U%20Sem%202022.jpg">
 <figcaption> 
 
-Some of our delegates with members from other participating institutions.</figcaption></figure></ol>
+Some of our delegates with members from other participating institutions.</figcaption></figure></ol></div>
