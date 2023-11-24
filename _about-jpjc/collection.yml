@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Open House 2024/Example Title.md
       - Open House 2024/.keep
       - Open House 2024/WHYJP.md
       - Open House 2024/Hear from the JP Fam.md
