@@ -18,8 +18,9 @@ sections:
             url: /partnerships/schoolcanteen/
       subtitle: "Weaving Legacies: A tribute to the past, a step towards the future."
   - infopic:
-      title: Open House 2024
+      title: JP Open House 2024
       id: infopic
+      description: "#WHYJP"
       button: Click here
       alt: Open House 2024
       url: /about-jpjc/open-house-2024/
