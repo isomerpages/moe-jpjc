@@ -3,24 +3,27 @@ title: Enrichment Programmes
 permalink: /knowledge-skills/general-paper/enrichment-programmes/
 description: ""
 third_nav_title: General Paper
+variant: markdown
 ---
-<div align=justify>
-<ol>
-	<li><h5><strong>Inter-Class Current Affairs Quiz.</strong></h5></li>
+<div align="justify">
+<h5><strong>1. Inter-Class Current Affairs Quiz</strong></h5>
+
+Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.<p></p>
 <p>
-Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.</p>
+</p><figure>
+<img src="/images/Curriculum/Knowledge%20skills/Quiz.jpg">
+2023 JC1 Current Affairs Quiz Final Round</figure>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/General%20Paper/Enrichment%20Programmes/pic1.jpg">
-</figure>
+<img src="/images/Curriculum/Knowledge%20skills/quiz2.jpg">
+Congratulations to the Top 3 Teams!</figure>
 
-<li><h5><strong>Pre-University Seminar</strong></h5></li>
+<h5><strong>2. Pre-University Seminar</strong></h5>
 
 <p>
 Held annually in June during the first week of the term break. A group of 20 students are selected from a pool of interested student applicants to represent the college as presenters and/or participants in this 5-day residential seminar held at NUS/NTU/SMU. Shortlisted candidates need to work on a given research topic, present their findings and answer questions in a Question and Answer session where questions are fielded by other participating colleges, polytechnics and institutions.</p>
-
 <figure>	
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/General%20Paper/Enrichment%20Programmes/Pre%20U%20Sem%202022.jpg">
-<figcaption> 
-
-Some of our delegates with members from other participating institutions.</figcaption></figure></ol>
+<img src="/images/Curriculum/Knowledge%20skills/Preusem.jpg">
+<figcaption>Our beaming emcees for the Opening Ceremony, all ready to go!</figcaption></figure>
+	
+</div>
