@@ -16,8 +16,8 @@ third_nav_title: Open House 2024
 	
 <p>Please access the following web links for more information provided of our programmes:	</p>
 <ol>
-<li>Talent &amp; Leadership Development</li>  
-<li>Scholars Development Programme</li>  
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership/"><li>Talent &amp; Leadership Development</li></a>  
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/"><li>Scholars Development Programme</li>  </a>
 </ol>	
 	
 	
