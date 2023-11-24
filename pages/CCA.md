@@ -54,6 +54,6 @@ description: ""
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
+		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:210px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
 	<div class="column">
-		<a href="https://www.instagram.com/jpjcdanceclub/"><img alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:210px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
