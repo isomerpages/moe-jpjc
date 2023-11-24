@@ -57,3 +57,35 @@ description: ""
 		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:220px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
 	<div class="column">
 		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:220px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
+
+<center><h3>Sports &amp; Games</h3></center>
+
+<div class="row">
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcathletics/"><img alt="Athletics" src="/images/Open%20house%202024/CCA/Athletics.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcbadminton/"><img alt="Badminton" src="/images/Open%20house%202024/CCA/Badminton.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcbasketball/"><img alt="Basketball" src="/images/Open%20house%202024/CCA/Basketball.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpfalcons/"><img alt="Floorball" src="/images/Open%20house%202024/CCA/Floorball.png"></a></div></div>
+
+<div class="row">
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcfutbol/"><img alt="Football" src="/images/Open%20house%202024/CCA/Football.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpnetball_/"><img alt="Netball" src="/images/Open%20house%202024/CCA/Netball.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjc_tabletennis/"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Open%20house%202024/CCA/Taekwondo.png"></a></div></div>
+
+<div class="row">
+	<div class="column">
+		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jprogues/"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jp_ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a></div>
+	<div class="column">
+		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div>
