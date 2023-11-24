@@ -16,7 +16,14 @@ sections:
             url: /about-jpjc/admission-matters/dsa2023/
           - title: School Canteen Advertisements
             url: /partnerships/schoolcanteen/
-      subtitle: Weaving Legacies A tribute to the past, A step towards the future.
+      subtitle: "Weaving Legacies: A tribute to the past, a step towards the future."
+  - infopic:
+      title: Open House 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Deepening knowledge
       description: Nurturing creative thinkers of today, scholars of tomorrow
@@ -38,5 +45,5 @@ sections:
       alt: Image alt text
       image: /images/Homepage/Realising-dreams.png
       button: CLick here
-      url: /accomplishments/Students/2022accomplishments/
+      url: /accomplishments/students/2023accomplishments/
 ---
