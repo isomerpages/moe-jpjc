@@ -21,26 +21,18 @@ The AMC was introduced in Australia in 1978 as the first Australia-wide mathemat
 <p>As part of the STEAM programme in our college, Pi Day is celebrated on March 14th each year to honor the mathematical constant π (pi). Student volunteers from the Math Interest Group organise events to engage the college in activities that highlight the significance of pi in geometry, physics, and various scientific disciplines. It's a day to appreciate the beauty of mathematics and its pervasive role in our understanding of the natural world.
 </p>
 
-	
-	
-	
-	
-	
-<figure>
-<img src="/images/Maths%201.jpg">
-<img src="/images/Maths%202.jpg"></figure>
-
-<p>
-Students’ interests and curiosity in Mathematics and Computing are also fostered through interest group activities. Students will be engaged in guided and open inquiry activities to develop math problem solving and computational thinking dispositions. Selected students will also be afforded opportunities to engage in Math and Computing research projects. In 2017 and 2018, these projects were selected as finalists for the Singapore Science and Engineering Fair. Students in the interest group will also be involved in organising college-wide Math related activities, such as Pi-Day, and during the college's STEM Day to share their interest in the subject.
-</p>
 
 <figure>
-<img src="/images/Maths3.jpg"></figure>
+<img src="/images/Curriculum/Maths/Maths1.jpg">
+<figcaption>  Fun facts about Pi and Quizzes to celebrate Pi!</figcaption></figure>
 
-<p>
-In 2018, our students also played their part in raising public awareness and interest in Mathematics through the&nbsp;_Festival of Numbers_&nbsp;Activities at the Singapore Science Centre. Our students’ joyful interaction with the young children at the mathematics puzzles and games station was both meaningful and heartwarming.</p>
-
+<p>On the college’s annual STEAM Day, members of the Math Interest Group organise booths with hands-on experiences that showcase the exciting and practical applications of Mathematics. Through these activities, students understand how math seamlessly integrates with science, technology, engineering and the arts and inspire students a deeper interest in mathematical thinking within the context of broader interdisciplinary exploration. Consequently, it is hoped that our students can have the long term commitment to become highly skilled STEAM professionals that contribute towards Singapore’s economic vitality.	</p>
 <figure>
-<img src="/images/Maths%204.jpg"></figure>
-<p>
-These programmes are part of our Talent and Leadership Development efforts to strengthen our STEM educational pipelines. Consequently, it is hoped that our students can have the long term commitment to become highly skilled STEM professionals that contribute towards Singapore’s economic vitality.</p></div>
+<img src="/images/Curriculum/Maths/Maths2.jpg">
+<figcaption> Student explaining the real life application of Conics at one of the STEAM booths.</figcaption></figure>
+<figure>
+<img src="/images/Curriculum/Maths/Maths3.jpg">
+<figcaption> Performing Mathematics Magic at another STEAM booth.</figcaption></figure>
+	
+	
+</div>
