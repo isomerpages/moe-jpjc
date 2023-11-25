@@ -30,7 +30,7 @@ At least one of the questions will feature a Singaporean poem. The candidate wil
 
 <h5><strong>Section B: Prose</strong></h5>
 <p>
-Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Hard Times</strong></i>&nbsp;by Charles Dickens).</p>
+Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Hard Times</strong></i>&nbsp; by Charles Dickens).</p>
 
 <h5><strong>Section C: Drama</strong></h5>
 <p>Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>The Changeling</strong></i>&nbsp; by Thomas Middleton and William Rowley).</p>
