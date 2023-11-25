@@ -30,10 +30,10 @@ At least one of the questions will feature a Singaporean poem. The candidate wil
 
 <h5><strong>Section B: Prose</strong></h5>
 <p>
-Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Hard Times</strong></i> by Charles Dickens).</p>
+Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>Hard Times</strong></i>&nbsp;by Charles Dickens).</p>
 
 <h5><strong>Section C: Drama</strong></h5>
-<p>Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>The Changeling </strong></i> by Thomas Middleton and William Rowley).</p>
+<p>Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text (<i><strong>The Changeling</strong></i>&nbsp; by Thomas Middleton and William Rowley).</p>
 
 <h4><strong>Paper 3: Postcolonial Literature Topic and Pre-20th Century Writing (3 hours - Open Book)</strong></h4>
 <p>In addition to Paper 1, H2 students offer Paper 3, with three texts and sections.
