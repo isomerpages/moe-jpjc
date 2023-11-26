@@ -10,9 +10,9 @@ variant: markdown
 The curriculum framework for the <strong>H1 and H2 Level Art syllabus</strong> is structured under three behavioural domains of Perceiving, Communicating and Appreciating.</p>
 
 <style>
-table, th, td {
-  border: 1px solid black;
-}
+table {border: 1px solid black}
+tr {border: 1px solid black}
+td {border: 1px solid black}
 </style>
 
 <table style="width:100%">
