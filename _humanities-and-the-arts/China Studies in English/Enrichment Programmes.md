@@ -3,8 +3,9 @@ title: Enrichment Programmes
 permalink: /humanities-and-the-arts/china-studies-in-english/enrichment-programmes/
 description: ""
 third_nav_title: China Studies in English
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/China%20Studies%20in%20English/Enrichment%20Programmes/pic1.jpg">
 <figcaption>Overseas Field trip to Xiamen-Jinmen-Taipei</figcaption></figure>
@@ -18,8 +19,4 @@ The CSE unit seeks to expand students’ horizons beyond the prescribed syllabus
 
 <p>
 CSE students have the opportunity for on-site learning in China. These experiential learning journeys aim to deepen students’ understanding of key content by visiting significant sites that tell about the economic, political, and social development of China. These sites include museums, urban planning exhibition halls, and even political institutes such as the Party Schools. In addition, learning journeys may also include lesson experience at local Chinese universities and immersion experience at local senior high schools. These are invaluable opportunities for CSE students to increase their understanding of the Chinese worldview.</p>
- 
-<h4>Arts and Social Sciences Interest Programme</h4>
-
-<p>
-CSE students interested in stretching their learning can participate in the Arts and Social Sciences Interest Programme (ASSIP). The programme focuses on developing students’ multi and/or interdisciplinary understandings on topics concerning people, societies and social knowledge.</p></div>
+</div>
