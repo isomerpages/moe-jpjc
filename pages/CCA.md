@@ -38,7 +38,7 @@ description: ""
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:140px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+		<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:138px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
 <center><h3>Performing Arts</h3></center>
 
@@ -54,9 +54,9 @@ description: ""
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:140px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
+		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:138px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
 	<div class="column">
-		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:140px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:138px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
 
 <center><h3>Sports &amp; Games</h3></center>
 
