@@ -9,7 +9,7 @@ description: ""
 <h3><center>Find out more about the wide range of subjects offered at JPJC here!</center></h3>
 	
 <p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
-	
+</div>	
 
 
 	
@@ -17,9 +17,6 @@ description: ""
 	
 
 	
-<div></div></div>
-
-
 <center><h3>Clubs &amp; Societies</h3></center>
 
 <div class="row">
@@ -56,12 +53,15 @@ description: ""
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a>
+		<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div>
+ <div class="column">
+	<img src="/images/Open%20house%202024/Curriulum.blank1.png"></div>
 
+	<div class="column">
+	 <img src="/images/Open%20house%202024/Curriulum.blank1.png"></div>
 
-	
-	
-</div></div>
+	<div class="column">
+	 <img src="/images/Open%20house%202024/Curriulum.blank1.png"></div></div>
 
 
 
