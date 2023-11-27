@@ -41,7 +41,7 @@ description: ""
 <br>
 <br>
 
-<h1><center><p style="color:Blue">Performing Arts</p></center></h1>
+<h1><center>Performing Arts</center></h1>
 
 <br>
 <div class="row">
@@ -63,7 +63,7 @@ description: ""
 <br>
 <br>
 
-<h1><center><p style="color:Blue">Sports &amp; Games</p></center></h1>
+<h1><center>Sports &amp; Games</center></h1>
 
 <br>
 
