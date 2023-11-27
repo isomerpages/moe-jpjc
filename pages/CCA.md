@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div>
-<h1><center><p style="color:Blue">Clubs &amp; Societies</p></center></h1>
+<center><h1 style="color:Blue">Clubs &amp; Societies</h1></center>
 
 <br>
 
