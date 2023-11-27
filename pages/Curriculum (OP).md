@@ -58,9 +58,7 @@ description: ""
 	<div class="column">
 		<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a>
 
-<div class="column">
-<div class="column">
-<div class="column">
+
 	
 	
 </div></div>
@@ -119,4 +117,4 @@ description: ""
 	<div class="column">
 		<a href="https://www.instagram.com/jp_ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a></div>
 	<div class="column">
-		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div></div></div></div>
+		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div>
