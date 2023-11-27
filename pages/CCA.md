@@ -30,7 +30,7 @@ description: ""
 <div class="column">
 	<a href="https://www.instagram.com/jpjc.mlep/"><img alt="Malay Cultural Society" src="/images/Open%20house%202024/CCA/Malay_Cultural_Society.png"></a>
 		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a>
-	<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:138px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
 <center><h3>Performing Arts</h3></center>
 
@@ -74,11 +74,3 @@ description: ""
 		<a href="https://www.instagram.com/jprogues/"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
 		<a href="https://www.instagram.com/jp_ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a>
 		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div>
-
-
-
-
-
-
-
-
