@@ -4,8 +4,8 @@ permalink: /about-jpjc/open-house-2024/cca/
 variant: markdown
 description: ""
 ---
-<div>
-<center><h1 style="color:Blue">Clubs &amp; Societies</h1></center>
+<div style="color:Blue">
+<center><h1>Clubs &amp; Societies</h1></center>
 
 <br>
 
