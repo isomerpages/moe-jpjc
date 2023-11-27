@@ -32,6 +32,12 @@ description: ""
 		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a>
 	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
+
+
+<br>
+<br>
+<br>
+
 <center><h2>Performing Arts</h2></center>
 
 <div class="row">
@@ -49,6 +55,9 @@ description: ""
 <div class="column">
 		<a href="https://www.instagram.com/jpjcdanceclub/"><img alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
 
+<br>
+<br>
+<br>
 
 
 <center><h2>Sports &amp; Games</h2></center>
