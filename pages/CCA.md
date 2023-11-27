@@ -4,7 +4,10 @@ permalink: /about-jpjc/open-house-2024/cca/
 variant: markdown
 description: ""
 ---
- <h2><center>Clubs &amp; Societies</center></h2>
+
+<h2><center><p style="color:Blue">Clubs &amp; Societies</p></center></h2>
+
+<br>
 
 <div class="row">
   <div class="column">	
@@ -38,8 +41,9 @@ description: ""
 <br>
 <br>
 
-<center><h2>Performing Arts</h2></center>
+<h2><center><p style="color:Blue">Performing Arts</p></center></h2>
 
+<br>
 <div class="row">
 <div class="column">
 <a href="https://www.instagram.com/jpjcco/"><img alt="Chinese Orchestra" src="/images/Open%20house%202024/CCA/Chinese_Orchestra.png"></a>
@@ -59,8 +63,10 @@ description: ""
 <br>
 <br>
 
+<h2><center><p style="color:Blue">Sports &amp; Games</p></center></h2>
 
-<center><h2>Sports &amp; Games</h2></center>
+<br>
+
 
 <div class="row">
 	<div class="column">
