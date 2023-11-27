@@ -45,8 +45,27 @@ description: ""
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:138px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+		<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:220px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div>
 
+<div class="column">
+		<img alt="blank1" src="/images/Open%20house%202024/Curriculum/blank1.png"></div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+![blank1](/images/Open%20house%202024/Curriculum/blank1.png)
 <center><h3>Performing Arts</h3></center>
 
 <div class="row">
