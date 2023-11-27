@@ -4,7 +4,7 @@ permalink: /about-jpjc/open-house-2024/cca/
 variant: markdown
 description: ""
 ---
-<center><h3>Clubs &amp; Societies</h3></center>
+<center><h2>Clubs &amp; Societies</h2></center>
 
 <div class="row">
   <div class="column">	
@@ -32,7 +32,7 @@ description: ""
 		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a>
 	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
-<center><h3>Performing Arts</h3></center>
+<center><h2>Performing Arts</h2></center>
 
 <div class="row">
 <div class="column">
@@ -51,7 +51,7 @@ description: ""
 
 
 
-<center><h3>Sports &amp; Games</h3></center>
+<center><h2>Sports &amp; Games</h2></center>
 
 <div class="row">
 	<div class="column">
