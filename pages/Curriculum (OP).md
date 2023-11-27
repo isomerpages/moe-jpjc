@@ -15,10 +15,11 @@ description: ""
   <div class="column">
     	<a href="https://www.instagram.com/jpjc_av/"><img style="width:100%" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
     <img style="width:100%" src="/images/Open%20house%202024/CCA/Debate.png">
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png/">
-    <img style="width:100%" src="images/Open%20house%202024/CCA/Student_Council.png">
+    <img style="width:100%" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png">
+    <img style="width:100%" src="/images/Open%20house%202024/CCA/Student_Council.png">
    </div>
-  <div class="column">
+  
+<div class="column">
     <img style="width:100%" src="/w3images/underwater.jpg">
     <img style="width:100%" src="/w3images/ocean.jpg">
     <img style="width:100%" src="/w3images/wedding.jpg">
@@ -29,9 +30,9 @@ description: ""
     <img style="width:100%" src="/w3images/falls2.jpg">
    </div>
   <div class="column">
-   <img style="width:100%" src="/w3images/mountainskies.jpg">
-    <img style="width:100%" src="/w3images/rocks.jpg">
-    <img style="width:100%" src="/w3images/underwater.jpg">
+   <img style="width:100%" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png">
+    <img style="width:100%" src="/images/Open%20house%202024/CCA/Interact_Club.png">
+    <img style="width:100%" src="/images/Open%20house%202024/CCA/PlayArt.png">
   </div>
 </div>
 
