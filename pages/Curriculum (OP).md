@@ -69,18 +69,17 @@ description: ""
 <div class="row">
 	<div class="column">
 		<a href="https://www.instagram.com/jpjcco/"><img alt="Chinese Orchestra" src="/images/Open%20house%202024/CCA/Chinese_Orchestra.png"></a></div>
-	<div class="column">
 		<a href="https://www.instagram.com/jp_choir/"><img alt="Choir" src="/images/Open%20house%202024/CCA/Choir.png"></a></div>
-	<div class="column">
+	
+<div class="column">
 		<a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Open%20house%202024/CCA/Concert_Band.png"></a></div>
-	<div class="column">
-		<a href="https://www.instagram.com/jpjceds/"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjceds/"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a>
 
-<div class="row">
-	<div class="column">
-		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:138px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
-	<div class="column">
-		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:138px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
+<div class="column">
+		<a href="https://www.instagram.com/jpguitarensemble/"><img style="max-width:138px" height="auto" width="100%" alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a>
+		<a href="https://www.instagram.com/jpjcdanceclub/"><img style="max-width:138px" height="auto" width="100%" alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div>
+
+
 
 <center><h3>Sports &amp; Games</h3></center>
 
