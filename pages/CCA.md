@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div>
-<h2><center><p style="color:Blue">Clubs &amp; Societies</p></center></h2>
+<h1><center><p style="color:Blue">Clubs &amp; Societies</p></center></h1>
 
 <br>
 
@@ -41,7 +41,7 @@ description: ""
 <br>
 <br>
 
-<h2><center><p style="color:Blue">Performing Arts</p></center></h2>
+<h1><center><p style="color:Blue">Performing Arts</p></center></h1>
 
 <br>
 <div class="row">
@@ -63,7 +63,7 @@ description: ""
 <br>
 <br>
 
-<h2><center><p style="color:Blue">Sports &amp; Games</p></center></h2>
+<h1><center><p style="color:Blue">Sports &amp; Games</p></center></h1>
 
 <br>
 
