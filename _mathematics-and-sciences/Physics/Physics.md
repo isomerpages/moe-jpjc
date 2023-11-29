@@ -3,15 +3,19 @@ title: Physics
 permalink: /mathematics-and-sciences/physics/
 description: ""
 third_nav_title: Physics
+variant: markdown
 ---
-<div align=justify>
-<p>
-The JPJC Physics Department welcomes students with a curiosity for learning about the scientific and technological world they live in. The teachers will take them down a journey of inquiry and discovery through lectures, tutorial and practical sessions. We are committed to providing students with rich and unique learning experiences through the use of simulations, videos and real-life demonstrations. To further inspire a deeper interest in the subject, JPJC set up a physics demo lab (Feynman Lab) to provide students with authentic and hands-on learning to make concepts come alive.</p>
+<div align="justify">
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/pic1.jpg">
-</figure>
+<img src="/images/Curriculum/Physics/phy1.jpg">
+Students conducting a nuclear physics experiment</figure>
 
-<p>
-Click <a href="https://youtu.be/Vciqgd7PoPw">here</a> to view the Physics E-Open House Video</p>
-<p>Disclaimer: Some of the photographs and videos were taken before the Covid-19 pandemic</p>
+<figure>
+<img src="/images/Curriculum/Physics/phy2.jpg">
+Students looking through a DIY telescope on STEAM Day</figure>	
+	
+<p>The goal of physics is to understand how things work from first principles. It defines the motion, forces and energy of everyday experiences, and is at play everywhere. Courses in physics reveal the mathematical beauty of the universe at scales ranging from subatomic to cosmological. Studying physics strengthens quantitative reasoning and problem-solving skills that are valuable in areas beyond physics. Walking, riding on public transport or using GPS or other applications on your phone all incorporate the laws of physics. Physics students are not bound by context. They think outside the box to come up with innovative solutions that may not previously have been considered. They are constantly challenged with the way of thinking with new concepts and ideas, which are crucial to development and evolution.</p>
+
+<p>The department aims to instil in students a good sense of appreciation, problem-solving skills, ethics and attitudes aligned to the Practices of Science and 21st Century Competencies.</p>
+</div>
