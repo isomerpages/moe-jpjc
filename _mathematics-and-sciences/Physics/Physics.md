@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physics
 variant: markdown
 ---
-/<div align="justify">
+<div align="justify">
 
 <figure>
 <img src="/images/Curriculum/Physics/phy1.jpg">
