@@ -106,8 +106,8 @@ This paper will consist of 30 compulsory multiple-choice questions. All question
 <p>
 This paper will consist of 2 sections. All answers will be written in spaces provided on the Question Paper:</p>
 <ul>
-	<li><strong>Section A (60 marks)</strong></li>
+<li><strong>Section A (60 marks)</strong></li>
 <p>This section will consist of a variable number of structured questions including one or two data-based questions, all compulsory. The data-based question(s) will constitute 15-20 marks.</p>
-	<li><strong>Section B (20 marks)</strong></li>
+<li><strong>Section B (20 marks)</strong></li>
 <p>
 This section will consist of two 20-mark questions of which candidates will answer one. The questions will require candidates to integrate knowledge and understanding from different areas of the syllabus.</p></ul></div>
