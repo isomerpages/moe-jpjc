@@ -45,13 +45,11 @@ The Alumni Speaker’s Series is a platform for established alumni from differen
 <h4>Year 2023</h4>
 <ol>
 <li><strong> Mr Cheong Wan Rong (JJC Alumnus, Class of 2009)</strong> Cyber Incident Responder at Morgan Stanley</li>
-
+<figure><img src="/images/Partnerships/JPJC%20Alumni/2023a.jpg"><figcaption>Wan Rong taking questions from the students</figcaption></figure>	
 	
-	
-	
-	
-	
+<figure><img src="/images/Partnerships/JPJC%20Alumni/2023b.jpg"><figcaption>Cheong Wan Rong with his sister, who is also a JJC alumnus, and the students who attended his sharing.</figcaption></figure>	
 </ol>	
+	
 	
 <h4>Year 2022</h4>
 <ol>
