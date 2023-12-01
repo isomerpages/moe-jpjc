@@ -10,7 +10,6 @@ description: ""
 <p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
 
 
-
 	
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
 
