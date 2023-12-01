@@ -13,7 +13,7 @@ description: ""
 
 		
 <a href=""><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
-	
+
 <a href=""><img src="/images/Open%20house%202024/Programmes/2_CCAs.png"></a>
 
 <a href=""><img src="/images/Open%20house%202024/Programmes/3_ECG.png"></a>
