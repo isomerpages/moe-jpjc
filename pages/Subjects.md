@@ -13,13 +13,33 @@ description: ""
 
 <div class="row"> 
 	
-  <div class="column">	
+<div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
+
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a>
 	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
+<a href=""><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a>
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a>
 	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
+<a href=""><img src="/images/Open%20house%202024/Subjects/5_English.png"></a>	
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/6_Humanities.png"></a>	
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/7_Mathematics.png"></a>
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/8_Mother_Tongue_Languages.png"></a>
 	
+<a href=""><img src="/images/Open%20house%202024/Subjects/9_LEP.png"></a>	
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/10_PE.png"></a>	
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/11_Physics.png"></a>	
+
+<a href=""><img src="/images/Open%20house%202024/Subjects/12_PW.png"></a>	
+	
+	
+</div>
 	
 	
 </div>
@@ -27,7 +47,7 @@ description: ""
  <div class="column">	
 <a src="/images/Open%20house%202024/Subjects/2_Chemistry.png" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"></a></div>
     
-</div>
+
 
 
 
@@ -45,6 +65,7 @@ description: ""
 <div class="row">
   <div class="column">	
 <a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
+
 <a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Open%20house%202024/CCA/Chess_Club.png"></a>
 <a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Open%20house%202024/CCA/Chinese_Cultural_Society.png"></a>
 <a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a></div>
