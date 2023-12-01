@@ -5,36 +5,21 @@ variant: markdown
 description: ""
 ---
 <div align="justify">
-
 <h3><center>Find out more about the wide range of subjects offered at JPJC here!</center></h3>
 	
 <p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
 </div>
 
+
 <div class="row"> 
-  <div class="column">
-    	<a href="https://www.instagram.com/jpjc_av/"><img style="width:100%" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/Debate.png">
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png">
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/Student_Council.png">
-   </div>
-  
 <div class="column">
-    <img style="width:100%" src="/w3images/underwater.jpg">
-    <img style="width:100%" src="/w3images/ocean.jpg">
-    <img style="width:100%" src="/w3images/wedding.jpg">
-   </div>  
-  <div class="column">
-    <img style="width:100%" src="/w3images/wedding.jpg">
-    <img style="width:100%" src="/w3images/rocks.jpg">
-    <img style="width:100%" src="/w3images/falls2.jpg">
-   </div>
-  <div class="column">
-   <img style="width:100%" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png">
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/Interact_Club.png">
-    <img style="width:100%" src="/images/Open%20house%202024/CCA/PlayArt.png">
-  </div>
-</div>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
+ 
+<div class="column"> 
+<a src="/images/Open%20house%202024/Subjects/2_Chemistry.png" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"></a>
+    
+
+
 
 <center><h3>Clubs &amp; Societies</h3></center>
 
@@ -217,4 +202,4 @@ description: ""
 	<div class="column">
 		<a href="https://www.instagram.com/jp_ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a></div>
 	<div class="column">
-		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a></div></div></div></div></div>
