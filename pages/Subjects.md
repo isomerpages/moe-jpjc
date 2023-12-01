@@ -14,7 +14,7 @@ description: ""
 
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a>
 	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/computing/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a>
+<a href="https://sites.google.com/view/jpcomputingexperience/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a>
 
 <a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a>
 	
