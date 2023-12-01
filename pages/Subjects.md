@@ -10,11 +10,10 @@ description: ""
 <p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
 </div>
 
-<div align="left">	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png" align="left"></a>
 
-<div align="right">	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div>
+
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png" align="right"></a>
 	
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/computing/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a>
 
