@@ -7,9 +7,9 @@ description: ""
 <div align="justify">
 
 <h3><center>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</center></h3>	
-<div>
+</div>
 	
-<div>	
+
 
 		
 <a href=""><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
@@ -25,8 +25,7 @@ description: ""
 <a href=""><img src="/images/Open%20house%202024/Programmes/6_Student_leadership.png"></a>
 
 <a href=""><img src="/images/Open%20house%202024/Programmes/7_VIA.png"></a>
-</div>	
+
 	
 	
 
-</div></div>
