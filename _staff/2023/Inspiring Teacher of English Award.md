@@ -7,10 +7,14 @@ third_nav_title: "2023"
 ---
 <div align="justify">
 
+<img style="width: 30%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	
 	
-
-<img src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg">	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Inspiring Teacher of English Award 2023 (Teaching Award) Yvonne Koh Feng Ying" src="https://www.youtube.com/embed/6cVf3demUhs" height="720" width="1280"></iframe>
 	
+<br>	
+<br>
+<br>
+<br>	
 <p>We are pleased to announce that Ms Yvonne Koh Feng Ying, Senior Teacher, has been conferred the Inspiring Teacher of English Award.</p>
 
 <p>This award acknowledges the dedication of English language educators who possess a deep passion for making the English language engaging and applicable to their students. They demonstrate innovation in facilitating effective learning experiences. The award is presented in collaboration with the Speak Good English Movement and The Straits Times, with the support of the Ministry of Education.</p>	
