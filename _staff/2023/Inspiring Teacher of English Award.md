@@ -8,8 +8,8 @@ third_nav_title: "2023"
 <div align="justify">
 
 	
-	
-	
+
+<img src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg">	
 	
 <p>We are pleased to announce that Ms Yvonne Koh Feng Ying, Senior Teacher, has been conferred the Inspiring Teacher of English Award.</p>
 
@@ -22,4 +22,4 @@ third_nav_title: "2023"
 <p>Some students think that GP is a daunting subject. I strive to make it accessible by connecting what we learn in class to real-world experiences, and by incorporating games into my lessons. One example of a game I designed is the "Amazing Race". Students collaborate in groups to take photos of objects around them as part of their response to given questions. When I meet my former students, they show me photos from past races. They tell me that they remember the connections they forged with one another and how they enjoyed their learning together. I am, therefore, reminded of this quote by Carl W. Buehner - ‘They may forget what you said, but they will never forget how you made them feel.’</p>
 
 <p>For me, teaching is not just about imparting knowledge. It is about creating lasting memories and turning a subject that might seem daunting to some into an enjoyable and meaningful one.”</p>	
-</div>	
+</div>
