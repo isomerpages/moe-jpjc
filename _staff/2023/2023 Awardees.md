@@ -20,7 +20,9 @@ third_nav_title: "2023"
 
 
 <h3>MOE Service Excellence Award (MSEA)</h3>
-
+<figure>
+<img src="/images/Accomplishment/Staff%20achievement/Msea.jpg">
+</figure>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSa70s6PMqeig6jfQx5eDDSegC47jy_5s21ZY5R5PqpK75f-O7rIyh1e0s3gNDFZupCXr6mZahXCAaM/pub?embedded=true" width="800px" height="1850px" scrolling="no"></iframe>
 
 
