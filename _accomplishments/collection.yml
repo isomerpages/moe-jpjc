@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Accomplishments.md
+      - Staff/2022.md
       - Staff/.keep
       - Staff/2022 Awardees.md
       - Staff/Dr Hang Kim Hoo.md
