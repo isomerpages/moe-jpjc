@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Staff.md
-      - 2023/Nanyang Technological University Koh Boon Hwee Scholars Award –
-        Honoured Teachers.md
+      - 2023/.keep
       - 2023/2023 awardees.md
       - 2023/Inspiring Teacher of English Award.md
-      - 2023/.keep
+      - 2023/Nanyang Technological University Koh Boon Hwee Scholars Award –
+        Honoured Teachers.md
       - 2022/.keep
       - 2022/2022 Awardees.md
       - 2022/Dr Hang Kim Hoo.md
