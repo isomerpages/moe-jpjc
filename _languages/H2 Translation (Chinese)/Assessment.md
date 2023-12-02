@@ -3,10 +3,11 @@ title: Assessment
 permalink: /languages/h2-translation-chinese/assessment/
 description: ""
 third_nav_title: H2 Translation (Chinese)
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
-The <strong>assessment</strong> of the subject comprises two papers and it would be conducted entirely as an e-paper. The medium of this syllabus is Chinese. Students are to answer all questions in Chinese, apart from the translations into English in Paper 1.</p>
+The&nbsp;<strong>assessment</strong>&nbsp;of the subject comprises two papers and it would be conducted entirely as an e-paper. The medium of this syllabus is Chinese. Students are to answer all questions in Chinese, apart from the translations into English in Paper 1.</p>
 
 <h4><strong>Paper 1: CL-EL (100 marks / 50%; duration: 3 hours)</strong></h4>
 <p>
@@ -24,8 +25,8 @@ One question on error analysis and critique (15 marks)<br>
 	<strong>Section D:</strong> One question on comparative criticism (35 marks)</p>
 
 <p>
-You may refer to <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for the syllabus in detail. For information on examinations, please click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9571_y23_sy.pdf">here</a>.</p>
+You may refer to&nbsp;<a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for the syllabus in detail. For information on examinations, please click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9571_y23_sy.pdf">here</a>.</p>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Languages/H2%20Translation/Assessment/pic1.jpg">
-</figure>
+<img src="/images/Curriculum/CLEP/Clep17.png">
+<figcaption>Our first batch of H2 Translation (Chinese) students in the <a href="https://www.asiaone.com/tough-job-translate-expert?page=0"> Straits Times in 2015.</a></figcaption></figure></div>
