@@ -13,7 +13,9 @@ third_nav_title: "2023"
 <h3>National Awards (Covid-19)</h3>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRq4eeQr_Y8JJdPnjcXj77sij8cJ8nNqy-wYoNnX7BwPhEFKvxZlhT-kRcae01Sf8xkRxGyyQC4RkA0/pub?embedded=true" width="800px" height="180px" scrolling="no"></iframe>
 
-
+<figure>
+<img src="/images/Accomplishment/Staff%20achievement/award_ceremony.jpg">
+<figcaption> JPJC Awardees at the Ceremony for 2023 National Day Awards &amp; National Awards (Covid-19)</figcaption></figure>
 
 
 
@@ -28,3 +30,8 @@ third_nav_title: "2023"
 <h3>Academy Award for Professional Development</h3>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTw9UOIHVVDT4bPI1GLyIVUsnEkKzA-S4Syyg3w-Tlx-KmMzVUrGrH7xBLVq_cRYITiHxRwSxzvNb4S/pub?embedded=true" width="800px" height="320px" scrolling="no"></iframe>
+
+
+<figure>
+<img src="/images/Accomplishment/Staff%20achievement/Academy.jpg">
+<figcaption>JPJC Awardees with Principal, Mr Ang, at the Academy Awards for Professional Development</figcaption></figure>
