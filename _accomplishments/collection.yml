@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Accomplishments.md
+      - Staff/2022.md
       - Staff/.keep
       - Staff/Dr Hang Kim Hoo.md
       - Staff/Madam Lim Sok Koon.md
