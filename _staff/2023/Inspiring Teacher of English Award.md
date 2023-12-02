@@ -9,8 +9,13 @@ third_nav_title: "2023"
 
 <img style="width: 30%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	
 	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Inspiring Teacher of English Award 2023 (Teaching Award) Yvonne Koh Feng Ying" src="https://www.youtube.com/embed/6cVf3demUhs" height="720" width="1280"></iframe>
+
 	
+<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Inspiring Teacher of English Award 2023 (Teaching Award) Yvonne Koh Feng Ying" src="https://www.youtube.com/embed/6cVf3demUhs" height="164" width="300" align="right"></iframe></figure>	
+	
+<br>	
+<br>
+
 <br>	
 <br>
 <br>
