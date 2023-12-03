@@ -11,7 +11,7 @@ third_nav_title: "2023"
 
 <div class="row">
   <div class="column">		
-<img style="width: 80%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	</div>
+<img style="width: 50%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	</div>
 	
 
  <div class="column">	
