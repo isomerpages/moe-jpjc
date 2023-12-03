@@ -11,12 +11,12 @@ third_nav_title: "2023"
 
 <div class="row">
   <div class="column">		
-<img style="width: 100%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	</div>
+<img style="width: 80%" src="/images/Accomplishment/Inspiring%20teacher%20award/Inspiring.jpg" align="left">	</div>
 	
 
  <div class="column">	
 	
-<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Inspiring Teacher of English Award 2023 (Teaching Award) Yvonne Koh Feng Ying" src="https://www.youtube.com/embed/6cVf3demUhs" height="200" width="360" align="right"></iframe></figure>	</div></div>
+<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Inspiring Teacher of English Award 2023 (Teaching Award) Yvonne Koh Feng Ying" src="https://www.youtube.com/embed/6cVf3demUhs" height="220" width="400" align="right"></iframe></figure>	</div></div>
 	
 <p>We are pleased to announce that Ms Yvonne Koh Feng Ying, Senior Teacher, has been conferred the Inspiring Teacher of English Award.</p>
 
