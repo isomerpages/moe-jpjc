@@ -4,17 +4,33 @@ permalink: /about-jpjc/open-house-2024/programmes/
 variant: markdown
 description: ""
 ---
-<center><h3>Clubs &amp; Societies</h3></center>
+<center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
+
+
 <div class="row">
+<div class="column">
+<a href=""><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div>
 
 <div class="column">
-<a href="https://www.instagram.com/jpjc\_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2_CCAs.png"></a></div></div>
+
+
+<div class="row">
+<div class="column">
+<a href=""><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div>
 
 <div class="column">
-<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Open%20house%202024/CCA/Chess\_Club.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2_CCAs.png"></a></div></div>
+
+<div class="row">
+<div class="column">
+<a href=""><img src="/images/Open%20house%202024/Programmes/3_ECG.png"></a></div>
 
 <div class="column">
-<a href="https://www.instagram.com/jpjc\_ccs/"><img alt="Chinese Cultural Society" src="/images/Open%20house%202024/CCA/Chinese\_Cultural\_Society.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2_CCA.png"></a></div></div>
+<div class="row">
+<div class="column">
+<a href=""><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div>
 
 <div class="column">
-<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community\_Engagement\_Council.png"></a></div></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2_CCA.png"></a></div></div>
