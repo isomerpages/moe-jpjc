@@ -10,26 +10,19 @@ description: ""
 <p></p><center>For subject combinations offered for 2024-2025, please click <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a></center><p></p>
 </div>
 
+<div class="row">
+<div class="column">	
 <a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a>
+<a target="_blank" href="https://sites.google.com/view/jpcomputingexperience/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a>
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/knowledge-skills/general-paper/"><img src="/images/Open%20house%202024/Subjects/5_English.png"></a>		
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/math/"><img src="/images/Open%20house%202024/Subjects/7_Mathematics.png"></a>	
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/language-elective-programmes/"><img src="/images/Open%20house%202024/Subjects/9_LEP.png"></a>		
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/11_Physics.png"></a>	</div>
 
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/Chemistry.gif"></a>
-	
-<a target="_blank" href="https://sites.google.com/view/jpcomputingexperience/"><img src="/images/Open%20house%202024/Subjects/Computing.gif"></a>
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/Economics.gif"></a>
-	
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/knowledge-skills/general-paper/"><img src="/images/Open%20house%202024/Subjects/English.gif"></a>	
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/"><img src="/images/Open%20house%202024/Subjects/Humanities.gif"></a>	
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/math/"><img src="/images/Open%20house%202024/Subjects/Mathematics.gif"></a>
-
-<a href="https://www.jpjc.moe.edu.sg/languages/ target="><img src="/images/Open%20house%202024/Subjects/Mother_Tongue_Languages.gif"></a>
-	
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/language-elective-programmes/"><img src="/images/Open%20house%202024/Subjects/LEP.gif"></a>	
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/physical-education/"><img src="/images/Open%20house%202024/Subjects/Physical_Education.gif"></a>	
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/Physics.gif"></a>	
-
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/Project_Work.gif"></a>
+<div class="column">	
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a>
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a>
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/"><img src="/images/Open%20house%202024/Subjects/6_Humanities.png"></a>	
+<a href="https://www.jpjc.moe.edu.sg/languages/ target="><img src="/images/Open%20house%202024/Subjects/8_Mother_Tongue_Languages.png"></a>
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/physical-education/"><img src="/images/Open%20house%202024/Subjects/10_Physical_Education.png"></a>	
+<a target="_blank" href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/12_Project_Work.png"></a></div></div>
