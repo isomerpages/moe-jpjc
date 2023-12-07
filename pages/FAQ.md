@@ -23,7 +23,7 @@ description: ""
 
 
 <p></p><h5><b> 3. My preferred subject combination is not listed on the college website. Will I be able to choose my preferred subject combination?</b></h5><p></p>
-<p>JPJC provides a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. Take a look **here** and find one that best suits your needs and aspirations: INSERT LINK</p>
+<p>JPJC provides a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. Take a look <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/">here</a> and find one that best suits your needs and aspirations.</p>
 
 
 <p></p><h5><b>4. How do I appeal for admission to the college?</b></h5><p></p>
@@ -39,7 +39,7 @@ description: ""
 <p>On top of that, Student Councilors will be involved in leadership workshop or camps, together with other CCA leaders, organised by the College.</p>
 
 <p></p><h5><b>6. Could the school elaborate on the house system? E.g. How are students allocated?	</b></h5><p></p>
-<p>For information on the House System please access this link:XX</p>
+<p>For information on the House System please access this <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/house-system/"> link.</a></p>
 
 <p>Generally students are allocated a House based on the class that they are in. Students who are interested in fostering the school spirit through their House can either become a House Executive of their class or through joining the Student Council.</p>
 
@@ -47,7 +47,7 @@ description: ""
 <p> In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fridays (4pm to 7pm). Depending on the nature of the CCA and activities, the duration of the CCA activities will last between 2-3 hours per session.</p>
 
 <p></p><h5><b>8. Can you share more about STEAM?</b></h5><p></p>
-<p> For information on the STEAM programme, please access this link: XX</p>
+<p> For information on the STEAM programme, please access this <a href=""> link.</a></p>
 
 
 
