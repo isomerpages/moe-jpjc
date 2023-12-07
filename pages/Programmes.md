@@ -9,12 +9,14 @@ description: ""
 <h3><center>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</center></h3>	
 </div>
 	
-<div>
-<a target="_blank" href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
+<div class="row">
+<div class="column"><a target="_blank" href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
 
+<div class="column">
 <a target="_blank" href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2_CCAs.png"></a>
+</div></div></div>
 
-	
+<div class="row">	
 	
 <div>	
 	
