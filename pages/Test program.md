@@ -52,7 +52,7 @@ description: ""
 
 <div class="column">
 
-<a href="https://www.instagram.com/humans.of.jpjc/"><img height="auto" width="25%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:230px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
 
 
