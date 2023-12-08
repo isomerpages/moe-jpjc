@@ -6,7 +6,7 @@ description: ""
 ---
 <div>
 
-<p></p><center>Get the latest updates on our CCAs by clicking on the various icons!</center><p></p>
+<p></p><h3><center>Get the latest updates on our CCAs by clicking on the various icons!</center></h3><p></p>
 
 <center><h1>Clubs &amp; Societies</h1></center>
 <br>
