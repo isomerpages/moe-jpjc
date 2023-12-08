@@ -8,12 +8,24 @@ description: ""
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
 <div class="row">
 <div class="column">
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
-<a href="https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/further-ecg/"><img src="/images/Open%20house%202024/Programmes/3_ECG.png"></a>
-<a href=""><img src="/images/Open%20house%202024/Programmes/5_STEAM.png"></a>	
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/7_VIA.png"></a></div>
-
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div>
 <div class="column">
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2__CCAs.png"></a>
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/internationalisation-programme/"><img src="/images/Open%20house%202024/Programmes/4_Internalisation.png"></a>
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/"><img src="/images/Open%20house%202024/Programmes/6_Student_Leadership.png"></a></div></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/2__CCAs.png"></a></div></div>
+
+<div class="row">
+<div class="column">
+<a href="https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/further-ecg/"><img src="/images/Open%20house%202024/Programmes/3_ECG.png"></a></div>
+<div class="column">
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/internationalisation-programme/"><img src="/images/Open%20house%202024/Programmes/4_Internalisation.png"></a></div></div>
+	
+<div class="row">
+<div class="column">
+<a href=""><img src="/images/Open%20house%202024/Programmes/5_STEAM.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/"><img src="/images/Open%20house%202024/Programmes/6_Student_Leadership.png"></a></div>	
+
+<div class="row">
+<div class="column">
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/7_VIA.png"></a></div>
+<div class="column">	
+<img src="/images/Open%20house%202024/blank1.png"></div></div>
+
