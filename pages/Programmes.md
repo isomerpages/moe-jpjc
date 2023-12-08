@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
-
+<p></p><center>Click on the images/quotes for more information.</center><p></p>
 <div class="row">
 <div class="column">
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a>
