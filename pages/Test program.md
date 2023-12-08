@@ -54,6 +54,14 @@ description: ""
 
 <a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:200px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
+
+
+
+
+
+
+
+
 <center><h3>Clubs &amp; Societies</h3></center>
 
 <div class="row">
