@@ -28,9 +28,8 @@ description: ""
 <div class="column">
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/"><img src="/images/Open%20house%202024/Programmes/6_Student_Leadership.png"></a></div></div>
 
-<div class="row">	
-
 <div style="width:50%"> 
+<div class="row">	
 <div class="column">
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/7_VIA.png"></a></div></div></div>
 
