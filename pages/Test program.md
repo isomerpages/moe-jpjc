@@ -103,14 +103,16 @@ description: ""
 
 <div class="row">
 
-<div style="width:25%">
 <div class="column">
-<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a>
+<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div>
 
-<div class="spaced"></div>
-<div class="spaced"></div>
-<div class="spaced"></div>	
-</div></div></div>
+<div class="column">
+<div class="spaced"></div></div>
+<div class="column">
+<div class="spaced"></div></div>
+<div class="column">
+<div class="spaced"></div></div>
+</div>
 
 
 
