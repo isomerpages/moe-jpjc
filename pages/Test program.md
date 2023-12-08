@@ -83,11 +83,9 @@ description: ""
 
 <div style="width:25%">
 <div class="column">
-<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div></div>
 
-<div class="column"></div>
-<div class="column"></div>
-<div class="column"></div></div>
+
 
 
 
