@@ -37,21 +37,17 @@ description: ""
 <a href="https://www.instagram.com/jpjcicas/"><img alt="International Current Affairs Society" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png"></a></div>
 
 <div class="column">
-
 <a href="https://www.instagram.com/jpjc.mpc/"><img alt="JPJC Media Tech Club" src="/images/Open%20house%202024/CCA/JP_Media_Tech_Club.png"></a></div>
 
 <div class="column">
-
 <a href="https://www.instagram.com/jpjc.mlep/"><img alt="Malay Cultural Society" src="/images/Open%20house%202024/CCA/Malay_Cultural_Society.png"></a></div>
 
 <div class="column">
-
 <a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a></div></div>
 
 <div class="row">
 
 <div class="column">
-
 <a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div>
 
 <div class="column"></div>
@@ -59,7 +55,7 @@ description: ""
 <div class="column"></div></div>
 
 
-
+width="100%" height="auto" style="max-width:230px"
 
 
 
@@ -112,4 +108,4 @@ description: ""
 
 <div class="column">
 
-<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:200px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:230px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
