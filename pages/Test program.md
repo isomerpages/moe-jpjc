@@ -88,7 +88,6 @@ description: ""
 <a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a>
 
 <div class="spaced"></div>
-
 <div class="spaced"></div>
 <div class="spaced"></div>	
 </div></div></div>
