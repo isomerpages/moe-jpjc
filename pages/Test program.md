@@ -8,7 +8,7 @@ description: ""
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
 
 <div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
-<img style="border:5px solid white" id="imgsrc" height="170" width="215" src="/images/Open%20house%202024/Programmes/1_CCE.png">
+<img style="border:5px solid white" id="imgsrc" height="250" width="625" src="/images/Open%20house%202024/Programmes/1_CCE.png">
 </div>
 
 
@@ -17,7 +17,7 @@ description: ""
 <div class="row">
 <div class="column">
 <div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img style="border:5px solid white" id="imgsrc" height="171" width="215" src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div></div></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img style="border:5px solid white" id="imgsrc" height="400" width="800" src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div></div></div>
 	
 	
 	
