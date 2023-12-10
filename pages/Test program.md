@@ -7,11 +7,22 @@ description: ""
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
 
+<div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
+<img style="border:5px solid white" id="imgsrc" height="170" width="215" src="/images/Open%20house%202024/Programmes/1_CCE.png">
+<img style="border:5px solid white" id="imgsrc" height="171" width="215" src="../../images/completed-projects/thumbnails/78-lad.jpg">
+</div>
+
+
+
 
 <div class="row">
 <div class="column">
-
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div></div>
+<div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img style="border:5px solid white" id="imgsrc" height="171" width="215" src="/images/Open%20house%202024/Programmes/1_CCE.png"></a></div></div></div>
+	
+	
+	
+	
 	
 <div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
 <img style="border:5px solid white" id="imgsrc" height="170" width="215" src="../../images/completed-projects/thumbnails/11-gurney-drive.jpg">
