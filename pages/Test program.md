@@ -9,7 +9,6 @@ description: ""
 
 <div style="float:left; margin:90px 0 0 305px; padding:0 0 100px 0; height:auto;">
 <img style="border:5px solid white" id="imgsrc" height="170" width="215" src="/images/Open%20house%202024/Programmes/1_CCE.png">
-<img style="border:5px solid white" id="imgsrc" height="171" width="215" src="../../images/completed-projects/thumbnails/78-lad.jpg">
 </div>
 
 
