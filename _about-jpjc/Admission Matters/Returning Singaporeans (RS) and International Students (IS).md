@@ -1,8 +1,9 @@
 ---
 title: Returning Singaporeans (RS) and International Students (IS)
-permalink: /about/admission-matters/returning-rs-and-is/
+permalink: /about-jpjc/admission-matters/returning-rs-and-is/
 description: ""
 third_nav_title: Admission Matters
+variant: markdown
 ---
 <div align="justify">
 <h2>Returning Singaporeans (RS) and International Students (IS)</h2>
