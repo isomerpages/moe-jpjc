@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/Banner_test.png
+      background: /images/2024/Banner_test2.png
       key_highlights:
         - title: "#Whyjp"
           description: Open House 2024
@@ -62,7 +62,7 @@ sections:
       description: Be inspired by how our students have overcome various difficulties
         in their lives and found varied pathways to success.
       button: Read more here
-      url: /jpjc-experience/co-curriculum/
+      url: " /accomplishments/students/a-level-inspirational-stories/"
       alt: Hear from the Class of 2022!
       image: /images/2024/A_Level_Stories_Collage.png
       subtitle: Highlights
