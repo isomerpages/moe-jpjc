@@ -2,6 +2,7 @@ collections:
   2023-open-house:
     output: true
     order:
+      - Frequently Asked Questions (FAQs).md
       - Niche Programmes.md
       - Subject Information.md
       - Vibrant Student Culture.md
