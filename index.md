@@ -49,7 +49,7 @@ sections:
       image: /images/2024/JP_fam.jpg
       alt: Co-curriculum
   - infopic:
-      title: Service Learning
+      title: Values in Action
       subtitle: Compassionate leaders
       id: infopic
       description: Every act of volunteerism illuminates the path to a kinder world for all.
