@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Jurong Pioneer Junior College
-      background: /images/top-banner.jpg
-      subtitle: "Weaving Legacies: A tribute to the past, a step towards the future."
+      background: /images/2024/Banner.png
       key_highlights:
         - title: "#Whyjp"
           description: Open House 2024
