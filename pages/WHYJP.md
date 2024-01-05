@@ -4,7 +4,7 @@ permalink: /about-jpjc/open-house-2024/
 variant: markdown
 description: ""
 ---
-<div align="justify">
+480<div align="justify">
 
 <h3><center>Welcome to JPJC's Open House 2024!</center></h3>
 
