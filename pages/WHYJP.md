@@ -19,7 +19,7 @@ description: ""
 	
 <h3><center>Dive into a nurturing environment that sows the seeds of tomorrow!</center></h3>
 
-<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" height="580" width="800"></iframe></figure>
+<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" height="560" width="315"></iframe></figure>
 	
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC!</center></h3>
 
