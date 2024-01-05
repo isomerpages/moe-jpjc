@@ -9,10 +9,17 @@ sections:
   - hero:
       title: Jurong Pioneer Junior College
       background: /images/top-banner.jpg
-      dropdown:
-        title: Announcements
-        options: []
       subtitle: "Weaving Legacies: A tribute to the past, a step towards the future."
+      key_highlights:
+        - title: "#Whyjp"
+          description: Open House 2024
+          url: ""
+        - title: "@jpjc.official"
+          description: Follow us on Instagram!
+          url: https://www.instagram.com/jpjc.official/?hl=en
+        - title: Life@JPJC
+          description: 2023 Highlights
+          url: /life-at-jpjc/2023-events/
   - infopic:
       title: Deepening knowledge
       description: Nurturing creative thinkers of today, scholars of tomorrow
