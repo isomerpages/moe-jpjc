@@ -9,9 +9,7 @@ description: ""
 <h3><center>Welcome to JPJC's Open House 2024!</center></h3>
 
 	
-<figure>
 <img src="/images/Open%20house%202024/Open_House.jpg">
-</figure>	
 
 <h3><center>Hear from our Principal, Mr Kevin Ang!</center></h3>
 
