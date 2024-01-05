@@ -15,6 +15,9 @@ sections:
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
+        - title: "@jpjc.sg"
+          description: Follow us on Facebook!
+          url: https://www.facebook.com/jpjc.sg/
         - title: Life@JPJC
           description: 2023 Highlights
           url: /life-at-jpjc/2023-events/
