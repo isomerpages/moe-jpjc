@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: "#Whyjp"
           description: Open House 2024
-          url: ""
+          url: /about-jpjc/open-house-2024/
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
@@ -29,6 +29,7 @@ sections:
       button: let's go!
       url: /about-jpjc/open-house-2024/
       image: /images/2024/MOTD__2_.png
+      alt: Open House 2024
   - infopic:
       title: Pursuing Passion
       description: Discovering PASSION through seeking, inspiring PURPOSE through
