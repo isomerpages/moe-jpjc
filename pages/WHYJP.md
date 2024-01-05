@@ -21,7 +21,7 @@ description: ""
 	
 <h3><center>Have a vicarious experience of a day in the lives of JPJC students</center></h3>
 
-<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" height="720" width="1280"></iframe></figure>
+<figure><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" height="480" width="850"></iframe></figure>
 	
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC</center></h3>
 	
