@@ -23,12 +23,12 @@ sections:
           url: /life-at-jpjc/2023-events/
       variant: image
   - infopic:
-      title: Deepening knowledge
-      description: Nurturing creative thinkers of today, scholars of tomorrow
-      button: click here
-      alt: Deepening knowledge
-      url: /jpjc-experience/total-curriculum-framework/
-      image: /images/deepening-knowledge2.png
+      title: Open House 2024
+      description: "Calling all potential JC1s! Join us at the #WhyJP Open House 2024
+        where nurturing meets growth!"
+      button: let's go!
+      url: /about-jpjc/open-house-2024/
+      image: /images/2024/MOTD__2_.png
   - infopic:
       title: Pursuing Passion
       description: Discovering PASSION through seeking, inspiring PURPOSE through
