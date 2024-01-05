@@ -14,7 +14,5 @@ description: ""
 	
 <h4><center>Alumni</center></h4>
 	
-
-<h4><center>Parents</center></h4>
 	
 <div></div></div>
