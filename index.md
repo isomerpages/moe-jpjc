@@ -62,7 +62,7 @@ sections:
       description: Be inspired by how our students have overcome various difficulties
         in their lives and found varied pathways to success.
       button: Read more here
-      url: /accomplishments/students/a-level-inspirational-stories/
+      url: /a-level-inspirational-stories/2023/overview/
       alt: Hear from the Class of 2022!
       image: /images/2024/A_Level_Stories_Collage.png
       subtitle: Highlights
