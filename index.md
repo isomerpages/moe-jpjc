@@ -32,15 +32,6 @@ sections:
       alt: Open House 2024
       subtitle: Events
   - infopic:
-      title: Hear from the Class of 2022!
-      description: Be inspired by how our students have overcome various difficulties
-        in their lives and found varied pathways to success.
-      button: Read more here
-      url: /jpjc-experience/co-curriculum/
-      alt: Hear from the Class of 2022!
-      image: /images/2024/A_Level_Stories_Collage.png
-      subtitle: Highlights
-  - infopic:
       title: Curriculum
       description: Nurturing creative thinkers of today, scholars of tomorrow
       alt: Image alt text
@@ -66,4 +57,13 @@ sections:
       url: /jpjc-experience/co-curriculum/cce/via/
       image: /images/2024/VIA.jpg
       alt: Service Learning
+  - infopic:
+      title: Hear from the Class of 2022!
+      description: Be inspired by how our students have overcome various difficulties
+        in their lives and found varied pathways to success.
+      button: Read more here
+      url: /jpjc-experience/co-curriculum/
+      alt: Hear from the Class of 2022!
+      image: /images/2024/A_Level_Stories_Collage.png
+      subtitle: Highlights
 ---
