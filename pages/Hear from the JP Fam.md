@@ -10,7 +10,7 @@ description: ""
 	
 <h3><center>Students</center></h3>
 <h4><center>Have a vicarious experience of a day in the lives of JPJC students!</center></h4>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" height="580" width="800"></iframe>
 	
 <h4><center>Alumni</center></h4>
 	
