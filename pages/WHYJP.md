@@ -16,7 +16,7 @@ description: ""
 <h3><center>Hear from our Principal, Mr Kevin Ang!</center></h3>
 
 	
-<figure><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc" height="540" width="960"></iframe></center></figure>
+<figure><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc" height="480" width="850"></iframe></center></figure>
 	
 	
 <h3><center>Have a vicarious experience of a day in the lives of JPJC students</center></h3>
