@@ -21,7 +21,7 @@ sections:
         - title: Life@JPJC
           description: 2023 Highlights
           url: /life-at-jpjc/2023-events/
-      variant: image
+      variant: center
   - infopic:
       title: Open House 2024
       description: "Calling all potential JC1s! Join us at the #WhyJP Open House 2024
