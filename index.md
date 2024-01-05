@@ -18,6 +18,7 @@ sections:
         - title: Life@JPJC
           description: 2023 Highlights
           url: /life-at-jpjc/2023-events/
+      variant: image
   - infopic:
       title: Deepening knowledge
       description: Nurturing creative thinkers of today, scholars of tomorrow
