@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#891d40"
     - title: media-color-two
-      color: "#891d40"
+      color: "#0e2855"
     - title: media-color-three
-      color: "#00838f"
+      color: "#891d40"
     - title: media-color-four
-      color: "#00838f"
+      color: "#0e2855"
     - title: media-color-five
-      color: "#00838f"
+      color: "#891d40"
 description: Official website of Jurong Pioneer Junior College (Singapore)
 permalink: none
 baseurl: ""
