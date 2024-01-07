@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/Banner_test.png
+      background: /images/2024/Banner_test1.png
       key_highlights:
         - title: "#Whyjp"
           description: Open House 2024
