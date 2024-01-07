@@ -11,6 +11,6 @@ third_nav_title: Open House 2024
 	
 <h3><center>Students</center></h3>
 <h4><center>Have a vicarious experience of a day in the lives of JPJC students!</center></h4>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" height="580" width="800"></iframe>	
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" height="315" width="560"></iframe>	</center>
 	
-<div></div></div>
+</div>
