@@ -3,6 +3,7 @@ title: Programmes
 permalink: /about-jpjc/open-house-2024/programmes/
 variant: markdown
 description: ""
+third_nav_title: Open House 2024
 ---
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
@@ -30,4 +31,3 @@ description: ""
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/7_VIA.png"></a></div>
 <div class="column">	
 <img src="/images/Open%20house%202024/blank1.png"></div></div>
-

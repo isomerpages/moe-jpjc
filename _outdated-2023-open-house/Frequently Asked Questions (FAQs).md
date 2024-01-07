@@ -2,9 +2,8 @@
 title: Frequently Asked Questions (FAQs)
 permalink: /about/open-house-2023/faqs/
 description: ""
-third_nav_title: Open House 2023
 ---
-<div align=justify>
+<div align="justify">
 
 <h4>Frequently Asked Questions</h4>
 
@@ -17,7 +16,7 @@ JPJC offers varied programmes to develop our students holistically. Programmes o
 <p>
 Please access the following web links for more information provided of our programmes:</p>
 
-<a href="/jpjc-experience/co-curriculum/talent-and-leadership/">Talent & Leadership Development Programme</a><br>
+<a href="/jpjc-experience/co-curriculum/talent-and-leadership/">Talent &amp; Leadership Development Programme</a><br>
 <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a><br>
 <h5>2. What is the 2023 cut-off point for JPJC?</h5>
 
