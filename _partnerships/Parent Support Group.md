@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /partnerships/psg/
 description: ""
+variant: markdown
 ---
 <div align="justify">
 <p>
@@ -23,7 +24,7 @@ The PSG@JPJC is&nbsp;a group of parents who are passionate about providing suppo
 If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.</p>
 
 <h4><strong>How to join PSG@JPJC</strong></h4>
-<p>You may write to us at&nbsp;<a href="mailto:siti\_atiqah\_punari@moe.edu.sg">siti_atiqah_punari@moe.edu.sg</a></p>
+<p>You may write to us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a></p>
 
 <h4><strong>Past Activities</strong></h4>
 	
