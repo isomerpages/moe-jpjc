@@ -21,7 +21,8 @@ third_nav_title: Open House 2024
 <div class="column">	
 <center><strong>Chemistry</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div></div>
-	
+
+<br>
 <div class="row">
 <div class="column">	
 <center><strong>Computing</strong></center>
@@ -29,7 +30,9 @@ third_nav_title: Open House 2024
 <div class="column">	
 <center><strong>Economics</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a></div>	</div>
-	
+
+
+<br>
 <div class="row">
 <div class="column">	
 
@@ -39,6 +42,7 @@ third_nav_title: Open House 2024
 <center><strong>Humanities and the Arts</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/"><img src="/images/Open%20house%202024/Subjects/6_Humanities.png"></a></div></div>
 	
+<br>
 <div class="row">
 <div class="column">		
 <center><strong>Mathematics</strong></center>
@@ -48,6 +52,7 @@ third_nav_title: Open House 2024
 <a href="https://www.jpjc.moe.edu.sg/languages/"><img src="/images/Open%20house%202024/Subjects/8_Mother_Tongue_Languages.png"></a></div></div>
 	
 
+<br>
 <div class="row">
 <div class="column">			
 <center><strong>Language Elective Programme</strong></center>
@@ -56,6 +61,7 @@ third_nav_title: Open House 2024
 <center><strong>Physical Education</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/physical-education/"><img src="/images/Open%20house%202024/Subjects/10_Physical_Education.png"></a></div></div>	
 	
+<br>
 <div class="row">
 <div class="column">			
 <center><strong>Physics</strong></center>
