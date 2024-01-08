@@ -15,11 +15,11 @@ third_nav_title: Open House 2024
 <h3><center>Hear from our Principal, Mr Kevin Ang!</center></h3>
 
 	
-<center><iframe width="560" height="315" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc"></iframe></center>	
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc" width="100%"></iframe></center>	
 	
 <h3><center>Dive into a nurturing environment that sows the seeds of tomorrow!</center></h3>
 
-<center><iframe width="560" height="315" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8"></iframe></center></figure>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" width="100%"></iframe></center></figure>
 	
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC!</center></h3>
 
