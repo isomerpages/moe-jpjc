@@ -12,39 +12,40 @@ third_nav_title: Open House 2024
 </div>
 
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
+
 <div class="row">
+
 <div class="column">	
-	
-<p></p><center><strong>Biology</strong></center>
+<center><strong>Biology</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a></div>
 <div class="column">	
 <center><strong>Chemistry</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div></div><p></p>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div></div>
 	
 <div class="row">
 <div class="column">	
-<p></p><center><strong>Computing</strong></center>
+<center><strong>Computing</strong></center>
 <a href="https://sites.google.com/view/jpcomputingexperience/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a></div>
 <div class="column">	
 <center><strong>Economics</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a></div>	</div>	<p></p>
+<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a></div>	</div>
 	
 <div class="row">
 <div class="column">	
 
-<p></p><center><strong>English and Literature in English</strong></center>
+<center><strong>English and Literature in English</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/knowledge-skills/general-paper/"><img src="/images/Open%20house%202024/Subjects/5_English.png"></a></div>
 <div class="column">	
 <center><strong>Humanities and the Arts</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/"><img src="/images/Open%20house%202024/Subjects/6_Humanities.png"></a></div></div><p>
+<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/"><img src="/images/Open%20house%202024/Subjects/6_Humanities.png"></a></div></div>
 	
-</p><div class="row">
+<div class="row">
 <div class="column">		
-<p></p><center><strong>Mathematics</strong></center>
+<center><strong>Mathematics</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/math/"><img src="/images/Open%20house%202024/Subjects/7_Mathematics.png"></a></div>	
 <div class="column">		
 <center><strong>Mother Tongue Languages</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/languages/"><img src="/images/Open%20house%202024/Subjects/8_Mother_Tongue_Languages.png"></a></div></div><p></p>
+<a href="https://www.jpjc.moe.edu.sg/languages/"><img src="/images/Open%20house%202024/Subjects/8_Mother_Tongue_Languages.png"></a></div></div>
 	
 
 <div class="row">
