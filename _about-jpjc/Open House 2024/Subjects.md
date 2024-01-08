@@ -14,14 +14,19 @@ third_nav_title: Open House 2024
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
 <div class="row">
 <div class="column">	
+	
+<p></p><center><strong>Biology</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20house%202024/Subjects/1_Biology.png"></a></div>
 <div class="column">	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div></div>
+<p></p><center><strong>Chemistry</strong></center>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20house%202024/Subjects/2_Chemistry.png"></a></div></div><p></p>	
 	
 <div class="row">
 <div class="column">	
+<p></p><center>Biology</center>
 <a href="https://sites.google.com/view/jpcomputingexperience/"><img src="/images/Open%20house%202024/Subjects/3_Computing.png"></a></div>
 <div class="column">	
+<p></p><center>Biology</center>
 <a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20house%202024/Subjects/4_Economics.png"></a></div>	</div>	
 	
 <div class="row">
