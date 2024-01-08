@@ -37,7 +37,7 @@ sections:
       alt: Image alt text
       image: /images/2024/new.png
       button: Find out more
-      url: /accomplishments/students/2023accomplishments/
+      url: /jpjc-experience/curriculum/
       subtitle: Active Learners
   - infopic:
       title: Co-curriculum
