@@ -33,7 +33,7 @@ sections:
       subtitle: Events
   - infopic:
       title: Curriculum
-      description: Nurturing creative thinkers of today, scholars of tomorrow
+      description: Nurturing creative thinkers of today, leaders of tomorrow
       alt: Image alt text
       image: /images/2024/new.png
       button: Find out more
