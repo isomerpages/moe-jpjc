@@ -3,38 +3,39 @@ title: Syllabus & Assessment
 permalink: /humanities-and-the-arts/economics/syllabus-and-assessment/
 description: ""
 third_nav_title: Economics
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>Both H1 and H2 Economics is offered in JPJC.</p>
 <h4><strong>Assessment Objectives for H1 and H2 Economics</strong></h4>
 <p>AO1: Knowledge and Understanding
-	<ul>
-		<li>Demonstrate knowledge and understanding of economic concepts, theories and principles.</li></ul></p>
+	</p><ul>
+		<li>Demonstrate knowledge and understanding of economic concepts, theories and principles.</li></ul><p></p>
 
 <p>
 AO2: Interpretation and Evaluation of Information
-<ul>
+</p><ul>
 	<li>Interpret economic information presented in textual, numerical or graphical form.</li>
-	<li>Make valid inferences from information presented and evaluate the reliability of information given.</li></ul></p>
+	<li>Make valid inferences from information presented and evaluate the reliability of information given.</li></ul><p></p>
 
 <p>
 AO3: Application and Analysis
-<ul>
+</p><ul>
 	<li>Apply relevant economic concepts, theories and principles to analyse contemporary issues, perspectives and policy choices.</li>
-	<li>Construct coherent economic arguments.</li></ul></p>
+	<li>Construct coherent economic arguments.</li></ul><p></p>
 
 <p>
 AO4: Evaluation
-<ul>
+</p><ul>
 	<li>Evaluate critically alternative theoretical explanations, contemporary issues, perspectives and policy choices.</li>
 	<li>Recognise unstated assumptions and evaluate their relevance.</li>
-	<li>Synthesise economic arguments to arrive at well-reasoned judgements and decisions.</li></ul></p>
+	<li>Synthesise economic arguments to arrive at well-reasoned judgements and decisions.</li></ul><p></p>
 
 <h4><strong>Assessment Format for H1 Economics</strong></h4>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRb7TOHsWRubuK9XzoBgtW7oD3a4ywT0Jn1qECWWxmfU0emcKrzYO_Ruw4O1yrz5jwvtmZA9Sl3zawh/pub?embedded=true" width=800px height=530px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRb7TOHsWRubuK9XzoBgtW7oD3a4ywT0Jn1qECWWxmfU0emcKrzYO_Ruw4O1yrz5jwvtmZA9Sl3zawh/pub?embedded=true" width="800px" height="530px" scrolling="no"></iframe>
 
 <h4><strong>Assessment Format for H2 Economics</strong></h4>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width=800px height=1200 scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width="800px" height="1200" scrolling="no"></iframe>
 
 <h5><strong>Note:</strong></h5>
 <p>
@@ -48,5 +49,5 @@ Formative assessments are conducted during the course of instruction by the JPJC
 <p>
 For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
 <ul>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8823_y22_sy.pdf"><strong>H1 Economics</strong></a></li>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9757_y22_sy.pdf"><strong>H2 Economics</strong></a></li></ul>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf"><strong>H1 Economics</strong></a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sy.pdf"><strong>H2 Economics</strong></a></li></ul></div>
