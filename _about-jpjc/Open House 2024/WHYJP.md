@@ -15,7 +15,7 @@ third_nav_title: Open House 2024
 <h3><center>Hear from our Principal, Mr Kevin Ang!</center></h3>
 
 	
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc" height="315" width="560"></iframe></center>	
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Mr Kevin Ang's Welcome" src="https://www.youtube.com/embed/d3l4aH50SBc" height="472" width="840"></iframe></center>	
 	
 <h3><center>Dive into a nurturing environment that sows the seeds of tomorrow!</center></h3>
 
