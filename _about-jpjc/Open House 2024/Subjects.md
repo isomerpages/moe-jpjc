@@ -70,5 +70,4 @@ third_nav_title: Open House 2024
 <center><strong>Physics</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/13_CCE.png"></a></div>
 <div class="column">			
-<center><strong>Project Work</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/12_PW.png"></a></div></div>
+<img src="/images/Open%20house%202024/blank1.png"></div></div>
