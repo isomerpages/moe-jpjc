@@ -13,7 +13,7 @@ third_nav_title: Open House 2024
 <h4><center>Have a vicarious experience of a day in the lives of JPJC students!</center></h4>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" width="100%" height="300"></iframe>	</center>
 	
-	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="A trip down the memory lane - #JPFam in 2023" src="https://www.youtube.com/embed/AX3YRUVcV7c" height="300" width="100%"></iframe>
 
 	
 	
