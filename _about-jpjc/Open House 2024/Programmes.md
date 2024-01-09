@@ -19,7 +19,7 @@ third_nav_title: Open House 2024
 <div class="row">
 <div class="column">
 <center><strong>Internationalisation</strong></center>	
-<a href="https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/further-ecg/"><img src="/images/Open%20house%202024/Programmes/3_Internationalisation.png"></a></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/internationalisation-programme/"><img src="/images/Open%20house%202024/Programmes/3_Internationalisation.png"></a></div>
 <div class="column">
 <center><strong>STEAM</strong></center>	<img src="/images/Open%20house%202024/Programmes/4_STEAM.png"></div></div>
 	
