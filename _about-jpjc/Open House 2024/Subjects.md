@@ -55,7 +55,7 @@ third_nav_title: Open House 2024
 <a href="https://www.jpjc.moe.edu.sg/language-elective-programmes/"><img src="/images/Open%20house%202024/Subjects/9_LEP.png"></a></div>		
 <div class="column">			
 <center><strong>Physical Education</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/physical-education/"><img src="/images/Open%20house%202024/Subjects/10_Physical_Education.png"></a></div></div>	
+<a href="https://www.jpjc.moe.edu.sg/physical-education/"><img src="/images/Open%20house%202024/Subjects/10_PE.png"></a></div></div>	
 	
 <div class="row">
 <div class="column">			
@@ -63,4 +63,12 @@ third_nav_title: Open House 2024
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/11_Physics.png"></a></div>
 <div class="column">			
 <center><strong>Project Work</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/12_Project_Work.png"></a></div></div>
+<a href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/12_PW.png"></a></div></div>
+
+<div class="row">
+<div class="column">			
+<center><strong>Physics</strong></center>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/13_CCE.png"></a></div>
+<div class="column">			
+<center><strong>Project Work</strong></center>
+<a href="https://www.jpjc.moe.edu.sg/knowledge-skills/project-work/"><img src="/images/Open%20house%202024/Subjects/12_PW.png"></a></div></div>
