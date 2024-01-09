@@ -28,5 +28,5 @@ third_nav_title: Open House 2024
 <center><strong>Student Leadership</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/"><img src="/images/Open%20house%202024/Programmes/5_Student_Leadership.png"></a></div>
 <div class="column">
-<center><strong>VIA</strong></center>
+<center><strong>Values in Action</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/6_VIA.png"></a></div></div>
