@@ -14,19 +14,7 @@ third_nav_title: Open House 2024
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" width="100%" height="300"></iframe>	</center>
 	
 	
-<h3><center>Let us take a trip down the memory lane and witness these outstanding events of #JPFam in 2023 that makes JP #WHYJP!	</center></h3>
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="A trip down the memory lane - #JPFam in 2023" src="https://www.youtube.com/embed/AX3YRUVcV7c" height="829" width="466"></iframe></center>
-	
-<h3><center>	Unsure of how to get to JPJC by public transport?</center></h3>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Unsure of how to get to JPJC by public transport?" src="https://www.youtube.com/embed/7BD8HZvQVBg" height="829" width="466"></iframe></center>
-	
-<h3><center>We’re JP students, of course we …</center></h3>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="We're JP students, of course we..." src="https://www.youtube.com/embed/EWFOsYysDQk" height="829" width="466"></iframe></center>
-	
-	
-	
-	
 	
 	
 	
