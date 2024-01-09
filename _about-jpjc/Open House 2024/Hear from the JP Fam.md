@@ -16,7 +16,7 @@ third_nav_title: Open House 2024
 	
 <h3><center>Let us take a trip down the memory lane and witness these outstanding events of #JPFam in 2023 that makes JP #WHYJP!	</center></h3>
 
-<center>https://www.youtube.com/shorts/AX3YRUVcV7c?t=12&amp;feature=share</center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="A trip down the memory lane - #JPFam in 2023" src="https://www.youtube.com/embed/AX3YRUVcV7c" height="829" width="466"></iframe></center>
 	
 <h3><center>	Unsure of how to get to JPJC by public transport?</center></h3>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Unsure of how to get to JPJC by public transport?" src="https://www.youtube.com/embed/7BD8HZvQVBg" height="829" width="466"></iframe></center>
