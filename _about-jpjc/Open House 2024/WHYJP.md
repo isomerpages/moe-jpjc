@@ -19,8 +19,18 @@ third_nav_title: Open House 2024
 	
 <h3><center>Dive into a nurturing environment that sows the seeds of tomorrow!</center></h3>
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" width="100%" height="300"></iframe></center></figure>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - Nurturing Seeds of Tomorrow" src="https://www.youtube.com/embed/8dVStL0-Kc8" width="100%" height="300"></iframe></center>
 	
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC!</center></h3>
 
+<h4><center>Clubs and Society</center></h4>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - CCAs (Clubs and Societies)" src="https://www.youtube.com/embed/IEZaChTE3wA" height="300" width="100%"></iframe>	</center>
+	
+<h4><center>Sports and Games</center></h4>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - CCAs (Sports and Games)" src="https://www.youtube.com/embed/EROtVb1lf6w" height="300" width="100%"></iframe>
+	
+<h4><center>Performing Arts</center></h4>	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - CCAs (Performing Arts)" src="https://www.youtube.com/embed/cJpqtzB9Z70" height="300" width="100%"></iframe>	</figure>
+	
+	
 </div>
