@@ -68,7 +68,7 @@ third_nav_title: Open House 2024
 <div class="row">
 <div class="column">			
 <center><strong>Character and Citizenship Education</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/physics/"><img src="/images/Open%20house%202024/Subjects/13_CCE.png"></a></div>
+<a href="a href="><img src="/images/Open%20house%202024/Subjects/13_CCE.png"></a></div>
 
 <div class="column">			
 <img src="/images/Open%20house%202024/blank1.png"></div></div>
