@@ -43,7 +43,7 @@ variant: markdown
 		<li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol><p></p>
 		
 <figure><center>
-	<iframe scrolling="no" height="400px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
+<iframe scrolling="no" height="400px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
 
 <p>
 	<sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -103,7 +103,7 @@ variant: markdown
 <h4><center>Malay Language Elective Programme (MLEP)</center></h4>
 
 <figure><center>
-	<iframe scrolling="no" height="950px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="950px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></center></figure>
 	
 <p>
 	<sup>*</sup> Students opting to offer the MLEP programme must obtain
