@@ -10,7 +10,7 @@ third_nav_title: Open House 2024
 <h3><center>Welcome to JPJC's Open House 2024!</center></h3>
 
 	
-<figure><center><img src="/images/Open%20house%202024/Open_House.jpg"></center>
+<figure><center><img src="/images/2024/MOTD__2_.png"></center>
 
 <h3><center>Hear from our Principal, Mr Kevin Ang!</center></h3>
 
