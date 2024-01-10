@@ -51,7 +51,7 @@ third_nav_title: Open House 2024
 
 <div class="row">
 <div class="column">			
-<center><strong>Language Elective Programme</strong></center>
+<center><strong>Language Elective Programmes</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/language-elective-programmes/"><img src="/images/Open%20house%202024/Subjects/9_LEP.png"></a></div>		
 <div class="column">			
 <center><strong>Physical Education</strong></center>
