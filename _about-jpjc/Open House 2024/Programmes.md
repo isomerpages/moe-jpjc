@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /about-jpjc/open-house-2024/programmes/
 variant: markdown
-description: ""
+description: JPJC Open House 2024 Programmes
 third_nav_title: Open House 2024
 ---
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>

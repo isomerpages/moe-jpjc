@@ -1,7 +1,7 @@
 ---
 title: Vibrant Student Culture
 permalink: /permalink/
-description: Vibrant Student Culture
+description: ""
 variant: tiptap
 ---
 <div align="justify">
