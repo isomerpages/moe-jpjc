@@ -23,7 +23,7 @@ third_nav_title: Open House 2024
 	
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC!</center></h3>
 
-<h4><center>Clubs and Society</center></h4>
+<h4><center>Clubs and Societies</center></h4>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="#WhyJP Open House 2024 - CCAs (Clubs and Societies)" src="https://www.youtube.com/embed/IEZaChTE3wA" height="300" width="100%"></iframe>	</center>
 	
 <h4><center>Sports and Games</center></h4>
