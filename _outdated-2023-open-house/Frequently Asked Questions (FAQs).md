@@ -1,7 +1,8 @@
 ---
 title: Frequently Asked Questions (FAQs)
-permalink: /about/open-house-2023/faqs/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <div align="justify">
 

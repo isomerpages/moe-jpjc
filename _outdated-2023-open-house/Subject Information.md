@@ -1,7 +1,8 @@
 ---
 title: Subject Information
-permalink: /about/Open-House-2023/subjectinformation/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <div align="justify">
 

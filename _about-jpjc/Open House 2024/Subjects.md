@@ -34,7 +34,7 @@ third_nav_title: Open House 2024
 <div class="row">
 <div class="column">	
 
-<center><strong>English and Literature in English</strong></center>
+<center><strong>General Paper and Literature in English</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/knowledge-skills/general-paper/"><img src="/images/Open%20house%202024/Subjects/5_English.png"></a></div>
 <div class="column">	
 <center><strong>Humanities and the Arts</strong></center>

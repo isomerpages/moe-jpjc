@@ -1,7 +1,8 @@
 ---
 title: Hear from our JPJC Family
-permalink: /about/Open-House-2023/hearfromourjpjcfamily/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <div align="justify">
 <h3>Hear from our JPJC Family</h3>

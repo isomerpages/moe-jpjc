@@ -1,7 +1,8 @@
 ---
 title: Niche Programmes
-permalink: /about/Open-House-2023/nicheprogrammes/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <div align="justify">
 

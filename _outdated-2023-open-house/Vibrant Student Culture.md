@@ -1,7 +1,8 @@
 ---
 title: Vibrant Student Culture
-permalink: /about/Open-House-2023/vibrantstudentculture/
+permalink: /permalink/
 description: Vibrant Student Culture
+variant: tiptap
 ---
 <div align="justify">
 

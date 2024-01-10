@@ -1,7 +1,8 @@
 ---
 title: JPJC Open House 2023
-permalink: /about/open-house-2023/
+permalink: /permalink/
 description: JPJC Open House 2023
+variant: tiptap
 ---
 <div align="justify">
 
