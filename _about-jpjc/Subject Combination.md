@@ -43,7 +43,7 @@ variant: markdown
 		<li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol><p></p>
 		
 <figure><center>
-<iframe scrolling="no" height="400px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
+<iframe scrolling="no" height="800px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
 
 <p>
 	<sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -53,7 +53,7 @@ variant: markdown
 		<li>At least B3 in the relevant pure Science subjects.</li></ul><p></p>
 
 <p>
-	<sup>#</sup> For Students with Science (Chemistry/Biology), Science (Physics/Chemistry), Science (Physics/Biology), who are opting to do the subject combination of either H2 Mathematics, H2 Chemistry, H2 Biology OR H2 Mathematics, Chemistry, Physics, it is preferred that students should obtain
+	<sup>#</sup> For Students with Science (Chemistry/Biology), Science (Physics/Chemistry), Science (Physics/Biology), who are opting to do the subject combination of either H2 Mathematics, H2 Chemistry, H2 Biology OR H2 Mathematics, H2 Chemistry, H2 Physics, it is preferred that students should obtain
 	</p><ul>
 		<li>Distinction in the Combined Science with the two relevant Science disciplines, OR</li>
 		<li>a pass in the relevant Pure Science and Combined Science.</li></ul><p></p>
