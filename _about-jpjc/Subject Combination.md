@@ -70,7 +70,7 @@ variant: markdown
 <h3><center>Subject Combinations in Arts Stream</center></h3>
 
 <figure><center>
-<iframe scrolling="no" height="800px" width="900px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="1550px" width="900px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></center></figure>
 
 <p>
 	<sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
