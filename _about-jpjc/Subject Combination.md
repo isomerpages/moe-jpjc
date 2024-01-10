@@ -91,7 +91,7 @@ variant: markdown
 <h4><center>Chinese Language Elective Programme (CLEP)<sup>*</sup></center></h4>
 
 <figure><center>
-<iframe scrolling="no" height="500px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="1000px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></center></figure>
 	
 <p>
 	<sup>*</sup> Students opting to offer the CLEP programme must obtain
