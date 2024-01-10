@@ -43,7 +43,7 @@ variant: markdown
 		<li>The College may be unable to offer certain subject combinations due to low demand or time-tabling constraints.</li></ol><p></p>
 		
 <figure><center>
-<iframe scrolling="no" height="800px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
+<iframe scrolling="no" height="800px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vSxvAEwi8xK1D5eGwXAe5ANIB5cnFzJSlIPnoEyeelYMkMXlEtCkNvJbKlZWY1PWTosy7zG9DfvV_iM/pub?embedded=true"></iframe><center></center></center></figure>
 
 <p>
 	<sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -70,7 +70,7 @@ variant: markdown
 <h3><center>Subject Combinations in Arts Stream</center></h3>
 
 <figure><center>
-<iframe scrolling="no" height="1550px" width="900px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="1550px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vRQYKjGLxu1Fiwwlp86moR2lxc27T46o5MYCUndPE_FW4JSrou_1vLT-XjlYbpGxpd3ZBGSOoxKwmVr/pub?embedded=true"></iframe></center></figure>
 
 <p>
 	<sup>*</sup> Students opting a 4 H2 subject combination should meet all of the following requisites:
@@ -91,7 +91,7 @@ variant: markdown
 <h4><center>Chinese Language Elective Programme (CLEP)<sup>*</sup></center></h4>
 
 <figure><center>
-<iframe scrolling="no" height="950px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="950px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQJ3eIQnzZe06tIEKRZJ0mDhBo0OvcPiE5Z5k3Lqvw3Abo7NSjHkV0P8d5xbRZ7BH6xCNju7ywX31L8/pub?embedded=true"></iframe></center></figure>
 	
 <p>
 	<sup>*</sup> Students opting to offer the CLEP programme must obtain
@@ -103,7 +103,7 @@ variant: markdown
 <h4><center>Malay Language Elective Programme (MLEP)</center></h4>
 
 <figure><center>
-<iframe scrolling="no" height="900px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></center></figure>
+<iframe scrolling="no" height="900px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vRowrdml5PYX1HRpiBpF0FStjDlZFu8kzRSRm6WrJyJ7lXfFDxTOGhBv3tKhVFPLxE5RxKMjpYV39Jp/pub?embedded=true"></iframe></center></figure>
 	
 <p>
 	<sup>*</sup> Students opting to offer the MLEP programme must obtain
