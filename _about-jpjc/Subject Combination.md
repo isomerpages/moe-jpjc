@@ -17,7 +17,7 @@ variant: markdown
 <ol>
 	<li>The following table shows the standard subject combination which most students will take :</li>
 	<figure><center>
-		<iframe scrolling="no" height="350px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
+		<iframe scrolling="no" height="350px" width="100%" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
 	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
