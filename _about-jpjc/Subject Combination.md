@@ -17,7 +17,7 @@ variant: markdown
 <ol>
 	<li>The following table shows the standard subject combination which most students will take :</li>
 	<figure><center>
-		<iframe scrolling="no" height="100%" width="100%" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
+		<iframe scrolling="no" height="350px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
 	<li>At least one content subject either at the H1 or H2 level should be contrasting.</li>
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
@@ -26,7 +26,7 @@ variant: markdown
 <h3><center>Subjects offered in 2024</center></h3>
 
 <figure><center>
-	<iframe scrolling="no" height="100%x" width="100%" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
+	<iframe scrolling="no" height="1000px" width="600px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
 
 <p><strong>Note:</strong><br>
 	<sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
