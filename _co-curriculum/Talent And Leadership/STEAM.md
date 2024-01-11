@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 
-<h2><q>Be Curious, Be Creative, and Be the Change</q></h2>
+<center><h2><q>Be Curious, Be Creative, and Be the Change</q></h2></center>
 	
 <p>JPJC’s STEAM (Science, Technology, Engineering, Arts &amp; Mathematics) Programme provides to develop skills and dispositions in STEAM and empower them to be positive change agent through research and innovation. </p>
 
@@ -17,7 +17,7 @@ variant: markdown
 <p>To ignite students’ curiosity through exposure and provide them with opportunities to develop their strengths and interests and apply interdisciplinary thinking to be a positive change maker. </p>
 
 <h3>Vision:</h3>
-	<p>A future-ready innovative thinker and positive change maker.</p>
+<p>A future-ready innovative thinker and positive change maker.</p>
 
 
 <figure>
