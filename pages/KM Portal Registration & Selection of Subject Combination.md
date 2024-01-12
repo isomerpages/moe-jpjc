@@ -1,8 +1,7 @@
 ---
 title: KM Portal Registration & Selection of Subject Combination
-permalink: /about-jpjc/admission-matters/kmportal/
+permalink: /permalink/
 description: ""
-third_nav_title: Admission Matters
 variant: markdown
 ---
 <div align="justify">
