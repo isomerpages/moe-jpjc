@@ -26,7 +26,7 @@ variant: markdown
 <h3><center>Subjects offered in 2024</center></h3>
 
 <figure><center>
-	<iframe scrolling="no" height="1000px" width="600px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
+	<iframe scrolling="no" height="600px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
 
 <p><strong>Note:</strong><br>
 	<sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
