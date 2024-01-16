@@ -22,6 +22,21 @@ sections:
           description: 2023 Highlights
           url: /life-at-jpjc/2023-events/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: JAE 2024
+          date: 16 January 2024
+          announcement: >+
+            Joint Admissions Exercise (JAE) has commenced. Applicants may submit
+            their applications through the JAE Internet System (JAE-IS) using
+            their SingPass or alternatively, the JAE PIN. Registration ends at
+            04:00 PM on Tuesday, 16 January 2024.
+
+          link_text: " LET’S GO "
+          link_url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2024/
   - infopic:
       title: Open House 2024
       description: "Calling all potential JC1s! Join us at the #WhyJP Open House 2024
