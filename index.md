@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/2024/Banner.png
       key_highlights:
-        - title: "#Whyjp"
-          description: Open House 2024
-          url: /about-jpjc/open-house-2024/
+        - title: JAE 2024
+          description: Registration has commenced
+          url: /about-jpjc/admission-matters/jae2024/
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
