@@ -71,7 +71,7 @@ variant: markdown
 	
 </li>
 		
-	
+<br>
 	
 	
 <li>Parents can contact the school at 6564 6878 or e-mail us at jpjc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
