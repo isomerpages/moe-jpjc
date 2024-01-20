@@ -25,12 +25,12 @@ variant: markdown
 	<li>Make responsible decisions for yourself, your family and society; and</li>
 	<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ul></ol>
 
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)">here</a> for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.</p>
 
 <h3>OVERVIEW OF JURONG PIONEER JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h3>
 
 <ol start="4">
-	<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li></ol>
+	<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li></ol>
 
 <h4>Sexuality Education</h4>
 
