@@ -60,9 +60,9 @@ variant: markdown
 	<li><p>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens programme need to complete an opt-out form using FormSG. </p>
 	
 <p>For <b>JC2 SEd lessons</b>, click <a href="http://tinyurl.com/jpjcJ2SEd2024">here</a> to opt-out and submit by 12 February 2024.
-</p><p>	For <b>JC1 SEd lessons</b>, click <a href="http://tinyurl.com/jpjcJ1SEd2024">here </a>to opt-out and submit by 5 August 2024.
+</p><p>	For <b>JC1 SEd lessons</b>, click <a href="http://tinyurl.com/jpjcJ1SEd2024">here </a> to opt-out and submit by 5 August 2024.
 
-</p><p>		For <b>JC1 eTeens Assembly Talk</b>, click <a href="http://tinyurl.com/jpjcJ1eTeens2024">here </a>to opt-out and submit by 5 August 2024.	</p>
+</p><p>		For <b>JC1 eTeens Assembly Talk</b>, click <a href="http://tinyurl.com/jpjcJ1eTeens2024">here</a> to opt-out and submit by 5 August 2024.	</p>
 	
 	
 	
