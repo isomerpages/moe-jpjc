@@ -40,7 +40,7 @@ variant: markdown
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in 2024:</b></h6>
 
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRzaLDuokb7CBpkXmSYPcwoutAsqYAHeMNcts3vo-YhYNEUtGIGxGRB3Yf1JlbhsA/pub?embedded=true" width="1600px" height="1800px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRzaLDuokb7CBpkXmSYPcwoutAsqYAHeMNcts3vo-YhYNEUtGIGxGRB3Yf1JlbhsA/pub?embedded=true" width="1000px" height="1800px" scrolling="no"></iframe>
 	
 <h4><i>eTeens</i> Programme</h4>
 
