@@ -34,7 +34,7 @@ variant: markdown
 
 <h4>Sexuality Education</h4>
 
-<ol class="5">
+<ol start="5">
 	<li> The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
 
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in 2024:</b></h6>
@@ -50,7 +50,7 @@ variant: markdown
 
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2024:</b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR6OvhuW4X2EraAanctHdLYab_JzarxGQRUuSMW_1pHgQlP8yTqb2uu9O9Z3_v2nw/pub?embedded=true" width="1600px" height="210px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR6OvhuW4X2EraAanctHdLYab_JzarxGQRUuSMW_1pHgQlP8yTqb2uu9O9Z3_v2nw/pub?embedded=true" width="1600px" height="250px" scrolling="no"></iframe>
 	
 
 <h5>INFORMATION FOR PARENTS</h5>
