@@ -1,6 +1,6 @@
 ---
 title: JC2 Dialogue Session with distinguished speaker
-permalink: /life-at-jpjc/2019-events/jc2-dialogue-session/
+permalink: /life-at-jpjc/2019-events/j2dialogue/
 description: JC2 Dialogue Session with distinguished speaker
 third_nav_title: 2019 Events
 variant: tiptap
