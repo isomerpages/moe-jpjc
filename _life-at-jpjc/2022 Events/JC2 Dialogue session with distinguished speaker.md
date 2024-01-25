@@ -1,6 +1,6 @@
 ---
 title: JC2 Dialogue session with distinguished speaker
-permalink: /life-at-jpjc/2022-events/jc2-sg-perspective-engagement/
+permalink: /life-at-jpjc/2022-events/jc2-dialogue-session/
 description: JC2 Dialogue session with distinguished speaker
 third_nav_title: 2022 Events
 variant: tiptap

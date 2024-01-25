@@ -1,6 +1,6 @@
 ---
 title: JC1 Dialogue session with distinguished speaker
-permalink: /life-at-jpjc/2022-events/jc1-sg-prespectives-engagement/
+permalink: /life-at-jpjc/2022-events/jc1-dialogue-session/
 description: JC1 Dialogue session with distinguished speaker
 third_nav_title: 2022 Events
 variant: tiptap

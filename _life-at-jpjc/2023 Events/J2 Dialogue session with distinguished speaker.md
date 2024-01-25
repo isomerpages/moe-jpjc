@@ -1,6 +1,6 @@
 ---
 title: J2 Dialogue session with distinguished speaker
-permalink: /life-at-jpjc/2023-events/j2sgp2023/
+permalink: /life-at-jpjc/2023-events/j2-dialogue-session/
 description: J2 Dialogue session with distinguished speaker
 third_nav_title: 2023 Events
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: JC1 Dialogue session with distinguished speaker
-permalink: /life-at-jpjc/2023-events/jc1sgperspective/
+permalink: /life-at-jpjc/2023-events/jc1-dialogue-session/
 description: JC1 Dialogue session with distinguished speaker
 third_nav_title: 2023 Events
 variant: tiptap
