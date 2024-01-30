@@ -25,7 +25,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: 1st February 2024
+      subtitle: 01 February 2024
       announcement_items:
         - title: JAE Appeal 2024
           date: 01 February 2024
@@ -34,41 +34,5 @@ sections:
             the availability of vacancies and fulfilment of the college’s
             admission requirements. Appeals for admission to JPJC will end at
             02:00 PM on Wednesday, 7 February 2024.
-          link_text: LET'S GO --->
-          link_url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
-  - infopic:
-      title: Curriculum
-      description: Nurturing creative thinkers of today, leaders of tomorrow
-      alt: Image alt text
-      image: /images/2024/new.png
-      button: Find out more
-      url: /jpjc-experience/curriculum/
-      subtitle: Active Learners
-  - infopic:
-      title: Co-curriculum
-      subtitle: Innovative Thinkers
-      id: infopic
-      description: Discover more about the holistic educational experiences JPJC offers!
-      button: Find out more
-      url: jpjc-experience/co-curriculum/
-      image: /images/2024/JP_fam.jpg
-      alt: Co-curriculum
-  - infopic:
-      title: Values in Action
-      subtitle: Compassionate leaders
-      id: infopic
-      description: Every act of volunteerism illuminates the path to a kinder world for all.
-      button: Find out more
-      url: /jpjc-experience/co-curriculum/cce/via/
-      image: /images/2024/VIA.jpg
-      alt: Service Learning
-  - infopic:
-      title: Hear from the Class of 2022!
-      description: Be inspired by how our students have overcome various difficulties
-        in their lives and found varied pathways to success.
-      button: Read more here
-      url: /a-level-inspirational-stories/2023/overview/
-      alt: Hear from the Class of 2022!
-      image: /images/2024/A_Level_Stories_Collage.png
-      subtitle: Highlights
+          link_text: LET'S GO
 ---
