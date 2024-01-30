@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/2024/Banner.png
       key_highlights:
+        - title: JAE Appeal 2024
+          description: Let's go
+          url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
@@ -19,6 +22,20 @@ sections:
           description: 2023 Highlights
           url: /life-at-jpjc/2023-events/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: 1st February 2024
+      announcement_items:
+        - title: JAE Appeal 2024
+          date: 01 February 2024
+          announcement: Candidates who wish to appeal for transfer to JPJC will need to
+            meet the college’s course cut-off point (COP) in 2024, subject to
+            the availability of vacancies and fulfilment of the college’s
+            admission requirements. Appeals for admission to JPJC will end at
+            02:00 PM on Wednesday, 7 February 2024.
+          link_text: LET'S GO ->
+          link_url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2024/
   - infopic:
       title: Curriculum
       description: Nurturing creative thinkers of today, leaders of tomorrow
