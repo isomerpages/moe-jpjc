@@ -50,4 +50,13 @@ sections:
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/
       image: /images/2024/JP_fam.jpg
       alt: Image alt text
+  - infopic:
+      title: Values in Action
+      subtitle: Compassionate leaders
+      id: infopic
+      description: Every act of volunteerism illuminates the path to a kinder world for all.
+      button: Find out more
+      url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/
+      image: /images/2024/VIA.jpg
+      alt: Image alt text
 ---
