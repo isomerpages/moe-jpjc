@@ -8,7 +8,7 @@ variant: markdown
 <div align="justify">
 
 <p>
-On the 1st&nbsp;of August 2019, Jurong Pioneer Junior College was honoured to host a distinguished guest, Ms Low Yen Ling, Senior Parliamentary Secretary for Ministry of Education and Ministry of Manpower, Mayor, South West District and Member of Parliament, Chua Chu Kang GRC for the JC2 SG Perspectives Engagement Session (formerly known as the National Education Dialogue).</p>
+On the 1st&nbsp;of August 2019, Jurong Pioneer Junior College was honoured to host a distinguished guest, Ms Low Yen Ling, Senior Parliamentary Secretary for Ministry of Education and Ministry of Manpower, Mayor, South West District and Member of Parliament, Chua Chu Kang GRC for the JC2 Dialogue Session with distinguished speaker (formerly known as the National Education Dialogue).</p>
 
 <p>
 Ms Low was received with a warm welcome by our JC2 students, and she proceeded to engage them in a lively opening address that incorporated a Mini Quiz segment. She shared with the JC2 cohort about the challenges faced by Singapore as a result of the rapidly-changing global economic landscape. She then elaborated on the rationale and principles behind the formulation and implementation of various manpower and education policies and programmes which aim to ameliorate the impact of various global changes to ensure a prosperous and stable future for all Singaporeans. Ms Low then took some time to discuss the SkillsFuture initiative and other policies and considerations related to the employment market and the economy. She specifically highlighted the implications and benefits for our students in the near future.</p>
