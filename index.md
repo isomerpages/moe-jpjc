@@ -32,4 +32,13 @@ sections:
       button: let's go!
       url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
       alt: Image alt text
+  - infopic:
+      title: Curriculum
+      subtitle: Active learners
+      id: infopic
+      description: Nurturing creative thinkers of today, leaders of tomorrow.
+      button: Find out more
+      url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
+      image: /images/2024/new.png
+      alt: Image alt text
 ---
