@@ -10,7 +10,7 @@ sections:
       background: /images/2024/Banner.png
       key_highlights:
         - title: JC1 Matriculation & Orientation and Parents Engagement 2024
-          description: Announcement
+          description: Programme
           url: https://staging-lite.du8wjj5gpjler.amplifyapp.com/about-jpjc/admission-matters/mando/
         - title: JAE Appeal 2024
           description: Let's go!
