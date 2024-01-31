@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/2024/Banner.png
       key_highlights:
+        - title: JC1 Matriculation & Orientation and Parents Engagement 2024
+          description: Announcement
+          url: https://staging-lite.du8wjj5gpjler.amplifyapp.com/about-jpjc/admission-matters/mando/
         - title: JAE Appeal 2024
           description: Let's go!
           url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
@@ -18,9 +21,6 @@ sections:
         - title: "@jpjc.sg"
           description: Follow us on Facebook!
           url: https://www.facebook.com/jpjc.sg/
-        - title: Life@JPJC
-          description: 2023 Highlights
-          url: /life-at-jpjc/2023-events/
       variant: center
   - infopic:
       title: Announcement
