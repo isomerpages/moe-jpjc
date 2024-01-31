@@ -12,4 +12,3 @@ variant: markdown
 <figure>
 <img src="/images/Life%20%40%20JPJC/2023%20Events/JC1SGperspective/jc1sg1.jpg"><figcaption>Mr Richard Grosse addressing the JC1 cohort on Singapore’s Foreign Policy.</figcaption>
 </figure>
-
