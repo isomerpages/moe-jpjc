@@ -32,6 +32,7 @@ sections:
       button: let's go!
       url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
       alt: Image alt text
+      image: /images/Open house 2024/blank1.png
   - infopic:
       title: Curriculum
       subtitle: Active learners
