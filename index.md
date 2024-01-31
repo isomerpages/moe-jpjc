@@ -41,4 +41,13 @@ sections:
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
       image: /images/2024/new.png
       alt: Image alt text
+  - infopic:
+      title: Co-curriculum
+      subtitle: Innovative thinkers
+      id: infopic
+      description: Discover more about the holistic educational experiences JPJC offers!
+      button: Find out more
+      url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/
+      image: /images/2024/JP_fam.jpg
+      alt: Image alt text
 ---
