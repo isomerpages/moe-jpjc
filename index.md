@@ -63,4 +63,14 @@ sections:
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/
       image: /images/2024/VIA.jpg
       alt: Image alt text
+  - infopic:
+      title: Hear from the class of 2022!
+      subtitle: Highlights
+      id: infopic
+      description: Be inspired by how our students have overcome various difficulties
+        in their lives and found varied pathways to success.
+      button: read more here
+      url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2023/overview/
+      image: /images/2024/A_Level_Stories_Collage.png
+      alt: Image alt text
 ---
