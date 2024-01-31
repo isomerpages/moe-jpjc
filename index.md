@@ -26,9 +26,9 @@ sections:
       title: Announcement
       subtitle: JAE Appeal 2024
       id: infopic
-      description: Appeal for transfer to JPJC will need to meet course cut-off point,
-        subject to conditions. Appeals for admission will end at 2PM on Wed, 7
-        Feb.
+      description: Appeal for transfer to JPJC will need to meet JPJC's respective
+        course cut-off points, subject to conditions. Appeals for admission will
+        end at 2PM Wed, 7 Feb.
       button: let's go!
       url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
       alt: Image alt text
