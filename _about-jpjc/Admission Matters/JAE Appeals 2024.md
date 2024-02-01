@@ -11,7 +11,7 @@ third_nav_title: Admission Matters
 
 <p><b><u>UPDATE:</u></b></p>
 
-<p><b>We are currently facing technical difficulties with the online portal. We seek your understanding and patience as we work to rectify the issue.</b></p>
+<p><b>The technical difficulties have been resolved. Please resubmit your applications through the online portal. We apologise for any inconvenience caused..</b></p>
 	
 <p>Students are required to apply online through this <a href="https://jae.jpjc.edu.sg/"> portal</a>. Please note that we do not accept hard copy application forms.</p>	
 
