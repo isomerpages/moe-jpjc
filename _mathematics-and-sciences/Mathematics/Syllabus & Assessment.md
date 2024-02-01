@@ -8,13 +8,12 @@ variant: markdown
 <div align="justify">
 
 <p>Please note that the following syllabus and schemes of examination papers are for A Level examination in 2024.</p>
-<p>The revised syllabus and scheme of examination papers for A Level examination in 2025 will be available at a later date on the SEAB website <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">here</a>.</p>
+<p>The revised syllabus and scheme of examination papers for A Level examination in 2025 is available on the SEAB website <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">here</a>.</p>
 	
 	
 <h3>8865 H1 Mathematics</h3>
 
 
-<p>The SEAB syllabus document for H1 Mathematics can be found&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf">here</a>.</p>	
 	
 <p>
 For the examination in H1 Mathematics, there will be one 3-hour paper marked out of 100 as follows:</p>
@@ -27,7 +26,7 @@ For the examination in H1 Mathematics, there will be one 3-hour paper marked out
 	Candidates will be expected to answer <strong>all</strong> questions.</p>
 
 <h3>9758 H2 Mathematics</h3>
-<p>The SEAB syllabus document for H2 Mathematics can be found&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf">here</a>.</p>
+
 	
 <p>
 For the examination in H2 Mathematics, there will be two 3-hour papers, each carrying 50% of the total mark, and each marked out of 100, as follows:</p>
@@ -61,7 +60,7 @@ Candidates will be expected to answer <strong>all</strong> questions.</p>
 
 
 <h3>9820 H3 Mathematics</h3>
-<p>The SEAB syllabus document for H3 Mathematics can be found&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf">here</a>.</p>
+
 	
 <p>
 	For the examination in H3 Mathematics, there will be a one 3-hour paper marked out of 100.</p>
