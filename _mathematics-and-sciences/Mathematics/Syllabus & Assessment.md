@@ -7,9 +7,9 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>Please note that the following syllabus and schemes of examination papers are for A Level examination in 2024.</p>
-<p>The revised syllabus and scheme of examination papers for A Level examination in 2025 is available on the SEAB website <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">here</a>.</p>
-	
+
+<p>For 2024 JC 1 students: The revised syllabus and scheme of examination papers for A Level examination in 2025 is available on the SEAB website <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">here</a>.</p>
+	<p>Please note that the following syllabus and schemes of examination papers are for A Level examination in 2024.</p>
 	
 <h3>8865 H1 Mathematics</h3>
 
