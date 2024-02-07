@@ -35,3 +35,4 @@ variant: markdown
 |20 January 2023|[Chinese New Year Celebration](/life-at-jpjc/2023-events/cnycelebration/)
 |13 January 2023|[Open House](/life-at-jpjc/2023-events/openhouse/)
 |4 January 2023|[Orientation Group Leader Camp](/life-at-jpjc/2023-events/oglc/)|
+|
