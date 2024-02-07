@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2024 Events/J2 Parents Engagement.md
       - 2024 Events/Open House.md
       - 2024 Events/2024 Events Overview.md
       - 2024 Events/.keep
