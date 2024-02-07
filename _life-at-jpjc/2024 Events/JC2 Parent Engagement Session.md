@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: 2024 Events
 ---
+<div align="justify">
+	
 <p>On 26 January 2024, JPJC successfully hosted the JC2 Parent Engagement
 Session, a face-to-face event that offered us the opportunity to reconnect
 with the parents of our JC2 students. The event saw an excellent turnout
@@ -18,15 +20,23 @@ the importance of the college-home partnership in our collective aim to
 support our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<figure>
 <img style="width: 100%" height="auto" width="100%" alt="Civic Teachers interacting with Parents" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/CTs_interacting_with_parents_1.jpeg">
+<figcaption>
+Civics Tutors interacting with Parents</figcaption></figure>	
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<figure>
 <img style="width: 100%" height="auto" width="100%" alt="Civics Tutors interacting with Parents" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/CTs_interacting_with_parents_2.jpeg">
+<figcaption>
+Civics Tutors interacting with Parents</figcaption></figure>	
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Principal's Talk" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/Principal_s_talk.jpeg">
+	<figure>
+<img style="width: 100%" height="auto" width="100%" alt="Principal's Talk" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/Principal_s_talk.jpeg"><figcaption>
+Principal's Talk</figcaption></figure>	
 </div>
 <p>In the next part of the session, our JC2 Year Head, Mr Koh, shared information
 on the college calendar and assessment milestones for the JC2 year. Mr
@@ -47,3 +57,4 @@ the college will continue to work closely with parents to foster greater
 college-home partnership to ensure the holistic development of all students.</p>
 <p></p>
 <p></p>
+</div>
