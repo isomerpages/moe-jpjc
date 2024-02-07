@@ -11,17 +11,16 @@ third_nav_title: Admission Matters
 	
 <table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2024</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
-<p><b><u>UPDATE:</u></b></p>
-
-<p><b>The technical difficulties have been resolved. Please resubmit your applications through the online portal. We apologise for any inconvenience caused..</b></p>
+<p><b><u>UPDATE:</u></b>
+<br><b>Appeals for admission to JPJC has closed as of 02:00 PM on Wednesday, 7 February 2024.</b></p>
 
 	
 <p hidden="">	
 <b><u>UPDATE:</u></b></p>
 
-<p><b>The technical difficulties have been resolved. Please resubmit your applications through the online portal. We apologise for any inconvenience caused..</b></p>
+<p hidden=""><b>The technical difficulties have been resolved. Please resubmit your applications through the online portal. We apologise for any inconvenience caused.</b></p>
 	
-<p>Students are required to apply online through this <a href="https://jae.jpjc.edu.sg/"> portal</a>. Please note that we do not accept hard copy application forms.</p>	
+<p hidden="">Students are required to apply online through this <a href="https://jae.jpjc.edu.sg/"> portal</a>. Please note that we do not accept hard copy application forms.</p>	
 
 
 	
