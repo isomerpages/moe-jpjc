@@ -5,3 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 2024 Events
 ---
+| Date | Events | 
+| -------- | -------- |
+31 January 2024|[J2 Parents Engagement](/life-at-jpjc/2023-events/staffwa/)
+12 January 2024|[Open House](/life-at-jpjc/2023-events/farewellassembly/)
