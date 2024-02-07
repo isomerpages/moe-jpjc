@@ -2,6 +2,9 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2024 Events/.keep
+      - 2024 Events/2024 Events Overview.md
+      - 2024 Events/JC2 Parent Engagement Session.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events Overview.md
       - 2023 Events/Staff Welfare Activities.md
