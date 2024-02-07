@@ -21,6 +21,13 @@ support our students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Civic Teachers interacting with Parents" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/CTs_interacting_with_parents_1.jpeg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Civics Tutors interacting with Parents" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/CTs_interacting_with_parents_2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal's Talk" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/Principal_s_talk.jpeg">
+</div>
 <p>In the next part of the session, our JC2 Year Head, Mr Koh, shared information
 on the college calendar and assessment milestones for the JC2 year. Mr
 Koh went on to provide pertinent details about the Tiered Support System
@@ -38,4 +45,5 @@ University Landscape.</p>
 <p>The JC2 Parent Engagement Session was an enriching session for all, and
 the college will continue to work closely with parents to foster greater
 college-home partnership to ensure the holistic development of all students.</p>
+<p></p>
 <p></p>
