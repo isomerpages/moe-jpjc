@@ -3,6 +3,7 @@ title: 2021 Events Overview
 permalink: /life-at-jpjc/2021-events/
 description: ""
 third_nav_title: 2021 Events
+variant: markdown
 ---
 | Date | Event|
 | --- | --- |
@@ -43,3 +44,4 @@ third_nav_title: 2021 Events
 |  21 January 2021 |  [JC2 Parent Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-parent-engagement-session/) |
 | 12 January 2021 |[JPJC e Openhouse](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jpjc-e-openhouse/) |
 | 3-5 January 2021  |  [Orientation Group Leaders' Camp (OGLC)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/oglc/) |
+|
