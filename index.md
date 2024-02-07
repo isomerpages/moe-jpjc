@@ -12,15 +12,15 @@ sections:
         - title: JC1 Matriculation & Orientation and Parents Engagement 2024
           description: Programme
           url: https://staging-lite.du8wjj5gpjler.amplifyapp.com/about-jpjc/admission-matters/mando/
-        - title: JAE Appeal 2024
-          description: Let's go!
-          url: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jaeappeals2024/
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
         - title: "@jpjc.sg"
           description: Follow us on Facebook!
           url: https://www.facebook.com/jpjc.sg/
+        - title: Life@JPJC
+          description: 2024 Highlights
+          url: https://www.jpjc.moe.edu.sg/life-at-jpjc/2024-events/
       variant: center
   - infopic:
       title: Announcement
