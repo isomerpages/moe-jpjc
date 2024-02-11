@@ -47,7 +47,7 @@ All students are expected to play an active role in their CCAs for their develop
 <div class="column">
 <a href="https://www.instagram.com/jpjc.interact/"><img alt="Interact Club" src="/images/Open%20house%202024/CCA/Interact_Club.png"></a>
 <a href="https://www.instagram.com/jpjcicas/"><img alt="International Current Affairs Society" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png"></a>
-<a href="https://www.instagram.com/jpjc.mpc/"><img alt="JPJC Media Tech Club" src="/images/Open%20house%202024/CCA/JP_Media_Tech_Club.png"></a></div>
+<a href="https://www.instagram.com/jp_media.tech/"><img alt="JPJC Media Tech Club" src="/images/Open%20house%202024/CCA/JP_Media_Tech_Club.png"></a></div>
 
 
 <div class="column">
