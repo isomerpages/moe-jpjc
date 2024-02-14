@@ -4,7 +4,7 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3>Vibrant Student Culture</h3>
 <h5>Co-Curriculum Activities</h5>	
