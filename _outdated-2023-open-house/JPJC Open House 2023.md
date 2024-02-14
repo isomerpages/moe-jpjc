@@ -4,7 +4,7 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <p>
 Wondering which junior college is suitable for you? Hear more from our Principal, Mr Kevin Ang, as he shares about his beliefs and 5 reasons why JP is the college for you.</p>
