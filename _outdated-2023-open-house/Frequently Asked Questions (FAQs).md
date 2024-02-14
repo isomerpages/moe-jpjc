@@ -4,7 +4,7 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h4>Frequently Asked Questions</h4>
 
