@@ -4,7 +4,7 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3>Niche Programmes</h3>
 <h4>Sharing on Niche Programmes offered at JPJC</h4>
