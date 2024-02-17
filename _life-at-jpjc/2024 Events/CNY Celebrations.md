@@ -15,7 +15,9 @@ third_nav_title: 2024 Events
 	
 <p>Under the theme “Blaze Beginning”, our celebrations ignited the spirit of renewal and hope, uniting students and staff in a joyous celebration of new beginnings. From heartwarming senior-junior class bonding sessions to captivating performances by our JP Fam’s aesthetic groups, every moment was imbued with the spirit of togetherness and optimism.</p>
 <p>The performances by the Chinese Orchestra, Concert Band, and JP Dance Club touched the hearts of all present, radiating joy and inspiration. Dr. Kelvin Sng's soulful rendition of “我相信” (I Believe) moved the audience with its message of hope and resilience. Meanwhile, the mesmerising Dragon Dance finale charged the atmosphere with electric energy, symbolising prosperity and good fortune for the year ahead.</p>
-<p>In these moments of celebration, we were reminded of the strength and unity that define our JPJC community, where each individual contributes to the vibrant tapestry of our college life. As the festivities drew to a close, we carried with us the spirit of renewal and camaraderie, ready to embark on the journey ahead with optimism and determination.</p>
+<p>In these moments of celebration, we were reminded of the strength and unity that define our JPJC community, where each individual contributes to the vibrant tapestry of our college life. As the festivities drew to a close, we carried with us the spirit of renewal and camaraderie, ready to embark on the journey ahead with optimism and determination.
+<br><br>	
+</p>
 	
 	
 	
