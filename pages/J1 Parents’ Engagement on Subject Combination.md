@@ -2,8 +2,10 @@
 title: J1 Parents’ Engagement on Subject Combination
 permalink: /announcements/j1parentsengagement/
 description: Information on J1 Parents’ Engagement on Subject Combination
+variant: markdown
 ---
-<div align="justify">
+
+<div align="justify" hidden="">
 
 <p>
 Dear J1 Parents and Guardians,<br><br>

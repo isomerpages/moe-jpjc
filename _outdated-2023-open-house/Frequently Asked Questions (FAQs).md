@@ -2,9 +2,9 @@
 title: Frequently Asked Questions (FAQs)
 permalink: /permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h4>Frequently Asked Questions</h4>
 

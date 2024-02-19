@@ -4,7 +4,7 @@ permalink: /about-jpjc/open-house-2024/testprogram/
 variant: markdown
 description: ""
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3><center>Welcome to JPJC's Open House 2024!</center></h3>
 
@@ -23,6 +23,14 @@ description: ""
 <h3><center>Feel the adrenaline of the vibrant CCA landscape at JPJC!</center></h3>
 
 </div>
+
+
+
+
+
+
+
+<div hidden="">
 
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
@@ -188,4 +196,4 @@ description: ""
 
 <div class="column">
 
-<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:230px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+<a href="https://www.instagram.com/humans.of.jpjc/"><img style="max-width:230px" height="auto" width="100%" alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div></div>

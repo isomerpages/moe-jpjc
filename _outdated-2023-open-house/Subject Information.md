@@ -2,9 +2,9 @@
 title: Subject Information
 permalink: /permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3>Subject Information</h3>
 <h4><strong>Sharing on subjects offered at JPJC</strong></h4>

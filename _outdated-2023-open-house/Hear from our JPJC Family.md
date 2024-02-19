@@ -2,9 +2,9 @@
 title: Hear from our JPJC Family
 permalink: /permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 <h3>Hear from our JPJC Family</h3>
 <h4>5 Reasons why JPJC</h4>
 

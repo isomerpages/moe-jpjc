@@ -4,7 +4,7 @@ permalink: /about-jpjc/admission-matters/dsa2023/
 description: ""
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2023. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. Students from non-mainstream schools and those without O-Level results, regardless of nationality, may also apply for DSA-JC.</p>
 
