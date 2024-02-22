@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/2024/Banner.png
       key_highlights:
-        - title: Collection of A level Results
-          description: Instructions
-          url: ""
         - title: "@jpjc.official"
           description: Follow us on Instagram!
           url: https://www.instagram.com/jpjc.official/?hl=en
