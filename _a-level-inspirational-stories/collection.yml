@@ -2,8 +2,8 @@ collections:
   a-level-inspirational-stories:
     output: true
     order:
-      - 2024/.keep
       - "'A' Level Inspirational Stories.md"
+      - 2024/.keep
       - 2023/.keep
       - 2023/2023.md
       - 2023/Narmatha (21A05).md
