@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - "'A' Level Inspirational Stories.md"
-      - 2024/Aakash Ashik (22S13).md
-      - 2024/Enzo Koh (22A02).md
-      - 2024/Fiona Yek Mei Ling (22S20).md
-      - 2024/Kavinesh Son of Jayasaravanan (22A01).md
-      - 2024/Shannon Chong Xin Yu (22S10).md
-      - 2024/T Malini (22A03).md
-      - 2024/Tay Li Yang (22A07).md
-      - 2024/2024.md
       - 2024/.keep
+      - 2024/2024.md
+      - 2024/Tay Li Yang (22A07).md
+      - 2024/T Malini (22A03).md
+      - 2024/Shannon Chong Xin Yu (22S10).md
+      - 2024/Kavinesh Son of Jayasaravanan (22A01).md
+      - 2024/Fiona Yek Mei Ling (22S20).md
+      - 2024/Enzo Koh (22A02).md
+      - 2024/Aakash Ashik (22S13).md
       - 2023/.keep
       - 2023/2023.md
       - 2023/Narmatha (21A05).md
