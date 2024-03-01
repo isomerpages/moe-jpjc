@@ -9,7 +9,7 @@ third_nav_title: "2024"
 
 <figure>
 <img src="/images/Accomplishment/2024%20Inspiring/enzo.jpg">
-<figcaption>Enzo Koh_ Defying convention, excelling in arts. From EAE to JC, he found his passion, leading as top student and VP of Debates at JPJC, proving the power of determination and adaptation_</figcaption></figure>
+<figcaption>Enzo Koh: Defying convention, excelling in arts. From EAE to JC, he found his passion, leading as top student and VP of Debates at JPJC, proving the power of determination and adaptation</figcaption></figure>
 
 <b>A Polytechnic Withdrawal Form that became the Winning Ticket to being the Top Arts Student</b>
 
