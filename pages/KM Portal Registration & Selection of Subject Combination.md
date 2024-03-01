@@ -1,10 +1,10 @@
 ---
 title: KM Portal Registration & Selection of Subject Combination
-permalink: /about-jpjc/admission-matters/kmsubcom/
+permalink: /permalink/
 description: ""
 variant: markdown
-third_nav_title: Admission Matters
 ---
+<div hidden="">
 <div align="justify">
 
 <p>The following information is for <b>JC1 students who have been posted to JPJC.</b></p>
@@ -19,4 +19,4 @@ third_nav_title: Admission Matters
 <p></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 4 Feb (Sun) 2359 hrs.</b></p>
-</div>
+</div></div>
