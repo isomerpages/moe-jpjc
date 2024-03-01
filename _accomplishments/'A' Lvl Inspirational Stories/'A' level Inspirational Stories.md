@@ -3,7 +3,15 @@ title: "'A' level Inspirational Stories"
 permalink: /accomplishments/A-Lvl-Inspirational-Stories/
 description: ""
 third_nav_title: "'A' Lvl Inspirational Stories"
+variant: markdown
 ---
+
+
+<h3><a href="/a-level-inspirational-stories/2023/overview/">2024</a></h3>
+
+<figure>
+<img src="/images/Accomplishment/2023/A Level Inspirational Stories 2023 Landing Page Collage.jpg">
+</figure>
 <h3><a href="/a-level-inspirational-stories/2023/overview/">2023</a></h3>
 
 <figure>
