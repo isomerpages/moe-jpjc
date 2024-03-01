@@ -8,8 +8,8 @@ third_nav_title: "2024"
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2023/1Narmatha.jpg">
-<figcaption>Diagnosed with polycystic kidney disease from the tender age of three, Narmatha (21A05) overcame several challenges in her JC journey with grit and grace.</figcaption></figure>
+<img src="/images/Accomplishment/2024%20Inspiring/Tay_Li_Yang.jpg">
+<figcaption>Meet Tay Li Yang_ A passionate advocate for Chinese language and culture, excelling academically and leading with kindness and determination.</figcaption></figure>
 
 <b>Illuminated Paths: An inspirational journey guided by mentors</b>
 
