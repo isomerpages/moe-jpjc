@@ -4,6 +4,7 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
+<div hidden="">
 <div align="justify">
 
 <p>The following information is for <b>JC1 students who have been posted to JPJC.</b></p>
@@ -18,4 +19,4 @@ variant: markdown
 <p></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 4 Feb (Sun) 2359 hrs.</b></p>
-</div>
+</div></div>
