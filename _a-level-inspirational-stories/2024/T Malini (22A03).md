@@ -9,7 +9,7 @@ third_nav_title: "2024"
 
 <figure>
 <img src="/images/Accomplishment/2024%20Inspiring/tmalini.jpg">
-<figcaption>Meet T Malini_ The epitome of versatility and courage. From excelling in Triple Science to embracing the arts in JC, her unconventional pathway reflects her fearless pursuit of passion and purpose</figcaption></figure>
+<figcaption>Meet T Malini: The epitome of versatility and courage. From excelling in Triple Science to embracing the arts in JC, her unconventional pathway reflects her fearless pursuit of passion and purpose</figcaption></figure>
 
 <b>From Triple Science to Arts, Malini blossomed and found her voice in JC</b>
 
