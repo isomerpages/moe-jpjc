@@ -3,11 +3,12 @@ title: Ai Shijun (21S24)
 permalink: /a-level-inspirational-stories/2023/AiShijun/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2023/11Ai Shijun.jpg">
+<img src="/images/Accomplishment/2023%20inspiring/11Ai Shijun.jpg">
 <figcaption>Whilst pursuing his passion for music and interest in dance, Ai Shijun (21S24) also had a rich college life which enabled him to have a truly holistic JC experience. This ranged from involvements in the CLEP programme, to prestigious Mathematics competitions.</figcaption></figure>
 
 <center><h5> The Road Less Taken Can Be Beautiful, Too – Growing Within and Beyond One’s Comfort Zone</h5></center>
