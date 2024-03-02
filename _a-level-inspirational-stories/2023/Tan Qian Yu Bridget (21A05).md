@@ -3,16 +3,17 @@ title: Tan Qian Yu Bridget (21A05)
 permalink: /a-level-inspirational-stories/2023/TanQianYuBridget/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2023/4Tan Qian Yu Bridget.jpg">
+<img src="/images/Accomplishment/2023%20inspiring/4Tan Qian Yu Bridget.jpg">
 <figcaption> Having spent all her growing years away from Singapore, Tan Qian Yu Bridget (21A05) returned to pursue her A Levels in JPJC and found ‘home’, having the opportunity to grow roots and serve the community both in college, and beyond.</figcaption></figure>
 
 <center><h5>She finally found ‘home’ at 18</h5></center>
 	
-<p>While most of her peers experienced general hesitations on coming to a new school for the next phase of their post-secondary education, Bridget experienced another layer of anxiousness.  “I remember feeling very nervous on my way to college on the first day. I told myself to observe those around me and try to adapt accordingly since I did not know what to expect and felt unprepared.” Bridget was about to experience the Singapore school system for the very first time. Her father’s business was based in China and she had studied exclusively in international schools in Beijing and Shanghai since the age of two. Coming to Singapore was a whole new experience for her, let alone having to adjust to the Singapore education system.</p>
+<p>While most of her peers experienced general hesitations on coming to a new school for the next phase of their post-secondary education, Bridget experienced another layer of anxiousness.&nbsp; “I remember feeling very nervous on my way to college on the first day. I told myself to observe those around me and try to adapt accordingly since I did not know what to expect and felt unprepared.” Bridget was about to experience the Singapore school system for the very first time. Her father’s business was based in China and she had studied exclusively in international schools in Beijing and Shanghai since the age of two. Coming to Singapore was a whole new experience for her, let alone having to adjust to the Singapore education system.</p>
 
 <p>As she was planning to pursue her university education in Singapore, her parents decided to let her complete college here. She had to adapt to a new culture; even home was unfamiliar. All alone in a ‘foreign’ land without her parents, Bridget stayed with her aunt, sharing a room with her cousin. Her parents were to return to Singapore earlier to join Bridget but were held back by the raging pandemic and repeated lockdowns in Shanghai. The family reunion took more than a year, by which Bridget was in the middle of her second year, with the A Levels looming near.</p>
 
@@ -32,4 +33,4 @@ third_nav_title: "2023"
 
 <p>When asked what her source of strength and motivation was to make the best of a challenging situation, she credited her parents. “My parents were both from low-income families. They had a difficult life and did not complete university education. In fact, they both met when they were working in McDonalds as managers and now with hard work and determination, they are doing well running their own business. Through them, I learnt to value the importance of hard work. This motivated me to achieve my dream of going university ever since I was a little girl.” Bridget hopes to pursue Economics in the newly launched National University of Singapore College.</p>
 
-<p>Just like the lyrics of a beloved National Day Song goes, “There is comfort in the knowledge that home’s about its people too,” a line Bridget cites as her favourite for she has found home not just as a place that makes her feel safe and comfortable but through the very people she met and the meaningful interactions, in the community.	</p>
+<p>Just like the lyrics of a beloved National Day Song goes, “There is comfort in the knowledge that home’s about its people too,” a line Bridget cites as her favourite for she has found home not just as a place that makes her feel safe and comfortable but through the very people she met and the meaningful interactions, in the community.	</p></div>

@@ -3,11 +3,12 @@ title: Lee Wei En (21S24)
 permalink: /a-level-inspirational-stories/2023/LeeWeiEn/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2023/5Lee Wei En.jpg">
+<img src="/images/Accomplishment/2023%20inspiring/5Lee Wei En.jpg">
 <figcaption>Having joined JC from polytechnic, Lee Wei En’s (21S24) unconventional journey bears testament to the fact that there are no fixed pathways to success and pursuing one’s passion.</figcaption></figure>
 
 <center><h5>  The Road Less Trodden</h5></center>
@@ -26,4 +27,4 @@ third_nav_title: "2023"
 
 <p>In addition, Wei En attended the JPJC’s Alumni sharing series and was further affirmed by his decision. He was struck by how alumni were able to carve out meaningful journeys of success despite their rough starts in life. “It was humbling – learning how they remained contented and grounded despite their stellar achievements. One sharing stood out to me ‘no one will ever have the exact same experience; it is what one makes out of one’s own experience that makes the difference.” Drawing parallels to his circumstance, Wei En felt fully at peace with the path he has taken. “It is perfectly fine to pursue other alternatives rather than force himself down an unsuitable path.” True to his love for the sciences, Wei En’s most usual and enlightening epiphany came from his Chemistry lesson on enzymes. An enzyme’s ‘lock and key mechanism’ details that a specific key is needed to open a specific lock. We cannot force in a key that does not fit. In the same way, sometimes things just don’t fit together well. It’s perfectly fine because there’s always another path available. We simply need to learnt how to accept and adapt.” Indeed, Wei En’s unconventional journey bears testimony to his wise words.</p>
 
-<p>Wei En intends to continue to pursue STEM course in either NUS or NTU where he hopes to develop new technologies that can mitigate issues and social challenges faced by society.</p>
+<p>Wei En intends to continue to pursue STEM course in either NUS or NTU where he hopes to develop new technologies that can mitigate issues and social challenges faced by society.</p></div>

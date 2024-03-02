@@ -8,7 +8,7 @@ variant: markdown
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2023/1Narmatha.jpg">
+<img src="/images/Accomplishment/2023%20inspiring/1Narmatha.jpg">
 <figcaption>Diagnosed with polycystic kidney disease from the tender age of three, Narmatha (21A05) overcame several challenges in her JC journey with grit and grace.</figcaption></figure>
 
 <center><h5>Kidney disease from age 3, but that never stopped her</h5></center>

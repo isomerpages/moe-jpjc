@@ -2,12 +2,23 @@
 title: "'A' Level Inspirational Stories"
 permalink: /accomplishments/students/a-level-inspirational-stories/
 description: ""
+variant: markdown
 ---
-<h3><a href="/a-level-inspirational-stories/2023/overview/">2023</a></h3>
+
+<h3><strong>2024</strong></h3>
 
 <figure>
-<img src="/images/Accomplishment/2023/A Level Inspirational Stories 2023 Landing Page Collage.jpg">
+<img src="/images/Accomplishment/2024%20Inspiring/2024coverpage.jpg">
 </figure>
+
+
+<h3><a href="/a-level-inspirational-stories/2023/overview/">2023</a></h3>
+<figure>
+<img src="/images/Accomplishment/2023%20inspiring/A%20Level%20Inspirational%20Stories%202023%20Landing%20Page%20Collage.jpg">
+</figure>
+
+
+
 
 <h3><a href="/accomplishments/students/a-level-inspirational-stories/2022/overview/">2022</a></h3>
 <figure>
@@ -18,4 +29,3 @@ description: ""
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
-
