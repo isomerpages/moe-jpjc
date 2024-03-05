@@ -13,10 +13,11 @@ third_nav_title: 2024 Events
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" alt="OGLC Games" src="/images/2024 Life @ JPJC/Matriculation and Orientation/M&amp;O.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="M_O" src="/images/2024 Life @ JPJC/Matriculation and Orientation/M_O.jpg">
 <figcaption>
-OGLC Games</figcaption></figure>	
+M&amp;O</figcaption></figure>	
 </div>
+	<p></p>
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="Games" src="/images/2024 Life @ JPJC/Matriculation and Orientation/Games.jpg">
