@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
-1 March 2024|
+1 March 2024|[Commemoration of Total Defence Day – TD40](/life-at-jpjc/2024-events/td40/)
 9 February 2024|[CNY Celebrations](/life-at-jpjc/2024-events/cny/)
 2-8 February 2024|[Matriculation and Orientation ](/life-at-jpjc/2024-events/mo/)
 2, 5 February 2024|[Citizenship Education Learning Experiences programmes during J2 Enrichment Week](/life-at-jpjc/2024-events/celearningexp/)
