@@ -19,21 +19,21 @@ OGLC Games</figcaption></figure>
 </div>
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" alt="OGLC Games" src="/images/2024 Life @ JPJC/Matriculation and Orientation/OGLC_Games.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Games" src="/images/2024 Life @ JPJC/Matriculation and Orientation/Games.jpg">
 <figcaption>
-OGLC Games</figcaption></figure>	
+Games</figcaption></figure>	
 </div>
 <p>To cultivate a spirit of competitiveness and resilience, House bonding sessions were thoughtfully planned. These sessions served as avenues for building connections and collaborative efforts in preparing a performance for the grand finale, representing their respective Houses. This effort aimed to foster a lively and unified community within the college, ensuring that J1 students start their academic journey with a solid base of friendship and enthusiasm.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" alt="OGLC Dance" src="/images/2024 Life @ JPJC/Matriculation and Orientation/OGLC_Dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="House Cheers" src="/images/2024 Life @ JPJC/Matriculation and Orientation/House_Cheers.jpg">
 <figcaption>
-OGLC Dance</figcaption></figure>	
+House Cheers</figcaption></figure>	
 <div class="isomer-image-wrapper">
 	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="OGLC Group Photo" src="/images/2024 Life @ JPJC/Matriculation and Orientation/OGLC_Group_Photo.jpg"><figcaption>
-OGLC Group Photo</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" alt="House Cheers with the House Mistress" src="/images/2024 Life @ JPJC/Matriculation and Orientation/House_Cheers_with_the_House_Mistress.jpg"><figcaption>
+House Cheers with the House Mistress</figcaption></figure>	
 </div>
 <p></p>
 <p></p>
