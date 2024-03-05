@@ -13,44 +13,24 @@ third_nav_title: 2024 Events
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" alt="Visitors greeted by Student Councillors" src="/images/2024 Life @ JPJC/Open House/visitors_greeted_by_student_councillors.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OGLC Games" src="/images/2024 Life @ JPJC/Orientation Group Leader Camp/OGLC_Games.jpg">
 <figcaption>
-Visitors greeted by Student Councillors</figcaption></figure>	
+OGLC Games</figcaption></figure>	
 </div>
 <p>Central to OGLC were engaging activities designed specifically for the incoming J1 cohort. These activities not only helped strengthen the bond among OGLs but also contributed to a lively and energetic camp atmosphere. From impromptu karaoke sessions and interactive games to creative recaps of the college's heritage in a game-like setting, each activity played a crucial role in enriching the OGLC experience for both OGLs and SCs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" alt="Principal's address" src="/images/2024 Life @ JPJC/Open House/principal_address.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="OGLC Dance" src="/images/2024 Life @ JPJC/Orientation Group Leader Camp/OGLC_Dance.jpg">
 <figcaption>
-Principal's address</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Subject Showcase A" src="/images/2024 Life @ JPJC/Open House/subject_showcase_a.jpg">
-<figcaption>
-Subject Showcase</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Subject Showcase B" src="/images/2024 Life @ JPJC/Open House/subject_showcase_b.jpg"><figcaption>
-Subject Showcase</figcaption></figure>	
-</div>
-	<p></p>
-<div class="isomer-image-wrapper">
-	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Performing Arts CCA Showcase" src="/images/2024 Life @ JPJC/Open House/performing_arts_cca_showcase.jpg"><figcaption>
-Performing Arts CCA Showcase</figcaption></figure>	
-</div>
+OGLC Dance</figcaption></figure>	
 <p>In summary, OGLC effectively prepared OGLs and Student Councillors to improve the M&amp;O experience for the incoming J1s. Beyond skill development, it fostered lasting relationships and offered a platform for refining strategies based on feedback. Through engaging and fun activities, OGLC promoted unity and enthusiasm among participants, ensuring a smooth and satisfying M&amp;O experience.</p>
 <p></p>
 	<div class="isomer-image-wrapper">
 	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="JP Family" src="/images/2024 Life @ JPJC/Open House/jp_family.jpg"><figcaption>
-JP Family</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" alt="OGLC Group Photo" src="/images/2024 Life @ JPJC/Orientation Group Leader Camp/OGLC_Group_Photo.jpg"><figcaption>
+OGLC Group Photo</figcaption></figure>	
 </div>
 <p></p>
 <p></p>
-</div>
+</div></div>
