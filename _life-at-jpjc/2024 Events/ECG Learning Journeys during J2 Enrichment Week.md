@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: 2024 Events
 ---
+<div align="justify">
+
 <p>As part of our college’s commitment to enhancing our students’ overall
 school experience, the Education and Career Guidance (ECG) Committee organised
 learning journeys to Institutions of Higher Learning and industries during
@@ -14,11 +16,15 @@ guided tours and sample lectures. Similarly, visits to various industries
 offered our students enriching insights into real-world operations and
 cutting-edge technologies.&nbsp;</p>
 <div class="isomer-image-wrapper">
+<figure>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___NTU_SoH.jpg">
+<figcaption>Learning Journey at NTU School of Humanities</figcaption></figure>
 </div>
 <p></p>
+<figure>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___NTU_SSS.jpg">
+<figcaption>Learning Journey at NTU School of Social Sciences</figcaption></div></figure>
 </div>
 <p>From exploring the intricacies of cybersecurity at Singtel Cybersecurity
 Institute to witnessing medical advancements at Alexandra Hospital, each
@@ -27,11 +33,15 @@ These immersive experiences not only provided a glimpse into various career
 paths but also equipped our students with practical knowledge and skills
 essential for their future endeavours.&nbsp;</p>
 <div class="isomer-image-wrapper">
+<figure>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___Singtel.jpg">
+<figcaption>Learning Journey at Singtel</figcaption></figure>
 </div>
 <p>The impact of these learning journeys extends far beyond the classroom,
 empowering our students to make informed decisions and navigate their academic
 and professional journeys with confidence.</p>
 <p>
 <br>
+	
+
 </p>
