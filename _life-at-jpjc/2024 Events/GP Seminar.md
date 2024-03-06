@@ -17,6 +17,13 @@ of English, Ms. Sarizah and GP tutor Ms. Thandar, the unscripted dialogue
 session presented a genuine exchange between the J2 students and speaker,
 providing the audience with invaluable insights on navigating the complexities
 of adulthood.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Q&amp;A Session" src="/images/2024 Life @ JPJC/GP Seminar/GP_Sem___Q_A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A student posing a question during the Q&amp;A session." src="/images/2024 Life @ JPJC/GP Seminar/GP_Sem___Student_asking_a_question.jpg">
+</div>
 <p>Furthermore, Mr. He's candid responses, coupled with his personal struggles
 and life experience, captivated the audience, sparking meaningful discussions
 and reflections. His alternative viewpoints on life resonated with students
@@ -25,6 +32,9 @@ as many students felt that Mr He’s experiences were ‘very real’.</p>
 all participants for their active engagement. As we continue on our journeys,
 may we apply these learnings to forge brighter futures for ourselves and
 our communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Token of Appreciation to Mr He" src="/images/2024 Life @ JPJC/GP Seminar/GP_Sem___Principal_presenting_token_of_appreciation_to_Mr_He.jpg">
+</div>
 <p>
 <br>
 </p>
