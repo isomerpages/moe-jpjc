@@ -17,9 +17,9 @@ third_nav_title: 2024 Events
 	
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/CNY/chineseny1.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/TD40/td40a.png">
 <figcaption>
-School Leaders Presenting Festive Hampers to OSOs</figcaption></figure>	
+Lessons were conducted during the energy disruption. Teachers and students had their lessons in the classrooms with no light, no fan, no air-conditioning and without the use of projector.</figcaption></figure>	
 
 
 	
