@@ -13,7 +13,7 @@ third_nav_title: 2024 Events
 
 <p>At the conclusion of the exercise, students and teachers convened to share their learning experiences during the post-exercise civics lesson. Through the exercise and accompanying lessons, our students learnt how to respond to disruptions and engaged in conversations with their peers and civic tutors on the roles they could play in the community and the nation to overcome such challenges. Together, we contribute to keeping Singapore strong!</p>
 	
-	
+<br>	
 	
 <div class="isomer-image-wrapper">
 <figure>
