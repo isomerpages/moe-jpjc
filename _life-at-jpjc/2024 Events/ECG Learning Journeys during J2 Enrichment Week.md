@@ -14,24 +14,26 @@ the J2 Enrichment Week in February. These excursions provided valuable
 insights into university admission criteria and campus life through the
 guided tours and sample lectures. Similarly, visits to various industries
 offered our students enriching insights into real-world operations and
-cutting-edge technologies.&nbsp;</p>
+cutting-edge technologies.</p>
+	
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___NTU_SoH.jpg">
 <figcaption>Learning Journey at NTU School of Humanities</figcaption></figure>
 </div>
 <p></p>
-<figure>
+
 <div class="isomer-image-wrapper">
+<figure>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___NTU_SSS.jpg">
-<figcaption>Learning Journey at NTU School of Social Sciences</figcaption></div></figure>
+<figcaption>Learning Journey at NTU School of Social Sciences</figcaption></figure>
 </div>
 <p>From exploring the intricacies of cybersecurity at Singtel Cybersecurity
 Institute to witnessing medical advancements at Alexandra Hospital, each
 industry visit broadened our students’ perspectives and sparked their curiosity.
 These immersive experiences not only provided a glimpse into various career
 paths but also equipped our students with practical knowledge and skills
-essential for their future endeavours.&nbsp;</p>
+essential for their future endeavours.</p>
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Life @ JPJC/ECG LJ   J2 Enrichment Week/ECG_LJ___Singtel.jpg">
@@ -43,5 +45,5 @@ and professional journeys with confidence.</p>
 <p>
 <br>
 	
-
-</p>
+</p></div>
+<p></p>
