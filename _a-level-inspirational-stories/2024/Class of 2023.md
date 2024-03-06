@@ -7,7 +7,7 @@ third_nav_title: "2024"
 ---
 <div align="justify">
 
-<h3><strong>2024</strong></h3>
+<h3><strong>Class of 2023</strong></h3>
 
 <figure>
 <img src="/images/Accomplishment/2024%20Inspiring/2024coverpage.jpg">
