@@ -15,7 +15,7 @@ third_nav_title: Open House 2024
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
 
 <h5><b>2. What is the 2024 cut-off point for JPJC?	</b></h5>
-<p>For reference, the 2023 L1R5 cut-off point for the Science Stream is 14 and the Arts Stream is 17. The 2024 cut-off point for JPJC will only be made available after JAE 2024.</p>
+<p>For reference, the 2024 L1R5 cut-off point for the Science Stream is 14 and the Arts Stream is 15. The 2024 cut-off point for JPJC will only be made available after JAE 2024.</p>
 
 
 <h5><b> 3. My preferred subject combination is not listed on the college website. Will I be able to choose my preferred subject combination?</b></h5>
