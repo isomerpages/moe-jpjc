@@ -24,7 +24,7 @@ variant: markdown
 <img src="/images/collage_ALevel%20600.jpg">
 </figure>
 
-<h3><a href="/accomplishments/students/a-level-inspirational-stories/2021/overview/">Class of Class of 2020</a></h3>
+<h3><a href="/accomplishments/students/a-level-inspirational-stories/2021/overview/">Class of 2020</a></h3>
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
