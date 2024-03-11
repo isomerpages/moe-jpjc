@@ -28,3 +28,6 @@ variant: markdown
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
+
+
+<h3><a href="/accomplishments/students/a-level-inspirational-stories/2020/overview/">Class of 2019</a></h3>
