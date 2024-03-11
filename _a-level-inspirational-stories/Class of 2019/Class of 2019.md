@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Class of 2019
 variant: markdown
 ---
-<h3>Class of 2019</h3>
+<h3><strong>Class of 2019</strong></h3>
 
 <div align="justify">
 
