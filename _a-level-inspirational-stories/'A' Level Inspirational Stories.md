@@ -4,7 +4,7 @@ permalink: /accomplishments/students/a-level-inspirational-stories/
 description: ""
 variant: markdown
 ---
-<h3><strong>Class of 2023</strong></h3>
+<h3><a href="/a-level-inspirational-stories/2024/overview/">Class of 2023</a></h3>
 
 <figure>
 <img src="/images/Accomplishment/2024%20Inspiring/2024coverpage.jpg">
