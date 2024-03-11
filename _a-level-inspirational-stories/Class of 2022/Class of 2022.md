@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 
-<h3><strong>2023</strong></h3>
+<h3><strong>Class of 2022</strong></h3>
 
 <figure>
 <img src="/images/Accomplishment/2023%20inspiring/A%20Level%20Inspirational%20Stories%202023%20Landing%20Page%20Collage.jpg">
