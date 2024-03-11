@@ -2,7 +2,7 @@
 title: Goh Yan Yi, Chermaine (19S10)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/chermaine/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Chermaine.jpg">

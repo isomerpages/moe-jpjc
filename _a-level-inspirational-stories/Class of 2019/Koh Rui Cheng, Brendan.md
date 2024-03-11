@@ -2,7 +2,7 @@
 title: Koh Rui Cheng, Brendan
 permalink: /accomplishments/students/a-level-inspirational-stories/2020/brendan/
 description: ""
-third_nav_title: "2020"
+third_nav_title: Class of 2019
 ---
 <div align=justify>
 <h5>From not uttering a single word to others, Koh Rui Cheng, Brendan (18S24) became a more confident communicator since enrolling in JPJC.</h5>

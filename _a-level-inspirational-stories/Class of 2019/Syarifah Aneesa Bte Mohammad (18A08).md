@@ -2,7 +2,7 @@
 title: Syarifah Aneesa Bte Mohammad (18A08)
 permalink: /accomplishments/students/a-level-inspirational-stories/2020/syarifah/
 description: ""
-third_nav_title: "2020"
+third_nav_title: Class of 2019
 variant: markdown
 ---
 <div align="justify">

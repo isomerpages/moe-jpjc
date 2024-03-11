@@ -2,7 +2,7 @@
 title: Pearlyn Chen (19A08)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/pearlyn/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Perlyn%20Chen.jpg">

@@ -2,7 +2,7 @@
 title: Rukhsana Bi (21A07)
 permalink: /a-level-inspirational-stories/2023/Rukhsana/
 description: ""
-third_nav_title: "2023"
+third_nav_title: Class of 2022
 variant: markdown
 ---
 <div align="justify">

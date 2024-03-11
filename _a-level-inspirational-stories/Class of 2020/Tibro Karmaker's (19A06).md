@@ -2,7 +2,7 @@
 title: Tibro Karmaker's (19A06)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/tibro/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Tibro.jpg">

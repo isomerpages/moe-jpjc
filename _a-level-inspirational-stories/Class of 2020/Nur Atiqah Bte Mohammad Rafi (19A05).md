@@ -2,7 +2,7 @@
 title: Nur Atiqah Bte Mohammad Rafi (19A05)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/atiqah/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 variant: tiptap
 ---
 <figure>

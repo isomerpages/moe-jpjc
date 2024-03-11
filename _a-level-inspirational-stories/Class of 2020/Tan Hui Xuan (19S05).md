@@ -2,7 +2,7 @@
 title: Tan Hui Xuan (19S05)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/huixuan/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Tan%20Hui%20Xuan.jpg">

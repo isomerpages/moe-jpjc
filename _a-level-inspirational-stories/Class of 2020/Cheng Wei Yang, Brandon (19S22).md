@@ -2,7 +2,7 @@
 title: Cheng Wei Yang, Brandon (19S22)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/brandon/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Cheng%20Wei%20Yang%20Brandon.jpg">

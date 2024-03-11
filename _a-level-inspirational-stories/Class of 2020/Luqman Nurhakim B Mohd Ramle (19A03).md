@@ -2,7 +2,7 @@
 title: Luqman Nurhakim B Mohd Ramle (19A03)
 permalink: /accomplishments/students/a-level-inspirational-stories/2021/nurhakim/
 description: ""
-third_nav_title: "2021"
+third_nav_title: Class of 2020
 ---
 <figure>
 <img src="/images/Luqman%20Nurhakim%20B%20Mohd%20Ramle.jpg">
