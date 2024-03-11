@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Class of 2020
 variant: markdown
 ---
+<h3><strong>Class of 2020</strong></h3>
 <figure>
 <img src="/images/Collage%202021.jpg">
 </figure>
