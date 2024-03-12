@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum.md
+      - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
       - Mathematics & Sciences.md
