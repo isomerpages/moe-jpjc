@@ -1,0 +1,60 @@
+title: Jurong Pioneer Junior College
+url: https://jpjc.moe.edu.sg
+favicon: /images/favicon.jpg
+colors:
+  primary-color: "#891d40"
+  secondary-color: "#0e2855"
+  media-colors:
+    - title: media-color-one
+      color: "#891d40"
+    - title: media-color-two
+      color: "#0e2855"
+    - title: media-color-three
+      color: "#891d40"
+    - title: media-color-four
+      color: "#0e2855"
+    - title: media-color-five
+      color: "#891d40"
+description: Official website of Jurong Pioneer Junior College (Singapore)
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d1kt1aspitrtfv.amplifyapp.com
+prod: https://master.d1kt1aspitrtfv.amplifyapp.com
+shareicon: /images/jpjc_logo.png
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-253741453-1
+linkedin-insights: ""
+resources_name: resources
+google_analytics_ga4: G-L804YW27C1

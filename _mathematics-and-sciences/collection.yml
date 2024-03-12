@@ -1,0 +1,30 @@
+collections:
+  mathematics-and-sciences:
+    output: true
+    order:
+      - Mathematics and Sciences.md
+      - Biology/.keep
+      - Biology/Biology.md
+      - Biology/Curriculum.md
+      - Biology/Syllabus & Assessment.md
+      - Biology/Enrichment Programmes.md
+      - Chemistry/Chemistry.md
+      - Chemistry/Curriculum.md
+      - Chemistry/Syllabus & Assessment.md
+      - Chemistry/Enrichment Programmes.md
+      - Chemistry/.keep
+      - Computing/Computing.md
+      - Computing/Curriculum.md
+      - Computing/Syllabus & Assessment.md
+      - Computing/Enrichment Programmes.md
+      - Computing/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Syllabus & Assessment.md
+      - Mathematics/Enrichment Programmes.md
+      - Mathematics/.keep
+      - Physics/Physics.md
+      - Physics/Curriculum.md
+      - Physics/Syllabus & Assessment.md
+      - Physics/Enrichment Programmes.md
+      - Physics/.keep

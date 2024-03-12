@@ -1,0 +1,14 @@
+collections:
+  accomplishments:
+    output: true
+    order:
+      - Accomplishments.md
+      - Staff/Staff.md
+      - Staff/.keep
+      - Students/2023 Accomplishments.md
+      - Students/.keep
+      - Students/2022 Accomplishments.md
+      - Students/2021 Accomplishments.md
+      - Students/2020 Accomplishments.md
+      - Students/2018 & 2019 Accomplishments.md
+      - "'A' Lvl Inspirational Stories/.keep"

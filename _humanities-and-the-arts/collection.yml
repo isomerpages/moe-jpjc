@@ -1,0 +1,33 @@
+collections:
+  humanities-and-the-arts:
+    output: true
+    order:
+      - Humanities & The Arts.md
+      - Art/Art.md
+      - Art/Curriculum and Syllabus.md
+      - Art/Enrichment Programmes.md
+      - Art/.keep
+      - China Studies in English/China Studies in English.md
+      - China Studies in English/Curriculum.md
+      - China Studies in English/Syllabus & Assessment.md
+      - China Studies in English/Enrichment Programmes.md
+      - China Studies in English/.keep
+      - Economics/Economics.md
+      - Economics/Curriculum.md
+      - Economics/Syllabus & Assessment.md
+      - Economics/Enrichment Programmes.md
+      - Economics/.keep
+      - Geography/Geography.md
+      - Geography/Curriculum.md
+      - Geography/Syllabus & Assessment.md
+      - Geography/Enrichment Programmes.md
+      - Geography/.keep
+      - History/History.md
+      - History/Curriculum.md
+      - History/Syllabus & Assessment.md
+      - History/Enrichment Programmes.md
+      - History/.keep
+      - Literature in English/Literature in English.md
+      - Literature in English/Curriculum.md
+      - Literature in English/Syllabus & Assessment.md
+      - Literature in English/.keep

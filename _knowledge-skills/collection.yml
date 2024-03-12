@@ -1,0 +1,14 @@
+collections:
+  knowledge-skills:
+    output: true
+    order:
+      - Knowledge Skills.md
+      - General Paper/General Paper.md
+      - General Paper/Curriculum.md
+      - General Paper/Syllabus & Assessment.md
+      - General Paper/Enrichment Programmes.md
+      - General Paper/.keep
+      - Project Work/Project Work.md
+      - Project Work/Desired Student Outcomes.md
+      - Project Work/Assessment.md
+      - Project Work/.keep

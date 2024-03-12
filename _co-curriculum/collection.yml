@@ -1,0 +1,24 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Co Curriculum Overview.md
+      - Character and Citizenship Edu/CCE.md
+      - Character and Citizenship Edu/.keep
+      - Character and Citizenship Edu/Further Education and Career Guidance.md
+      - Character and Citizenship Edu/Citizen Education.md
+      - Character and Citizenship Edu/Social Emotional Learning and Life
+        Skills.md
+      - Character and Citizenship Edu/Sexuality Education Programme.md
+      - Character and Citizenship Edu/Values in Action.md
+      - Character and Citizenship Edu/Student Well Being.md
+      - Internationalisation Programme.md
+      - Talent And Leadership/.keep
+      - Talent And Leadership/Talent and Leadership.md
+      - Talent And Leadership/Arts and Aesthetics.md
+      - Talent And Leadership/Arts and Social Sciences Interest Programme.md
+      - Talent And Leadership/Co Curricular Activities.md
+      - Talent And Leadership/House System.md
+      - Talent And Leadership/Scholars Development Programme.md
+      - Talent And Leadership/STEAM.md
+      - Talent And Leadership/Student Leadership.md
