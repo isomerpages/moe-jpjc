@@ -18,5 +18,5 @@ variant: markdown
 	</li><li>Quietly confident,&nbsp;<a href="/accomplishments/students/a-level-inspirational-stories/2020/ravi/">Ravi Gopinath</a> (18S13) battled tremendous fear and weak interpersonal skills in his earlier years, to become the Vice President of JPJC’s Student Council.</li>
 	<li>Despite mounting challenges and his sudden loss,&nbsp;<a href="/accomplishments/students/a-level-inspirational-stories/2020/sarath/">Sarath Alexander s/o Innasimuthu</a>&nbsp;(18S10) remains strong and committed to his goals.&nbsp;</li>
 	<li>Unafraid to strike out on the path less taken,&nbsp;<a href="/accomplishments/students/a-level-inspirational-stories/2020/syarifah/">Syarifah Aneesa Bte Mohammad</a>&nbsp;(18A08) thrived after her decision to switch from a polytechnic to JPJC.</li>
-	<li><a href="/accomplishments/students/a-level-inspirational-stories/2020/james/">Tan Yao Hao, James</a>&nbsp;(18A08) – The Comeback Kid</li>
-	<li>With education and career guidance,&nbsp;<a href="/accomplishments/students/a-level-inspirational-stories/2020/calista/">Wong Shi Ting, Calista</a>&nbsp;(18A07) found her direction</li></ol></div>
+	<li><a href="/accomplishments/students/a-level-inspirational-stories/2020/james/">Tan Yao Hao, James</a>&nbsp;(18A08) – The Comeback Kid.</li>
+	<li>With education and career guidance,&nbsp;<a href="/accomplishments/students/a-level-inspirational-stories/2020/calista/">Wong Shi Ting, Calista</a>&nbsp;(18A07) found her direction.</li></ol></div>
