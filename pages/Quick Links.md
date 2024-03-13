@@ -31,7 +31,7 @@ description: ""
 <p>Students' Attendance Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>User login: (MIMS)</p>
 </td>
 </tr>
 
@@ -46,7 +46,7 @@ description: ""
 <p>Student Administration and Reports</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>User login: (MIMS)</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ description: ""
 <p>Exams Registrations Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>User login: (MIMS)</p>
 </td>
 </tr>
 <tr>
@@ -88,14 +88,14 @@ description: ""
 
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://portal.jpjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Knowledge Management Portal (KM Portal)</a>
+<p><a href="https://portal.jpjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">KM Portal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Administration and Venue Booking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username: name@moe.edu.sg</p>
+<p>User login: name@moe.edu.sg</p>
 </td>
 </tr>
 	
@@ -106,12 +106,42 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mail</p>
+<p>ICON Mail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>User login: login name without @moe.edu.sg</p>
 </td>
 </tr>	
+	
+	
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://schools.gov.sg/owa" rel="noopener noreferrer nofollow" target="_blank">CES Email online</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access CES through internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: schools\\XXXXXXX (NRIC)</p>
+</td>
+</tr>		
+	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School-Home Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: (MIMS)</p>
+</td>
+</tr>			
+	
 	
 </tbody>
 </table>
