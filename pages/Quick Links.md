@@ -172,64 +172,53 @@ description: ""
 
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students' Attendance Portal</p>
+<p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>User Login: (MIMS) or moe-(last 6 digits of NRIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
+<p><a href="https://classroom.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google Classroom</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Administration and Reports</p>
+<p>Google Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>Icon login</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener noreferrer nofollow" target="_blank">iEXAMS2</a>
+<p><a href="https://sites.google.com/moe.edu.sg/jpjconlinerepository/home" rel="noopener noreferrer nofollow" target="_blank">Teaching Resources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exams Registrations Portal</p>
+<p>JPJC Online Repository</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Login username (MIMS)</p>
+<p>Icon login</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR and Payroll portal (HRP)</a>
+<p><a href="https://idm.opal2.moe.edu.sg/Account/Login" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HR Information for MOE Employees</p>
+<p>One Portal, All Learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intranet</p>
+<p>User Login: name@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HRP/Workpal</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HR and payroll Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singpass</p>
-</td>
-</tr>
+
 </tbody>
 </table>
 <p></p>
