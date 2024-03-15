@@ -196,11 +196,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/jpjconlinerepository/home" rel="noopener noreferrer nofollow" target="_blank">Teaching Resources</a>
+<p><a href="https://sites.google.com/moe.edu.sg/jpjconlinerepository/home" rel="noopener noreferrer nofollow" target="_blank">JPJC Online Repository</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JPJC Online Repository</p>
+<p>Teaching Resources</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Icon login</p>
