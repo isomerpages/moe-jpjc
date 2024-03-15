@@ -4,14 +4,12 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-<p></p><h4><strong><center>Administration </center></strong></h4>
-<p></p>
-
+<h4><strong><center>Administration </center></strong></h4>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Useful Links</p>
+<p>Links</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -102,11 +100,11 @@ description: ""
 	
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">MOE iCON</a>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">ICONnect</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICON Mail</p>
+<p>ICON Mail and Google Apps</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>User login: login name without @moe.edu.sg</p>
@@ -142,11 +140,8 @@ description: ""
 </td>
 </tr>			
 	
-	
 </tbody>
 </table>
-<p></p>
-<p></p>
 
 
 
@@ -154,13 +149,12 @@ description: ""
 
 
 
-<p></p><h4><strong><center>Teaching and Learning</center></strong></h4>
-<p></p>
+<h4><strong><center>Teaching and Learning</center></strong></h4>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Useful Links</p>
+<p>Links</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -221,5 +215,149 @@ description: ""
 
 </tbody>
 </table>
-<p></p>
-<p></p>
+
+
+<h4><strong><center>Productivity</center></strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Links</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Build secure government forms in minutes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: name@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">GO.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trusted short links from public officers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: name@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/#/" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trusted short links from education institutions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: name@moe.edu.sg</p>
+</td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+
+<h4><strong><center>Useful Websites</center></strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Links</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education Intranet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Intranet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MESRC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education Sports and Recreation Club </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: name@moe.edu.sg</p>
+</td>
+</tr>
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upskill in Lifelong Learning Journey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: Full NRIC</p>
+</td>
+</tr>	
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://nsg.moe.edu.sg/nis/#/login" rel="noopener noreferrer nofollow" target="_blank">NIS Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assigned User Login and Password</p>
+</td>
+</tr>		
+	
+	
+</tbody>
+</table>
+
+
+
+
+
