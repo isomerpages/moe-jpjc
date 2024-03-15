@@ -369,5 +369,18 @@ description: ""
 </tr>		
 	
 	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/personaliseddigitallearningpro/home" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personalised Digital Learning Programme One-stop site</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: name@moe.edu.sg</p>
+</td>
+</tr>			
+	
 </tbody>
 </table>
