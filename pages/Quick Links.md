@@ -299,7 +299,7 @@ description: ""
 <p>Ministry of Education Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Internet</p>
+<p>Internet Access</p>
 </td>
 </tr>
 <tr>
@@ -311,9 +311,24 @@ description: ""
 <p>Ministry of Education Intranet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intranet</p>
+<p>Intranet Access</p>
 </td>
 </tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Examinations and Assessment Board</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>		
+	
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MESRC</a>
@@ -356,8 +371,3 @@ description: ""
 	
 </tbody>
 </table>
-
-
-
-
-
