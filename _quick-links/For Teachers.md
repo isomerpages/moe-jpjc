@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong><center>Administration </center></strong></h4>
+
 <table>
 <tbody>
 <tr>
@@ -59,6 +60,7 @@ description: ""
 <p>User login: (MIMS)</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener noreferrer nofollow" target="_blank">iEXAMS2</a>
@@ -152,7 +154,7 @@ description: ""
 </td>
 </tr>			
 
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://myexamduty.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">EP Portal</a>
 </p>
@@ -296,6 +298,7 @@ description: ""
 <p>User login: (MIMS) or name@moe.edu.sg</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://for.edu.sg/#/" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg</a>
@@ -342,6 +345,7 @@ description: ""
 <p>Internet Access</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
