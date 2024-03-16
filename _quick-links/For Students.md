@@ -32,6 +32,20 @@ description: ""
 <p>User Login : NRIC, MIMS password</p>
 </td>
 </tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.jpjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">KM Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: name@moe.edu.sg</p>
+</td>
+</tr>
+		
 	
 </tbody>
 </table>
@@ -73,7 +87,7 @@ description: ""
 <p>Google Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Icon login</p>
+<p>User login: name@moe.edu.sg</p>
 </td>
 </tr>
 
