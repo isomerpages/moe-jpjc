@@ -151,6 +151,20 @@ description: ""
 <p>User login: (MIMS)</p>
 </td>
 </tr>			
+
+	<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://myexamduty.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">EP Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEAB Exam Personnel Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: (MIMS)</p>
+</td>
+</tr>			
+
 	
 </tbody>
 </table>
