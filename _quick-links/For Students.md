@@ -127,6 +127,43 @@ description: ""
 </tr>
 
 
+
+	
+</tbody>
+</table>
+
+
+
+<h4><strong><center>Singapore University Websites</center></strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Links</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NTU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Technological University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
+
+
+
 	
 </tbody>
 </table>
