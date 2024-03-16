@@ -68,7 +68,9 @@ links:
   - title: Quick Links
     url: /usefullinksteachers
     sublinks:
-      - title: Teachers
+      - title: For Teachers
         url: /usefullinksteachers
+      - title: For Students
+        url: /usefullinksstudents
   - title: Contact Us
     url: /contact-us/
