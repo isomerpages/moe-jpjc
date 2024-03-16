@@ -19,6 +19,18 @@ description: ""
 </th>
 </tr>
 
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg/nidp/portal" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Identity Management System / Reset Password</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: (MIMS)</p>
+</td>
+</tr>
 	
 <tr>
 <td rowspan="1" colspan="1">
