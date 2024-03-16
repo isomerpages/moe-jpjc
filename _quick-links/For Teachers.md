@@ -243,7 +243,21 @@ description: ""
 <p>Remarks</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form SG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One-stop data collection for MOE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User login: (MIMS)</p>
+</td>
+</tr>
 
+	
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
@@ -253,7 +267,7 @@ description: ""
 <p>Build secure government forms in minutes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>User Login: name@schools.gov.sg</p>
+<p>User login: (MIMS) or name@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +279,7 @@ description: ""
 <p>Trusted short links from public officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>User Login: name@schools.gov.sg</p>
+<p>User login: (MIMS) or name@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
