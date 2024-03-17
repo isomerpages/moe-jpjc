@@ -125,7 +125,32 @@ description: ""
 <p>Internet Access</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Examinations and Assessment Board</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>		
 
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upskill in Lifelong Learning Journey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>User Login: Full NRIC</p>
+</td>
+</tr>	
 
 
 	
