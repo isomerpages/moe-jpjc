@@ -162,8 +162,71 @@ description: ""
 </td>
 </tr>
 
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
 
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singaporetech.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SIT</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Institute of Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
 
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smu.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SMU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Management University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SUSS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Social Sciences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SUTD</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology and Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
+	
 	
 </tbody>
 </table>
