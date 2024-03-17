@@ -82,7 +82,7 @@ description: ""
 <p>HR Information for MOE Employees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intranet</p>
+<p>Intranet Access</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ description: ""
 <p>Academy of Singapore Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Internet</p>
+<p>Internet Access</p>
 </td>
 </tr>
 	
