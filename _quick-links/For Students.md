@@ -138,6 +138,18 @@ description: ""
 </td>
 </tr>		
 
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">MOE ECG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overview of Education and Career Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>	
 	
 <tr>
 <td rowspan="1" colspan="1">
