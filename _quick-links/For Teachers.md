@@ -216,6 +216,7 @@ description: ""
 <p>Icon login</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/jpjconlinerepository/home" rel="noopener noreferrer nofollow" target="_blank">JPJC Online Repository</a>
@@ -241,6 +242,20 @@ description: ""
 </td>
 </tr>
 
+	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">AST</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Singapore Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+</tr>
+	
 </tbody>
 </table>
 
