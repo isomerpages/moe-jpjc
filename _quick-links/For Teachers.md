@@ -15,9 +15,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
-</th>
 </tr>
 
 <tr>
@@ -28,9 +25,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>MOE Identity Management System / Reset Password</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
-</td>
 </tr>
 	
 <tr>
@@ -40,9 +34,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Students' Attendance Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
 </td>
 </tr>
 
@@ -56,9 +47,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Student Administration and Reports</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
-</td>
 </tr>
 
 <tr>
@@ -69,9 +57,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Exams Registrations Portal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,9 +66,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>HR Information for MOE Employees</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Intranet Access</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,9 +74,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>HR and payroll Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singpass</p>
 </td>
 </tr>
 
@@ -106,9 +85,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>General Administration and Venue Booking</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: name@moe.edu.sg</p>
-</td>
 </tr>
 	
 	
@@ -119,9 +95,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ICON Mail and Google Apps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User login: login name without @moe.edu.sg</p>
 </td>
 </tr>	
 	
@@ -135,9 +108,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Access CES through internet</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: schools\\XXXXXXX (NRIC)</p>
-</td>
 </tr>		
 	
 	
@@ -149,9 +119,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>School-Home Partnership</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
-</td>
 </tr>			
 
 <tr>
@@ -161,9 +128,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SEAB Exam Personnel Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
 </td>
 </tr>			
 
@@ -187,9 +151,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
-</th>
 </tr>
 
 <tr>
@@ -200,9 +161,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Student Learning Space (SLS)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User Login: (MIMS) or moe-(last 6 digits of NRIC)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -211,9 +169,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Google Classroom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Icon login</p>
 </td>
 </tr>
 
@@ -225,9 +180,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Teaching Resources</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Icon login</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -236,9 +188,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>One Portal, All Learners</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User Login: name@moe.edu.sg</p>
 </td>
 </tr>
 
@@ -250,9 +199,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy of Singapore Teachers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Internet Access</p>
 </td>
 </tr>
 	
@@ -270,9 +216,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -281,9 +224,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>One-stop data collection for MOE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS)</p>
 </td>
 </tr>
 
@@ -297,9 +237,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Build secure government forms in minutes</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS) or name@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -308,9 +245,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Trusted short links from public officers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User login: (MIMS) or name@moe.edu.sg</p>
 </td>
 </tr>
 
@@ -321,9 +255,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Trusted short links from education institutions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User Login: name@moe.edu.sg</p>
 </td>
 </tr>
 
@@ -343,9 +274,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Description</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
-</th>
 </tr>
 
 <tr>
@@ -355,9 +283,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Education Website</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Internet Access</p>
 </td>
 </tr>
 
@@ -369,9 +294,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Ministry of Education Intranet</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Intranet Access</p>
-</td>
 </tr>
 
 <tr>
@@ -381,9 +303,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Examinations and Assessment Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Internet Access</p>
 </td>
 </tr>		
 	
@@ -396,9 +315,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Ministry of Education Sports and Recreation Club </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>User Login: name@moe.edu.sg</p>
-</td>
 </tr>
 	
 <tr>
@@ -408,9 +324,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Upskill in Lifelong Learning Journey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User Login: Full NRIC</p>
 </td>
 </tr>	
 	
@@ -422,9 +335,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>National School Games</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Assigned User Login and Password</p>
-</td>
 </tr>		
 	
 	
@@ -435,9 +345,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Personalised Digital Learning Programme One-stop site</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>User Login: name@moe.edu.sg</p>
 </td>
 </tr>			
 	
