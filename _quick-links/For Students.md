@@ -88,7 +88,7 @@ description: ""
 <p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>User Login: (MIMS) or moe-(last 6 digits of NRIC)</p>
+<p>User Login: (MIMS) </p>
 </td>
 </tr>
 <tr>
