@@ -99,16 +99,7 @@ description: ""
 </tr>	
 	
 	
-
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/owa" rel="noopener noreferrer nofollow" target="_blank">CES Email online</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Access CES through internet</p>
-</td>
-</tr>		
+		
 	
 	
 <tr>
