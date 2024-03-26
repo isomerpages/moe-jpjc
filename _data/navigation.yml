@@ -65,5 +65,12 @@ links:
         url: /partnerships/jpjc-alumni/
       - title: School Canteen Advertisements
         url: /partnerships/schoolcanteen/
+  - title: Quick Links
+    url: /usefullinksteachers
+    sublinks:
+      - title: For Teachers
+        url: /usefullinksteachers
+      - title: For Students
+        url: quick-links/usefullinksstudents/
   - title: Contact Us
     url: /contact-us/

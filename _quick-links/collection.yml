@@ -1,0 +1,6 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Teachers.md
+      - For Students.md
