@@ -48,10 +48,7 @@ The wide variety of activities are organised by different committees under the T
 <img src="/images/stem.jpg" style="width:50%">
 <figcaption>Fun and exciting STEM activities!</figcaption></figure>
 
-<figure>
-<a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-social-science/">Arts and Social Sciences Interests Programme</a><br>
-<img src="/images/artsscience.jpg" style="width:60%">
-<figcaption>Prize presentation ceremony for World Scholar’s Cup</figcaption></figure>
+
 
 <figure>
 <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-aesthetics/">Arts and Aesthetic Programme</a>

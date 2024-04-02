@@ -1,10 +1,10 @@
 ---
 title: Arts and Social Sciences Interest Programme
-permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-social-science/
+permalink: /permalink/
 description: ""
-third_nav_title: Talent And Leadership
+variant: markdown
 ---
-<div align=justify>
+<div align="justify" hidden="">
 <figure>
 <img src="/images/ArtSSIP1.jpg">
 <figcaption>A group photo of our first batch of JPJC ArtSSIP students with our School Leaders and Teacher Advisors.</figcaption></figure>
