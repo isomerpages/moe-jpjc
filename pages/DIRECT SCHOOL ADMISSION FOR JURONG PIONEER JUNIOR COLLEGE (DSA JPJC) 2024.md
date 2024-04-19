@@ -6,6 +6,41 @@ variant: markdown
 ---
 <div align="justify">
 
+<p>	Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. Successful DSA-JC candidates will gain admission to JPJC in 2025 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results. </p>
+	
+<p>Our college will be offering the following DSA-JC Talent Areas for the potential students:</p>
+1.	Language and Humanities
+•	Chinese Language Elective Programme (CLEP)
+•	Malay Language Elective Programme (MLEP)
+•	Humanities Programme 
+
+2.	Science, Technology, Engineering and Mathematics
+•	Mathematics/Science
+	
+3.	Visual Arts, Design &amp; Media
+•	Art
+•	Film &amp; Photography
+
+4.	Performing Arts
+•	Concert Band
+•	Choir (Girls Only)
+•	Chinese Orchestra
+
+5.	Sports &amp; Games
+•	Basketball 
+•	Floorball
+•	Football (Boys Only)
+•	Volleyball
+
+More details about the application process for DSA-JC 2024 will be published on 6 May 2024 on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria. 
+
+	
+	
+	
+	
+	
+	
+<div hidden="">	
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. Students from non-mainstream schools and those without O-Level results, regardless of nationality, may also apply for DSA-JC.</p>
 
 <p>Please note that <em>successful DSA-JC candidates will <b>NOT</b> be allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools.</em></p>
@@ -48,4 +83,4 @@ variant: markdown
 	
 
 
-</p></ol></div>
+</p></ol></div></div>
