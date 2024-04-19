@@ -9,7 +9,7 @@ variant: markdown
 
 	
 	
-<iframe scrolling="no" height="1200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vS_OtLv3I_S2aX-9BgKHfc8T39eFCKAHbMe-8-can4HHbAGoJIEIAoMxAC9QOJREQ/pub?embedded=true"></iframe>
+<iframe scrolling="no" height="1200px" width="1200px" src="https://docs.google.com/document/d/e/2PACX-1vS_OtLv3I_S2aX-9BgKHfc8T39eFCKAHbMe-8-can4HHbAGoJIEIAoMxAC9QOJREQ/pub?embedded=true"></iframe>
 	
 	
 	
