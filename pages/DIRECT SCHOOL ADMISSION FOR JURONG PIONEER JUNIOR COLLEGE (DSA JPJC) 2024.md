@@ -6,37 +6,10 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>	Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. Successful DSA-JC candidates will gain admission to JPJC in 2025 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results. </p>
-	
-<p>Our college will be offering the following DSA-JC Talent Areas for the potential students:</p>
-1.	Language and Humanities
-•	Chinese Language Elective Programme (CLEP)
-•	Malay Language Elective Programme (MLEP)
-•	Humanities Programme 
-
-2.	Science, Technology, Engineering and Mathematics
-•	Mathematics/Science
-	
-3.	Visual Arts, Design &amp; Media
-•	Art
-•	Film &amp; Photography
-
-4.	Performing Arts
-•	Concert Band
-•	Choir (Girls Only)
-•	Chinese Orchestra
-
-5.	Sports &amp; Games
-•	Basketball 
-•	Floorball
-•	Football (Boys Only)
-•	Volleyball
-
-More details about the application process for DSA-JC 2024 will be published on 6 May 2024 on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria. 
 
 	
 	
-	
+<iframe scrolling="no" height="1000px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vS_OtLv3I_S2aX-9BgKHfc8T39eFCKAHbMe-8-can4HHbAGoJIEIAoMxAC9QOJREQ/pub?embedded=true"></iframe>
 	
 	
 	
