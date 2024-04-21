@@ -5,44 +5,36 @@ description: ""
 variant: markdown
 third_nav_title: Admission Matters
 ---
-<div align="justify">
-
-<iframe scrolling="no" height="1200px" width="750px" src="https://docs.google.com/document/d/e/2PACX-1vS_OtLv3I_S2aX-9BgKHfc8T39eFCKAHbMe-8-can4HHbAGoJIEIAoMxAC9QOJREQ/pub?embedded=true"></iframe>
-	
-
-	
-	
-<div hidden="">	
 <div align="justify">	
 	
 <p>	
 Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. Successful DSA-JC candidates will gain admission to JPJC in 2025 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results. </p>
 
 <p>Our college will be offering the following DSA-JC Talent Areas for the potential students:</p>
-1.	Language and Humanities
-•	Chinese Language Elective Programme (CLEP)
-•	Malay Language Elective Programme (MLEP)
-•	Humanities Programme 
+	<ol><li><b>Language and Humanities</b></li>
+		<ul><li>Chinese Language Elective Programme (CLEP)</li>
+			<li>Malay Language Elective Programme (MLEP)</li>
+<li>Humanities Programme</li> </ul>
 
-2.	Science, Technology, Engineering and Mathematics
-•	Mathematics/Science
+<li><b>Science, Technology, Engineering and Mathematics</b></li>
+<ul><li>Mathematics/Science</li></ul>
 	
-3.	Visual Arts, Design &amp; Media
-•	Art
-•	Film &amp; Photography
+<li><b>Visual Arts, Design &amp; Media</b></li>
+<ul><li>Art</li>
+	<li>Film &amp; Photography</li></ul>
 
-4.	Performing Arts
-•	Concert Band
-•	Choir (Girls Only)
-•	Chinese Orchestra
+<li><b>Performing Arts</b></li>
+<ul><li>Concert Band</li>
+<li>Choir (Girls Only)</li>
+<li>Chinese Orchestra</li></ul>
 
-5.	Sports &amp; Games
-•	Basketball 
-•	Floorball
-•	Football (Boys Only)
-•	Volleyball
+<li><b>Sports &amp; Games</b></li>
+<ul><li>Basketball</li> 
+<li>Floorball</li>
+<li>Football (Boys Only)</li>
+<li>Volleyball</li></ul></ol>
 
-More details about the application process for DSA-JC 2024 will be published on 6 May 2024 on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria. 
+<p>More details about the application process for DSA-JC 2024 will be published on 6 May 2024 on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria. </p>
 	
 	
 	
@@ -72,6 +64,12 @@ More details about the application process for DSA-JC 2024 will be published on 
 	
 	
 	
+	
+<div hidden="">		
+<div align="justify">
+
+<iframe scrolling="no" height="1200px" width="750px" src="https://docs.google.com/document/d/e/2PACX-1vS_OtLv3I_S2aX-9BgKHfc8T39eFCKAHbMe-8-can4HHbAGoJIEIAoMxAC9QOJREQ/pub?embedded=true"></iframe>
+		
 	
 	
 	
