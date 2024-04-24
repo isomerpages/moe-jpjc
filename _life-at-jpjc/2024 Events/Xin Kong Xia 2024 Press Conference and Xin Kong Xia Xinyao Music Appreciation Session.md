@@ -25,11 +25,16 @@ third_nav_title: 2024 Events
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Xinyao/xinyao4.jpg">
-<figcaption>MOS Gan at Press Conference</figcaption></figure>
+<figcaption>MOS Ms Gan Siow Huang giving speech at Press Conference</figcaption></figure>
+
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Xinyao/xinyao3.jpg">
-<figcaption>MOS Gan at Press Conference</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Xinyao/xinyao5.jpg">
+<figcaption>XKX Xinyao Music Appreciation Session</figcaption></figure>	
+	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Xinyao/xinyao1.jpg">
+<figcaption>”Xin Kong Xia 2024 Press Conference Group Photo</figcaption></figure>	
 	
 	
 	
