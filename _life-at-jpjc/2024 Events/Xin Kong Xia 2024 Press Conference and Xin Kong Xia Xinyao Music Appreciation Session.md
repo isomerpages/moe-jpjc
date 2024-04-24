@@ -9,8 +9,9 @@ third_nav_title: 2024 Events
 <div align="justify">
 
 <a href="https://www.zaobao.com.sg/news/singapore/story20240327-3225021">Newspaper Link 1</a>
+
 <br>
-<a href="https://www.zaobao.com.sg/lifestyle/gen/story20240404-3186992?ref=today-news-section-card-10">Newspaper Link 2</a>.	
+<a href="https://www.zaobao.com.sg/lifestyle/gen/story20240404-3186992?ref=today-news-section-card-10">Newspaper Link 2</a>
 	
 	
 <p>The “Xin Kong Xia” (XKX) National Schools Xinyao Festival celebrated its 10th anniversary this year! This annual music extravaganza for students has been jointly organised by our college, in collaboration with the Committee to Promote Chinese Language Learning (CPCLL), TCR Music Station and Lianhe Zaobao since 2015. This year’s festival was hosted at our college premises, marking the commencement of the Xinyao Appreciation Series. The Guest of Honour was Ms. Gan Siow Huang, Minister of State for MOE &amp; MOM, and Chairman of CPCLL.</p>
