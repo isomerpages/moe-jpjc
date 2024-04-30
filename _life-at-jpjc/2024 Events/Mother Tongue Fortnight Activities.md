@@ -18,8 +18,21 @@ third_nav_title: 2024 Events
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/MT%20fortnight%20activities/mtl2.jpg">
 <figcaption>STEAM interest group (Microbit workshop)</figcaption></figure>	
-<h5><b>Cultural aspect of MTF</b></h5>
 
+	
+<table>
+        <tbody><tr>
+            <td><img src="/images/2024%20Life%20@%20JPJC/MT%20fortnight%20activities/mtl2.jpg"></td>
+            <td><img src="/images/2024%20Life%20@%20JPJC/MT%20fortnight%20activities/mtl1.jpg"></td>
+            <td><img src="/images/2024%20Life%20@%20JPJC/MT%20fortnight%20activities/mtl7.jpg"></td>
+</tr>
+</tbody></table>	
+	
+	  Michael Jordan
+          
+
+
+<h5><b>Cultural aspect of MTF</b></h5>	
 <p>During the first week of MTF, the inaugural music sharing event, Xin Kong Xia (新空下), took place at the Jurong Pioneer Junior College auditorium, captivating approximately 450 Chinese students with the allure of Xinyao songs. Meanwhile, our Malay students delved into the art of Batik printing, immersing themselves in a hands-on cultural experience to deepen their understanding of Malay heritage. Likewise, our Tamil students participated in a Poetry and Fables appreciation workshop, integrating drama skills and game strategies to make language learning an enjoyable and engaging experience.</p>
 
 <h5><b>Language aspect of MTF</b></h5>
