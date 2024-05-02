@@ -1,6 +1,6 @@
 ---
 title: For Parent
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---

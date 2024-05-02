@@ -7,8 +7,11 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+18 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
 16 April 2024|[New Taipei Municipal An Kang High School Visit ](/new-taipei/)
+3 April 2024|[Service Learning & Careers Festival](/service-learning-careers-festival/)
 27 March 2024|[”Xin Kong Xia" 2024 Press Conference and "Xin Kong Xia" Xinyao Music Appreciation Session](/xkx/)
+25 March 2024|[Mother Tongue Fortnight Activities](/mother-tongue-fortnight-activities/)
 6 March 2024|[Spotlight 2024](/spotlight-2024/)
 1 March 2024|[Commemoration of Total Defence Day – TD40](/life-at-jpjc/2024-events/td40/)
 1 March 2024|[J1 Parent Engagement Session](/life-at-jpjc/2024-events/j1pes/)
