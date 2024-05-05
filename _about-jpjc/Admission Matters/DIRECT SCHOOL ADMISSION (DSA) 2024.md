@@ -45,9 +45,10 @@ third_nav_title: Admission Matters
 <h5><b><u>	DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2024 </u></b></h5>
 <p>JPJC will consider direct admission for the following programmes and CCAs:</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTdBySBcnoQdcJUVrntw_p4Ssbsp5e844V3S3TdKbIxq4km6mc0mWc19JKgoukSuQ/pub?embedded=true"></iframe>
+<figure><center>	
+<iframe scrolling="no" height="10000px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vTdBySBcnoQdcJUVrntw_p4Ssbsp5e844V3S3TdKbIxq4km6mc0mWc19JKgoukSuQ/pub?embedded=true"></iframe></center></figure>
 	
-	
+</div>	
 	
 	
 	
@@ -178,4 +179,4 @@ Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/s
 	
 
 
-</p></ol></div></div></div></div></div>
+</p></ol></div></div></div></div>
