@@ -15,7 +15,9 @@ third_nav_title: Admission Matters
 
 <p><i>Successful DSA-JC candidates are <b>NOT</b> be allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.</i>
 	
-</p><h5><b>Application Procedures</b></h5> 
+</p>
+	
+<p></p><h5><b>Application Procedures</b></h5> 
 <ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from 7 May 2024, Tuesday, onward.  All applications must be submitted by:<br>
 •	5 Jul 2024, Friday, 2359hrs for Phase 1 Application<br>
 •	9 Aug 2024, Friday, 2359hrs for Phase 2 Application
@@ -32,12 +34,12 @@ third_nav_title: Admission Matters
 •	Art Portfolio (if applicable)<br> 
 •	Relevant certifications and records of achievement in national competitions related to the area of talent.<br>
 •	Any other supporting documents (if applicable)
-</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol>
+</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol><p></p>
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
 <p>If you have any enquiries, please contact the following teachers:<br>
 •	Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a><br>
-•	Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg"> yeo_chengfeng@schools.gov.sg</a></p>
+•	Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg"> yeo_chengfeng@schools.gov.sg</a></p><p></p></div>
 
 	
 	
@@ -165,4 +167,4 @@ Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/s
 	
 
 
-</p></ol></div></div></div></div></div>
+</p></ol></div></div></div></div>
