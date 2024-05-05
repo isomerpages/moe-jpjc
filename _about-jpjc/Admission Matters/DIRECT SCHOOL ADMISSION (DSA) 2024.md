@@ -33,7 +33,11 @@ third_nav_title: Admission Matters
 •	Any other supporting documents (if applicable)
 </li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol>
 	
-	
+<h5><b><u>ENQUIRIES</u></b></h5>	
+<p>If you have any enquiries, please contact the following teachers:<br>
+•	Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:">leo_ying_ching@schools.gov.sg</a><br>
+•	Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg"> yeo_chengfeng@schools.gov.sg</a></p>
+
 	
 	
 	
