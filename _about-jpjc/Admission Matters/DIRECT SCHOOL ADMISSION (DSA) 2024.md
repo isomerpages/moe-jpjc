@@ -42,7 +42,9 @@ third_nav_title: Admission Matters
 •	Mr Yeo Chengfeng, AG Subject Head (Physical Education &amp; Co-Curricular Activities) at tel no. 6564 6878 or email <a href="mailto:yeo_chengfeng@schools.gov.sg"> yeo_chengfeng@schools.gov.sg</a></p><p></p></div>
 
 	
-	
+<h5><b><u>	DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2024 </u></b></h5>
+<p>JPJC will consider direct admission for the following programmes and CCAs:</p>
+
 	
 
 
