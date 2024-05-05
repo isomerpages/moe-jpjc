@@ -16,7 +16,7 @@ third_nav_title: Admission Matters
 <p><i>Successful DSA-JC candidates are <b>NOT</b> be allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.</i>
 	
 </p><h5><b>Application Procedures</b></h5> 
-<ol><li>All applicants are to submit their application form through the website using the link: https://dsa.jpjc.edu.sg from 7 May 2024, Tuesday, onward.  All applications must be submitted by:<br>
+<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from 7 May 2024, Tuesday, onward.  All applications must be submitted by:<br>
 •	5 Jul 2024, Friday, 2359hrs for Phase 1 Application<br>
 •	9 Aug 2024, Friday, 2359hrs for Phase 2 Application
 
@@ -26,7 +26,7 @@ third_nav_title: Admission Matters
 </li><li>Applicants who are not offered a place in Phase 1 need not re-submit an application for Phase 2 as the first application will be considered for both phases. 
 
 </li><li>It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately. <br>
-</li><li>All applicants will have to submit the following documents online: 
+</li><li>All applicants will have to submit the following documents online: <br>
 •	Secondary 3 End-of-Year and/or Secondary 4 Mid-Year results (if Mid-Year examination was conducted) <br>
 •	Latest CCA Records <br>
 •	Art Portfolio (if applicable)<br> 
