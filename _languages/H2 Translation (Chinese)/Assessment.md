@@ -24,7 +24,7 @@ One question on error analysis and critique (15 marks)<br>
 <strong>Section C:</strong> One question on error analysis and critique (15 marks)<br>
 	<strong>Section D:</strong> One question on comparative criticism (35 marks)</p>
 
-<p>You may refer to MOE Website (MOE:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a>) for H2 Translation syllabus in detail. For information on examinations, please refer to this link. (SEAB:&nbsp;<a href="https://www.seab.gov.sg/home/examinations/gce-a-level"> https://www.seab.gov.sg/home/examinations/gce-a-level</a>)</p>
+<p>You may refer to <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for H2 Translation syllabus in detail. For information on examinations, please refer to this <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">link</a>.</p>
 	
 	
 	
