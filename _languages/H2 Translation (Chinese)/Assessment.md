@@ -24,9 +24,14 @@ One question on error analysis and critique (15 marks)<br>
 <strong>Section C:</strong> One question on error analysis and critique (15 marks)<br>
 	<strong>Section D:</strong> One question on comparative criticism (35 marks)</p>
 
-<p>
-You may refer to&nbsp;<a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for the syllabus in detail. For information on examinations, please click <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9571_y23_sy.pdf">here</a>.</p>
-
+<p>You may refer to <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">MOE Website</a> for H2 Translation syllabus in detail. For information on examinations, please refer to this <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">link</a>.</p>
+	
+	
+	
+	
+	
+	
+	
 <figure>
-<img src="/images/Curriculum/CLEP/clep17.jpg">
-<figcaption>Our first batch of H2 Translation (Chinese) students in the <a href="https://www.asiaone.com/tough-job-translate-expert?page=0"> Straits Times in 2015.</a></figcaption></figure></div>
+<img src="/images/Curriculum/CLEP/Translation_article_2015.png">
+<figcaption>Our first batch of H2 Translation (Chinese) students in the Straits Times in 2015.</figcaption></figure></div>
