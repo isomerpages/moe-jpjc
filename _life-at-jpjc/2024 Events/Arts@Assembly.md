@@ -34,15 +34,13 @@ third_nav_title: 2024 Events
 <figcaption>Singing together in perfect harmony</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa5.jpg">
-<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+<figcaption>Groove to the beats of _Sayunk I Love You_!</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa6.jpg">
-<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+<figcaption>Speaking to the heart through dance</figcaption></figure>	
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa17.jpg">
-<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
-	
-	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa7.jpg">
+<figcaption>Stepping into the Wonderful World of Dissocia</figcaption></figure>	
 	
 	
 	
