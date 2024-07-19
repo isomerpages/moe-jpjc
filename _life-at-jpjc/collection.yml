@@ -2,10 +2,10 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2024 Events/Arts@Assembly.md
-      - 2024 Events/JPJC Cyberwellness Week.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
+      - 2024 Events/Arts@Assembly.md
+      - 2024 Events/JPJC Cyberwellness Week.md
       - 2024 Events/Staff Wellness Activity 3.md
       - 2024 Events/Service Learning & Careers Festival.md
       - 2024 Events/Mother Tongue Fortnight Activities.md
