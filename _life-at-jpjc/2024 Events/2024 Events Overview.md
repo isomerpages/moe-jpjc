@@ -7,8 +7,8 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
-14 May 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
-22 to 26 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
+14 May 2024|[Arts@Assembly](/arts-assembly/)
+22 to 26 April 2024|
 18 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
 16 April 2024|[New Taipei Municipal An Kang High School Visit ](/new-taipei/)
 3 April 2024|[Service Learning & Careers Festival](/service-learning-careers-festival/)
