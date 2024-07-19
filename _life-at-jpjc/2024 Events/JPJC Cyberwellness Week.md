@@ -7,15 +7,14 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>We extend our sincerest gratitude to all who graced us with their presence at Arts@Assembly! It was an unforgettable showcase of talent, passion, and camaraderie that truly brought our college together in celebration of the arts.</p>
+<p>During Term 2 Week 6, Jurong Pioneer Junior College (JPJC) organised our Cyber-wellness Week.</p>
+<p>We were grateful to have the opportunity to host this and get support from Cyber Security Agency Singapore (CSA), who shared the Mobile Booth Display at our concourse and the JC1 Cyber-Wellness Engagement through an Interactive drama by PlayInc where the students were able to explore key cyber-wellness habits for a safe online use.</p>
 
-<p>From the enchanting melodies of the Chinese Orchestra (which features a rap segment!!) to the harmonious tunes of the Concert Band, the soul-stirring performances by the Choir, the rhythmic melodies of the Guitar Ensemble, and the playful dance displays by the Malay Cultural Society, each act illuminated the stage with its unique charm and artistry.</p>
+<p>Beyond the Cyber-wellness CCE lessons, CCE Representatives and students from 24S04, 24S14, and 24S16 collaborated to organise the second edition Cyber-Wellness Carnival for the JPFAM on 24 April (Wednesday). Our Peer Supporters and ICT Representatives also took the opportunity to share about elements of online wellness and digital literacy through this platform. This was an initiative for students, by students, and aimed to raise awareness about cyber-wellness and things to note for a more cyber-secure environment. Driven by the shared objective of promoting cyber-wellness awareness, our student facilitators demonstrated resilience, tenacity, and grit in planning and executing the event, ensuring a seamless experience for all participants.</p> 
+	
+<p>Attendees were treated to a variety of games and quizzes, designed to ignite curiosity, and encourage critical thinking about online safety and cyber-wellness. From identifying different types of scams to problem-solving scenarios, students were empowered with knowledge and equipped with proactive strategies to navigate the digital landscape. Complementing the interactive activities were thoughtfully crafted infographics, showcasing the adaptability and creativity of our student facilitators.</p>
 
-<p>Not forgetting the mesmerising performance by the JP Dance crew, whose powerful yet serene energy guided us through a captivating journey of movement and expression. And equally noteworthy was the gripping performance by the English Drama Society, which transported us through a story of laughter, tears, and everything in between.</p>
-
-<p>Arts@Assembly was a testament to the rich tapestry of talents present within our community, showcasing a diverse range of genres and styles that truly spoke to the vibrancy of our arts scene. This event not only celebrated creativity but also fostered a sense of unity and connection among attendees, highlighting the unique and inclusive spirit of our college. The passion and dedication of our talented performers, along with the wonderful support from the audience, made for a fantastic afternoon together.
-
-</p>
+<p>Many of the students who attended the Cyber-wellness Carnival expressed appreciation for the engaging and informative activities. Armed with a heightened awareness and imbued with the values of moral awareness, integrity, and accountability, attendees left equipped with essential skills to safeguard themselves and their loved ones against online threats.</p>
 
 <div class="isomer-image-wrapper">
 <figure>	
