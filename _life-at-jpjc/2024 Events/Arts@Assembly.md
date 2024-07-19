@@ -20,7 +20,36 @@ third_nav_title: 2024 Events
 <div class="isomer-image-wrapper">
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Staff%20wellness%20activities%203/swa1.jpg">
-<figcaption>STEAM interest group (Microbit workshop)</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa1.jpg">
+<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa2.jpg">
+<figcaption>Confidently leading the orchestra</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa3.jpg">
+<figcaption>Cool vibes with Mojito!</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa4.jpg">
+<figcaption>Singing together in perfect harmony</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa5.jpg">
+<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa6.jpg">
+<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Arts%20assembly/aa17.jpg">
+<figcaption>Arts@Assembly begins with our friendly emcees</figcaption></figure>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 </div></div>
