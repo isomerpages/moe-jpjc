@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
-3 April and 8 May 2024|[Arts@Assembly](/arts-assembly/)
+3 April & 8 May 2024|[Education and Career Guidance Talks (Sem 1)](/education-and-career-guidance-talks-sem-1/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
