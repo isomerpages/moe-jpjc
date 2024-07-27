@@ -7,6 +7,10 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+3 April and 8 May 2024|[Arts@Assembly](/arts-assembly/)
+14 May 2024|[Arts@Assembly](/arts-assembly/)
+14 May 2024|[Arts@Assembly](/arts-assembly/)
+14 May 2024|[Arts@Assembly](/arts-assembly/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
 22 to 26 April 2024|[JPJC Cyber-wellness Week](/jpjc-cyberwellness-week/)
 18 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
