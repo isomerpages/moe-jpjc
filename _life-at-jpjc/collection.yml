@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2024 Events/JPJC Annual Road Run.md
       - 2024 Events/Green Bazaar.md
       - 2024 Events/Education and Career Guidance Talks (Sem 1).md
       - 2024 Events/.keep
