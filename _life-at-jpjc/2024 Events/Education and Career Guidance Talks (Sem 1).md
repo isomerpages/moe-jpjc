@@ -26,12 +26,22 @@ third_nav_title: 2024 Events
 
 <p>With the valuable insights gained from various career talks in Semester 1 by our wonderful partners, especially our alumni and parents, our students had incredible opportunities to discover their areas of interest. 
 </p>
-
 <div class="isomer-image-wrapper">
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Green%20bazaar/gb1.jpg">
-<figcaption>Students designed a game booth based on educational panels loaned from NParks</figcaption></figure>	
-
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg1.jpg">
+<figcaption>Token of Appreciation_Sundowner</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg2.jpg">
+<figcaption>Token of Appreciation_AH MSW</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg3.jpg">
+<figcaption>Career Talks Touch Young Arrows</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg4.jpg">
+<figcaption>Career Talk_MSF SSO</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg5.jpg">
+<figcaption>Career Talk AH Nursing</figcaption></figure>	
 
 	
 </div></div>
