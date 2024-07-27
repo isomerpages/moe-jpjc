@@ -8,9 +8,9 @@ third_nav_title: 2024 Events
 | Date | Events | 
 | -------- | -------- |
 3 April & 8 May 2024|[Education and Career Guidance Talks (Sem 1)](/education-and-career-guidance-talks-sem-1/)
-14 May 2024|[Arts@Assembly](/arts-assembly/)
-14 May 2024|[Arts@Assembly](/arts-assembly/)
-14 May 2024|[Arts@Assembly](/arts-assembly/)
+14 May 2024|
+14 May 2024|
+14 May 2024|
 14 May 2024|[Arts@Assembly](/arts-assembly/)
 22 to 26 April 2024|[JPJC Cyber-wellness Week](/jpjc-cyberwellness-week/)
 18 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
