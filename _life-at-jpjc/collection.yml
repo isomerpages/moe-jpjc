@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2024 Events/Education and Career Guidance Talks (Sem 1).md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
       - 2024 Events/Arts@Assembly.md
