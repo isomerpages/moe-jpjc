@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/test.gif
+      background: /images/2024/Banner.png
       key_highlights:
         - title: "@jpjc.official"
           description: Follow us on Instagram!
