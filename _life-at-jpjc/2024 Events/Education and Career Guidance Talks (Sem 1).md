@@ -35,13 +35,13 @@ third_nav_title: 2024 Events
 <figcaption>Token of Appreciation AH MSW</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg3.jpg">
-<figcaption>Career Talks Touch Young Arrows</figcaption></figure>	
+<figcaption>Career Talks_Touch Young Arrows</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg4.jpg">
-<figcaption>Career Talk MSF SSO</figcaption></figure>	
+<figcaption>Career Talk_ Ministry of Social &amp; Family Development</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg5.jpg">
-<figcaption>Career Talk AH Nursing</figcaption></figure>	
+<figcaption>Career Talk_Alexandra Hospital Nursing</figcaption></figure>	
 
 	
 </div></div>
