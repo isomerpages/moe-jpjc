@@ -29,10 +29,10 @@ third_nav_title: 2024 Events
 <div class="isomer-image-wrapper">
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg1.jpg">
-<figcaption>Token of Appreciation Sundowner</figcaption></figure>	
+<figcaption>Token of Appreciation_Sundowner</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg2.jpg">
-<figcaption>Token of Appreciation AH MSW</figcaption></figure>	
+<figcaption>Token of Appreciation_ Alexandra Hospital</figcaption></figure>	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg3.jpg">
 <figcaption>Career Talks_Touch Young Arrows</figcaption></figure>	
@@ -42,6 +42,9 @@ third_nav_title: 2024 Events
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg5.jpg">
 <figcaption>Career Talk_Alexandra Hospital Nursing</figcaption></figure>	
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/ECG/ecg6.jpg">
+<figcaption>Career Talk_NParks</figcaption></figure>	
 
 	
 </div></div>
