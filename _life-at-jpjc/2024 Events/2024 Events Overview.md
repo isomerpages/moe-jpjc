@@ -7,10 +7,14 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+27 to 31 May 2024|[Work Shadowing Programme](/work-shadowing-programme/)
+24 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
+8 May 2024|[Green Bazaar](/green-bazaar/)
 22 to 26 April 2024|[JPJC Cyber-wellness Week](/jpjc-cyberwellness-week/)
 18 April 2024|[Staff Wellness Activity 3](/staff-wellness-activity-3/)
 16 April 2024|[New Taipei Municipal An Kang High School Visit ](/new-taipei/)
+3 April & 8 May 2024|[Education and Career Guidance Talks (Sem 1)](/education-and-career-guidance-talks-sem-1/)
 3 April 2024|[Service Learning & Careers Festival](/service-learning-careers-festival/)
 27 March 2024|[”Xin Kong Xia" 2024 Press Conference and "Xin Kong Xia" Xinyao Music Appreciation Session](/xkx/)
 25 March 2024|[Mother Tongue Fortnight Activities](/mother-tongue-fortnight-activities/)
