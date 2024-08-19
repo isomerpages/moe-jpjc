@@ -132,7 +132,6 @@ Sincere and always true
 <img src="/images/gallery%206.jpg">
 <img src="/images/gallery%207.jpg"></figure>
 
-Click&nbsp;<a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&amp;album_id=1004999109613821">here</a> for more photos.
 
 Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&amp;type=3">here</a> for more photos.		
 		
@@ -145,11 +144,11 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 
 <figure>
 <img src="/images/anniversary%201.jpg">	
-<figcaption>Click&nbsp;<a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&amp;album_id=1360022297444832">here</a>&nbsp;for more photos. </figcaption></figure>
+<figcaption>Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1360022297444832&amp;type=3">here</a>&nbsp;for more photos. </figcaption></figure>
 	
 <figure>
 <img src="/images/anniversary%202.jpg">	
-<figcaption>Click&nbsp;<a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&amp;album_id=1889124674534589">here</a>&nbsp;for more photos.</figcaption></figure>
+<figcaption>Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1889124674534589&amp;type=3">here</a>&nbsp;for more photos.</figcaption></figure>
 	
 <figure>
 <img src="/images/anniversary%203.jpg">	
