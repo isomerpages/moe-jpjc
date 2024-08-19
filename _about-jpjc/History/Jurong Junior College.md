@@ -3,11 +3,12 @@ title: Jurong Junior College
 permalink: /about/history/
 description: ""
 third_nav_title: History
+variant: markdown
 ---
 <h3><strong>History</strong></h3>
-<div align=justify>
+<div align="justify">
 <p>
-Founded in April 1981, JJ was the 9th junior college in Singapore. In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
+Founded in April 1981, JJ was the 9th&nbsp;junior college in Singapore.&nbsp;In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
 </p>
 <p>
 Before even finding a new home, JJ began carving a place for itself, taking part in and winning various competitions. More significantly, our pioneering students laid the foundations of the Xinyao movement when they held a concert featuring original songs they composed. In the midst of the college’s teething problems, these achievements were heartening and inspiring, planting the roots for future achievements.
@@ -49,23 +50,21 @@ Principals:</p>
 
 <figure>
 <h4><strong>JJ Heritage Video</strong></h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></figure>
 
 <h4><strong>Motto</strong></h4>
 Plus Ultra
 
 <h4><strong>Crest</strong></h4>
 
-<img src="/images/original%20crest.jpg" 
-     style="width:25%">
+<img src="/images/original%20crest.jpg" style="width:25%">
 
-<img src="/images/revised%20crest.jpg" 
-     style="width:25%">
+<img src="/images/revised%20crest.jpg" style="width:25%">
 <p>
 Much thought went into designing the college crest. The result was a unique silver ‘tear drop’ on green background. The crest was unique and differed significantly from the typical school crests of that era.
 </p>
 <p>
-During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘<i>Plus Ultra</i>’ was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
+During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘<i>Plus Ultra</i>’&nbsp;was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
 </p>
 
 
@@ -121,7 +120,7 @@ Sincere and always true
 
 <h4><strong>Milestones</strong></h4>
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width=800px height=630px scrolling="no"></iframe></figure>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe></figure>
 	
 <h4><strong>Photo Gallery</strong></h4>
 <figure>
@@ -133,20 +132,23 @@ Sincere and always true
 <img src="/images/gallery%206.jpg">
 <img src="/images/gallery%207.jpg"></figure>
 
-Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1004999109613821">here</a> for more photos.
 
+Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&amp;type=3">here</a> for more photos.		
+		
+
+		
 <h4><strong>35th Anniversary lunch</strong></h4>
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pd9nWmr4CII" title="JJC Homecoming  video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></figure>
 
 <figure>
 <img src="/images/anniversary%201.jpg">	
-<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1360022297444832">here</a> for more photos. </figcaption></figure>
+<figcaption>Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1360022297444832&amp;type=3">here</a>&nbsp;for more photos. </figcaption></figure>
 	
 <figure>
 <img src="/images/anniversary%202.jpg">	
-<figcaption>Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=1889124674534589">here</a> for more photos.</figcaption></figure>
+<figcaption>Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1889124674534589&amp;type=3">here</a>&nbsp;for more photos.</figcaption></figure>
 	
 <figure>
 <img src="/images/anniversary%203.jpg">	
@@ -162,4 +164,4 @@ Click <a href="https://www.facebook.com/pg/JJAlumni/photos/?tab=album&album_id=
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure>
+<img src="/images/memory%204.jpg"></figure></ul></ul></div>
