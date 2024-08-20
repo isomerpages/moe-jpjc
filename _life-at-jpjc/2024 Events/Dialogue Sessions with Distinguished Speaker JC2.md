@@ -23,20 +23,24 @@ third_nav_title: 2024 Events
 </p>
 
 <div class="isomer-image-wrapper">
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Dialogue%20Sessions%20JC2%20150524/dia1.jpg">
+<figcaption>J2 Dialogue session with the Mr Masagos</figcaption></figure>	
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/House%20bonding%20day2%20170724/hbd1.jpg">
-<figcaption>Nerf Gun Tagging - Taurus vs Aries</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Dialogue%20Sessions%20JC2%20150524/dia2.png">
+<figcaption>Mr Masagos interacting with Principal Mr Ang</figcaption></figure>	
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/House%20bonding%20day2%20170724/hbd2.jpg">
-<figcaption>Dodgeball - Ursa vs Volans</figcaption></figure>	
-<figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/House%20bonding%20day2%20170724/hbd3.jpg">
-<figcaption>Kinball - Aquila</figcaption></figure>	
-<figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/House%20bonding%20day2%20170724/hbd4.jpg">
-<figcaption>Tchoukball - Ursa vs Volans</figcaption></figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Dialogue%20Sessions%20JC2%20150524/dia3.jpg">
+<figcaption>The Minister having a dialogue with students</figcaption></figure>	
 
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Dialogue%20Sessions%20JC2%20150524/dia4.png">
+<figcaption>Mr Masagos interacting with students</figcaption></figure>	
+
+<figure>	
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Dialogue%20Sessions%20JC2%20150524/dia5.jpg">
+<figcaption>Sharing among the students</figcaption></figure>	
 	
 </div></div>
