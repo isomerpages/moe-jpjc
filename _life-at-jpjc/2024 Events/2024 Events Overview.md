@@ -7,6 +7,9 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+17 July 2024|
+15 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
+15 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
 27 to 31 May 2024|[Work Shadowing Programme](/work-shadowing-programme/)
 24 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
