@@ -2,13 +2,13 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - 2024 Events/Dialogue Sessions with Distinguished Speaker JC1.md
-      - 2024 Events/House Bonding Day 2.md
-      - 2024 Events/Dialogue Sessions with Distinguished Speaker JC2.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
+      - 2024 Events/House Bonding Day 2.md
       - 2024 Events/Work Shadowing Programme.md
       - 2024 Events/JPJC Annual Road Run.md
+      - 2024 Events/Dialogue Sessions with Distinguished Speaker JC2.md
+      - 2024 Events/Dialogue Sessions with Distinguished Speaker JC1.md
       - 2024 Events/Arts@Assembly.md
       - 2024 Events/Green Bazaar.md
       - 2024 Events/JPJC Cyberwellness Week.md
