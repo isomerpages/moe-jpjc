@@ -11,11 +11,11 @@ third_nav_title: 2024 Events
 
 <p>During his visit, Mr. Masagos addressed several important issues:</p>
 
-<p></p><ol><li>Leadership and Governance: He shared valuable lessons on integrity, responsibility, and visionary thinking, inspiring our future leaders.</li><p></p>
+<p></p><ol><li>Leadership and Governance: He shared valuable lessons on integrity, responsibility, and visionary thinking, inspiring our future leaders.</li>
 
-<p></p><li>Uplifting Those in Need: Mr Masagos emphasized the importance of empathy, community support, and social responsibility.</li><p></p>
+<li>Uplifting Those in Need: Mr Masagos emphasized the importance of empathy, community support, and social responsibility.</li>
 
-<p></p><li>Lifelong Learning: He encouraged everyone to adopt a mindset of continuous growth, curiosity, and adaptability in an ever-changing world.</li></ol><p></p>
+<li>Lifelong Learning: He encouraged everyone to adopt a mindset of continuous growth, curiosity, and adaptability in an ever-changing world.</li></ol><p></p>
 
 <p>This event provided a unique opportunity for our school community to engage with and learn from one of our nation’s esteemed leaders. The insights and experiences shared by Mr Masagos were enlightening and motivating, leaving a lasting impact on all attendees. </p>
 
