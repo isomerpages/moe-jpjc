@@ -7,8 +7,11 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+17 July 2024|[House Bonding Day 2](/house-bonding-day-2/)
 27 to 31 May 2024|[Work Shadowing Programme](/work-shadowing-programme/)
 24 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
+15 May 2024|[Dialogue Sessions with Distinguished Speaker JC1](/dialogue-sessions-with-distinguished-speaker-jc1/)
+15 May 2024|[Dialogue Sessions with Distinguished Speaker JC2](/dialogue-sessions-with-distinguished-speaker-jc2/)
 14 May 2024|[Arts@Assembly](/arts-assembly/)
 8 May 2024|[Green Bazaar](/green-bazaar/)
 22 to 26 April 2024|[JPJC Cyber-wellness Week](/jpjc-cyberwellness-week/)
