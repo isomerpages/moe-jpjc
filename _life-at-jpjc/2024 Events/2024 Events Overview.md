@@ -25,6 +25,7 @@ third_nav_title: 2024 Events
 1 March 2024|[Commemoration of Total Defence Day – TD40](/life-at-jpjc/2024-events/td40/)
 1 March 2024|[J1 Parent Engagement Session](/life-at-jpjc/2024-events/j1pes/)
 23 February 2024|[GCE A Level Results Release Day](/gce-a-level-results-release-day/)
+21 February & 17 May 2024|[Partnership & Outreach Activities (Sem 1)](/life-at-jpjc/2024-events/cny/)
 9 February 2024|[CNY Celebrations](/life-at-jpjc/2024-events/cny/)
 7 February 2024|[GP Seminar with He Ruiming, Co-founder of The Woke Salaryman](/life-at-jpjc/2024-events/gp-seminar/)
 7 February 2024|[Alumni Speaker Series](/life-at-jpjc/2024-events/alumnispeakerseries/)
