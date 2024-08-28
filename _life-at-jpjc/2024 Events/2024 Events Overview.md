@@ -7,6 +7,7 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+2 August 2024|[7th CCA Leaders Installation](/7th-cca-leaders-installation/)
 17 July 2024|[House Bonding Day 2](/house-bonding-day-2/)
 17 July 2024|[Racial Harmony Day Carnival](/racial-harmony-day/)
 27 to 31 May 2024|[Work Shadowing Programme](/work-shadowing-programme/)
