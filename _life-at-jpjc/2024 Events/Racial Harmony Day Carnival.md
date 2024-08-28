@@ -19,25 +19,25 @@ The celebration was a testament to our shared commitment to fostering an inclusi
 <div class="isomer-image-wrapper">
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/Students_at_the_Chinese_Cultural_Society_booth.jpg">
 <figcaption>Students at the Chinese Cultural Society booth</figcaption></figure>	
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/Students_from_Malay_Cultural_Society.jpg">
 <figcaption>Students from Malay Cultural Society</figcaption></figure>	
 
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/Handson_activity_at_the_Indian_Culture_Booth.jpg">
 <figcaption>Handson activity at the Indian Culture Booth</figcaption></figure>
 	
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/Daring_henna_for_participants.jpg">
 <figcaption>Daring henna for participants</figcaption></figure>	
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/Students_playing_pick_up_sticks.jpg">
 <figcaption>Students playing pick up sticks</figcaption></figure>	
 <figure>	
-<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Outreach%20in%20Semester%20One/dsa_alumna_sharing_her_humanities_experiences.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Racial%20Harmony%20Day/staff_students_at_rhd.jpg">
 <figcaption>Staff &amp; Students at RHD</figcaption></figure>	
 
 	
