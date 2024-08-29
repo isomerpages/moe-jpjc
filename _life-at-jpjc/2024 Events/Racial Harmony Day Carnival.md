@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>On 17 July, our college proudly hosted a vibrant Racial Harmony Day Carnival, embodying our commitment to unity in diversity under the theme "Our Multicultural Mosaic". The event, organized in collaboration with OnePeople.sg, was a resounding success, bringing together students, staff, and guests from Choa Chu Kang Secondary School and Teck Whye Primary School in a celebration of our rich cultural tapestry.</p>
+<p>On 17 July, our college proudly hosted a vibrant Racial Harmony Day Carnival, embodying our commitment to unity in diversity under the theme "Our Multicultural Mosaic". The event, organised in collaboration with OnePeople.sg, was a resounding success, bringing together students, staff, and guests from Choa Chu Kang Secondary School and Teck Whye Primary School in a celebration of our rich cultural tapestry.</p>
 
 <p>During the carnival, our campus buzzed with excitement as attendees explored 12 engaging booths. These booths, meticulously prepared by our CCA groups and students from CEC, showcased traditions from various ethnicities, offering interactive experiences that fostered learning and appreciation.</p>
 
