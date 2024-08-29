@@ -7,7 +7,11 @@ third_nav_title: 2024 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+8 August 2024|[National Day Celebrations](/national-day/)
+7 August 2024|[STEAM Day](/steam-day/)
+2 August 2024|[7th CCA Leaders Installation](/7th-cca-leaders-installation/)
 17 July 2024|[House Bonding Day 2](/house-bonding-day-2/)
+17 July 2024|[Racial Harmony Day Carnival](/racial-harmony-day/)
 27 to 31 May 2024|[Work Shadowing Programme](/work-shadowing-programme/)
 24 May 2024|[JPJC Annual Road Run](/jpjc-annual-road-run/)
 15 May 2024|[Dialogue Sessions with Distinguished Speaker JC1](/dialogue-sessions-with-distinguished-speaker-jc1/)
@@ -25,6 +29,7 @@ third_nav_title: 2024 Events
 1 March 2024|[Commemoration of Total Defence Day – TD40](/life-at-jpjc/2024-events/td40/)
 1 March 2024|[J1 Parent Engagement Session](/life-at-jpjc/2024-events/j1pes/)
 23 February 2024|[GCE A Level Results Release Day](/gce-a-level-results-release-day/)
+21 February & 17 May 2024|[Partnership & Outreach Activities (Sem 1)](/partnership-outreach-activities-sem-1/)
 9 February 2024|[CNY Celebrations](/life-at-jpjc/2024-events/cny/)
 7 February 2024|[GP Seminar with He Ruiming, Co-founder of The Woke Salaryman](/life-at-jpjc/2024-events/gp-seminar/)
 7 February 2024|[Alumni Speaker Series](/life-at-jpjc/2024-events/alumnispeakerseries/)
