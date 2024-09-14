@@ -29,11 +29,13 @@ variant: markdown
 	
 <h4>Develop</h4>
 
-<p>Competitions such as SUTD Electric Vehicle Design Challenge and Singapore Amazing Flying Machine Competition allow students to deepen and apply STEAM and problem-solving skills to authentic contexts.</p>
+<p>Competitions such as Horizons Hydrogen Grand Prix and Singapore Amazing Flying Machine Competition allow students to deepen and apply STEAM and problem-solving skills to authentic contexts.</p>
 	
 <h4>Excel</h4>
 	
 <p>
 Students are also able to further their interests in STEAM by embarking on research or initiating investigative projects mentored by our teachers and researchers from tertiary institutions. There are also many opportunities for such projects to be presented in prestigious national and international platforms such as the Singapore Science and Engineering Fair and the International Humanities Symposium.</p>
+	
+<p> Find out more about our STEAM Programme in our <a href="https://sites.google.com/moe.edu.sg/jpjcsteam/home">microsite</a>.
 
-</div>
+</p></div>
