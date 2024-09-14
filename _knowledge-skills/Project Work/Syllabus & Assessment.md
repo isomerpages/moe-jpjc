@@ -9,5 +9,5 @@ variant: markdown
 <figure>
 <img src="/images/Curriculum/PW/PW_assessment.jpg">
 </figure>
-<p>Please refer to <a>SEAB website</a> for more information.</p>
+<p>Please refer to <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/2025-project-work-(8882)-examination-syllabus.pdf">SEAB website</a> for more information.</p>
 </div>
