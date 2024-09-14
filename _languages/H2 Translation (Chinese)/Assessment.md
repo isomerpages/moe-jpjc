@@ -32,6 +32,4 @@ One question on error analysis and critique (15 marks)<br>
 	
 	
 	
-<figure>
-<img src="/images/Curriculum/CLEP/Translation_article_2015.png">
-<figcaption>Our first batch of H2 Translation (Chinese) students in the Straits Times in 2015.</figcaption></figure></div>
+</div>
