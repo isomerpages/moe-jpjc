@@ -6,9 +6,7 @@ third_nav_title: Computing
 variant: markdown
 ---
 <div align="justify">
-<figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Computing/SMU2023.jpg">
-<figcaption>Computing@SMU&nbsp;Award 2023</figcaption></figure>
+
 
 <h3><strong>Introduction</strong></h3>
 
