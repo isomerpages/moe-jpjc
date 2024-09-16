@@ -23,7 +23,7 @@ third_nav_title: Open House 2024
 <div class="column">
 		<a href="https://www.instagram.com/jpjcdebate/"><img alt="Debate Society" src="/images/Open%20house%202024/CCA/Debate.png"></a>
 		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Open%20house%202024/CCA/Eco_Club.png"></a>
-		<a href="https://www.instagram.com/infocommclubjp/"><img alt="Infocomm Club" src="/images/Open%20house%202024/CCA/Infocomm_Club.png"></a></div>
+		<a href="https://www.instagram.com/infocommclubjp/"><img alt="Infocomm Club" src="/images/Open%20house%202024/CCA/InfoComm_Club.png"></a></div>
 
 	
 	

@@ -6,11 +6,6 @@ third_nav_title: Computing
 variant: markdown
 ---
 <div align="justify">
-<figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Computing/SMU2023.jpg">
-<figcaption>Computing@SMU&nbsp;Award 2023</figcaption></figure>
-
-<h3><strong>Introduction</strong></h3>
 
 <p></p><center><i>
 “…we must get our children in schools exposed to IT, exposed to programming.., we must expose our kids and enable the most talented and interested ones to be able to go far and develop their talent in IT in schools to make a Smart Nation…”<br>

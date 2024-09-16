@@ -1,5 +1,5 @@
 ---
-title: Citizen Education
+title: Citizenship Education
 permalink: /jpjc-experience/co-curriculum/cce/citizen-education/
 description: ""
 third_nav_title: Character and Citizenship Edu
@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>The Citizen Education programme aims to develop students to be culturally sensitive, concerned and socially responsible citizens with a global outlook and a strong sense of rootedness to Singapore. The programme seeks to cultivate the citizenship dispositions in our students (sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, which translates to the will to act on improving the lives of others and building a future for our nation) using the following approaches:</p>
+<p>The Citizenship Education programme aims to develop students to be culturally sensitive, concerned and socially responsible citizens with a global outlook and a strong sense of rootedness to Singapore. The programme seeks to cultivate the citizenship dispositions in our students (sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, which translates to the will to act on improving the lives of others and building a future for our nation) using the following approaches:</p>
 
 <p></p><ul><li>Engaging our students in conversations during the CCE and academic subject lessons allow them to share perspectives and discuss contemporary issues and public policies in a conducive environment.</li>
 

@@ -1,5 +1,5 @@
 ---
-title: Syllabus Assessment
+title: Syllabus & Assessment
 permalink: /physical-education/syllabus-assessment/
 description: ""
 variant: markdown
