@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-<p></p>
-<h3><strong>Introduction</strong></h3>
+
 <p>The purpose of learning mathematics at the A-level is two-fold. Firstly,
 it provides students, regardless of the intended course of study at the
 university, with a useful set of tools and problem solving skills to support
