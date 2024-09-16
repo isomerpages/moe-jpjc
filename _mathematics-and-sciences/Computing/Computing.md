@@ -7,9 +7,6 @@ variant: markdown
 ---
 <div align="justify">
 
-
-<h3><strong>Introduction</strong></h3>
-
 <p></p><center><i>
 “…we must get our children in schools exposed to IT, exposed to programming.., we must expose our kids and enable the most talented and interested ones to be able to go far and develop their talent in IT in schools to make a Smart Nation…”<br>
 	~&nbsp;Prime Minister, Mr Lee Hsien Loong</i></center><p></p>
