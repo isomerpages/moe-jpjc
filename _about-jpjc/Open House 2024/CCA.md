@@ -89,7 +89,7 @@ third_nav_title: Open House 2024
 		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
 	
 <div class="column">
-		<a href="https://www.instagram.com/jprogues/"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
+		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
 		<a href="https://www.instagram.com/jp.ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a>
 		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a>
 </div></div></figure>	
