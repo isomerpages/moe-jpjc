@@ -84,7 +84,7 @@ third_nav_title: Open House 2024
 		
 		
 <div class="column">
-		<a href="https://www.instagram.com/jpjc_tabletennis/"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a>
+		<a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a>
 		<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Open%20house%202024/CCA/Taekwondo.png"></a>
 		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
 	
