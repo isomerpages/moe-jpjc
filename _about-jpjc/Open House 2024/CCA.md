@@ -54,7 +54,7 @@ third_nav_title: Open House 2024
 	
 <div class="column">
 <a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Open%20house%202024/CCA/Concert_Band.png"></a>
-<a href="https://www.instagram.com/jpjceds/"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a></div>
+<a href="https://www.instagram.com/jpjcdrama/?igsh=MTJhMDdiaXlxdWs5Zw%3D%3D"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a></div>
 
 <div class="column">
 <a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
