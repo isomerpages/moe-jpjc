@@ -101,9 +101,9 @@ All students are expected to play an active role in their CCAs for their develop
 		
 		
 <div class="column">
-		<a href="https://www.instagram.com/jpjc_tabletennis/"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a>
+		<a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a>
 		<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Open%20house%202024/CCA/Taekwondo.png"></a>
-		<a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
+		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
 	
 <div class="column">
 		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
