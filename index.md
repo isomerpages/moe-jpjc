@@ -26,7 +26,7 @@ sections:
       title: Curriculum
       subtitle: Active learners
       id: infopic
-      description: Nurturing creative thinkers of today, leaders of tomorrow.
+      description: Cultivating curiosity and empowering active learning.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
       image: /images/2024/new.png
