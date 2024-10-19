@@ -36,10 +36,17 @@ submission. Meals include portion of fruits.</li></ul>
 Application forms are available on the MOE website <a href="https://schadmsvc.moe.gov.sg/schcanteenads/">
 (https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
 Junior College from 17 October 2024.<br>
+	
+</p><p>Please click the link for the softcopy of the application form.&nbsp;Alternatively, you may also request for a hard copy of the form at the General Office, Jurong Pioneer
+Junior College from 19 October 2024 onwards.</p>
+	
+	
+	
+	
 Application form with all necessary documents must be attached.<br>
 Incomplete forms will be rejected.<br><br>
 For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
-telephone no. 6564 6878 extension 202.</p>
+telephone no. 6564 6878 extension 202.<p></p>
 	
 	
 <p><u>Application will close on 13 December 2024</u>:<br>
