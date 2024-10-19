@@ -32,7 +32,7 @@ Food Hygiene Certificate.</li>
 <ul><li>Provide full list of food items and their prices together with your application
 submission. Meals include portion of fruits.</li></ul>
 	
-<p><u>Application</u>:<br><br>
+<p><u>Application</u>:<br>
 Application forms are available on the MOE website <a href="https://schadmsvc.moe.gov.sg/schcanteenads/">
 (https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
 Junior College from 17 October 2024.<br>
@@ -42,13 +42,13 @@ For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
 telephone no. 6564 6878 extension 202.</p>
 	
 	
-<p><u>Application will close on 13 December 2024</u>:<br><br>
+<p><u>Application will close on 13 December 2024</u>:<br>
 Application Form, duly complied must be submitted to the General Office,
-	Jurong Pioneer JC <u>no later than 13 December 2024 before noon.</u> Late
+	Jurong Pioneer JC <u>no later than 13 December 2024 before noon.</u> <br>Late
 application will not be considered.</p>
 
 	
-<p><u>Food Tasting</u>:<br><br>
+<p><u>Food Tasting</u>:<br>
 Shortlisted vendors will be required to provide food sampling for the school
 canteen committee at own expense.</p>
 
