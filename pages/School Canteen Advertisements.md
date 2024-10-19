@@ -2,11 +2,37 @@
 title: School Canteen Advertisements
 permalink: /partnerships/schoolcanteen/
 description: JPJC Canteen Advertisements
+variant: markdown
 ---
 <div align="justify">
 	
-<h3>Canteen stall vacancy</h3>
+<h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
+
+<p>We are pleased to invite applications to apply for a Canteen Halal Cuisine Stall from the 1 Jan to 31 Dec 2025.</p>
+
+<p><u>Interested applicants must meet the following Criteria</u>:</p>	
+<ul>
+<li>	sd
 	
+	
+	
+	
+	</li></ul>	
+
+	
+	
+	
+	
+	
+	
+</div>	
+
+	
+<div align="justify">
+	
+<h3>Canteen stall vacancy</h3>
+
+
 <table>
 	<tbody><tr>
 		<th><center>Type of stall</center></th>
