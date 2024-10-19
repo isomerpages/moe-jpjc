@@ -28,26 +28,35 @@ Food Hygiene Certificate.</li>
 <li>Possess catering experience or experience operating in a Secondary / JC
 	environment.</li></ul>
 	
-<p><u>Pricing</u>:</p>
-<ul><li>Provide full list of food items and their prices together with your application
-submission. Meals include portion of fruits.</li></ul>
+<p><u>Pricing</u>:
+</p><li>Provide full list of food items and their prices together with your application
+submission. Meals include portion of fruits.</li><p></p>
 	
-<p><u>Application</u>:</p>
-<p>Application forms are available on the MOE website
+<p><u>Application</u>:<br>
+Application forms are available on the MOE website
 (https://schadmsvc.moe.gov.sg) and at the General Office, Jurong Pioneer
-Junior College from 17 October 2024.</p>
-<p>Application form with all necessary documents must be attached.
-Incomplete forms will be rejected.</p>
-<p>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
-telephone no. 6564 6878 extension 202</p>
+Junior College from 17 October 2024.<br>
+Application form with all necessary documents must be attached.
+Incomplete forms will be rejected.<br>
+For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
+telephone no. 6564 6878 extension 202.</p>
 	
 	
-<p><u>Application will close on 13 December 2024</u>:</p>
-<p>Application Form, duly complied must be submitted to the General Office,
+<p><u>Application will close on 13 December 2024</u>:<br>
+Application Form, duly complied must be submitted to the General Office,
 Jurong Pioneer JC no later than 13 December 2024 before noon. Late
 application will not be considered.</p>
 
 	
+<p><u>Food Tasting</u>:<br>
+Shortlisted vendors will be required to provide food sampling for the school
+canteen committee at own expense.</p>
+
+	
+<p>Successful applicant is required to apply the following before commencement:<br>
+</p><ul><li>Food stall license from Singapore Food Agency (SFA).</li>
+<li>Utilities service - SP services for gas and water &amp; Senoko Energy for
+	electricity. </li></ul><p></p>
 	
 	
 	
