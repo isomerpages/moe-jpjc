@@ -37,13 +37,13 @@ Application forms are available on the MOE website <a href="https://schadmsvc.mo
 (https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
 Junior College from 17 October 2024.<br>
 	
-</p><p>Please click this <a href="/files/Partnerships/Canteen/Canteen_application_form_Muslim_Cuisine_Stall_for_year_2025__FormBF7.pdf">link </a>for the softcopy of the application form. Alternatively, you may also request for a hardcopy of the form at the General Office, Jurong Pioneer
-Junior College from 19 October 2024 onwards.</p>
+Please click this <a href="/files/Partnerships/Canteen/Canteen_application_form_Muslim_Cuisine_Stall_for_year_2025__FormBF7.pdf">link </a>for the softcopy of the application form. Alternatively, you may also request for a hardcopy of the form at the General Office, Jurong Pioneer
+Junior College from 19 October 2024 onwards.<br><br>
 	
 Application form with all necessary documents must be attached.<br>
 Incomplete forms will be rejected.<br>
 For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
-telephone no. 6564 6878 extension 202.<p></p>
+telephone no. 6564 6878 extension 202.</p><p></p>
 	
 	
 <p><u>Application will close on 13 December 2024</u>:<br>
