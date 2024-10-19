@@ -10,14 +10,33 @@ variant: markdown
 
 <p>We are pleased to invite applications to apply for a Canteen Halal Cuisine Stall from the 1 Jan to 31 Dec 2025.</p>
 
-<p><u>Interested applicants must meet the following Criteria</u>:</p>	
-<ul>
-<li>	sd
+<p><u>Interested applicants must meet the following Criteria</u>:</p>
+<ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall
+assistants.</li>
+<li>Able to maintain a high standard of food safety and personal hygiene.</li>
+<li>Able to provide good service and quality food with prices determined in
+consultation with the college.</li>
+<li>Able to provide cooked food that meets health &amp; nutritional standards set by
+the Health Promotion Board (HPB) under the “Healthy Meals in Schools
+Programme (HMSP)" guidelines.</li>
+<li>Healthy and Fit to operate the stall (8am to 5pm daily during school week).</li>
+<li>Experience in operating a canteen stall in Secondary Schools or JC preferred.</li></ul>
+	
+<p><u>Applicant should preferably fulfil the following criteria</u>:</p>
+<ul><li>Successful applicants and stall assistants must possess the WSQ Basic
+Food Hygiene Certificate.</li>
+<li>Possess catering experience or experience operating in a Secondary / JC
+	environment.</li></ul>
+	
+<p><u>Pricing</u>:</p>
+<ul><li>Provide full list of food items and their prices together with your application
+submission. Meals include portion of fruits.</li></ul>
+
 	
 	
 	
 	
-	</li></ul>	
+
 
 	
 	
@@ -28,7 +47,7 @@ variant: markdown
 </div>	
 
 	
-<div align="justify">
+<div align="justify" hidden="">
 	
 <h3>Canteen stall vacancy</h3>
 
