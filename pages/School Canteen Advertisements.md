@@ -33,7 +33,7 @@ Food Hygiene Certificate.</li>
 submission. Meals include portion of fruits.</li><p></p>
 	
 <p><u>Application</u>:<br>
-Application forms are available on the MOE website <a>
+Application forms are available on the MOE website <a href="https://schadmsvc.moe.gov.sg/schcanteenads/">
 (https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
 Junior College from 17 October 2024.<br>
 Application form with all necessary documents must be attached.
