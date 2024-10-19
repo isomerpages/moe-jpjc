@@ -1,7 +1,8 @@
 ---
 title: Self Regulation Framework
-permalink: /jpjc-experience/selfregulationframework/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Self%20Regulation%20Framework/self%20regulation%20framework.jpg">
@@ -37,5 +38,3 @@ description: ""
 		<li>What are my physical, intellectual, emotional &amp; social needs?</li>
 		<li>What do I need to pay more attention to?</li>
 		<li>How can I get myself to be more mindful?</li></ul></ul></ol></div>
- 
- 

@@ -26,7 +26,7 @@ sections:
       title: Curriculum
       subtitle: Active learners
       id: infopic
-      description: Nurturing creative thinkers of today, leaders of tomorrow.
+      description: Cultivating curiosity and empowering active learning.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
       image: /images/2024/new.png
@@ -35,7 +35,7 @@ sections:
       title: Co-curriculum
       subtitle: Innovative thinkers
       id: infopic
-      description: Discover more about the holistic educational experiences JPJC offers!
+      description: Inspiring creativity and innovation through dynamic JP experiences.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/
       image: /images/2024/JP_fam.jpg
@@ -44,7 +44,8 @@ sections:
       title: Values in Action
       subtitle: Compassionate leaders
       id: infopic
-      description: Every act of volunteerism illuminates the path to a kinder world for all.
+      description: Instilling empathy and compassion through meaningful service to the
+        community.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/
       image: /images/2024/VIA.jpg

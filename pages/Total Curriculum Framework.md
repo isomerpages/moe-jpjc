@@ -1,7 +1,8 @@
 ---
 title: Total Curriculum Framework
-permalink: /jpjc-experience/total-curriculum-framework/
+permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <figure>
 <img src="/images/JPJC%20Experience/Total%20Curriculum%20Framework/pic1.jpg">
