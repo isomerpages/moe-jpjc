@@ -1,5 +1,4 @@
 collections:
   jpjc-experience:
     output: true
-    order:
-      - Self Regulation Framework.md
+    order: []
