@@ -8,7 +8,7 @@ variant: markdown
 	
 <h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
 
-<p>We are pleased to invite applications to apply for a Canteen Halal Cuisine Stall from the 1 Jan to 31 Dec 2025.</p>
+<p>We are pleased to invite applications to apply for a <b><u>Canteen Halal Cuisine Stall</u></b> from the 1 Jan to 31 Dec 2025.</p>
 
 <p><u>Interested applicants must meet the following Criteria</u>:</p>
 <ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall
@@ -28,23 +28,23 @@ Food Hygiene Certificate.</li>
 <li>Possess catering experience or experience operating in a Secondary / JC
 	environment.</li></ul>
 	
-<p><u>Pricing</u>:
-</p><li>Provide full list of food items and their prices together with your application
-submission. Meals include portion of fruits.</li><p></p>
+<p><u>Pricing</u>:</p>
+<ul><li>Provide full list of food items and their prices together with your application
+submission. Meals include portion of fruits.</li></ul>
 	
 <p><u>Application</u>:<br>
 Application forms are available on the MOE website <a href="https://schadmsvc.moe.gov.sg/schcanteenads/">
 (https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
 Junior College from 17 October 2024.<br>
-Application form with all necessary documents must be attached.
-Incomplete forms will be rejected.<br>
+Application form with all necessary documents must be attached.<br>
+Incomplete forms will be rejected.<br><br>
 For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
 telephone no. 6564 6878 extension 202.</p>
 	
 	
 <p><u>Application will close on 13 December 2024</u>:<br>
 Application Form, duly complied must be submitted to the General Office,
-Jurong Pioneer JC no later than 13 December 2024 before noon. Late
+	Jurong Pioneer JC <u>no later than 13 December 2024 before noon.</u> Late
 application will not be considered.</p>
 
 	
