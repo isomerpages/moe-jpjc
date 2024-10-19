@@ -31,6 +31,21 @@ Food Hygiene Certificate.</li>
 <p><u>Pricing</u>:</p>
 <ul><li>Provide full list of food items and their prices together with your application
 submission. Meals include portion of fruits.</li></ul>
+	
+<p><u>Application</u>:</p>
+<p>Application forms are available on the MOE website
+(https://schadmsvc.moe.gov.sg) and at the General Office, Jurong Pioneer
+Junior College from 17 October 2024.</p>
+<p>Application form with all necessary documents must be attached.
+Incomplete forms will be rejected.</p>
+<p>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
+telephone no. 6564 6878 extension 202</p>
+	
+	
+<p><u>Application will close on 13 December 2024</u>:</p>
+<p>Application Form, duly complied must be submitted to the General Office,
+Jurong Pioneer JC no later than 13 December 2024 before noon. Late
+application will not be considered.</p>
 
 	
 	
@@ -46,8 +61,8 @@ submission. Meals include portion of fruits.</li></ul>
 	
 </div>	
 
-	
-<div align="justify" hidden="">
+<div hidden="">
+<div align="justify">
 	
 <h3>Canteen stall vacancy</h3>
 
@@ -90,4 +105,4 @@ submission. Meals include portion of fruits.</li></ul>
 	<li>Experience in operating a canteen stall in Secondary Schools or Junior Colleges</li>
 	<li>Able to operate the canteen stall from 8am to 5pm daily during school week</li>
 	<li>Singaporean or Permanent Resident only (photocopy of NRIC- both sides)</li>
-	<li>To provide a complete / full pricing for proposed food items for sales at the canteen (as part of the submission)</li></ul>
+	<li>To provide a complete / full pricing for proposed food items for sales at the canteen (as part of the submission)</li></ul></div>
