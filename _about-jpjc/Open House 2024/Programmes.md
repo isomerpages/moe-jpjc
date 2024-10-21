@@ -13,8 +13,8 @@ third_nav_title: Open House 2024
 <center><strong>Co-Curricular Activities</strong></center>
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/"><img src="/images/Open%20house%202024/Programmes/CCAa.jpg"></a></div>
 <div class="column">
-<center><strong>Further Education and Career Guidance</strong></center>
-<a href="https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/further-ecg/"><img src="/images/Open%20house%202024/Programmes/ECGa.jpg"></a></div></div>
+<center><strong>Education and Career Guidance</strong></center>
+<a href="https://jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/further-ecg/"><img src="/images/Open%20house%202024/Programmes/ECG.jpg"></a></div></div>
 
 <div class="row">
 <div class="column">
