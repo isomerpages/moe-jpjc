@@ -4,7 +4,7 @@ permalink: /college-yearbooks/
 variant: markdown
 description: ""
 ---
-<div>
+<div hidden="">
 
 <figure>	
 <a href="https://drive.google.com/file/d/18Y9A2EdhuTxybz7ZXNb8qf68klJNRspZ/view?usp=drive_link"><img style="width: 40%" height="auto" width="40%" src="/images/College%20Yearbook/Yearbook_2024_Cover.jpg"></a>
