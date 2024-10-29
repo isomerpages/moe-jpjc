@@ -29,7 +29,7 @@ links:
       - title: Co-Curriculum
         url: /jpjc-experience/co-curriculum/
   - title: Life @ JPJC
-    url: /life-at-jpjc/2024-events/
+    url: /college-yearbook
     sublinks:
       - title: 2024 Events
         url: /life-at-jpjc/2024-events/
@@ -44,7 +44,7 @@ links:
       - title: 2019 Events
         url: /life-at-jpjc/2019-events/
       - title: College Yearbook
-        url: /collegeyearbook
+        url: /college-yearbook
   - title: Accomplishments
     url: /accomplishments/
     sublinks:
