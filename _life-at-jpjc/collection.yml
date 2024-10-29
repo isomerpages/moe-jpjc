@@ -2,7 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - College Yearbook.md
+      - College Yearbooks.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
       - 2024 Events/National Day Celebrations.md
