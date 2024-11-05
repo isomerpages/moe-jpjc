@@ -40,6 +40,20 @@ In 2017, with the announcement of the impending school merger, the college held 
 </p>
 
 	
+	
+	
+	
+	
+<p hidden="">JJ School Song
+https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
+JJ Spirit	
+https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
+</p>
+
+	
+	
+	
+	
 <p>
 Principals:</p>
 	<ul>
