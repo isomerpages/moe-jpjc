@@ -34,11 +34,11 @@ All students are expected to play an active role in their CCAs for their develop
 <a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
 <a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Open%20house%202024/CCA/Chess_Club.png"></a>
 <a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Open%20house%202024/CCA/Chinese_Cultural_Society.png"></a>
-<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a></div>
+</div>
 
 
 <div class="column">
-		<a href="https://www.instagram.com/jpjcdebate/"><img alt="Debate Society" src="/images/Open%20house%202024/CCA/Debate.png"></a>
+<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a>
 		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Open%20house%202024/CCA/Eco_Club.png"></a>
 		<a href="https://www.instagram.com/infocommclubjp/"><img alt="InfoComm Club" src="/images/Open%20house%202024/CCA/InfoComm_Club.png"></a></div>
 
@@ -51,7 +51,6 @@ All students are expected to play an active role in their CCAs for their develop
 
 
 <div class="column">
-	<a href="https://www.instagram.com/jpjc.mlep/"><img alt="Malay Cultural Society" src="/images/Open%20house%202024/CCA/Malay_Cultural_Society.png"></a>
 		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a>
 	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
 
@@ -71,7 +70,7 @@ All students are expected to play an active role in their CCAs for their develop
 	
 <div class="column">
 <a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Open%20house%202024/CCA/Concert_Band.png"></a>
-<a href="https://www.instagram.com/jpjcdrama/?igsh=MTJhMDdiaXlxdWs5Zw%3D%3D"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a></div>
+</div>
 
 <div class="column">
 <a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
@@ -111,3 +110,18 @@ All students are expected to play an active role in their CCAs for their develop
 		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a>
 </div></div></figure>	
 </div></div>
+
+
+
+
+
+
+
+<div hidden="">
+<a href="https://www.instagram.com/jpjcdrama/?igsh=MTJhMDdiaXlxdWs5Zw%3D%3D"><img alt="English Drama Society" src="/images/Open%20house%202024/CCA/English_Drama_Society.png"></a>
+	<a href="https://www.instagram.com/jpjcdebate/"><img alt="Debate Society" src="/images/Open%20house%202024/CCA/Debate.png"></a>
+	
+	<a href="https://www.instagram.com/jpjc.mlep/"><img alt="Malay Cultural Society" src="/images/Open%20house%202024/CCA/Malay_Cultural_Society.png"></a>
+
+
+</div>
