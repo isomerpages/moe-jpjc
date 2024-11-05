@@ -39,6 +39,9 @@ Mission: Nurturing confident learners with a global outlook. Developing leaders 
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
 
+<a>JJ Spirit</a>
+	
+<a>JJ School Song</a>
 	
 <p>
 Principals:</p>
