@@ -39,6 +39,14 @@ Mission: Nurturing confident learners with a global outlook. Developing leaders 
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
 
+<p hidden="">	
+</p><div class="row">
+<div class="column">	
+<a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
+<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Open%20house%202024/CCA/Chess_Club.png"></a>
+<a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Open%20house%202024/CCA/Chinese_Cultural_Society.png"></a>
+<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a></div>
+<p></p>	
 	
 	
 <audio autoplay="" controls="" src="https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link"></audio>
@@ -187,4 +195,4 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></ul></div>
+<img src="/images/memory%204.jpg"></figure></ul></div></div>
