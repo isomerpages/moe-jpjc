@@ -6,12 +6,18 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>
-Jurong Pioneer Junior College is one of the five Ministry of Education (MOE) Language Elective Programme (LEP) Centres for Chinese.</p>
 
-<p>
-Students who are enrolled in the Chinese Language Elective Programme (CLEP) must take Chinese Language and Literature at H2 level. Interested students may also take another CL related subject such as H2 Translation.</p>
 
+	
+<p>	In 2006, then Jurong Junior College was selected by Ministry of Education (MOE) to be the fourth Language Elective Programme (LEP) centres for Chinese.  The CLEP was introduced by MOE in 1990, and it aims to:</p>
+<li>Nurture promising students to attain a high level of language proficiency in Chinese.</li>
+<li>Enhance their understanding of Chinese literature. </li>
+<li>Develop students to be effectively bilingual to better serve the needs of our nation.</li>
+<p>Students who are enrolled in the Chinese Language Elective Programme (CLEP) must take Chinese Language and Literature at H2 level. Interested students may also take another CL-related subject such as H2 Translation.</p>
+
+	
+	
+	
 <figure>
 <img src="/images/CLEP%201.jpg">
 <figcaption>CLEP Seniors Meet Juniors in the CLEP Room (三思雅舍) @JPJC</figcaption></figure>
