@@ -19,10 +19,10 @@ Congratulations to the Top 3 Teams!</figure><p></p>
 	
 	
 <p></p><figure>
-<img src="/images/Curriculum/Knowledge%20skills/quiz2.jpg">
+<img src="/images/Curriculum/Knowledge%20skills/2024_JC1_Current_Affairs.jpg">
 2024 JC1 Current Affairs Quiz Final Round</figure><p></p>
 <p></p><figure>
-<img src="/images/Curriculum/Knowledge%20skills/quiz2.jpg">
+<img src="/images/Curriculum/Knowledge%20skills/Congratulations.jpg">
 Congratulations to the Winning Team!</figure><p></p>	
 	
 
