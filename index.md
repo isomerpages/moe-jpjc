@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Banner.png
+      background: /images/Homepage/Year_2025_V1.png
       key_highlights:
         - title: "@jpjc.official"
           description: Follow us on Instagram!
@@ -58,6 +58,6 @@ sections:
         in their lives and found varied pathways to success.
       button: Read more here
       url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2024/overview/
-      image: /images/Accomplishment/2024 Inspiring/2024coverpage.jpg
+      image: /images/Homepage/4.png
       alt: Image alt text
 ---
