@@ -15,10 +15,9 @@ variant: markdown
 The ECG Programme at Jurong Pioneer Junior College aims to equip students with the necessary skills and knowledge for higher education and career planning, engage them in experiential learning and empower them to make informed decisions about their higher education and career options. It is designed as a two-year journey during which students will answer the following questions:</p>
 
 
-<p></p><ol><h5><strong></strong><li><strong>Discovering purpose - Who am I?
+<p></p><ol><h5><li><strong>Discovering purpose - Who am I?
 </strong></li></h5>
 Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.
-
 <h5><strong></strong><li><strong>Exploring opportunities - Where do I want to go?</strong></li></h5>
 Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.
 
