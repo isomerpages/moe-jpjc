@@ -10,4 +10,4 @@ variant: markdown
 
 <h2>Literature in English</h2>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTofDmhwaUlGCJtlhjBgPTxn31ks4KEE09HWkf9J9Jw4VpF4fHM1LtQOQQrS00Bs5WS67uMPojJYSkt/pub?embedded=true" width="800px" height="300px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTofDmhwaUlGCJtlhjBgPTxn31ks4KEE09HWkf9J9Jw4VpF4fHM1LtQOQQrS00Bs5WS67uMPojJYSkt/pub?embedded=true" width="800px" height="350px" scrolling="no"></iframe>
