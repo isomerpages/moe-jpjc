@@ -38,6 +38,3 @@ JP always&nbsp;strives as one.</p></center>
 <video controls="controls" height="400px" width="500px">
         <source type="video/mp4" src="https://drive.google.com/file/d/1VJ6Y6BXAhvH2TO0_LtjRdnRwTQ3oy8PK/view?usp=drive_link">
     </video>
-
-
-
