@@ -65,18 +65,10 @@ Sharing by University Representatives</figure><p></p>
 
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG9.jpg">Work shadowing in the Hospitality Sector</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/WS3.jpg">Work shadowing at company involved in sustainability</figure><p></p>
+
 
 	
-<p><b>Talks/Workshops by Institute of Higher Learning and Industries</b></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Workshop1.jpg">Attending talks by our university partners</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Workshop2.jpg">Students after attending healthcare talk by WHC</figure><p></p>
-	
-<p><b>Parents Evening</b></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Parent1.jpg">Attending talks by our university partners</figure><p></p>	
-	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/Parent2.jpg">Parents asking questions at university booths</figure><p></p>	
 	
 	
 	
