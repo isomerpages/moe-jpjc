@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: College Identity
 ---
-<div>
+<div align="justify">
 <h5><strong>Culture </strong></h5>
 <p>At JPJC, our ethos is deeply rooted in fostering togetherness, built on a foundation of trust, respect, and a nurturing environment within our JPFam, in alignment with the college's vision, mission, values, and motto. We are dedicated to supporting the members of our JPFam with infinite love, growth and possibilities.</p>
 	
