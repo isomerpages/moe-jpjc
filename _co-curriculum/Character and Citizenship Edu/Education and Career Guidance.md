@@ -28,21 +28,21 @@ Develop students' self-directedness and confidence to explore and leverage educa
 	
 	
 <br>	
-<p style="color:red;"><b>Key Programmes</b></p>
+<h5><p style="color:red;"><b>Key Programmes</b></p></h5><p></p>
 
-<p align="left"><b>Civics Tutorial (CT) Lessons</b>	</p>
+<h5><p align="left"><b>Civics Tutorial (CT) Lessons</b></p></h5>	<p></p>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGJC1JC2.jpg"></figure>
 
 
-<p><b>Learning Journey to Institute of Higher Learning and Industries</b></p>	
+<p><b></b></p><h5><b>Learning Journey to Institute of Higher Learning and Industries</b></h5><p></p>	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure><p></p>
 
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG3.jpg">Visit to NTU School of Humanities</figure><p></p>
 
 	
 	
-<p><b>Careers Talks</b></p>	
+<p><b></b></p><h5><b>Careers Talks</b></h5><p></p>	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG4.jpg">
 Career Talk by STMicroelectronics</figure><p></p>
 
@@ -53,7 +53,7 @@ Career Talk by Alexandra Hospital</figure><p></p>
 
 	
 
-<p><b>Higher Education &amp; Scholarships Day</b></p>	
+<p><b></b></p><h5><b>Higher Education &amp; Scholarships Day</b></h5><p></p>	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/CHEDay1.jpg">
 Booths by industries and university partners</figure><p></p>
 
@@ -65,7 +65,7 @@ Sharing by University Representatives</figure><p></p>
 	
 	
 	
-<p><b>Work Shadowing</b></p>	
+<p><b></b></p><h5><b>Work Shadowing</b></h5><p></p>	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG8.jpg">Work shadowing at a Law Firm</figure><p></p>
 
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG9.jpg">Work shadowing in the Hospitality Sector</figure><p></p>
