@@ -28,6 +28,36 @@ The JPJC crest embodies the college’s unwavering commitment to our mission and
 
 	
 	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<div hidden="">
+<center><h5><strong>Infinite possibilities. </strong></h5></center>
+<p>
+JPJC values perseverance, resilience and humility. Together, they result in an indomitable character with an unceasing pursuit for improvement of self and betterment of community.
+</p>
+
+<center><h5><strong>Infinite growth.</strong></h5></center>
+<p>
+JPJC seeks to nurture respectful and compassionate leaders who are critical and creative thinkers, and serve responsibly in service of others.
+</p>
+
+<center><h5><strong>Infinite love. </strong></h5></center>
+<p>
+The colours of the crest emanate passion for growth, learning and giving, being anchored by depth of thinking and steadfastness. Maroon radiates intensity of passion and courage, representing strength and warmth.&nbsp;Dark blue symbolises intelligence and wisdom.&nbsp;It also exudes confidence and equanimity. The two colours intertwine to create a constant flow of JPJC’s ideals, mutually enhancing and empowering.</p>
+
+<p>
+The crest is a constant reminder to all in JPJC of our origins. More importantly, it is our emblem of hope and promise for the future.</p></div></div>	
+	
 	
 	
 	
@@ -36,4 +66,3 @@ The JPJC crest embodies the college’s unwavering commitment to our mission and
 	
 	
 
-</div>
