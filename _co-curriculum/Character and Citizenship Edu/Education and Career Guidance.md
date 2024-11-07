@@ -15,14 +15,17 @@ The ECG Programme at Jurong Pioneer Junior College aims to equip students with t
 
 <p></p><h5><strong></strong><li><strong>Discovering purpose - Who am I?
 </strong></li></h5>
-<p>Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.</p>
+Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.
 
-<p></p><h5><strong></strong><li><strong>Exploring opportunities - Where do I want to go?</strong></li></h5>
-Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.<p></p>
+<h5><strong></strong><li><strong>Exploring opportunities - Where do I want to go?</strong></li></h5>
+Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.
 
-<p></p><h5><strong></strong><li><strong>Staying relevant&nbsp;- How do I get there?</strong></li></h5>
+<h5><strong></strong><li><strong>Staying relevant&nbsp;- How do I get there?</strong></li></h5>
 Build students' adaptability and resilience to embrace the need for lifelong learning.<p></p>
 
+	
+	
+<br>	
 <p style="color:red;"><b>Key Programmes</b></p>
 
 <p align="left"><b>Civics Tutorial (CT) Lessons</b>	</p>
