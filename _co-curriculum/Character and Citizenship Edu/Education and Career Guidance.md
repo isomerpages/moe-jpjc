@@ -12,19 +12,20 @@ variant: markdown
 <p>	 
 The ECG Programme at Jurong Pioneer Junior College aims to equip students with the necessary skills and knowledge for higher education and career planning, engage them in experiential learning and empower them to make informed decisions about their higher education and career options. It is designed as a two-year journey during which students will answer the following questions:</p>
 <ol>
-<p></p><li><h5><strong>Discovering purpose - Who am I?
-</strong></h5></li>
-Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.<p></p>
 
-<p></p><li><h5><strong>Exploring opportunities - Where do I want to go?</strong></h5></li>
+<p></p><h5><strong></strong><li><strong>Discovering purpose - Who am I?
+</strong></li></h5>
+<p>Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.</p>
+
+<p></p><h5><strong></strong><li><strong>Exploring opportunities - Where do I want to go?</strong></li></h5>
 Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.<p></p>
 
-<p></p><li><h5><strong>Staying relevant&nbsp;- How do I get there?</strong></h5></li>
+<p></p><h5><strong></strong><li><strong>Staying relevant&nbsp;- How do I get there?</strong></li></h5>
 Build students' adaptability and resilience to embrace the need for lifelong learning.<p></p>
 
 <p style="color:red;"><b>Key Programmes</b></p>
 
-<p align="left"><b>ECG Civics Tutorial  (CT) Lessons</b>	</p>
+<p align="left"><b>Civics Tutorial (CT) Lessons</b>	</p>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGlessons1.jpg"></figure>
 
