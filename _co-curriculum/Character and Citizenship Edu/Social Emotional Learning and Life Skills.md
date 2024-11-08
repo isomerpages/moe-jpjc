@@ -3,29 +3,30 @@ title: Social Emotional Learning and Life Skills
 permalink: /jpjc-experience/co-curriculum/cce/social-emotional-learning-and-life-skills/
 description: ""
 third_nav_title: Character and Citizenship Edu
+variant: markdown
 ---
 <figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Social%20Emotional%20L%20and%20LS/SEL.jpg"></figure>
+<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Social%20Emotional%20L%20and%20LS/CCE_lifeskills.jpg"></figure>
 
-<div align=justify>
+<div align="justify">
 <p>
-The Civics Tutorial and Assembly (CT/A) Programme aims to impart college values and equipping students with social emotional competencies namely</p>
+The&nbsp;Civics Tutorial and Assembly (CT/A) Programme aims to impart college values and equipping students with social&nbsp;emotional competencies namely</p>
 <ul>
 	<li>Self Awareness</li>
 	<li>Self Management</li>
-	<li>Social Awareness</li>
-	<li>Relationship Management  &</li>
+	<li>Social&nbsp;Awareness</li>
+	<li>Relationship Management&nbsp; &amp;</li>
 	<li>Responsible Decision Making</li></ul>
 
 <p>
-through the implementation of the 2021 MOE CCE curriculum.</p>
+through&nbsp;the implementation of the 2021 MOE CCE curriculum.</p>
 
 <p>
-CCE curriculum includes Values Education, Family Education, Cyberwellness, Financial Literacy, Education and Career Guidance, National Education and Values in Action.</p>
+CCE&nbsp;curriculum includes&nbsp;Values&nbsp;Education, Family Education, Cyberwellness, Financial Literacy, Education and Career Guidance, National Education and&nbsp;Values&nbsp;in&nbsp;Action.</p>
 
 <p>
-JPJC undertakes a thematic approach and the 2 major themes will guide all the assembly and CT lessons across JC1 and JC2.</p>
+JPJC undertakes&nbsp;a thematic approach and the 2 major themes will guide all the assembly and CT lessons across JC1&nbsp;and&nbsp;JC2.</p>
 
 <p>
-Theme for JC1: <strong>Understanding Self</strong><br>
-Theme for JC2: <strong>Developing Self</strong></p>
+Theme for JC1:&nbsp;<strong>Understanding Self</strong><br>
+Theme for JC2:&nbsp;<strong>Developing Self</strong></p></div>

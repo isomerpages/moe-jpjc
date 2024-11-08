@@ -6,147 +6,101 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>
-Jurong Pioneer Junior College is one of the five Ministry of Education (MOE) Language Elective Programme (LEP) Centres for Chinese.</p>
 
-<p>
-Students who are enrolled in the Chinese Language Elective Programme (CLEP) must take Chinese Language and Literature at H2 level. Interested students may also take another CL related subject such as H2 Translation.</p>
 
-<figure>
-<img src="/images/CLEP%201.jpg">
-<figcaption>CLEP Seniors Meet Juniors in the CLEP Room (三思雅舍) @JPJC</figcaption></figure>
+	
+<p>	In 2006, then Jurong Junior College was selected by Ministry of Education (MOE) to be the fourth Language Elective Programme (LEP) centres for Chinese.  The CLEP was introduced by MOE in 1990, and it aims to:</p>
+<li>Nurture promising students to attain a high level of language proficiency in Chinese.</li>
+<li>Enhance their understanding of Chinese literature. </li>
+<li>Develop students to be effectively bilingual to better serve the needs of our nation.</li>
+<p>Students who are enrolled in the Chinese Language Elective Programme (CLEP) must take Chinese Language and Literature at H2 level. Interested students may also take another CL-related subject such as H2 Translation.</p>
 
-<figure>
-<img src="/images/CLEP%202.jpg">
-<figcaption>CLEP Seniors Meet Juniors 2020</figcaption></figure>
 
-<p>
-Some of the distinctive elements of the JPJC CLEP are:</p>
 
-<h4>1. MOE Overseas Immersion Trip</h4>
+<h4><b>1. MOE Overseas Immersion Trip</b></h4>
 
 <p>
-Each year, MOE CPDD organises a 1.5-week CLEP Overseas Immersion Trip for the MOE Chinese Language Elective Scholars (CLES) to China.  Not only do our scholars acquire a deeper understanding of Chinese literature, language and culture, they also get to interact with students from the four other CLEP centres, namely Hwa Chong Institution (College), Temasek Junior College, Nanyang Junior College and Dunman High School, and forge deep friendships.</p>
+Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE Chinese Language Elective Scholars (CLES) to China. As a CLEP Scholar, you’ll experience an enriching nine-day immersion trip to China, exploring Chinese literature, language, and culture up close. Highlights include visits to historic sites, lessons from professors at Peking University, and hands-on sessions that bring Chinese heritage to life.</p>
+<p>It is also a great opportunity to connect with fellow scholars from the other four CLEP centres, forming friendships that make this experience unforgettable.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/clep01.JPG">
-	<figcaption>Our CLEP scholars met up with their senior at Peking University on the immersion trip in 2018</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep1.png">
+	<figcaption>MOE Overseas Immersion Trip</figcaption></figure>
+
+
+
+<h4><b>2. MOE CLEP Camp</b></h4>
+
+<p>A major highlight of the CLEP programme is the MOE CLEP Camp organised for all JC1 CLEP students from the five CLEP centres. Held during the first week of the June holidays, this 3D/2N or 3D non-residential camp at NTU or NUS offers an exciting opportunity to connect with fellow CLEP students, who are passionate to learn more about the Chinese language, literature and culture.</p>
+<p>Participants engage in a rich learning journey, exploring various literary genres and themes with academics, subject experts, and local writers, while going on learning journeys to have a glimpse of various aspects of our society. This immersive experience strengthens both literary knowledge and friendships, making it an unforgettable part of the CLEP journey.
+</p>
+	
+<figure>
+	<img src="/images/Curriculum/CLEP/Clep2.png">
+	<figcaption>MOE CLEP Camp</figcaption></figure>
+
+<h4><b>3. Weekly college-based enrichment</b></h4>
+	
+<p>At JP, CLEP students enjoy a diverse array of weekly college-based activities curated exclusively for their enrichment. These engaging sessions include songwriting, creative writing, tea art appreciation, and sharing sessions by experts and academics. Additionally, students participate in a collaborative CLEP-MLEP enrichment programme, designed to further enhance their learning experience and foster creativity.
+</p>
+	
+<figure>
+	<img src="/images/Curriculum/CLEP/Clep3.png">
+	<figcaption>Weekly college based CLEP programmes</figcaption></figure>
+	
+
+	
+<h4><b>4. JC2 Graduation Ceremony</b></h4>
+
+<p>At the end of each academic year, we hold a meaningful Graduation Ceremony for our JC2 CLEP and MLEP students. This event serves as a farewell and a recognition of their hard work and achievements. Graduates will receive a certificate of recognition from MOE, along with a commemorative booklet from the college, celebrating the culmination of their enriching journey.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/clep02.jpeg">
-	<figcaption>Our CLEP scholars had a "snowy treat" on their immersion trip to Beijing in 2019!</figcaption></figure>
+<img src="/images/Curriculum/CLEP/Clep4.png">
+<figcaption>JC2 Graduation Ceremony</figcaption></figure>
+
+	
+
+<h4><b>5. “新空下 Xin Kong Xia” National Schools Xinyao Festival</b></h4>
 	
 <p>
-CLEP students will have exposure to a wide variety of weekly college-based activities conducted exclusively for them, such as song writing, tea art appreciation, mini-lectures by distinguished experts and academics, calligraphy etc.</p>
-
-<h4>2. MOE CLEP Camp</h4>
-
-<p>One of the greatest highlights of the CLEP programme is the JC1 CLEP Camp organised by MOE for all the CLEP students in the five CLEP centres during the June holidays. This is usually a 3D/2N camp which is held at either NTU or NUS where all the CLEP students get to know one another as well as immerse in a learning journey of different literary genres/themes with academics, subject experts or local writers.</p>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep03.jpg">
-	<figcaption>MOE CLEP Camp @NUS U Town in 2019</figcaption></figure>
-
-<figure>
-	<img src="/images/Curriculum/CLEP/clep04.jpg">
-	<figcaption>First f2f MOE CLEP Camp @NUS in 2022 after two years</figcaption></figure>
-
-<h4>3. Weekly college based CLEP programmes</h4>
-	
-<p>CLEP students @JP will have exposure to a wide variety of weekly college-based activities curated exclusively for them, such as song writing, creative writing, tea art appreciation, mini-lectures by experts and academics, as well as joint CLEP-MLEP enrichment programme, etc.</p>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep005.JPG">
-	<figcaption>Combined CLEP-MLEP Percussion Enrichment Programme in 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep06.JPG">
-	<figcaption>Learning how to brew tea in an authentic tea house</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep07.jpg">
-	<figcaption>Creative Writing Enrichment Programme 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep08.jpg">
-	<figcaption>Presentation of songs at the end of the Song Writing Enrichment 2022</figcaption></figure>
-	
-<h4>3. JC2 Graduation Ceremony</h4>
-
-<p>Each year, a JC2 Graduation Ceremony will be conducted to bid farewell to the batch of JC2 CLEP graduands, where they will be presented with a JPJC CLEP Portfolio holder and commemorative booklet to mark the end of an enriching journey.</p>
-
-<figure>
-<img src="/images/CLEP%208.jpg">
-<figcaption>JC 2 CLEP Graduation Ceremony 2020</figcaption></figure>
-
-<figure>
-<img src="/images/CLEP%209.jpg"></figure>
-
-<figure>
-<img src="/images/CLEP%2014.jpg"></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep09.jpg">
-	<figcaption>JC2 CLEP &amp; MLEP Graduation Ceremony 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep10.jpg">
-	<figcaption>JC2 CLEP &amp; MLEP Graduation Ceremony 2023</figcaption></figure>
-	
-<h4>4. JPJC CLEP Official Instagram account</h4>
-	
-<p>The JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) official Instagram account was set up in 2020 to provide an engaging glimpse into the experiences and journeys of our students.</p>
-
-<figure>
-	<img src="/images/Curriculum/CLEP/clep11.jpg">
-	<figcaption>Our official Instagram account - Follow us to know more about us!</figcaption></figure>
-	
-
-<h4>5. Student Internship Programme</h4>
+Xinyao (新谣) has played a significant role in shaping Singapore's cultural history. In the early 1980s, students began composing and singing their own songs, marking a pivotal moment in the local music scene. Many pioneers of Xinyao, including the distinguished Eric Moo, started their musical journeys at Jurong Junior College (JJC) before advancing to the regional stage. Notably, Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also began his songwriting career as a student at JJC.</p>
 
 <p>
-Internship opportunities are provided for CLEP students in various organisations such as Singapore Press Holdings, The Theatre Practice,  NUS,  Lingzi Media, GHY Media, Wawa Pictures,  ‘Meet-the-People’s Session’, etc, where CLEP students develop their passion and acquire skills for future career options.</p>
-
-<figure>
-<img src="/images/CLEP%2015.jpg">
-</figure>
-
-<h4>6. “新空下” National Schools Xinyao Festival 2023</h4>
+In 2015, the Mother Tongue Languages (MTL) department of JJC, in collaboration with TCR Music Station and Lianhe Zaobao, launched the inaugural “新空下” National Xinyao Singing Competition. This event garnered an overwhelming response from secondary schools and junior colleges, reflecting the enduring appeal of Xinyao. To rejuvenate the legacy of Xinyao, a new songwriting category was introduced in 2017, encouraging students to create original compositions. That same year, the Committee to Promote Chinese Language Learning joined as a partner, leading to the rebranding of the event as the “新空下” National Schools Xinyao Festival in 2020. Even through the COVID-19 pandemic, the competition adapted its format, continuing to attract students to showcase their talents in both singing and songwriting.</p>
 	
 <p>
-Xinyao 新谣 played an important part in the development of Singapore's cultural history. In the early 1980s, students got together and sang the songs which they have composed on their own, a first for the local music scene. Many of the pioneers of Xinyao, amongst which one of the most distinguished, Eric Moo, began their music journey in JJC in the early 1980s, before going on the bigger regional stage.  Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also started penning songs when he was a student in JJC.</p>
-
-<p>
-In 2015, the MTL dept of then Jurong JC, together with TCR Music Station and Lianhe Zaobao, organised the inaugural “新空下” National Xinyao Singing Competition. The competition received overwhelming responses from students from secondary schools and JC/CIs. In the spirit of injecting new life into the Xinyao legacy, a new song writing category has since been included in 2017 to encourage students to compose their own songs. In the same year, the Committee to Promote Chinese Language Learning came on board, and since then, more new elements has been injected to the event which has been rebranded as “新空下” National Schools Xinyao Festival in 2020. Through the COVID-19 pandemic, the format of the competition was adapted and continued to make inroads in attracting students to showcase their talents in both singing Xinyao and composing new songs.</p>
-	
-<p>
-Each year, our CLEP students play an active role behind the scenes to contribute to the success of the event. Some also went on to be budding songwriters and in 2022 and 2023, two of the songs were awarded 1st runner-up, 2nd runner-up and one of the submissions, the Merit Award respectively.</p>
+Each year, our CLEP students actively contribute to the event's success behind the scenes. Many have blossomed into budding songwriters, achieving notable recognition in recent competitions. In 2022, two songs, "知多知少" and "筑梦," received 1st and 2nd runner-up awards, while “永远的蝴蝶” earned a Merit Award in 2023. In 2024, our students achieved even greater success, with "他们说" crowned champion and "肆意奔跑" receiving the 2nd runner-up award, while "这一路走来" was honored with a Merit Award.</p>
 
 <figure>
-<img src="/images/CLEP%2016.jpg">
-</figure>
+	<img src="/images/Curriculum/CLEP/Clep5.png">
+	<figcaption>新空下” National Schools Xinyao Festival</figcaption></figure>
+	
+
+
+<h4><b>6. JPJC CLEP Official Instagram account</b></h4>
+	
+<p>The official Instagram account for JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) was established in 2020 to provide an engaging insight into the vibrant experiences and diverse journeys of our students. Through this platform, we share highlights of their academic achievements, creative projects, and extracurricular activities, fostering a sense of community and connection among current and prospective students.	</p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/clep12.jpg">
-	<figcaption>Our CLEP students' song “筑梦” came in 2nd-runner up in 2022</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep6.png">
+	<figcaption>JPJC CLEP Official Instagram account</figcaption></figure>
 	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep13.jpg">
-	<figcaption>Our CLEP students' song “知多知少” was awarded 1st-runner up in 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep14.jpg">
-	<figcaption>All the CLEP student participants with School leaders and teachers in Xin Kong Xia Finals 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep15.jpg">
-	<figcaption>Singing their composition 偏旁 which was awarded a Merit Award in 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep16.jpg">
-	<figcaption>The team who wrote 永远的蝴蝶 and was awarded the Merit Award in 2023</figcaption></figure>
-	
-<strong>For Further Clarification</strong>
+
+<h4><b>7. Student Internship Programme</b></h4>
+
 <p>
-Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
+Internship opportunities are available for CLEP students at various esteemed organizations, including Singapore Press Holdings, The Theatre Practice, NUS, NTU, Lingzi Media, Wawa Pictures, Singapore Chinese Cultural Centre, Nine Years Theatre, as well as assisting at the ‘Meet-the-People’s Session.’ These internships enable students to develop their passions while acquiring essential skills that will enhance their future career prospects.</p>
+
+<figure>
+	<img src="/images/Curriculum/CLEP/Clep7.png">
+	<figcaption>Student Internship Programme</figcaption></figure>
+
+
+
+
+	
+<p><strong>For Further Clarification</strong>
+<br>Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
+
+
 </div>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: History
 variant: markdown
 ---
-<h3><strong>History</strong></h3>
+<h3><strong>History of Jurong Junior College (JJ)</strong></h3>
 <div align="justify">
 <p>
 Founded in April 1981, JJ was the 9th&nbsp;junior college in Singapore.&nbsp;In the beginning, the campus had to be hurriedly put together and despite the conversions to house a junior college, “the facilities were grossly inadequate”, according to Mr. Koh Beng Thiam, JJ’s first Principal. While the campus was situated in an idyllic setting facing the large expanse of Pandan Reservoir, there were almost no facilities for sports.
@@ -14,10 +14,10 @@ Founded in April 1981, JJ was the 9th&nbsp;junior college in Singapore.&nbsp;In 
 Before even finding a new home, JJ began carving a place for itself, taking part in and winning various competitions. More significantly, our pioneering students laid the foundations of the Xinyao movement when they held a concert featuring original songs they composed. In the midst of the college’s teething problems, these achievements were heartening and inspiring, planting the roots for future achievements.
 </p>
 <p>
-In 1985, staff and students moved to their permanent home at 800 Corporation Road. The patience of staff and students were rewarded as all classrooms were air-conditioned - a rarity even today - due to the deafening sounds of the RSAF airplanes from the nearby Tengah Airbase.
+In 1985, staff and students moved to their permanent home at 800 Corporation Road. The patience of staff and students were rewarded as all classrooms were air-conditioned due to the deafening sounds of the RSAF airplanes from the nearby Tengah Airbase.
 </p>
 <p>
-In 2006, an eventful year, the college was selected as the fourth Centre for the Language Elective Programme (Chinese) and the Centre of Excellence for Character Development in the West Zone. JJ was also the first junior college in Singapore to receive the Outstanding Development Award for Character Development that year. The college was revalidated for this award in 2011. 
+In 2006, the college was selected as the fourth Centre for the Language Elective Programme (Chinese) and the Centre of Excellence for Character Development in the West Zone. JJ was also the first junior college in Singapore to receive the Outstanding Development Award for Character Development that year. The college was revalidated for this award in 2011. 
 </p>
 <p>
 Over the years, there was ongoing work behind the scenes to create a unique JJ identity that would be enduring as well as create a sense of belonging. Eventually, the core values were distilled into:</p>
@@ -25,7 +25,7 @@ Over the years, there was ongoing work behind the scenes to create a unique JJ i
 	<li>Appreciation</li>
 	<li>Responsibility</li>
 	<li>Motivation</li>
-	<li>Discipline</li>
+	<li>Discipline</li></ul>
 
 <p>
 These were reinforced by the college’s Vision and Mission Statements, which were refined by the various principals who helmed JJ.
@@ -38,6 +38,29 @@ Mission: Nurturing confident learners with a global outlook. Developing leaders 
 <p>
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
+
+
+	
+<p hidden="">	
+<audio autoplay="" controls="" type="audio/mpeg" src="https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link"></audio>
+JJ School Song</p>	
+	
+<p hidden="">	
+<audio autoplay="" controls="" src="https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link"></audio>
+JJ Spirit</p>	
+	
+	
+	
+<p hidden="">JJ School Song
+https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
+JJ Spirit	
+https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
+</p>
+
+	
+	
+	
+	
 <p>
 Principals:</p>
 	<ul>
@@ -164,4 +187,4 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></ul></ul></div>
+<img src="/images/memory%204.jpg"></figure></ul></div>
