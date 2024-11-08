@@ -19,11 +19,11 @@ The ECG Programme at Jurong Pioneer Junior College aims to equip students with t
 </strong></h5><p></p>
 <p>Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.</p>
 
-<p></p><h5><strong></strong><strong>2. Exploring opportunities - Where do I want to go?</strong></h5>
-Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.<p></p>
+<p></p><h5><strong></strong><strong>2. Exploring opportunities - Where do I want to go?</strong></h5><p></p>
+<p>Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.</p>
 
-<p></p><h5><strong></strong><strong>3. Staying relevant&nbsp;- How do I get there?</strong></h5>
-Build students' adaptability and resilience to embrace the need for lifelong learning.<p></p>
+<p></p><h5><strong></strong><strong>3. Staying relevant&nbsp;- How do I get there?</strong></h5><p></p>
+<p>Build students' adaptability and resilience to embrace the need for lifelong learning.</p>
 
 	
 	
