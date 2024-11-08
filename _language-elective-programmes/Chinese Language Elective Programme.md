@@ -50,45 +50,20 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 	
 
 	
-<h4>3. JC2 Graduation Ceremony</h4>
+<h4><b>4. JC2 Graduation Ceremony</b></h4>
 
-<p>Each year, a JC2 Graduation Ceremony will be conducted to bid farewell to the batch of JC2 CLEP graduands, where they will be presented with a JPJC CLEP Portfolio holder and commemorative booklet to mark the end of an enriching journey.</p>
-
-<figure>
-<img src="/images/CLEP%208.jpg">
-<figcaption>JC 2 CLEP Graduation Ceremony 2020</figcaption></figure>
+<p>At the end of each academic year, we hold a meaningful Graduation Ceremony for our JC2 CLEP and MLEP students. This event serves as a farewell and a recognition of their hard work and achievements. Graduates will receive a certificate of recognition from MOE, along with a commemorative booklet from the college, celebrating the culmination of their enriching journey.</p>
 
 <figure>
-<img src="/images/CLEP%209.jpg"></figure>
+<img src="/images/Curriculum/CLEP/Clep4.png">
+<figcaption>JC2 Graduation Ceremony</figcaption></figure>
 
-<figure>
-<img src="/images/CLEP%2014.jpg"></figure>
 	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep09.jpg">
-	<figcaption>JC2 CLEP &amp; MLEP Graduation Ceremony 2022</figcaption></figure>
 	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep10.jpg">
-	<figcaption>JC2 CLEP &amp; MLEP Graduation Ceremony 2023</figcaption></figure>
 	
-<h4>4. JPJC CLEP Official Instagram account</h4>
 	
-<p>The JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) official Instagram account was set up in 2020 to provide an engaging glimpse into the experiences and journeys of our students.</p>
-
-<figure>
-	<img src="/images/Curriculum/CLEP/clep11.jpg">
-	<figcaption>Our official Instagram account - Follow us to know more about us!</figcaption></figure>
 	
 
-<h4>5. Student Internship Programme</h4>
-
-<p>
-Internship opportunities are provided for CLEP students in various organisations such as Singapore Press Holdings, The Theatre Practice,  NUS,  Lingzi Media, GHY Media, Wawa Pictures,  ‘Meet-the-People’s Session’, etc, where CLEP students develop their passion and acquire skills for future career options.</p>
-
-<figure>
-<img src="/images/CLEP%2015.jpg">
-</figure>
 
 <h4>6. “新空下” National Schools Xinyao Festival 2023</h4>
 	
@@ -128,4 +103,38 @@ Each year, our CLEP students play an active role behind the scenes to contribute
 <strong>For Further Clarification</strong>
 <p>
 Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
+
+
+
+
+
+
+
+
+
+
+
+<h4>4. JPJC CLEP Official Instagram account</h4>
+	
+<p>The JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) official Instagram account was set up in 2020 to provide an engaging glimpse into the experiences and journeys of our students.</p>
+
+<figure>
+	<img src="/images/Curriculum/CLEP/clep11.jpg">
+	<figcaption>Our official Instagram account - Follow us to know more about us!</figcaption></figure>
+	
+
+<h4>5. Student Internship Programme</h4>
+
+<p>
+Internship opportunities are provided for CLEP students in various organisations such as Singapore Press Holdings, The Theatre Practice,  NUS,  Lingzi Media, GHY Media, Wawa Pictures,  ‘Meet-the-People’s Session’, etc, where CLEP students develop their passion and acquire skills for future career options.</p>
+
+<figure>
+<img src="/images/CLEP%2015.jpg">
+</figure>
+
+
+
+
+
+
 </div>
