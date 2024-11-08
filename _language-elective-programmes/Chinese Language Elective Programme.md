@@ -15,67 +15,40 @@ variant: markdown
 <li>Develop students to be effectively bilingual to better serve the needs of our nation.</li>
 <p>Students who are enrolled in the Chinese Language Elective Programme (CLEP) must take Chinese Language and Literature at H2 level. Interested students may also take another CL-related subject such as H2 Translation.</p>
 
-	
-	
-	
-<figure>
-<img src="/images/CLEP%201.jpg">
-<figcaption>CLEP Seniors Meet Juniors in the CLEP Room (三思雅舍) @JPJC</figcaption></figure>
 
-<figure>
-<img src="/images/CLEP%202.jpg">
-<figcaption>CLEP Seniors Meet Juniors 2020</figcaption></figure>
+
+<h4><b>1. MOE Overseas Immersion Trip</b></h4>
 
 <p>
-Some of the distinctive elements of the JPJC CLEP are:</p>
-
-<h4>1. MOE Overseas Immersion Trip</h4>
-
-<p>
-Each year, MOE CPDD organises a 1.5-week CLEP Overseas Immersion Trip for the MOE Chinese Language Elective Scholars (CLES) to China.  Not only do our scholars acquire a deeper understanding of Chinese literature, language and culture, they also get to interact with students from the four other CLEP centres, namely Hwa Chong Institution (College), Temasek Junior College, Nanyang Junior College and Dunman High School, and forge deep friendships.</p>
+Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE Chinese Language Elective Scholars (CLES) to China. As a CLEP Scholar, you’ll experience an enriching nine-day immersion trip to China, exploring Chinese literature, language, and culture up close. Highlights include visits to historic sites, lessons from professors at Peking University, and hands-on sessions that bring Chinese heritage to life.</p>
+<p>It is also a great opportunity to connect with fellow scholars from the other four CLEP centres, forming friendships that make this experience unforgettable.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/clep01.JPG">
-	<figcaption>Our CLEP scholars met up with their senior at Peking University on the immersion trip in 2018</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep1.png">
+	<figcaption>MOE Overseas Immersion Trip</figcaption></figure>
 
-<figure>
-	<img src="/images/Curriculum/CLEP/clep02.jpeg">
-	<figcaption>Our CLEP scholars had a "snowy treat" on their immersion trip to Beijing in 2019!</figcaption></figure>
-	
-<p>
-CLEP students will have exposure to a wide variety of weekly college-based activities conducted exclusively for them, such as song writing, tea art appreciation, mini-lectures by distinguished experts and academics, calligraphy etc.</p>
 
-<h4>2. MOE CLEP Camp</h4>
 
-<p>One of the greatest highlights of the CLEP programme is the JC1 CLEP Camp organised by MOE for all the CLEP students in the five CLEP centres during the June holidays. This is usually a 3D/2N camp which is held at either NTU or NUS where all the CLEP students get to know one another as well as immerse in a learning journey of different literary genres/themes with academics, subject experts or local writers.</p>
+<h4><b>2. MOE CLEP Camp</b></h4>
+
+<p>A major highlight of the CLEP programme is the MOE CLEP Camp organised for all JC1 CLEP students from the five CLEP centres. Held during the first week of the June holidays, this 3D/2N or 3D non-residential camp at NTU or NUS offers an exciting opportunity to connect with fellow CLEP students, who are passionate to learn more about the Chinese language, literature and culture.</p>
+<p>Participants engage in a rich learning journey, exploring various literary genres and themes with academics, subject experts, and local writers, while going on learning journeys to have a glimpse of various aspects of our society. This immersive experience strengthens both literary knowledge and friendships, making it an unforgettable part of the CLEP journey.
+</p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/clep03.jpg">
-	<figcaption>MOE CLEP Camp @NUS U Town in 2019</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep2.png">
+	<figcaption>MOE CLEP Camp</figcaption></figure>
 
+<h4><b>3. Weekly college-based enrichment</b></h4>
+	
+<p>At JP, CLEP students enjoy a diverse array of weekly college-based activities curated exclusively for their enrichment. These engaging sessions include songwriting, creative writing, tea art appreciation, and sharing sessions by experts and academics. Additionally, students participate in a collaborative CLEP-MLEP enrichment programme, designed to further enhance their learning experience and foster creativity.
+</p>
+	
 <figure>
-	<img src="/images/Curriculum/CLEP/clep04.jpg">
-	<figcaption>First f2f MOE CLEP Camp @NUS in 2022 after two years</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep3.png">
+	<figcaption>Weekly college based CLEP programmes</figcaption></figure>
+	
 
-<h4>3. Weekly college based CLEP programmes</h4>
-	
-<p>CLEP students @JP will have exposure to a wide variety of weekly college-based activities curated exclusively for them, such as song writing, creative writing, tea art appreciation, mini-lectures by experts and academics, as well as joint CLEP-MLEP enrichment programme, etc.</p>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep005.JPG">
-	<figcaption>Combined CLEP-MLEP Percussion Enrichment Programme in 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep06.JPG">
-	<figcaption>Learning how to brew tea in an authentic tea house</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep07.jpg">
-	<figcaption>Creative Writing Enrichment Programme 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep08.jpg">
-	<figcaption>Presentation of songs at the end of the Song Writing Enrichment 2022</figcaption></figure>
 	
 <h4>3. JC2 Graduation Ceremony</h4>
 
