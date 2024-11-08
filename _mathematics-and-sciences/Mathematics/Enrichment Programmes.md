@@ -5,18 +5,7 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-
-
-
-
-
-
-
-
-
-
-
-<img src="/images/Curriculum/Maths/Maths3.jpg">
+<img src="/images/Curriculum/Maths/Maths_Enrichment.jpg">
 
 
 
