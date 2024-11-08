@@ -92,8 +92,8 @@ Each year, our CLEP students actively contribute to the event's success behind t
 Internship opportunities are available for CLEP students at various esteemed organizations, including Singapore Press Holdings, The Theatre Practice, NUS, NTU, Lingzi Media, Wawa Pictures, Singapore Chinese Cultural Centre, Nine Years Theatre, as well as assisting at the ‘Meet-the-People’s Session.’ These internships enable students to develop their passions while acquiring essential skills that will enhance their future career prospects.</p>
 
 <figure>
-<img src="/images/CLEP%2015.jpg">
-</figure>
+	<img src="/images/Curriculum/CLEP/Clep7.png">
+	<figcaption>Student Internship Programme</figcaption></figure>
 
 
 
