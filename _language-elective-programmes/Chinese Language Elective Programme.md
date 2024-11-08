@@ -99,9 +99,8 @@ Internship opportunities are available for CLEP students at various esteemed org
 
 
 	
-<strong>For Further Clarification</strong>
-<p>
-Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
+<p><strong>For Further Clarification</strong>
+<br>Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
 
 
 </div>
