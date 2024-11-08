@@ -59,74 +59,37 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 <figcaption>JC2 Graduation Ceremony</figcaption></figure>
 
 	
-	
-	
-	
-	
 
-
-<h4>6. “新空下” National Schools Xinyao Festival 2023</h4>
+<h4><b>5. “新空下 Xin Kong Xia” National Schools Xinyao Festival</b></h4>
 	
 <p>
-Xinyao 新谣 played an important part in the development of Singapore's cultural history. In the early 1980s, students got together and sang the songs which they have composed on their own, a first for the local music scene. Many of the pioneers of Xinyao, amongst which one of the most distinguished, Eric Moo, began their music journey in JJC in the early 1980s, before going on the bigger regional stage.  Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also started penning songs when he was a student in JJC.</p>
+Xinyao (新谣) has played a significant role in shaping Singapore's cultural history. In the early 1980s, students began composing and singing their own songs, marking a pivotal moment in the local music scene. Many pioneers of Xinyao, including the distinguished Eric Moo, started their musical journeys at Jurong Junior College (JJC) before advancing to the regional stage. Notably, Chen Jia Ming, one of Singapore’s most prolific lyricists in the Mandopop scene, also began his songwriting career as a student at JJC.</p>
 
 <p>
-In 2015, the MTL dept of then Jurong JC, together with TCR Music Station and Lianhe Zaobao, organised the inaugural “新空下” National Xinyao Singing Competition. The competition received overwhelming responses from students from secondary schools and JC/CIs. In the spirit of injecting new life into the Xinyao legacy, a new song writing category has since been included in 2017 to encourage students to compose their own songs. In the same year, the Committee to Promote Chinese Language Learning came on board, and since then, more new elements has been injected to the event which has been rebranded as “新空下” National Schools Xinyao Festival in 2020. Through the COVID-19 pandemic, the format of the competition was adapted and continued to make inroads in attracting students to showcase their talents in both singing Xinyao and composing new songs.</p>
+In 2015, the Mother Tongue Languages (MTL) department of JJC, in collaboration with TCR Music Station and Lianhe Zaobao, launched the inaugural “新空下” National Xinyao Singing Competition. This event garnered an overwhelming response from secondary schools and junior colleges, reflecting the enduring appeal of Xinyao. To rejuvenate the legacy of Xinyao, a new songwriting category was introduced in 2017, encouraging students to create original compositions. That same year, the Committee to Promote Chinese Language Learning joined as a partner, leading to the rebranding of the event as the “新空下” National Schools Xinyao Festival in 2020. Even through the COVID-19 pandemic, the competition adapted its format, continuing to attract students to showcase their talents in both singing and songwriting.</p>
 	
 <p>
-Each year, our CLEP students play an active role behind the scenes to contribute to the success of the event. Some also went on to be budding songwriters and in 2022 and 2023, two of the songs were awarded 1st runner-up, 2nd runner-up and one of the submissions, the Merit Award respectively.</p>
+Each year, our CLEP students actively contribute to the event's success behind the scenes. Many have blossomed into budding songwriters, achieving notable recognition in recent competitions. In 2022, two songs, "知多知少" and "筑梦," received 1st and 2nd runner-up awards, while “永远的蝴蝶” earned a Merit Award in 2023. In 2024, our students achieved even greater success, with "他们说" crowned champion and "肆意奔跑" receiving the 2nd runner-up award, while "这一路走来" was honored with a Merit Award.</p>
 
 <figure>
-<img src="/images/CLEP%2016.jpg">
-</figure>
+	<img src="/images/Curriculum/CLEP/Clep5.png">
+	<figcaption>新空下” National Schools Xinyao Festival</figcaption></figure>
+	
+
+
+<h4><b>6. JPJC CLEP Official Instagram account</b></h4>
+	
+<p>The official Instagram account for JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) was established in 2020 to provide an engaging insight into the vibrant experiences and diverse journeys of our students. Through this platform, we share highlights of their academic achievements, creative projects, and extracurricular activities, fostering a sense of community and connection among current and prospective students.	</p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/clep12.jpg">
-	<figcaption>Our CLEP students' song “筑梦” came in 2nd-runner up in 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep13.jpg">
-	<figcaption>Our CLEP students' song “知多知少” was awarded 1st-runner up in 2022</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep14.jpg">
-	<figcaption>All the CLEP student participants with School leaders and teachers in Xin Kong Xia Finals 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep15.jpg">
-	<figcaption>Singing their composition 偏旁 which was awarded a Merit Award in 2023</figcaption></figure>
-	
-<figure>
-	<img src="/images/Curriculum/CLEP/clep16.jpg">
-	<figcaption>The team who wrote 永远的蝴蝶 and was awarded the Merit Award in 2023</figcaption></figure>
-	
-<strong>For Further Clarification</strong>
-<p>
-Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<h4>4. JPJC CLEP Official Instagram account</h4>
-	
-<p>The JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) official Instagram account was set up in 2020 to provide an engaging glimpse into the experiences and journeys of our students.</p>
-
-<figure>
-	<img src="/images/Curriculum/CLEP/clep11.jpg">
-	<figcaption>Our official Instagram account - Follow us to know more about us!</figcaption></figure>
+	<img src="/images/Curriculum/CLEP/Clep6.png">
+	<figcaption>JPJC CLEP Official Instagram account</figcaption></figure>
 	
 
-<h4>5. Student Internship Programme</h4>
+<h4><b>7. Student Internship Programme</b></h4>
 
 <p>
-Internship opportunities are provided for CLEP students in various organisations such as Singapore Press Holdings, The Theatre Practice,  NUS,  Lingzi Media, GHY Media, Wawa Pictures,  ‘Meet-the-People’s Session’, etc, where CLEP students develop their passion and acquire skills for future career options.</p>
+Internship opportunities are available for CLEP students at various esteemed organizations, including Singapore Press Holdings, The Theatre Practice, NUS, NTU, Lingzi Media, Wawa Pictures, Singapore Chinese Cultural Centre, Nine Years Theatre, as well as assisting at the ‘Meet-the-People’s Session.’ These internships enable students to develop their passions while acquiring essential skills that will enhance their future career prospects.</p>
 
 <figure>
 <img src="/images/CLEP%2015.jpg">
@@ -135,6 +98,10 @@ Internship opportunities are provided for CLEP students in various organisations
 
 
 
+	
+<strong>For Further Clarification</strong>
+<p>
+Please contact Subject Head, Language Elective Programme, Mrs Tan-Lim Soh Whee at <a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a></p>
 
 
 </div>
