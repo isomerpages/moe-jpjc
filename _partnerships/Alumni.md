@@ -41,15 +41,29 @@ We invite you to come to JPJC to contribute to the school experiences of our cur
 <p>
 Please contact us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>&nbsp;for more details.</p>
 
-<h3>Past Activities</h3>
+<h3><b>Past Activities</b></h3>
 <style>ol.a{list-style-type: lower-alpha;}</style>
 <ol class="a">
-	<strong><li>Alumni Speaker’s Series</li></strong>
-<p>
-The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
+<strong><li>Alumni Speaker’s Series</li></strong>
+	
+<p>The Alumni Speaker’s Series is a platform for established alumni from different fields and disciplines to share the unique stories of their careers and life experiences with their juniors. Our students had the opportunity to glean insights and gain an understanding of each speaker’s field of specialisation, their experiences and their journey towards excelling in various fields. In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
 
 <p>Since 2019, we have been privileged to have alumni from various fields and disciplines generously sharing their experiences with their juniors. They include:</p>
 
+
+<h4>Year 2024</h4>	
+	
+<figure><img src="/images/Partnerships/JPJC%20Alumni/alumni2024.png"><figcaption>
+1. Mr Loo Cheng Chuan (JJC Alumnus, Class of 1990), <br>Entrepreneur, Premiummall<br>
+2. Mr Pey Kin Leong (JJC Alumnus, Class of 1982), <br>Associate Provost, SUTD<br>
+3. Mr Zhou Wenhan (JJC Alumnus, Class of 2001), <br>Technopreneur, Smartwalkie.com<br>
+4. Mr Sebastian Shen (JJC Alumnus, Class of 2007),<br> Entreprenuer &amp; Coach, Haulio<br>
+5. Dr Sim Siang Meng (JJC Alumnus, Class of 2007), <br>Researcher, DSO National Laboratories<br>
+6. Mr Arron Yeap (JJC Alumnus, Class of 2008), <br>Financial Services Director, Prudential Assurance<br>
+7.Mr Vincent Lau (PJC Alumnus, Class of 2002), <br>Serial technopreneur/CEO/CTO, Allocate Space, Pylon City<br>
+8. Ms Veronica Tay (JJC Alumnus, Class of 2009), <br>Senior Learning &amp; Development Program Manager, Amazon Web Services
+</figcaption></figure>		
+	
 <h4>Year 2023</h4>
 <ol>
 <li><strong> Mr Cheong Wan Rong (JJC Alumnus, Class of 2009)</strong> Cyber Incident Responder at Morgan Stanley</li>
