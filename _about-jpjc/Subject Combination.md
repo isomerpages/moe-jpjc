@@ -12,7 +12,7 @@ variant: markdown
 <p>At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay. Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
 </p>
 
-<h2><center>2024 Subject Combinations</center></h2>
+<h2><center>2025 Subject Combinations</center></h2>
 
 <ol>
 	<li>The following table shows the standard subject combination which most students will take :</li>
@@ -23,7 +23,7 @@ variant: markdown
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
 	<li>Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.</li></ol>
 	
-<h3><center>Subjects offered in 2024</center></h3>
+<h3><center>Subjects offered in 2025</center></h3>
 
 <figure><center>
 	<iframe scrolling="no" height="600px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
