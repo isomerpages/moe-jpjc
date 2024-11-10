@@ -363,4 +363,4 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 
 <p>
 <strong>Mr Adamson Alagan</strong> <br>
-Business Development Director of Studio AG</p></div>
+	Business Development Director of Studio AG</p></div>
