@@ -12,7 +12,7 @@ The merger of Jurong Junior College and Pioneer Junior College has brought toget
 <p>
 Since 2019, the alumni of both colleges have come together, working in partnership with the college to&nbsp;inspire our students with their stories of undergraduate and career experiences. At the same time, the college also organises homecoming events and creates platforms for alumni to reconnect with their former college mates and teachers.</p>
 
-<h3>Reconnect with us</h3>
+<h3><b>Reconnect with us</b></h3>
 <p>
 For JJC and PJC alumni who wish to reconnect with their former college mates and teachers, you can visit the following URLs:
 </p><ul>
