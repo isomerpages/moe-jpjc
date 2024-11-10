@@ -39,7 +39,7 @@ We invite you to come to JPJC to contribute to the school experiences of our cur
 <li><strong>Speaker’s Series:</strong>&nbsp;Establishing networks, through sharing of life experiences to motivate our students and providing further education and career guidance.</li></ul>
 
 <p>
-Please contact Mrs Tan-Lim Soh Whee at&nbsp;<a href="mailto:tan-lim_soh_whee@moe.edu.sg">tan-lim_soh_whee@moe.edu.sg</a>&nbsp;for more details.</p>
+Please contact us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>&nbsp;for more details.</p>
 
 <h3>Past Activities</h3>
 <style>ol.a{list-style-type: lower-alpha;}</style>
