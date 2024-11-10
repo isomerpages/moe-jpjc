@@ -2,7 +2,7 @@ collections:
   organisation-chart:
     output: true
     order:
-      - Jurong Pioneer Junior College Advisory Committee.md
+      - College Advisory Committee.md
       - College Management Committee.md
       - IP Departments/.keep
       - IP Departments/Chemistry.md
