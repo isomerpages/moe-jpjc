@@ -12,6 +12,14 @@ The merger of Jurong Junior College and Pioneer Junior College has brought toget
 <p>
 Since 2019, the alumni of both colleges have come together, working in partnership with the college to&nbsp;inspire our students with their stories of undergraduate and career experiences. At the same time, the college also organises homecoming events and creates platforms for alumni to reconnect with their former college mates and teachers.</p>
 
+	
+<h3><b>Objectives of JPJC Alumni</b></h3>
+<li>Initiate opportunities for meaningful collaboration with JPJC.</li>
+<li>Contribute in college programmes that promote students’ learning and development.</li>	
+	
+	
+	
+	
 <h3><b>Reconnect with us</b></h3>
 <p>
 For JJC and PJC alumni who wish to reconnect with their former college mates and teachers, you can visit the following URLs:
@@ -22,7 +30,7 @@ For JJC and PJC alumni who wish to reconnect with their former college mates and
 <p>
 The college will be&nbsp;announcing the formation of JPJC Alumni soon, and will provide updates here on the school website.</p>
 
-<h3>Invitation to contribute</h3>
+<h3><b>Invitation to contribute</b></h3>
 <p>
 We invite you to come to JPJC to contribute to the school experiences of our current students. There are a great variety of ways. For example:</p>
 <ul>
