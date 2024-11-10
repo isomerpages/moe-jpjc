@@ -167,6 +167,33 @@ There was something for everyone as alumni forged strong ties with their juniors
 <img src="/images/jpjc%20alumni%2019.jpg">
 </figure>
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</ol></div>
+<div hidden="">	
 <h3>Alumni Spotlight</h3>
 <h4>Public Service</h4>
 <p>
@@ -336,4 +363,4 @@ Senior Director, Head of Consultancy at Knight Frank Singapore</p>
 
 <p>
 <strong>Mr Adamson Alagan</strong> <br>
-Business Development Director of Studio AG</p></ol></div>
+Business Development Director of Studio AG</p></div>
