@@ -8,26 +8,41 @@ variant: markdown
 <p>
 The PSG@JPJC is&nbsp;a group of parents who are passionate about providing support to enrich the learning experience for their children.&nbsp;PSG seeks to foster relationships and communication between parents, students and the college. PSG contributes to JPJC programmes with the aim to promote the well-being of students.</p>
 
-<h2><strong>Objectives of PSG@JPJC</strong></h2>
+<h3><strong>Objectives of PSG@JPJC</strong></h3>
 <ul>
-	<li>To forge a strong partnership between the college and parents</li>
-	<li>To assist and support the college in its programmes and activities</li>
-	<li>To encourage parents to be part of PSG</li></ul>
+	<li>Initiate opportunities for meaningful collaboration with JPJC.</li>
+	<li>Organise college programmes that promote students’ learning and development, well-being.
+</li>
+	<li>Plan activities that support parent-child bonding.</li>
+	<li>Share expertise and experiences with fellow parents.</li></ul>
 
-<h2><strong>Areas of Contributions</strong></h2>
+<h3><strong>Areas of Contributions</strong></h3>
 <ul>
-	<li>Participation and involvement in college events (such as&nbsp;Open House, Parents Engagement Session, Get-To-Know Session,&nbsp; Night Study Programme and J2 Farewell Assembly)</li>
+	<li>Participation and involvement in college events (such as Open House, Parents Engagement Session, PSG Connect, Road Run, Foodie Nights and J2 Farewell Assembly)</li>
 	<li>Organise workshops, learning journeys and provide work attachment opportunities</li>
 	<li>Resource personnel for fundraising</li></ul>
 
 <p>
 If you have a child in JPJC, do join PSG@JPJC as a member to give your child an enhanced college experience.</p>
 
-<h2><strong>How to join PSG@JPJC</strong></h2>
-<p>You may write to us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>.</p>
+<h3><strong>Invitation to join PSG@JPJC</strong></h3>
+<p>Please contact us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a> for more details.</p>
 
-<h2><strong>Past Activities</strong></h2>
+<h3><strong>Past Activities</strong></h3>
 
+<h3>Year 2024</h3>
+
+<center><h4>Foodie Night</h4></center>	
+<figure>
+	<img src="/images/Partnerships/PSG/PSG.png">
+	<figcaption>PSG members preparing to distribute dinner to students during Foodie Nights</figcaption></figure>
+	
+<center><h4>J2 Farewell Assembly</h4></center>	
+<figure>
+	<img src="/images/Partnerships/PSG/Picture3.png">
+	<figcaption>Screenshots of the messages from parents to the class of 2024</figcaption></figure>
+	
+	
 <h3>Year 2023</h3>
 
 <center><h4>PSG Appreciation Night</h4></center>

@@ -20,6 +20,6 @@ Most significantly, the Biology Interest Group is a unique in-house programme th
 Teacher-designed activities ranging from DNA extraction to Viral Diagnostic Lab enable students to explore the discipline beyond the syllabus. These hands-on experiences are truly invaluable opportunities for experimentation, enabling students to appreciate the application of abstract concepts to real-life contexts.</p>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Biology/Enrichment%20Programmes/pic1.jpg">
+<img src="/images/Curriculum/Biology/Enrichment.jpg">
 <figcaption>Enrichment Programmes organised for the students!</figcaption></figure>
 </div>

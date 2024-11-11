@@ -5,6 +5,26 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
+<img src="/images/Curriculum/Maths/Maths_Enrichment.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div hidden="">
 <h3><strong>Singapore Mathematical Olympiad (SMO)</strong></h3>
 <div align="justify">
 <p>
@@ -35,4 +55,4 @@ The AMC was introduced in Australia in 1978 as the first Australia-wide mathemat
 <figcaption> Performing Mathematics Magic at another STEAM booth.</figcaption></figure>
 	
 	
-</div>
+</div></div>

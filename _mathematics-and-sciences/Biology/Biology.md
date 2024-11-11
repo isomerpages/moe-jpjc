@@ -9,7 +9,13 @@ variant: markdown
 
 
 <p>
-The department aims to instil in students a sense of appreciation and awe for the biological nature, as well as to inspire students to be prepared for Life Science-related courses at university and, consequently, careers that are related to this field.</p>
+The department aims to cultivate a deep appreciation for biology, encouraging students to develop the knowledge, skills, and attitudes essential for further studies and careers in life sciences. We aspire for students to become scientifically literate, prepared to navigate and contribute to the rapidly evolving scientific landscape of the 21st century.</p>
 	
 <p>
-We envision every biology students to develop the understanding, skills, ethics and attitudes relevant to the Practices of Science- understanding the nature of scientific knowledge; demonstrating science inquiry skills; relating science and society.</p></div>
+Our vision is for every biology student to gain proficiency in the Practices of Science—understanding the nature of scientific knowledge, mastering inquiry skills, and connecting scientific principles to societal issues. These skills empower students to critically engage with biological topics and understand their impact on daily life.</p>
+
+<p>Through exploring foundational questions about life and its sustainability, students will learn about biology at both cellular and molecular levels, making connections to larger biological systems. This experience not only stimulates curiosity but also fosters care and responsibility for local and global ecosystems.</p>
+
+
+
+</div>

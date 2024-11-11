@@ -2,7 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - JPJC Advisory Committee.md
+      - College Advisory Committee.md
       - Parent Support Group.md
-      - JPJC Alumni.md
+      - Alumni.md
       - School Canteen Advertisements.md

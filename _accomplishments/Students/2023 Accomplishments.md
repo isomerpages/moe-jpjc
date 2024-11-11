@@ -3,9 +3,18 @@ title: 2023 Accomplishments
 permalink: /accomplishments/students/2023accomplishments/
 description: JPJC 2023 Student Accomplishments
 third_nav_title: Students
+variant: markdown
 ---
 <div align="justify">
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTAicZXo0z7IVUd5wQpz56JBesWuVs7cN6HI9QWURWR9FMlKmNuSm2bYqkgy0ONBA/pub?embedded=true" width="1000px" height="1000px" scrolling="no"></iframe>	
+	
+</div>
+
+
+
+<div hidden="">
+<div hidden="">
 <h3><center>Singapore Youth Festival</center></h3>
 
 <table>
@@ -97,4 +106,4 @@ third_nav_title: Students
 			<td><h5><center>Media Production</center></h5></td>
 			<td><h6><center>N.E.mation!</center></h6></td>
 			<td><h6><center>National Top 10</center></h6></td></tr>
-	</tbody></table>
+	</tbody></table></div>
