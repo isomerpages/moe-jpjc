@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTAicZXo0z7IVUd5wQpz56JBesWuVs7cN6HI9QWURWR9FMlKmNuSm2bYqkgy0ONBA/pub?embedded=true"></iframe>	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTAicZXo0z7IVUd5wQpz56JBesWuVs7cN6HI9QWURWR9FMlKmNuSm2bYqkgy0ONBA/pub?embedded=true" width="1000px" height="1530px" scrolling="no"></iframe>	
 	
 </div>
 
