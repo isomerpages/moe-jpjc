@@ -41,4 +41,4 @@ Graduation Day</figure>
 		
 <p>Our committee is also focused on educating students about wellness. We develop lesson packages that provide and insights to help students navigate both academic and personal challenges.</p>
 	
-</div>	
+</div>
