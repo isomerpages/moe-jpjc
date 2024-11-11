@@ -21,7 +21,7 @@ variant: markdown
 
 
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/STEAM/STEAM.png"></figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/STEAM/steam1.png"></figure>
 
 <h4>Discover</h4>
 
