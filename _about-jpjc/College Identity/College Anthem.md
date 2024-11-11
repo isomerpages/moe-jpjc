@@ -5,11 +5,10 @@ description: ""
 third_nav_title: College Identity
 variant: markdown
 ---
+
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYPGuu23xjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="JPJC College Anthem" src="https://www.youtube.com/embed/gcmVrfUS8AQ" height="315" width="560"></iframe>
 <figcaption><strong>College Anthem - Video</strong></figcaption></figure>
-
-
 
 
 
