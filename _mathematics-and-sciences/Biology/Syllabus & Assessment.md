@@ -23,8 +23,8 @@ The syllabus is divided into two parts, the core syllabus and the extension topi
 
 <h4>Syllabuses</h4>
 <ul>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8876_y24_sy.pdf">2024 A-Level Syllabus (H1 Biology)</a></li>
-	<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf">2024 A-Level Syllabus (H2 Biology)</a></li></ul>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8876_y25_sy.pdf">2025 A-Level Syllabus (H1 Biology)</a></li>
+	<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9744_y25_sy.pdf">2025 A-Level Syllabus (H2 Biology)</a></li></ul>
 
 	
 <h4>Assessment</h4>
