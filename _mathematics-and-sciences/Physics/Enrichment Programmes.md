@@ -24,8 +24,15 @@ variant: markdown
 
 Scholarship recipients will also be strongly encouraged to participate in a hands-on engineering-related project or learning activity of student’s choice within the duration of the scholarship. Some examples include participation in the Engineering Innovation Challenge (EIC), Singapore Science and Engineering Fair (SSEF) or equivalent.
 </p>		
+
+<p><b>Singapore Physics Olympiad (SPhO)</b>
+<br>The Singapore Physics Olympiad (SPhO) is a prestigious national competition aimed at fostering talent and interest in physics among students. Participants engage in challenging theoretical and experimental assessments, testing their knowledge and problem-solving skills in various physics topics. The top-performing students have the chance to represent Singapore in the International Physics Olympiad, where they compete with peers globally. The SPhO not only develops students' expertise in physics but also encourages critical thinking and innovation, preparing them for future academic and scientific pursuits.
+</p>		
 	
-	
+
+<p><b>Learning Journeys</b>
+<br>Learning Journeys in the Physics Enrichment Programme offer students hands-on exposure to real-world applications of physics. For instance, visits to the NUS Science Demonstration Laboratory engage students with interactive physics experiments, deepening their understanding of core concepts. Meanwhile, exploring the Sembcorp Tengeh Floating Solar Farm allows students to see sustainable energy technology in action, providing insights into solar power generation and environmental impact. These journeys enrich learning by linking classroom knowledge with real-world science and innovation.
+</p>		
 	
 	
 	
