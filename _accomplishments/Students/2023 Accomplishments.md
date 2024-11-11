@@ -12,7 +12,9 @@ variant: markdown
 </div>
 
 
-<div hidden="">	
+
+<div hidden="">
+<div hidden="">
 <h3><center>Singapore Youth Festival</center></h3>
 
 <table>
@@ -104,5 +106,4 @@ variant: markdown
 			<td><h5><center>Media Production</center></h5></td>
 			<td><h6><center>N.E.mation!</center></h6></td>
 			<td><h6><center>National Top 10</center></h6></td></tr>
-	</tbody></table>
-	
+	</tbody></table></div>
