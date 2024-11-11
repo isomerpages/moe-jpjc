@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Year_2025_V1.png
+      background: /images/Homepage/Year_2025.png
       key_highlights:
         - title: "@jpjc.official"
           description: Follow us on Instagram!
@@ -23,7 +23,6 @@ sections:
           url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2024/overview/
       variant: side
       backgroundColor: gray
-      title: ""
       size: sm
   - infopic:
       title: Curriculum
