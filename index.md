@@ -24,7 +24,7 @@ sections:
       variant: center
       backgroundColor: white
       size: sm
-      alignment: left
+      alignment: right
   - infopic:
       title: Curriculum
       subtitle: Active learners
