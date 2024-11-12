@@ -1,12 +1,10 @@
 ---
-title: College Crest
+title: Crest
 permalink: /about/college-identity/college-crest/
 description: ""
 third_nav_title: College Identity
 variant: markdown
 ---
-<h4><strong>Crest</strong></h4>
-
 <figure>
 <img src="/images/About%20JPJC/College%20Identity/College%20Crest/pic1.jpg" style="width:40%">
 </figure>
@@ -56,13 +54,4 @@ JPJC seeks to nurture respectful and compassionate leaders who are critical and 
 The colours of the crest emanate passion for growth, learning and giving, being anchored by depth of thinking and steadfastness. Maroon radiates intensity of passion and courage, representing strength and warmth.&nbsp;Dark blue symbolises intelligence and wisdom.&nbsp;It also exudes confidence and equanimity. The two colours intertwine to create a constant flow of JPJC’s ideals, mutually enhancing and empowering.</p>
 
 <p>
-The crest is a constant reminder to all in JPJC of our origins. More importantly, it is our emblem of hope and promise for the future.</p></div></div>	
-	
-	
-	
-	
-	
-	
-	
-	
-
+The crest is a constant reminder to all in JPJC of our origins. More importantly, it is our emblem of hope and promise for the future.</p></div></div>

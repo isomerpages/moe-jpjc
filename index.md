@@ -22,8 +22,9 @@ sections:
           description: Hear from the class of 2023!
           url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2024/overview/
       variant: center
-      backgroundColor: gray
+      backgroundColor: white
       size: sm
+      alignment: right
   - infopic:
       title: Curriculum
       subtitle: Active learners

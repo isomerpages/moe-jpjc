@@ -39,17 +39,21 @@ Mission: Nurturing confident learners with a global outlook. Developing leaders 
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
 
+	
 
+<p hidden="">		
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link">song</a>
+
+</p><p hidden="">	
+<audio controls="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+JJ School Song</p><p></p>	
 	
+
 <p hidden="">	
-<audio autoplay="" controls="" type="audio/mpeg" src="https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link"></audio>
-JJ School Song</p>	
-	
-<p hidden="">	
-<audio autoplay="" controls="" src="https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link"></audio>
+<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
 JJ Spirit</p>	
 	
-	
+
 	
 <p hidden="">JJ School Song
 https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
@@ -57,6 +61,10 @@ JJ Spirit
 https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
 </p>
 
+	
+	
+	
+	
 	
 	
 	
