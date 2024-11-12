@@ -5,6 +5,7 @@ description: ""
 third_nav_title: College Identity
 variant: markdown
 ---
+<div align="justify">
 <figure>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="JPJC College Anthem" src="https://www.youtube.com/embed/gcmVrfUS8AQ" height="315" width="560"></iframe>
 <figcaption><strong>College Anthem - Video</strong></figcaption></figure>
@@ -20,7 +21,7 @@ variant: markdown
 
 </p><p>Written and composed by Nicholas Oh Jia Jun (19S15), performed by the JP Choir.</p>
 
-
+</div>
 
 
 
