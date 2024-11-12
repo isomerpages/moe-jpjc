@@ -40,16 +40,15 @@ In 2017, with the announcement of the impending school merger, the college held 
 </p>
 
 
+
+<audio autoplay="" controls="" type="audio/mpeg" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+JJ School Song<p></p>	
 	
 <p hidden="">	
-<audio autoplay="" controls="" type="audio/mpeg" src="https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link"></audio>
-JJ School Song</p>	
-	
-<p hidden="">	
-<audio autoplay="" controls="" src="https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link"></audio>
+<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
 JJ Spirit</p>	
 	
-	
+
 	
 <p hidden="">JJ School Song
 https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
@@ -57,6 +56,10 @@ JJ Spirit
 https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
 </p>
 
+	
+	
+	
+	
 	
 	
 	
