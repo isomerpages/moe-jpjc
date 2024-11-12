@@ -41,7 +41,7 @@ In 2017, with the announcement of the impending school merger, the college held 
 
 
 
-<audio autoplay="" controls="" type="audio/mpeg" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+<audio controls="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
 JJ School Song<p></p>	
 	
 <p hidden="">	
