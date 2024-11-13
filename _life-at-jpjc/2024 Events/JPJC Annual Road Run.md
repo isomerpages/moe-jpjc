@@ -44,7 +44,7 @@ third_nav_title: 2024 Events
 	
 <figure>	
 <img style="width: 100%" height="auto" width="100%" src="/images/2024%20Life%20@%20JPJC/Road%20run/rr4.jpg">
-<figcaption>Teachers after the run &amp; walk</figcaption></figure>	
+<figcaption>PSG members and staff gathered for a group photo after the run &amp; walk</figcaption></figure>	
 	
 	
 </div></div>
