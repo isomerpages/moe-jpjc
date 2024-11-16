@@ -33,6 +33,8 @@ The ECG Programme at Jurong Pioneer Junior College aims to equip students with t
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGJC1JC2.jpg"></figure>
 
+	
+<img src="https://docs.google.com/document/d/e/2PACX-1vSH5U4boFxuDW8R7-VtxuEwDBJcwQXkMrLadQuBUtvkFzKdeDM3PSnoTBnr8gbmuQ/pub">
 
 <p><b></b></p><h5><b>Learning Journey to Institute of Higher Learning and Industries</b></h5><p></p>	
 <p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure><p></p>
