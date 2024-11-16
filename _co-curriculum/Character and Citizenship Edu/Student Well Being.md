@@ -36,9 +36,9 @@ Graduation Day</figure>
 <p><b>Wellness Education</b></p>			
 	
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Student%20Well%20being/swb5.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Student%20Well%20being/swb7.jpg">
 </figure>	
 		
-<p>Our committee is also focused on educating students about wellness. We develop lesson packages that provide and insights to help students navigate both academic and personal challenges.</p>
+<p>Our committee is also focused on educating students about wellness. We develop lesson packages that provide insights to help students navigate both academic and personal challenges.</p>
 	
 </div>
