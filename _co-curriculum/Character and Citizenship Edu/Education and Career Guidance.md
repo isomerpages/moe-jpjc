@@ -31,9 +31,8 @@ The ECG Programme at Jurong Pioneer Junior College aims to equip students with t
 <h5><p style="color:red;"><b>Key Programmes</b></p></h5>
 <h5><p align="left"><b>Civics Tutorial (CT) Lessons</b></p></h5>	
 
-![](/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGJC1JC2.jpg)
 	
-	
+<img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGJC1JC2.jpg">	
 	
 
 	
