@@ -32,23 +32,23 @@ The ECG Programme at Jurong Pioneer Junior College aims to equip students with t
 <h5><p align="left"><b>Civics Tutorial (CT) Lessons</b></p></h5>	
 
 	
-<img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECGJC1JC2.jpg">	
+<img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG.png">	
 	
 
 	
 	
 <p><b></b></p><h5><b>Learning Journey to Institute of Higher Learning and Industries</b></h5><p></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure><p></p>
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/LJkeppel.jpg">Visit to Keppel Shipyard</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG3.jpg">Visit to NTU School of Humanities</figure><p></p>
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG3.jpg">Visit to NTU School of Humanities</figure><p></p>
 
 	
 	
 <p><b></b></p><h5><b>Careers Talks</b></h5><p></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG4.jpg">
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG4.jpg">
 Career Talk by STMicroelectronics</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG5.jpg">
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG5.jpg">
 Career Talk by Alexandra Hospital</figure><p></p>	
 
 	
@@ -56,21 +56,21 @@ Career Talk by Alexandra Hospital</figure><p></p>
 	
 
 <p><b></b></p><h5><b>Higher Education &amp; Scholarships Day</b></h5><p></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/CHEDay1.jpg">
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/CHEDay1.jpg">
 Booths by industries and university partners</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG6.jpg">
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG6.jpg">
 Exploring Career and Scholarship Options</figure><p></p>		
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG7.jpg">
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG7.jpg">
 Sharing by University Representatives</figure><p></p>	
 	
 	
 	
 <p><b></b></p><h5><b>Work Shadowing</b></h5><p></p>	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG8.jpg">Work shadowing at a Law Firm</figure><p></p>
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG8.jpg">Work shadowing at a Law Firm</figure><p></p>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Further%20ECG/ECG9.jpg">Work shadowing in the Hospitality Sector</figure><p></p>
+<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/ECG/ECG9.jpg">Work shadowing in the Hospitality Sector</figure><p></p>
 
 
 
