@@ -10,7 +10,7 @@ variant: markdown
 <p>The A-Level Art syllabuses, illustrated by the A-Level Art Syllabus Framework (image below), seeks to develop deep disciplinary understanding towards a sense of artistic agency at its core. To achieve this, the learner must develop the interconnected domains of ‘perception’ and ‘production’ that occur by situating each learner within an artistic practice which considers and responds to multiple contexts. Consequently, learning not only occurs within and for the artistic self, but also extends beyond to involve and reflect other individuals, societies, and cultures.</p>
 <figure>
 
-<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/Art.png">
+<img style="width:50%" src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/Art.png">
 <figcaption>A-Level Art Syllabus Framework</figcaption></figure>	
 	
 <p>At Jurong Pioneer Junior College, we offer both H1 and H2 Art at the ‘A’ levels. The table below sums up briefly, the difference between the H1 and H2 programs.</p>	
