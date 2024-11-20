@@ -9,15 +9,16 @@ variant: markdown
 </p>
 
 <p>Key Features of the Programme:</p>
-<ul>
+<p>
+</p><ul>
 	<li><b>Skill Development:</b> Students will spend at least 6 hours in one chosen sport, developing the skills necessary to participate independently, safely, and competently at a recreational level.</li>
 	<li><b>Inter-class Games:</b> A culminating event designed to consolidate and celebrate their learning.</li>
 	<li><b>Safety and Sportsmanship:</b> Emphasis is placed on acquiring safety skills and cultivating an appreciation for fair play and good sportsmanship.
-</li>
+</li><p></p></ul>
 	
 	
-<p></p><h4><strong>Assessment</strong></h4><p></p>
-
+<h4><strong>Assessment</strong></h4>
+<ul>
 <li><b>Formative Assessment:</b> Includes peer and self-assessment to encourage reflection and improvement.</li>
 <li><b>NAPFA Test:</b> Conducted for JC2 students to assess their physical fitness.</li>
 
