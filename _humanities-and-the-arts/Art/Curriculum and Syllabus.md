@@ -6,32 +6,21 @@ third_nav_title: Art
 variant: markdown
 ---
 <div align="justify">
-
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-<p>
-The curriculum framework for the <strong>H1 and H2 Level Art syllabus</strong> is structured under three behavioural domains of Perceiving, Communicating and Appreciating.</p>
-	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRJjAd6DTrZ8UZGKS1B0gY5l6t-VvsXoK2EBHAN-GKNIjPxYD8DFOaUK8vtnVgr-kQ1R4V3Ti1sP6AV/pub?embedded=true" width="800px" height="280px" scrolling="no"></iframe>
+<p>The A-Level Art syllabuses, illustrated by the A-Level Art Syllabus Framework (image below), seeks to develop deep disciplinary understanding towards a sense of artistic agency at its core. To achieve this, the learner must develop the interconnected domains of ‘perception’ and ‘production’ that occur by situating each learner within an artistic practice which considers and responds to multiple contexts. Consequently, learning not only occurs within and for the artistic self, but also extends beyond to involve and reflect other individuals, societies, and cultures.</p>
 <figure>
-At Jurong Pioneer Junior College, we offer both H1 and H2 Art at the ‘A’ levels.<br>
-The table below sums up briefly, the difference between the H1 and H2 programs.
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRiUY8XTY3n3Zn9Rt67PJCC_whBr3bF1SttPeI2gxQPK9kZ9P6g2avPm-7obHCe6C23OFWDswlSC3kw/pub?embedded=true" width="800px" height="180px" scrolling="no"></iframe></figure>
+
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/Art.png">
+<figcaption>A-Level Art Syllabus Framework</figcaption></figure>	
+	
+<p>At Jurong Pioneer Junior College, we offer both H1 and H2 Art at the ‘A’ levels. The table below sums up briefly, the difference between the H1 and H2 programs.</p>	
+	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRiUY8XTY3n3Zn9Rt67PJCC_whBr3bF1SttPeI2gxQPK9kZ9P6g2avPm-7obHCe6C23OFWDswlSC3kw/pub?embedded=true" width="800px" height="120px" scrolling="no"></iframe>
+	
+	
+	
+	
+	
 	
 <h4><strong>Study of Visual Arts (SOVA)</strong></h4>
 <p>
