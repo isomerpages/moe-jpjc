@@ -2,13 +2,13 @@
 title: Physical Education Curriculum
 permalink: /physical-education/curriculum/
 description: ""
+variant: markdown
 ---
+<div align="justify">
+	
+<p>	Welcome to our Physical Education (PE) curriculum. Our program aims to equip students with advanced skills in physical activity, fostering lifelong habits of health, fitness, and well-being.</p>
 
+<p>The curriculum offers a balanced mix of individual and team sports, promoting collaboration, resilience, and strategic thinking. Students will also explore deeper concepts in health education, including principles of training, nutrition, and injury prevention. Additionally, they will gain hands-on experience in planning and organizing sports events, building leadership and organizational skills.</p>
 
-<div align=justify>
-<p>
-The PE Curriculum is designed to cater to a spectrum of abilities and interests.  In sports, students will learn both individual and team sports at both in-depth and recreational levels and learn to plan and organise a simple competition. In the Health and Fitness aspect, students learn a range of topics from the principles of training to diet and nutrition.</p>
-<p>
-PE serves to complement other educational areas in promoting educational outcomes that are less likely to be achieved in other subject areas.</p>
-<p>
-The manner in which PE activities are taught determines how students will feel about making it a part of their lifestyle. The PE programme for students should be enjoyable to ensure that they develop a positive association with activity.</p>
+<p>Through an engaging and inclusive approach, our PE curriculum encourages students to develop a positive mindset toward physical activity, empowering them to lead active and healthy lifestyles beyond their school years.</p>
+</div>
