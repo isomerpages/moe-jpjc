@@ -2,9 +2,9 @@
 title: Enrichment Programme
 permalink: /physical-education/enrichment-programme/
 description: ""
+variant: markdown
 ---
-
 <ol>
-	<li>Annual Road Run</li>
 	<li>Inter-House Games</li>
-	<li>Healthy Lifestyle Week</li></ol>
+	<li>Inter-Class Games</li>
+	<li>Fitness Challenges </li></ol>
