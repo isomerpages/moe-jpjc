@@ -100,7 +100,7 @@ As I look to the way ahead <br>
 In my heart burns the fire of learning <br>
 And it shines everywhere I go <br>
 Never fading and ever yearning <br>
-While I live, I learn and grow. 
+While I live, I learn and grow. <br>
 
 <strong>Chorus:</strong><br>
 I will seek and explore <br>
@@ -114,7 +114,7 @@ Crossing every new frontier <br>
 With conviction I take every turn <br>
 This passion I will hold <br>
 So that everyone may know<br> 
-I believe: While I live, I learn. 
+I believe: While I live, I learn. <br>
 
 <strong>Verse 2</strong><br>
 Here we stand <br>
