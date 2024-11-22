@@ -40,31 +40,10 @@ In 2017, with the announcement of the impending school merger, the college held 
 </p>
 
 	
-
-<p hidden="">		
-<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link">song</a>
-
-</p><p hidden="">	
-<audio controls="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
-JJ School Song</p><p></p>	
-	
-
-<p hidden="">	
-<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
-JJ Spirit</p>	
-	
+<audio autoplay="" style="display:none;" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
 
 	
-<p hidden="">JJ School Song
-https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
-JJ Spirit	
-https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
-</p>
 
-	
-	
-	
-	
 	
 	
 	
@@ -196,3 +175,27 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
 <img src="/images/memory%204.jpg"></figure></ul></div>
+	
+	
+	
+<p hidden="">		
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link">song</a>
+
+</p><p hidden="">	
+<audio controls="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+JJ School Song</p><p></p>	
+	
+
+<p hidden="">	
+<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
+JJ Spirit</p>	
+	
+
+	
+<p hidden="">JJ School Song
+https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
+JJ Spirit	
+https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
+</p>
+	
+	
