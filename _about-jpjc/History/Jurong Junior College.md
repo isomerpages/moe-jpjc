@@ -88,35 +88,35 @@ Which faith and hope enthrone<br>
 We shall not stay nor linger<br>
 We shall not shrink nor fail<br>
 But hand in hand together<br>
-Strike out along the trail
+Strike out along the trail<br>
 
-<strong>Chorus</strong>
+<strong>Chorus</strong><br>
 
 Head, heart and hand we offer<br>
 That none will fail the test<br>
 “Plus Ultra” leads us farther<br>
-Until we are the best
+Until we are the best<br>
 
 And on our backs the armour<br>
 Forged in our College days<br>
 And in our eyes the light of truth<br>
-This College sets ablaze
+This College sets ablaze<br>
 
-<strong>Repeat Chorus</strong>
+<strong>Repeat Chorus</strong><br>
  
-<h4><strong>JJ Spirit Song</strong></h4>
+<h4><strong>JJ Spirit Song</strong></h4><br>
 JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
 There’s a feeling for me and you<br>
-In everything we do
+In everything we do<br>
 
 <strong>Chorus</strong><br>
 	JJ you made my life complete<br>
 And taught us always be at best in what we do,<br>
 To strive and never rest<br>
 JJ spirit will always be there,<br>
-JJ spirit will be there
+JJ spirit will be there<br>
 
 Your wealth and colour of your skin<br>
 We don’t really care<br>
@@ -124,9 +124,9 @@ Cos with brotherly love we will<br>
 We will always share<br>
 Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
-Sincere and always true
+Sincere and always true<br>
 
-<strong>Repeat Chorus</strong></center>
+<strong>Repeat Chorus</strong></center><br>
 
 <h4><strong>Milestones</strong></h4>
 <figure>
