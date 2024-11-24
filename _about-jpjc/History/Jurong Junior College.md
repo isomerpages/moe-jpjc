@@ -126,7 +126,7 @@ Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
 Sincere and always true<br>
 
-<strong>Repeat Chorus</strong></center><br>
+<strong>Repeat Chorus</strong></center>
 
 <h4><strong>Milestones</strong></h4>
 <figure>
