@@ -103,7 +103,11 @@ And in our eyes the light of truth<br>
 This College sets ablaze<br>
 
 <strong>Repeat Chorus</strong><br>
- 
+<figure>
+ <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> JJ College Song</a>
+</figure>	 
+	
+	
 <h4><strong>JJ Spirit Song</strong></h4><br>
 JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
