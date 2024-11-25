@@ -87,13 +87,12 @@ Forged in our College days<br>
 And in our eyes the light of truth<br>
 This College sets ablaze<br></p>
 
-<p><strong>Repeat Chorus</strong><br></p></center>
-<p></p><figure>
-<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a></figure>	 <p></p>
+<p><strong>Repeat Chorus</strong><br></p>
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a> <p></p>
 
 	
 <br>	
-<center><h4><strong>JJ Spirit Song</strong></h4>
+<h4><strong>JJ Spirit Song</strong></h4>
 <p>JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
@@ -122,8 +121,7 @@ Sincere and always true<br></p>
 </figure></center>
 		
 <h4><strong>Milestones</strong></h4>
-<figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe></figure>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe>
 	
 <h4><strong>Photo Gallery</strong></h4>
 <figure>
