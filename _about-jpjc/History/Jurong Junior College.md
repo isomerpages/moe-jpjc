@@ -66,9 +66,7 @@ Much thought went into designing the college crest. The result was a unique silv
 <p>
 During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘<i>Plus Ultra</i>’&nbsp;was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
 </p>
-<p></p><h4><strong><center>College Song</center></strong></h4><p></p>
-
-
+<h4><strong><center>College Song</center></strong></h4>
 <p></p><center>The road unwinds before us<br>
 And we must venture on<br>
 Towards the bright tomorrow<br>
@@ -89,13 +87,13 @@ Forged in our College days<br>
 And in our eyes the light of truth<br>
 This College sets ablaze<br></p>
 
-<p><strong>Repeat Chorus</strong><br></p>
+<p><strong>Repeat Chorus</strong><br></p></center>
 <p></p><figure>
 <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a></figure>	 <p></p>
 
 	
 <br>	
-<h4><strong>JJ Spirit Song</strong></h4>
+<center><h4><strong>JJ Spirit Song</strong></h4>
 <p>JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
@@ -117,7 +115,7 @@ Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
 Sincere and always true<br></p>
 
-<p><strong>Repeat Chorus</strong></p>
+<p><strong>Repeat Chorus</strong></p></center>
 
 <figure>
 <a href="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">JJ Spirit Song mp3</a>
@@ -169,7 +167,7 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></center></div>
+<img src="/images/memory%204.jpg"></figure></div>
 	
 	
 
