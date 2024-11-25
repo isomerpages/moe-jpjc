@@ -95,7 +95,7 @@ This College sets ablaze<br></p>
 <figure>
  <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a>
 </figure>	 
-	
+<br>	
 <p>	</p><h4><strong>JJ Spirit Song</strong></h4><br>
 JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
