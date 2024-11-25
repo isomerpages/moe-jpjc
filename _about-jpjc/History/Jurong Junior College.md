@@ -40,7 +40,7 @@ In 2017, with the announcement of the impending school merger, the college held 
 </p>
 
 	
-<audio autoplay="" style="display:none;" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+
 
 	
 
