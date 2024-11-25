@@ -90,13 +90,12 @@ And in our eyes the light of truth<br>
 This College sets ablaze<br></p>
 
 <p><strong>Repeat Chorus</strong><br></p>
-
-		
 <p></p><figure>
- <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a>
-	</figure>	 <p></p>
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a></figure>	 <p></p>
+
+	
 <br>	
-<p>	</p><h4><strong>JJ Spirit Song</strong></h4><br><p></p>
+<h4><strong>JJ Spirit Song</strong></h4>
 <p>JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
@@ -118,11 +117,11 @@ Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
 Sincere and always true<br></p>
 
-<p><strong>Repeat Chorus</strong></p></center><p></p>
+<p><strong>Repeat Chorus</strong></p>
 
-<p></p><figure>
+<figure>
 <a href="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">JJ Spirit Song mp3</a>
-</figure><p></p>
+</figure>
 		
 <h4><strong>Milestones</strong></h4>
 <figure>
@@ -170,7 +169,7 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></div>
+<img src="/images/memory%204.jpg"></figure></center></div>
 	
 	
 
