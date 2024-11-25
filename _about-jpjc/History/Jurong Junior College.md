@@ -92,16 +92,16 @@ This College sets ablaze<br></p>
 <p><strong>Repeat Chorus</strong><br></p>
 
 		
-<figure>
+<p></p><figure>
  <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a>
-</figure>	 
+	</figure>	 <p></p>
 <br>	
-<p>	</p><h4><strong>JJ Spirit Song</strong></h4><br>
-JJ Spirit fills the air and lightens up our hearts<br>
+<p>	</p><h4><strong>JJ Spirit Song</strong></h4><br><p></p>
+<p>JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
 There’s a feeling for me and you<br>
-	In everything we do<br><p></p>
+	In everything we do<br></p>
 
 <p><strong>Chorus</strong><br></p>
 <p>JJ you made my life complete<br>
