@@ -128,6 +128,10 @@ Sincere and always true<br>
 
 <strong>Repeat Chorus</strong></center>
 
+<figure>
+ <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_lin"> JJ Spirit Song</a>
+</figure>		
+		
 <h4><strong>Milestones</strong></h4>
 <figure>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe></figure>
@@ -177,11 +181,10 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <img src="/images/memory%204.jpg"></figure></ul></div>
 	
 	
-<figure>
-  <figcaption>JJ Spirit:</figcaption>
- <audio autoplay="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_lin"></audio>
-  <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_lin"> Download audio </a>
-</figure>
+
+
+
+
 
 <p hidden="">	
 <audio controls="autoplay" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
