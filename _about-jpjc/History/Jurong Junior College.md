@@ -38,37 +38,6 @@ Mission: Nurturing confident learners with a global outlook. Developing leaders 
 <p>
 In 2017, with the announcement of the impending school merger, the college held a Homecoming event which coincided with the JJ pioneer batch’s reunion. To mark the cessation of operations at 800 Corporation Road, 2018 culminated with Curtain Call: Our Final Homecoming @ Jurong, which saw some 5000 members of the extended JJ family returning to bid a fond farewell to the college.
 </p>
-
-	
-
-<p hidden="">		
-<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link">song</a>
-
-</p><p hidden="">	
-<audio controls="" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
-JJ School Song</p><p></p>	
-	
-
-<p hidden="">	
-<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
-JJ Spirit</p>	
-	
-
-	
-<p hidden="">JJ School Song
-https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
-JJ Spirit	
-https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
-</p>
-
-	
-	
-	
-	
-	
-	
-	
-	
 <p>
 Principals:</p>
 	<ul>
@@ -77,16 +46,16 @@ Principals:</p>
 		<li>Ms Ching Ah Kim (1994-2002)</li>
 		<li>Mr. Koh Yong Chiah (2003-2009)</li>
 		<li>Ms Tay Lai Ling (2010-2015)</li>
-		<li>Dr Hang Kim Hoo (2016-2018)</li>
+		<li>Dr Hang Kim Hoo (2016-2018)</li></ul>
 
 <figure>
 <h4><strong>JJ Heritage Video</strong></h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></figure>
 
-<h4><strong>Motto</strong></h4>
-Plus Ultra
+<p></p><h4><strong>Motto</strong></h4><p></p>
+<p>Plus Ultra</p>
 
-<h4><strong>Crest</strong></h4>
+<p></p><h4><strong>Crest</strong></h4><p></p>
 
 <img src="/images/original%20crest.jpg" style="width:25%">
 
@@ -97,61 +66,62 @@ Much thought went into designing the college crest. The result was a unique silv
 <p>
 During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘<i>Plus Ultra</i>’&nbsp;was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
 </p>
-
-
 <h4><strong><center>College Song</center></strong></h4>
-
-
-<center>The road unwinds before us<br>
+<p></p><center>The road unwinds before us<br>
 And we must venture on<br>
 Towards the bright tomorrow<br>
 Which faith and hope enthrone<br>
 We shall not stay nor linger<br>
 We shall not shrink nor fail<br>
 But hand in hand together<br>
-Strike out along the trail
+Strike out along the trail<br><p></p>
+<p><strong>Chorus</strong><br></p>
 
-<strong>Chorus</strong>
-
-Head, heart and hand we offer<br>
+<p>Head, heart and hand we offer<br>
 That none will fail the test<br>
 “Plus Ultra” leads us farther<br>
-Until we are the best
+Until we are the best<br></p>
 
-And on our backs the armour<br>
+<p>And on our backs the armour<br>
 Forged in our College days<br>
 And in our eyes the light of truth<br>
-This College sets ablaze
+This College sets ablaze<br></p>
 
-<strong>Repeat Chorus</strong>
- 
+<p><strong>Repeat Chorus</strong><br></p>
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a> <p></p>
+
+	
+<br>	
 <h4><strong>JJ Spirit Song</strong></h4>
-JJ Spirit fills the air and lightens up our hearts<br>
+<p>JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
 There’s a feeling for me and you<br>
-In everything we do
+	In everything we do<br></p>
 
-<strong>Chorus</strong><br>
-	JJ you made my life complete<br>
+<p><strong>Chorus</strong><br></p>
+<p>JJ you made my life complete<br>
 And taught us always be at best in what we do,<br>
 To strive and never rest<br>
 JJ spirit will always be there,<br>
-JJ spirit will be there
+JJ spirit will be there<br></p>
 
-Your wealth and colour of your skin<br>
+<p>Your wealth and colour of your skin<br>
 We don’t really care<br>
 Cos with brotherly love we will<br>
 We will always share<br>
 Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
-Sincere and always true
+Sincere and always true<br></p>
 
-<strong>Repeat Chorus</strong></center>
+<p><strong>Repeat Chorus</strong></p>
 
-<h4><strong>Milestones</strong></h4>
 <figure>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe></figure>
+<a href="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">JJ Spirit Song mp3</a>
+</figure></center>
+		
+<h4><strong>Milestones</strong></h4>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQBGq60BHtaZTEsNlhKUTkaAYtRj73k-oiUXiT5-UlomjSEgxg2_LMiToh2eTorBF8OM2SdS5oW8vD1/pub?embedded=true" width="800px" height="630px" scrolling="no"></iframe>
 	
 <h4><strong>Photo Gallery</strong></h4>
 <figure>
@@ -195,4 +165,29 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></ul></div>
+<img src="/images/memory%204.jpg"></figure></div>
+	
+	
+
+
+
+
+
+<p hidden="">	
+<audio controls="autoplay" src="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"></audio>
+JJ School Song</p><p></p>	
+	
+
+<p hidden="">	
+<a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link">song</a>
+
+</p><p hidden="">	
+<audio autoplay="" controls="" src="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"></audio>
+JJ Spirit</p>	
+	
+<p hidden="">	
+</p><p hidden="">JJ School Song
+https://drive.google.com/file/d/1jbW6isf6P7OEtVxzRuwwfmumEMcszvdl/view?usp=drive_link	
+JJ Spirit	
+https://drive.google.com/file/d/15RQefLMdVZhjdP9umxMnwRxPKyvL4B7m/view?usp=drive_link	
+</p>
