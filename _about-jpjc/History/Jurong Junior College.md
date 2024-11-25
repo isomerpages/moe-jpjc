@@ -120,9 +120,9 @@ Sincere and always true<br></p>
 
 <p><strong>Repeat Chorus</strong></p></center><p></p>
 
-<figure>
+<p></p><figure>
 <a href="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">JJ Spirit Song mp3</a>
-</figure>		<p></p>
+</figure><p></p>
 		
 <h4><strong>Milestones</strong></h4>
 <figure>
