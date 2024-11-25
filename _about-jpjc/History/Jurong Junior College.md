@@ -46,16 +46,16 @@ Principals:</p>
 		<li>Ms Ching Ah Kim (1994-2002)</li>
 		<li>Mr. Koh Yong Chiah (2003-2009)</li>
 		<li>Ms Tay Lai Ling (2010-2015)</li>
-		<li>Dr Hang Kim Hoo (2016-2018)</li>
+		<li>Dr Hang Kim Hoo (2016-2018)</li></ul>
 
 <figure>
 <h4><strong>JJ Heritage Video</strong></h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFK7gzT4BJo" title="JJ Heritage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></figure>
 
-<h4><strong>Motto</strong></h4>
-Plus Ultra
+<p></p><h4><strong>Motto</strong></h4><p></p>
+<p>Plus Ultra</p>
 
-<h4><strong>Crest</strong></h4>
+<p></p><h4><strong>Crest</strong></h4><p></p>
 
 <img src="/images/original%20crest.jpg" style="width:25%">
 
@@ -66,33 +66,31 @@ Much thought went into designing the college crest. The result was a unique silv
 <p>
 During the rebranding exercise in the early 2000s, green became the principle colour for practical purposes. The crest, with concentric arcs depicted the two ‘J’s and the dot completed the letter ‘J’. Together, they formed the shape of a teardrop signifying the ‘effort’ and ‘toil’ of all in the college to attain their desired outcomes. The colour green captured the spirit of youthful enthusiasm, energy and dynamism, essential ingredients for achievement and progress. With achievement and progress being enduring buzz words of the educational landscape, the college’s motto not only reinforced these ideas but encouraged students to keep aiming for the stars and never resting on their laurels—hence the Latin ‘<i>Plus Ultra</i>’&nbsp;was chosen as JJ’s motto - ‘This Far and Farther’ in English. A perennially relevant motto, the English translation was further refined to a more pithy ‘Further Beyond’.
 </p>
-
-<p>
-</p><h4><strong><center>College Song</center></strong></h4>
+<p></p><h4><strong><center>College Song</center></strong></h4><p></p>
 
 
-<center>The road unwinds before us<br>
+<p></p><center>The road unwinds before us<br>
 And we must venture on<br>
 Towards the bright tomorrow<br>
 Which faith and hope enthrone<br>
 We shall not stay nor linger<br>
 We shall not shrink nor fail<br>
 But hand in hand together<br>
-Strike out along the trail<br>
+Strike out along the trail<br><p></p>
 
-<strong>Chorus</strong><br>
+<p><strong>Chorus</strong><br></p>
 
-Head, heart and hand we offer<br>
+<p>Head, heart and hand we offer<br>
 That none will fail the test<br>
 “Plus Ultra” leads us farther<br>
-Until we are the best<br>
+Until we are the best<br></p>
 
-And on our backs the armour<br>
+<p>And on our backs the armour<br>
 Forged in our College days<br>
 And in our eyes the light of truth<br>
-This College sets ablaze<br>
+This College sets ablaze<br></p>
 
-<strong>Repeat Chorus</strong><br><p></p>
+<p><strong>Repeat Chorus</strong><br></p>
 
 		
 <figure>
@@ -174,7 +172,7 @@ Click&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1004999109613821&a
 <h5><strong>JJ Gallery</strong></h5>
 <img src="/images/memory%203.jpg">
 <h5><strong>Wall Features in JJ</strong></h5>
-<img src="/images/memory%204.jpg"></figure></ul></div>
+<img src="/images/memory%204.jpg"></figure></div>
 	
 	
 
