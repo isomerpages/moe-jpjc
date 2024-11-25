@@ -93,7 +93,7 @@ And in our eyes the light of truth<br>
 This College sets ablaze<br>
 
 <strong>Repeat Chorus</strong><br><p></p>
-		
+<img src="/images/About%20JPJC/History/note.jpg">	
 		
 <figure>
  <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> JJ College Song</a>
