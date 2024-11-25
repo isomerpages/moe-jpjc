@@ -77,7 +77,6 @@ We shall not stay nor linger<br>
 We shall not shrink nor fail<br>
 But hand in hand together<br>
 Strike out along the trail<br><p></p>
-
 <p><strong>Chorus</strong><br></p>
 
 <p>Head, heart and hand we offer<br>
@@ -97,30 +96,29 @@ This College sets ablaze<br></p>
  <a href="https://drive.google.com/file/d/1VuDxcZqNDJI6d_WtQZ5Jhu8PHOmsHdJ3/view?usp=drive_link"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">	JJ College Song mp3</a>
 </figure>	 
 	
-<p>	
-</p><h4><strong>JJ Spirit Song</strong></h4><br>
+<p>	</p><h4><strong>JJ Spirit Song</strong></h4><br>
 JJ Spirit fills the air and lightens up our hearts<br>
 There’s a sense of happiness cos we have done our part<br>
 The fun and laughter we had together have made our dreams come true<br>
 There’s a feeling for me and you<br>
-In everything we do<br>
+	In everything we do<br><p></p>
 
-<strong>Chorus</strong><br>
-	JJ you made my life complete<br>
+<p><strong>Chorus</strong><br></p>
+<p>JJ you made my life complete<br>
 And taught us always be at best in what we do,<br>
 To strive and never rest<br>
 JJ spirit will always be there,<br>
-JJ spirit will be there<br>
+JJ spirit will be there<br></p>
 
-Your wealth and colour of your skin<br>
+<p>Your wealth and colour of your skin<br>
 We don’t really care<br>
 Cos with brotherly love we will<br>
 We will always share<br>
 Disciplined we always must be devoted and loyal be<br>
 We take pride in the things we do<br>
-Sincere and always true<br>
+Sincere and always true<br></p>
 
-<strong>Repeat Chorus</strong></center><p></p>
+<p><strong>Repeat Chorus</strong></p></center><p></p>
 
 <figure>
 <a href="https://drive.google.com/file/d/1BefyCVVV3eoal8GVNnRorRKZGw9zbjXe/view?usp=sharing"> <img style="width:5%" src="/images/About%20JPJC/History/note.jpg">JJ Spirit Song mp3</a>
