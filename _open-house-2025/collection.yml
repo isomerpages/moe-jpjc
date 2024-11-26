@@ -2,4 +2,5 @@ collections:
   open-house-2025:
     output: true
     order:
+      - Dynamic JP experiences.md
       - Open House 2025.md
