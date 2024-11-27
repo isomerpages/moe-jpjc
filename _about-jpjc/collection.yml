@@ -2,6 +2,7 @@ collections:
   about-jpjc:
     output: true
     order:
+      - Open House 2025/.keep
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
