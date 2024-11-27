@@ -2,4 +2,5 @@ collections:
   outdated-open-house:
     output: true
     order:
+      - 2024/.keep
       - 2023/.keep
