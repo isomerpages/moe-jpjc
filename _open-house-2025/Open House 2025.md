@@ -10,10 +10,11 @@ description: ""
 <a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/biology/"><img src="/images/Open%20House%202025/Info.gif"></a>
 <center><strong>Information Sheet</strong></center>
 </div>
+
 <div class="column">	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20House%202025/subject.gif"></a>
-<center><strong>Subject Combination</strong></center>
-</div></div>
+<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20House%202025/cocurriculum.gif"></a>
+<center><strong>Co-Curriculum</strong></center>
+</div>	</div>
 
 <div class="row">
 <div class="column">	
@@ -21,8 +22,7 @@ description: ""
 <center><strong>Curriculum</strong></center>
 </div>
 
-
 <div class="column">	
-<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img src="/images/Open%20House%202025/cocurriculum.gif"></a>
-<center><strong>Co-Curriculum</strong></center>
-</div>	</div>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img src="/images/Open%20House%202025/subject.gif"></a>
+<center><strong>Subject Combination</strong></center>
+</div></div>	
