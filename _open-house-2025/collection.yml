@@ -2,7 +2,6 @@ collections:
   open-house-2025:
     output: true
     order:
-      - Open House 2025.md
       - Dynamic JP experiences.md
       - Virtual campus tour.md
       - Getting to JPJC.md
