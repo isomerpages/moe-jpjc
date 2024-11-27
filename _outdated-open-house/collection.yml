@@ -1,0 +1,4 @@
+collections:
+  outdated-open-house:
+    output: true
+    order: []
