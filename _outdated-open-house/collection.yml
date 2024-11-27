@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - 2024/.keep
+      - 2023/Frequently Asked Questions (FAQs).md
       - 2023/.keep
