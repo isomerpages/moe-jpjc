@@ -7,14 +7,14 @@ description: ""
 <div align="justify">
 
 
-<h4><b> 3 ways to get to JPJC</b></h4><h4>
+<h4><b> 3 ways to get to JPJC</b></h4>
 
 	
 	
 <p>#1: From Bukit Panjang MRT</p>
-<ul>Enter Hillion Mall
-<ul>Take bus 975 from the bus interchange
-<ul>Alight at the 3rd stop and cross the road</ul>
+	<ul><li>Enter Hillion Mall</li>
+<li>Take bus 975 from the bus interchange</li>
+<li>	Alight at the 3rd stop and cross the road</li></ul>
 Cut through Blocks 5 and 6 and walk in along Teck Whye Walk
 (Alternatively, walk to Pang Sua PCN beside Junction 10 and follow route #3)
 #2: Choa Chu Kang Bus Interchange/Lot One
@@ -26,4 +26,4 @@ Walk in along Teck Whye Walk
 Walk along the PCN until a mini shelter is spotted
 Walk up the slope
 Turn right to enter JPJC
-</ul></ul></h4></div>
+</div>
