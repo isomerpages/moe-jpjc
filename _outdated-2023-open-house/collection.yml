@@ -2,5 +2,4 @@ collections:
   outdated-2023-open-house:
     output: true
     order:
-      - Hear from our JPJC Family.md
       - JPJC Open House 2023.md
