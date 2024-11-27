@@ -2,5 +2,4 @@ collections:
   open-house-2025:
     output: true
     order:
-      - Virtual campus tour.md
       - Getting to JPJC.md
