@@ -2,7 +2,6 @@ collections:
   outdated-2023-open-house:
     output: true
     order:
-      - Niche Programmes.md
       - Subject Information.md
       - Vibrant Student Culture.md
       - Hear from our JPJC Family.md
