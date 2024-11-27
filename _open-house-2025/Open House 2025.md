@@ -12,17 +12,17 @@ description: ""
 </div>
 
 <div class="column">	
-<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img style="width:80%" src="/images/Open%20House%202025/cocurriculum.gif"></a>
+<a href="https://www.jpjc.moe.edu.sg/humanities-and-the-arts/economics/"><img style="width:80%" src="/images/Open%20House%202025/cocurriculum1.gif"></a>
 <center><strong>Co-Curriculum</strong></center>
 </div>	</div>
 
 <div class="row">
 <div class="column">	
-<a href="https://sites.google.com/view/jpcomputingexperience/"><img style="width:80%" src="/images/Open%20House%202025/curriculum.gif"></a>
+<a href="https://sites.google.com/view/jpcomputingexperience/"><img style="width:80%" src="/images/Open%20House%202025/curriculum1.gif"></a>
 <center><strong>Curriculum</strong></center>
 </div>
 
 <div class="column">	
-<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img style="width:80%" src="/images/Open%20House%202025/subject.gif"></a>
+<a href="https://www.jpjc.moe.edu.sg/mathematics-and-sciences/chemistry/"><img style="width:80%" src="/images/Open%20House%202025/subject1.gif"></a>
 <center><strong>Subject Combination</strong></center>
 </div></div>
