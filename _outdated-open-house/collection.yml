@@ -2,6 +2,7 @@ collections:
   outdated-open-house:
     output: true
     order:
+      - 2024/WHYJP.md
       - 2024/.keep
       - 2023/JPJC Open House 2023.md
       - 2023/Hear from our JPJC Family.md
