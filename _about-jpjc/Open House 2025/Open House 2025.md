@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
+<p>Under Construction</p>
+<div hidden="">
 <div class="row">
 
 <div class="column">	
@@ -28,4 +30,4 @@ third_nav_title: Open House 2025
 <div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/"><img style="width:80%" src="/images/Open%20House%202025/Cocurri.png">
 <center><h4><strong>Co-Curriculum</strong></h4></center></a>
-</div></div>
+</div></div></div>
