@@ -39,10 +39,10 @@ Scholarship recipients will also be strongly encouraged to participate in a hand
 	
 	
 
-	
+
 	
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Biology/Enrichment%20Programmes/Enrichment.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/Physics.jpg">
 Enrichment programmes organised for students
 </figure>	
 
