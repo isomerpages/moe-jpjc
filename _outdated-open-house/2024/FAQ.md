@@ -3,7 +3,7 @@ title: FAQ
 permalink: /about-jpjc/open-house-2024/faq/
 variant: markdown
 description: JPJC Open House 2024 FAQ
-third_nav_title: Open House 2024
+third_nav_title: "2024"
 ---
 <div align="justify">
 

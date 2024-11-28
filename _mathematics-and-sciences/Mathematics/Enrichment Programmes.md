@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-<img src="/images/Curriculum/Maths/Maths_Enrichment.jpg">
-
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Maths%20and%20Further%20Maths/Maths_Enrichment.jpg">
 
 
 

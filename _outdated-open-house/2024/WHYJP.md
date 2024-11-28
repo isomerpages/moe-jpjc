@@ -3,7 +3,7 @@ title: WHYJP
 permalink: /about-jpjc/open-house-2024/
 variant: markdown
 description: JPJC Open House 2024
-third_nav_title: Open House 2024
+third_nav_title: "2024"
 ---
 <div align="justify">
 

@@ -3,7 +3,7 @@ title: Subjects
 permalink: /about-jpjc/open-house-2024/subjects/
 variant: markdown
 description: ""
-third_nav_title: Open House 2024
+third_nav_title: "2024"
 ---
 <div align="justify">
 <h3><center>Find out more about the wide range of subjects offered at JPJC here!</center></h3>

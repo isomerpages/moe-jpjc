@@ -3,7 +3,7 @@ title: Hear from the JP Fam
 permalink: /about-jpjc/open-house-2024/hear/
 variant: markdown
 description: JPJC Open House 2024 Hear from the JP Fam
-third_nav_title: Open House 2024
+third_nav_title: "2024"
 ---
 <div align="justify">
 

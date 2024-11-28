@@ -3,6 +3,7 @@ title: JPJC Open House 2023
 permalink: /permalink/
 description: ""
 variant: markdown
+third_nav_title: "2023"
 ---
 <div align="justify" hidden="">
 
