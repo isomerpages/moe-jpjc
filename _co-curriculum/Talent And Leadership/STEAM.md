@@ -11,7 +11,7 @@ variant: markdown
 	
 <p>JPJC’s STEAM (Science, Technology, Engineering, Arts &amp; Mathematics) Programme provides to develop skills and dispositions in STEAM and empower them to be positive change agent through research and innovation. </p>
 
-<p>The programme adopts a tired approach — <b>Discover, Develop and Excel,</b> to cater to a diverse range of strengths and interests to maximise our students’ potential.  Through purposefully curated learning experiences, students are exposed to emerging trends of their subject disciplines beyond the formal curriculum and apply interdisciplinary thinking and problem-solving skills to authentic situations.</p>
+<p>The programme adopts a tiered approach — <b>Discover, Develop and Excel,</b> to cater to a diverse range of strengths and interests to maximise our students’ potential.  Through purposefully curated learning experiences, students are exposed to emerging trends of their subject disciplines beyond the formal curriculum and apply interdisciplinary thinking and problem-solving skills to authentic situations.</p>
 
 <h3>Mission:</h3>
 <p>To ignite students’ curiosity through exposure and provide them with opportunities to develop their strengths and interests and apply interdisciplinary thinking to be a positive change maker. </p>
