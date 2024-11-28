@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
+<p>Under Construction</p>
+<div hidden="">
 <div align="justify">
 
 	
@@ -31,4 +33,4 @@ third_nav_title: Open House 2025
 <ul><li>Walk along the PCN until a mini shelter is spotted</li>
 <li>Walk up the slope</li>
 <li>Turn right to enter JPJC</li></ul>
-</div>
+</div></div>
