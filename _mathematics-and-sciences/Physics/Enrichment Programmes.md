@@ -34,15 +34,9 @@ Scholarship recipients will also be strongly encouraged to participate in a hand
 <br>Learning Journeys in the Physics Enrichment Programme offer students hands-on exposure to real-world applications of physics. For instance, visits to the NUS Science Demonstration Laboratory engage students with interactive physics experiments, deepening their understanding of core concepts. Meanwhile, exploring the Sembcorp Tengeh Floating Solar Farm allows students to see sustainable energy technology in action, providing insights into solar power generation and environmental impact. These journeys enrich learning by linking classroom knowledge with real-world science and innovation.
 </p>		
 	
-	
-	
-	
-	
-	
-	
-	
 <figure>
-<img src="/images/Curriculum/Physics/Physics.jpg">
+<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Physics/Enrichment%20Programmes/Physics.jpg">Enrichment programmes organised for students
+
 </figure>	
 
 </div>
