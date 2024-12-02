@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Open House 2025
 ---
 <div align="justify">
-<h4><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="287" width="426"></iframe><br>
+<h4><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="300" width="400"></iframe><br>
 Hear about our STEAM, CLEP, and Internationalisation experiences!
 </center></h4><center>
 	
@@ -28,4 +28,3 @@ Hear about our STEAM, CLEP, and Internationalisation experiences!
 
 
 <div hidden=""></div>
-style="width:50%"
