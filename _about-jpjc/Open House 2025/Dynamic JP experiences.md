@@ -6,9 +6,10 @@ description: ""
 third_nav_title: Open House 2025
 ---
 <div align="justify">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="287" width="426"></iframe>
-<p>	
-	Hear about our STEAM, CLEP, and Internationalisation experiences!</p>
+<h4><center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="287" width="426"></iframe><br>
+Hear about our STEAM, CLEP, and Internationalisation experiences!
+</center></h4><center>
+	
 
 <p>A trip down memory lane: Nov 2024 Australia trip vlog</p>
  
@@ -18,10 +19,11 @@ third_nav_title: Open House 2025
 
 <p> Hear from our Taekwondo, Dance and Mathematics Interest Group 	
 	
-</p></div>
+</p></center></div>
 
 
-
+<h4><center>Have a vicarious experience of a day in the lives of JPJC students!</center></h4>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z9U1hcVUypE?si=K0SL3hKwJtNP8QcY" width="100%" height="300"></iframe>	
 
 
 
