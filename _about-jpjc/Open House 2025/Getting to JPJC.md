@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
-
 <div align="justify">
 
 	
@@ -14,6 +13,12 @@ third_nav_title: Open House 2025
 	
 
 <h4><b> 3 ways to get to JPJC</b></h4>
+	
+	
+	
+	
+	
+	
 	
 <p><b>#1: From Bukit Panjang MRT</b></p>
 <ul><li>Enter Hillion Mall</li>
