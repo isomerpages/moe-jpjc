@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
-
-
 <div align="justify">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="861" width="1280"></iframe>
+<iframe style="width:50%" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="861" width="1280"></iframe>
 <p>	
 	Hear about our STEAM, CLEP, and Internationalisation experiences!</p>
 
