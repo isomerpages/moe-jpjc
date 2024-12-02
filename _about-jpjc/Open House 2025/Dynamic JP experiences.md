@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
-<p>Under Construction</p>
-<div hidden="">
+
 
 <div align="justify">
-	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Hear about our STEAM, CLEP, and Internationalisation experiences!" src="https://www.youtube.com/embed/stT5YX4NWno" height="861" width="1280"></iframe>
 <p>	
 	Hear about our STEAM, CLEP, and Internationalisation experiences!</p>
 
@@ -21,4 +20,11 @@ third_nav_title: Open House 2025
 
 <p> Hear from our Taekwondo, Dance and Mathematics Interest Group 	
 	
-</p></div></div>
+</p></div>
+
+
+
+
+
+
+<div hidden=""></div>
