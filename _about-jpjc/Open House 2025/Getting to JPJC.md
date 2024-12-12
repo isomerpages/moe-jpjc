@@ -7,19 +7,10 @@ third_nav_title: Open House 2025
 ---
 <div align="justify">
 
-	
-	
-	
-	
-
 <h4><center><b> 3 ways to get to JPJC</b></center></h4>
 	
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="3 ways to get to JPJC" src="https://www.youtube.com/embed/OxLo-3_dDSI?list=PLy23vpX6y8CphRsVCYjaKK7q_rx7o4UB-" height="300" width="100%"></iframe>
-	
-	
-	
-	
-	
+
 <p><b>#1: From Bukit Panjang MRT</b></p>
 <ul><li>Enter Hillion Mall</li>
 <li>Take bus 975 from the bus interchange</li>
