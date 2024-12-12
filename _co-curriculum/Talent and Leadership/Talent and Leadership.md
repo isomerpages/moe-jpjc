@@ -2,7 +2,7 @@
 title: Talent and Leadership
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership/
 description: ""
-third_nav_title: Talent And Leadership
+third_nav_title: Talent and Leadership
 variant: markdown
 ---
 <div align="justify">

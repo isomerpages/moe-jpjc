@@ -2,9 +2,9 @@
 title: Arts and Aesthetics
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-aesthetics/
 description: ""
-third_nav_title: Talent And Leadership
+third_nav_title: Talent and Leadership
 ---
-<div align=justify>
+<div align="justify">
 <h2>
 Objectives:</h2>
 <ul>
@@ -12,7 +12,7 @@ Objectives:</h2>
 	<li>To develop students’ potential for creativity and expression through the arts.</li>
 	<li>Through arts education, students will be empowered by the arts and grow to be confident, articulate and creative adults who will contribute as active citizens to the community.</li></ul>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width=800px height=470px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width="800px" height="470px" scrolling="no"></iframe>
 
 <center><h3>2022</h3></center>
 <figure>
@@ -58,5 +58,5 @@ Objectives:</h2>
 <a href="http://tinyurl.com/Artsyfacts-2021-3">Issue 3</a></p>
 
 <p>
-JPJC Arts & Aesthetics Instagram Page<br>
-	<a href="https://www.instagram.com/artsyjpjc/">Artsy@JPJC</a></p>
+JPJC Arts &amp; Aesthetics Instagram Page<br>
+	<a href="https://www.instagram.com/artsyjpjc/">Artsy@JPJC</a></p></figure></figure></div>
