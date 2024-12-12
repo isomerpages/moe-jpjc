@@ -14,7 +14,7 @@ third_nav_title: Open House 2025
 
 <h4><b> 3 ways to get to JPJC</b></h4>
 	
-https://www.youtube.com/embed/OxLo-3_dDSI?list=PLy23vpX6y8CphRsVCYjaKK7q_rx7o4UB-	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="3 ways to get to JPJC" src="https://www.youtube.com/embed/OxLo-3_dDSI?list=PLy23vpX6y8CphRsVCYjaKK7q_rx7o4UB-" height="300" width="100%"></iframe>
 	
 	
 	
