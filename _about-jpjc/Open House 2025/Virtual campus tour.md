@@ -10,6 +10,6 @@ third_nav_title: Open House 2025
 	
 <p>Snippets of the conducive learning environment we have</p></div>
 
-https://www.youtube.com/embed/kOtHLRBE3bw?list=PLy23vpX6y8CphRsVCYjaKK7q_rx7o4UB-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Virtual campus tour" src="https://www.youtube.com/embed/kOtHLRBE3bw?list=PLy23vpX6y8CphRsVCYjaKK7q_rx7o4UB-" height="300" width="100%"></iframe>
 
 <div hidden=""></div>
