@@ -40,7 +40,7 @@ All students are expected to play an active role in their CCAs for their develop
 <div class="column">
 <a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a>
 		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Open%20house%202024/CCA/Eco_Club.png"></a>
-		<a href="https://www.instagram.com/infocommclubjp/"><img alt="InfoComm Club" src="/images/Open%20house%202024/CCA/InfoComm_Club.png"></a></div>
+		<a href="https://www.instagram.com/jpjc_infocomm/"><img alt="InfoComm Club" src="/images/Open%20house%202024/CCA/InfoComm_Club.png"></a></div>
 
 	
 	
