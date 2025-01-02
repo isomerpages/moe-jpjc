@@ -8,7 +8,7 @@ variant: markdown
 	
 <h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
 
-<p>We are pleased to invite applications to apply for a <b><u>Canteen Halal Cuisine Stall</u></b> from the 1 Jan to 31 Dec 2025.</p>
+<p>We are pleased to invite applications to apply for a <b><u>Canteen Halal Cuisine Stall</u></b> from the 1 February to 31 December 2025.</p>
 
 <p><u>Interested applicants must meet the following Criteria</u>:</p>
 <ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall
@@ -32,20 +32,21 @@ Food Hygiene Certificate.</li>
 <ul><li>Provide full list of food items and their prices together with your application
 submission. Meals include portion of fruits.</li></ul>
 	
-<p><u>Application</u>:
-
-Please click this <a href="/files/Partnerships/Canteen/Canteen_application_form_Muslim_Cuisine_Stall_for_year_2025__FormBF7.pdf">link </a>for the softcopy of the application form. Alternatively, you may also request for a hardcopy of the form at the General Office, Jurong Pioneer
-Junior College from 19 October 2024 onwards.<br>
-	
-Application form with all necessary documents must be attached.<br>
-Incomplete forms will be rejected.<br>
+<p><u>Application</u>:</p>
+<p>Application forms are available on the MOE website
+<a href="https://schadmsvc.moe.gov.sg">(https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
+Junior College from 3 January 2025.
+Application form with all necessary documents must be attached.
+Incomplete forms will be rejected.
 For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
-telephone no. 6564 6878 extension 202.</p>
+telephone no. 6564 6878 extension 202.
+
+
 	
 	
-<p><u>Application will close on 13 December 2024</u>:<br>
+</p><p><u>Application will close on 13 Janurary 2025</u>:<br>
 Application Form, duly complied must be submitted to the General Office,
-	Jurong Pioneer JC <u>no later than 13 December 2024 before noon.</u> <br>Late
+	Jurong Pioneer JC <u>no later than 13 Janurary 2025 before noon.</u> Late
 application will not be considered.</p>
 
 	
@@ -58,6 +59,8 @@ canteen committee at own expense.</p>
 </p><ul><li>Food stall license from Singapore Food Agency (SFA).</li>
 <li>Utilities service - SP services for gas and water &amp; Senoko Energy for
 	electricity. </li></ul><p></p>
+	
+	
 	
 	
 	
