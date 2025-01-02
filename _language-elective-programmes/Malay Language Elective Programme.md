@@ -35,19 +35,18 @@ In line with our mission to develop Malay scholars who are ‘Advocates of Human
 The Graduation Showcase is an annual performance by the JC2 MLEP students. After an enriching year in MLEP, the showcase is a culmination of their involvement and experience. Led by students and supported by teachers, the showcase is a theatre performance, incorporating acting, singing and dancing. The performance is an important aspect of their appreciation of the Malay arts and culture.</p>
 
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP01.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP01.jpeg">
 	<figcaption>Exploring forum theatre for the 2023 graduation showcase</figcaption></figure>
-
 <h3>MOE Overseas Immersion Trip</h3>
 	
 <p>Each year, MOE CPDD organises a MLEP Overseas Immersion Trip for all MLEP students from the five MLEP centres. Not only do they get the opportunity to delve deeper into Malay literature, language, and culture, but participating in a trip with other MLEP students provides holistic and enriching learning experiences, encompassing academic, cultural, and personal growth for our students.</p>
 	
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP02.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP02.jpeg">
 	<figcaption>Sending our MLEP students for their immersion programme</figcaption></figure>
 	
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP03.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP03.jpeg">
 	<figcaption>A picture with our host for the day</figcaption></figure>
 	
 <h3>Other College-based MLEP enrichment programmes</h3>
@@ -55,11 +54,11 @@ The Graduation Showcase is an annual performance by the JC2 MLEP students. After
 <p>Our MLEP students are exposed to a wide variety of weekly college-based activities such as song writing, creative writing, dikir barat as well as joint CLEP-MLEP enrichment programme, etc.</p>
 
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP04.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP04.jpeg">
 	<figcaption>Song Writing Workshop with Mohamed Khair Mohamed Yasin</figcaption></figure>
 	
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP05.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP05.jpeg">
 	<figcaption>Introduction to Dikir Barat and Malay drums</figcaption></figure>
 	
 <h3>JC2 LEP Graduation Ceremony</h3>
@@ -67,11 +66,11 @@ The Graduation Showcase is an annual performance by the JC2 MLEP students. After
 <p>Annually, a JC2 LEP Graduation Ceremony is held to say goodbye to the graduating JC2 MLEP class. During this event, they will receive a JPJC MLEP Portfolio as a symbol marking the conclusion of their rewarding journey.</p>
 
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP06.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP06.jpeg">
 	<figcaption>Class of 2023-JC2 MLEP Graduands</figcaption></figure>
 	
 <figure>
-	<img src="/images/Curriculum/MLEP/MLEP07.jpeg">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP07.jpeg">
 	<figcaption>Our MLEP President reflects on their MLEP journey</figcaption></figure>
 	
 <h3>Malay Heritage Centre Student Guides Programme</h3>

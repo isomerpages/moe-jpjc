@@ -24,8 +24,8 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 <p>It is also a great opportunity to connect with fellow scholars from the other four CLEP centres, forming friendships that make this experience unforgettable.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep1.png">
-	<figcaption>MOE Overseas Immersion Trip</figcaption></figure>
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep1.png">
+<figcaption>MOE Overseas Immersion Trip</figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 </p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep2.png">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep2.png">
 	<figcaption>MOE CLEP Camp</figcaption></figure>
 
 <h4><b>3. Weekly college-based enrichment</b></h4>
@@ -45,7 +45,7 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 </p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep3.png">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep3.png">
 	<figcaption>Weekly college based CLEP programmes</figcaption></figure>
 	
 
@@ -55,7 +55,7 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 <p>At the end of each academic year, we hold a meaningful Graduation Ceremony for our JC2 CLEP and MLEP students. This event serves as a farewell and a recognition of their hard work and achievements. Graduates will receive a certificate of recognition from MOE, along with a commemorative booklet from the college, celebrating the culmination of their enriching journey.</p>
 
 <figure>
-<img src="/images/Curriculum/CLEP/Clep4.png">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep4.png">
 <figcaption>JC2 Graduation Ceremony</figcaption></figure>
 
 	
@@ -72,7 +72,7 @@ In 2015, the Mother Tongue Languages (MTL) department of JJC, in collaboration w
 Each year, our CLEP students actively contribute to the event's success behind the scenes. Many have blossomed into budding songwriters, achieving notable recognition in recent competitions. In 2022, two songs, "知多知少" and "筑梦," received 1st and 2nd runner-up awards, while “永远的蝴蝶” earned a Merit Award in 2023. In 2024, our students achieved even greater success, with "他们说" crowned champion and "肆意奔跑" receiving the 2nd runner-up award, while "这一路走来" was honored with a Merit Award.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep5.png">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep5.png">
 	<figcaption>新空下” National Schools Xinyao Festival</figcaption></figure>
 	
 
@@ -82,7 +82,7 @@ Each year, our CLEP students actively contribute to the event's success behind t
 <p>The official Instagram account for JPJC CLEP (<a href="https://www.instagram.com/jpjc.clep/?hl=en">@jpjc.clep</a>) was established in 2020 to provide an engaging insight into the vibrant experiences and diverse journeys of our students. Through this platform, we share highlights of their academic achievements, creative projects, and extracurricular activities, fostering a sense of community and connection among current and prospective students.	</p>
 	
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep6.png">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep6.png">
 	<figcaption>JPJC CLEP Official Instagram account</figcaption></figure>
 	
 
@@ -92,7 +92,7 @@ Each year, our CLEP students actively contribute to the event's success behind t
 Internship opportunities are available for CLEP students at various esteemed organizations, including Singapore Press Holdings, The Theatre Practice, NUS, NTU, Lingzi Media, Wawa Pictures, Singapore Chinese Cultural Centre, Nine Years Theatre, as well as assisting at the ‘Meet-the-People’s Session.’ These internships enable students to develop their passions while acquiring essential skills that will enhance their future career prospects.</p>
 
 <figure>
-	<img src="/images/Curriculum/CLEP/Clep7.png">
+	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep7.png">
 	<figcaption>Student Internship Programme</figcaption></figure>
 
 

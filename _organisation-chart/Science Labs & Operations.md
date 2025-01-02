@@ -1,7 +1,8 @@
 ---
-title: Science Labs and Operations
+title: Science Labs & Operations
 permalink: /about/organisation-chart/science-labs-and-operations/
 description: ""
+variant: tiptap
 ---
 <h2>Science Labs</h2>
 

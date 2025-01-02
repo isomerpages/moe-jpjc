@@ -1,5 +1,5 @@
 ---
-title: Administration and Finance
+title: Administration & Finance
 permalink: /about/organisation-chart/administration-and-finance/
 description: ""
 variant: markdown

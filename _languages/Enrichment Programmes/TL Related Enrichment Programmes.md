@@ -18,27 +18,29 @@ As part of Tamil Language learning, students can look forward to authentic and r
 
 <h4><strong>Student Engagement in Tamil Language and Cultural Activities</strong></h4>
 
-<figure>
-<img src="/images/Curriculum/Tamil%20Language/Tamil1.jpg">
-'Vetri Vizha 2023’ for Budding Poets’ Programme - Prize presentation ceremony</figure>
 
+	
+<figure>
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil1.jpg">
+'Vetri Vizha 2023’ for Budding Poets’ Programme - Prize presentation ceremony</figure>
+	
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil2.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil2.jpeg">
 Budding Poets’ Programme - Prize Presentation @JPJC</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil3.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil3.jpeg">
 Prize-winners for Essay Writing competition organised by YIJC (Pre-University Seminar on Tamil Language &amp; Culture)</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil4.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil4.jpeg">
 2nd Prize Winners for Agni Dance Competition 2022 organised by ASRJC</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil5.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil5.jpeg">
 'Indian Art on Canvas’ - activity during MTF</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil6.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil6.jpeg">
  Indian Dance for Biennial Arts Production 2022</figure>
 <figure>	
-<img src="/images/Curriculum/Tamil%20Language/Tamil7.jpeg">
+<img src="/images/JPJC%20Experience/Curriculum/Languages/Enrichment%20Programmes/TL%20Enrichment%20Programmes/Tamil7.jpeg">
  Indian Cultural Activity Booths for RHD &amp; Cross-Cultural experiences during festive celebrations</figure>
 	
 </div>
