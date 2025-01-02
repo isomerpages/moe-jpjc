@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Canteen Advertisements.md
       - College Advisory Committee.md
       - Parent Support Group.md
       - Alumni.md
