@@ -35,7 +35,7 @@ submission. Meals include portion of fruits.</li></ul>
 <p><u>Application</u>:</p>
 <p>Application forms are available on the MOE website
 <a href="https://schadmsvc.moe.gov.sg">(https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer
-Junior College from 3 January 2025.
+Junior College from 2 January 2025.
 Application form with all necessary documents must be attached.
 Incomplete forms will be rejected.
 For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at
