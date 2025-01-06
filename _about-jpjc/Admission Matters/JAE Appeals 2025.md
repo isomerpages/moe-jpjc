@@ -7,12 +7,35 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">
 
-<h5>JAE Appeals 2024</h5><p>The 2024 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <strong>are not eligible </strong>for this exercise.</p><p></p><p>JAE posting results will be released on Thursday, 1 February 2024. Appeals for admission to JPJC will commence on Thursday, 1 February 2024 and end at 02:00 PM on Wednesday, 7 February 2024.</p><p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2024, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p><p>The following table shows the 2024 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</p>
+<p>The 2024 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <strong>are not eligible </strong>for this exercise.</p><p></p><p>JAE posting results will be released on Tuesday, 4 February 2025. Appeals for admission to JPJC will commence on Tuesday, 4 February 2025 and end at 04:00 PM on Friday, 7 February 2025.</p><p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2025, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 	
-<table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2024</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
+<p>All appeals application must be completed online. The online application form can be accessed here. (Portal will be open) during the period of JAE Appeals 2025.</p>
+<p>Only shortlisted candidates will be contacted for an interview.</p>
+<p>All shortlisted candidates will be notified before the end of the appeal period. Candidates are required to bring both the original and a duplicate copy of the following documents:</p>
+-	JAE Form A
+-	Latest O-Level results slip
+-	Secondary school results slips
+-	CCA records
+-	Secondary school testimonial
+-	Other relevant supporting documents<p></p>
 
-<p><b><u>UPDATE:</u></b>
-<br><b>Appeals for admission to JPJC has closed as of 02:00 PM on Wednesday, 7 February 2024.</b></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<p hidden="">The following table shows the 2024 JAE net L1R5 aggregate (after deduction of bonus points) cut-off points for our college.</p>
+	
+<table hidden=""><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2024</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
+
 
 	
 <p hidden="">	
