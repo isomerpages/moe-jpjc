@@ -16,8 +16,28 @@ third_nav_title: Admission Matters
 <p>The JAE application starts from 4pm on Friday, 10 January 2025 and ends at 4pm on Wednesday, 15 January 2025 (tentative). During this period, you must submit your application through the JAE-IS (available 24-hour).
 </p>
 
+<p><b>Cut-off L1R5 Points for Admission into JPJC</b><br>
+The table below shows past L1R5 aggregate cut-off points (after deduction of bonus points) for the Joint Admission Exercise. Please note that student postings are subject to vacancy availability, and not all applicants with the listed L1R5 aggregate scores are successfully posted to JPJC.
+
+	Year	Arts	Science
+2024	15	14
+
+</p><p><b>Students who are successfully posted to JPJC:</b><br>
+If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025 (tentative), dressed in your secondary school uniform. 
+More details will be provided, so keep a lookout on this space for updates.
+
+
+</p><p><b>Selection Tests [Keep a lookout on this space for updates]</b><br>
+1.	H2 Art<br>
+2.	H2 Translation
 	
 	
 	
-</div>	
+	
+	
+	
+	
+	
+	
+</p></div>	
 <p hidden="">Please visit&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE Admissions</a>&nbsp;website&nbsp;for more information.</p>
