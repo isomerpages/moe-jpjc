@@ -23,9 +23,8 @@ The table below shows past L1R5 aggregate cut-off points (after deduction of bon
 2024	15	14
 
 </p><p><b>Students who are successfully posted to JPJC:</b><br>
-If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025 (tentative), dressed in your secondary school uniform. 
-More details will be provided, so keep a lookout on this space for updates.
-
+If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025 (tentative), dressed in your secondary school uniform. <br>
+<b>	More details will be provided, so keep a lookout on this space for updates.</b><br>
 
 </p><p><b>Selection Tests [Keep a lookout on this space for updates]</b><br>
 1.	H2 Art<br>
