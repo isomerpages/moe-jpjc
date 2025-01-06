@@ -37,5 +37,13 @@ If you are successfully posted to JPJC, you will need to report to the school on
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
 </p></div>	
 <p hidden="">Please visit&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE Admissions</a>&nbsp;website&nbsp;for more information.</p>
