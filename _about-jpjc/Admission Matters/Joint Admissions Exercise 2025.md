@@ -19,5 +19,5 @@ third_nav_title: Admission Matters
 	
 	
 	
-<div>	
-<p>Please visit&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE Admissions</a>&nbsp;website&nbsp;for more information.</p></div></div>
+</div>	
+<p hidden="">Please visit&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE Admissions</a>&nbsp;website&nbsp;for more information.</p>
