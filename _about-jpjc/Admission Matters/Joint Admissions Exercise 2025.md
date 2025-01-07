@@ -22,12 +22,12 @@ The table below shows past L1R5 aggregate cut-off points (after deduction of bon
 <table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2024</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
 </p><p><b>Students who are successfully posted to JPJC:</b><br>
-If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025 (tentative), dressed in your secondary school uniform. <br>
+If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025, dressed in your secondary school uniform. <br>
 <b>	More details will be provided, so keep a lookout on this space for updates.</b><br>
 
-</p><p><b>Selection Tests [Keep a lookout on this space for updates]</b><br>
-1.	H2 Art<br>
-2.	H2 Translation
+</p><p><b>Selection Tests at 2pm on Thursday, 6 February 2025</b><br>
+1.	H2 Art @ Art Room<br> 
+2.	H2 Translation @ G4-01
 	
 	
 	
