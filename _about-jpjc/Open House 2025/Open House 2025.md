@@ -17,7 +17,7 @@ third_nav_title: Open House 2025
 </a>
 </div>	</div>
 
-<a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img style="width:40%" src="/images/Open%20House%202025/JAE.png">
+<a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img style="width:42%" src="/images/Open%20House%202025/JAE.png">
 
 </a><div class="row"><a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/">
 
