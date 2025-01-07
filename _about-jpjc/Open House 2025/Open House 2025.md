@@ -23,6 +23,21 @@ third_nav_title: Open House 2025
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="justify" hidden="">
 <a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view"><img style="width:30%" src="/images/Open%20House%202025/Information_Package.png">
 </a>
