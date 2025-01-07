@@ -19,10 +19,9 @@ third_nav_title: Open House 2025
 
 <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img style="width:42%" src="/images/Open%20House%202025/JAE.png">
 
-</a><div class="row"><a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/">
-
-</a><div class="column"><a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/">		
-</a><a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img style="width:80%" src="/images/Open%20House%202025/CurriculumClub.png">
+</a><div class="row">
+<div class="column">
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img style="width:80%" src="/images/Open%20House%202025/CurriculumClub.png">
 </a>
 </div>
 
