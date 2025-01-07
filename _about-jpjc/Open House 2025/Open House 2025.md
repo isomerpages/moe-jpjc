@@ -8,7 +8,7 @@ third_nav_title: Open House 2025
 <div class="row">
 
 <div class="column">	
-<a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view?usp=sharing"><img style="width:80%" src="/images/Open%20House%202025/info2.png">
+<a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view"><img style="width:80%" src="/images/Open%20House%202025/info2.png">
 <center><h4><strong>Information Sheet</strong></h4></center></a>
 </div>
 
