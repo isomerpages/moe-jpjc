@@ -28,7 +28,7 @@ third_nav_title: Open House 2025
 <div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/"><img style="width:80%" src="/images/Open%20House%202025/Co_Curriculum.png">
 </a>
-</div></div>
+</div>
 
 
 
@@ -41,4 +41,4 @@ third_nav_title: Open House 2025
 	
 	
 	
-<div hidden=""></div>
+<div hidden=""></div></div>
