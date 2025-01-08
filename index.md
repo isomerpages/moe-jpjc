@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: OPEN HOUSE 2025
       id: infopic
-      description: Come visit us on 13 Jan, Monday!
+      description: Come visit us on Monday, 13 January!
       image: /images/Open House 2025/OH_2025_Poster.png
       alt: Image alt text
       url: /about-jpjc/open-house-2025/
