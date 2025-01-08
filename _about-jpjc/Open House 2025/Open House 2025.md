@@ -43,7 +43,6 @@ third_nav_title: Open House 2025
 </a></div><div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img style="width:100%" src="/images/Open%20House%202025/Subject_Combination.png">
 </a>
-</div><div align="justify" hidden="">
 <a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view"><img style="width:30%" src="/images/Open%20House%202025/Information_Package.png">
 </a>
 <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img style="width:30%" src="/images/Open%20House%202025/Subject_Combination.png">
