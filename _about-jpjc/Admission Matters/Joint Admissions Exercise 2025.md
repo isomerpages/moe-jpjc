@@ -13,7 +13,7 @@ third_nav_title: Admission Matters
 <p>The following candidates are eligible to participate in the JAE&nbsp;<strong>except</strong>&nbsp;those who have been successfully admitted to a school through the Direct School Admission-Junior Colleges (DSA-JC) Exercise / Polytechnic Early Admissions Exercise (Poly EAE) / ITE Early Admissions Exercise (ITE EAE):</p><ul data-tight="true" class="tight"><li><p>All Singapore Citizens (SC) or Singapore Permanent Residents (SPR) with valid Singapore-Cambridge GCE ‘O’ Level Examination results from any year.</p></li><li><p>International candidates studying in a Government School, Government-Aided School, or an Independent School in Singapore with valid Singapore-Cambridge GCE ‘O’ Level Examination results.</p></li></ul>
 	
 <p>Applicants may apply for the Joint Admissions Exercise (JAE) registration via the JAE Internet System (JAE-IS) using their SingPass or JAE PIN within six calendar days after the release of the Singapore-Cambridge GCE O-Level Examination results.</p>
-<p>The JAE application starts from 4pm on Friday, 10 January 2025 and ends at 4pm on Wednesday, 15 January 2025 (tentative). During this period, you must submit your application through the JAE-IS (available 24-hour).
+<p>The JAE application starts from 4pm on Friday, 10 January 2025 and ends at 4pm on Wednesday, 15 January 2025. During this period, you must submit your application through the JAE-IS (available 24-hour).
 </p>
 
 <p><b>Cut-off L1R5 Points for Admission into JPJC</b><br>
