@@ -13,7 +13,7 @@ variant: markdown
 The subject will test the candidate's ability to think critically and present cogent arguments in clear, accurate and effective English. It is not primarily a test of general knowledge. However, wide and intelligent reading is expected of all students.</p>
  
 <p>
-There are 2 papers and candidates must offer both. Paper 1 and Paper 2 will be taken in separate sittings within the same day.</p>
+There are 2 papers and candidates must offer both. Paper 1 and Paper 2 will be taken in separate sittings on different days.</p>
  
 <h3>Assessment</h3>
 
