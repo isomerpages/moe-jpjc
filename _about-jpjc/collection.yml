@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - College Identity/Cohort Identity.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
       - College Identity/Crest.md
       - College Identity/Culture.md
       - College Identity/Anthem.md
+      - College Identity/Cohort Identity.md
       - Organisation Chart/.keep
       - Organisation Chart/Organisation Chart.md
       - College Calendar/.keep
