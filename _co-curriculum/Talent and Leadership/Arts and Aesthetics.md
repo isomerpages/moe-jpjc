@@ -17,9 +17,16 @@ Objectives:</h2>
 	<li>To develop students’ potential for creativity and expression through the arts.</li>
 	<li>Through arts education, students will be empowered by the arts and grow to be confident, articulate and creative adults who will contribute as active citizens to the community.</li></ul>
 
+	
+<p>We work towards inculcating a sense of appreciation for the arts and cultivate an aesthetic experience for the development of students’ artistic capacity. The arts to be used as a medium for self-discovery, the nurturing of inventive and creative expression as well as fostering holistic development. Through arts education, students will be empowered and grow to be skilled and confident practitioners, who will actively contribute to the community. 
+
+</p><p>The Arts &amp; Aesthetics Committee organises a slew of events across the year. Do read on to find out more about our flagship A &amp; A event!
+	
+	
+	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSvFuwJ_CLt62qDf6VmuGqOQN4bBEuGEWB_k6HIGbZrKD6TdeHJS6udxEhdR-h8MH-Dr_lXCYxRBfds/pub?embedded=true" width="800px" height="470px" scrolling="no"></iframe>
 
-<center><h3>2022</h3></center>
+</p><center><h3>2022</h3></center>
 <figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/2022_img1.jpg">
 <figcaption>Finalists of JP Spotlight</figcaption></figure>
