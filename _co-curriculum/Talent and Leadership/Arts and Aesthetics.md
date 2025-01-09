@@ -43,7 +43,7 @@ Objectives:</h2>
 <p>	‘Boss B’ a dance ensemble, emerged as champions with their catchy Y2K song medleys, followed by ‘SNAP’ infusing their performance with Indie Vibes as first runner-up. Second runner-up and Audience Choice Award went to the heart-thumping dance performance by the PowerPuff Girls. Intermissions were equally thrilling, featuring a Tik Tok Dance Battle and renditions of Y2K hit songs by our special Teachers’ Band who has named themselves the “Unknowns”. </p>
 	
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/Picture_6.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/Picture_8.jpg">
 <figcaption>An epic performance by Staff of JPJC</figcaption></figure>	
 	
 <p>Spotlight 2024 was brimming with adrenaline and nostalgia, setting the stage for an eagerly awaited Spotlight 2025!</p>
