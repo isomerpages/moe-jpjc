@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 ---
 <div align="justify">
-<p><b></b></p><center><b>Class of 2024</b></center><p></p> 
+	
+![](/images/About%20JPJC/College%20Identity/CI2024.jpg)<p><b></b></p><center><b>Class of 2024</b></center><p></p> 
 
 	
 <p>The lighthouse, beacon, and ship symbolise the school's steadfast support, guidance, and reassurance to the cohort. They represent the passing on of knowledge to aid others, akin to beacons guiding ships. Rephrased for clarity and grammatical precision, akin to beacons guiding ships. The figures on the lighthouse embody unity within the JPfam, offering unwavering support throughout life's journey.</p>
@@ -29,4 +30,4 @@ description: ""
  
 <p>Like a tree, the cohort has grown through their experiences in JPJC  and possesses the potential to thrive in the face of challenges. Rooted in the ground (JPJC), the JP experience will always remain a part of them, no matter where they go. </p>
 	
-</div>	
+</div>
