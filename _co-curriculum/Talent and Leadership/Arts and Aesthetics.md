@@ -3,8 +3,13 @@ title: Arts and Aesthetics
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-programme/arts-and-aesthetics/
 description: ""
 third_nav_title: Talent and Leadership
+variant: markdown
 ---
 <div align="justify">
+
+<p>	The Arts &amp; Aesthetics committee (A &amp; A) aims to bring our JPFAM through a world of artistic expression—where brushes collide with blank canvases, voices echo on stage, and imagination takes the spotlight! From vibrant visual art workshops to electrifying performing arts showcases, there’s a place for every kind of creative passion. </p>
+	
+
 <h2>
 Objectives:</h2>
 <ul>
