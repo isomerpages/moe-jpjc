@@ -21,6 +21,8 @@ links:
         url: /about/fas/
       - title: History
         url: /about/history/
+      - title: Cohort Identity
+        url: /cohort-identity/
   - title: JPJC Experience
     url: /jpjc-experience/curriculum/
     sublinks:
