@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Cohort Identity.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
@@ -30,6 +29,7 @@ collections:
       - Open House 2025/Virtual campus tour.md
       - Open House 2025/Getting to JPJC.md
       - Financial Assistance Scheme.md
+      - Cohort Identity.md
       - History/.keep
       - History/Jurong Junior College.md
       - History/Pioneer Junior College.md
