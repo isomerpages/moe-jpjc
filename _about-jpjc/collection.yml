@@ -2,6 +2,7 @@ collections:
   about-jpjc:
     output: true
     order:
+      - Cohort Identity.md
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
