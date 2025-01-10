@@ -44,12 +44,18 @@ third_nav_title: College Identity
 
 <p><b>Infinite Possibilities:</b> Together, JPFam unlocks greater potential, achieving what’s beyond reach alone - Plus Ultra. We believe that collaboration amplifies creativity, allowing us to combine our diverse skills and perspectives to tackle challenges effectively. By working together, we cultivate a spirit of innovation and exploration, inspiring one another to dream big and pursue ambitious goals that contribute to our collective success.</p>
 	
-<b>Behaviourial Indicators:</b><p></p>
-<b>1.  Cultivate Collaboration:</b> Engage diverse perspectives, foster cross-domain discussions to inspire creativity, and refine solutions through collective feedback.<p></p>
-<b>2.  Lead Initiatives:</b> Inspire others to utilise the unique strengths of JPFam members to achieve shared objectives.<p></p>
-<b>3.  Share Experiences</b> Draw insights and be generous to inspire and support fellow JPFam members.<p></p>	
-	
-	
-	
+<table style="width:100%">
+   <tbody><tr>
+    <td style="width:30%;"><div style="text-align:center"><figure>
+<img src="/images/About%20JPJC/College%20Identity/c3.jpg">
+			</figure></div></td>
+    <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
+<b> 1. Cultivate Collaboration:</b> Engage diverse perspectives, foster cross-domain discussions to inspire creativity, and refine solutions through collective feedback.</div>
+<div style="text-align: justify; text-justify: inter-word;">
+<b> 2. Lead Initiatives:</b>Inspire others to utilise the unique strengths of JPFam members to achieve shared objectives. </div>
+<div style="text-align: justify; text-justify: inter-word;">
+<b> 3. Share Experiences:</b> Draw insights and be generous to inspire and support fellow JPFam members.</div></td>
+  </tr>
+</tbody></table>
 	
 	</div>
