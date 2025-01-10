@@ -49,5 +49,5 @@ Formative assessments are conducted during the course of instruction by the JPJC
 <p>
 For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
 <ul>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8843_y25_sy.pdf"><strong>H1 Economics</strong></a></li>
-<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9570_y25_sy.pdf"><strong>H2 Economics</strong></a></li></ul></div>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8843_y25_sy.pdf"><strong>H1 Economics</strong></a></li>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9570_y25_sy.pdf"><strong>H2 Economics</strong></a></li></ul></div>
