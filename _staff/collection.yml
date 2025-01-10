@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2024/.keep
-      - Staff.md
       - 2023/.keep
       - 2023/2023 Awardees.md
       - 2023/Inspiring Teacher of English Award.md
