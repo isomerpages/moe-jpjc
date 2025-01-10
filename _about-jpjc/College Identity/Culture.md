@@ -12,7 +12,7 @@ third_nav_title: College Identity
 <p></p><h5><b>Infinite Love:</b></h5><p></p>
 <p>Together, JPFam embraces challenges and rises from setbacks, valuing each other's well-being and progress. We support one another through difficult times, fostering a sense of belonging and unity within our community. By prioritising empathy and compassion, we create a nurturing environment where everyone feels safe to express their thoughts and emotions, ultimately leading to stronger relationships and collective resilience.</p>
 
-<p><b>Behaviourial Indicators:</b></p>
+<p></p><h6><b>Behaviourial Indicators:</b></h6><p></p>
 <p></p><ol><li><b> Foster Inclusivity:</b> Listen actively, express yourself constructively, handle disagreements kindly, involve others in discussion, and respect all JPFam members to create a safe, valued environment.</li>
 <li><b> Offer Support:</b> Help JPFam members who are struggling, whether through words of encouragement or appropriate assistance.</li>
 <li><b> Recognise Achievements:</b> Celebrate the contributions and successes of JPFam members</li></ol><p></p> 
