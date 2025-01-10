@@ -9,7 +9,8 @@ third_nav_title: College Identity
 
 <p>At JPJC, our ethos is deeply rooted in fostering togetherness, built on a foundation of trust, respect, and a nurturing ecosystem within our JPFam. This ethos aligns seamlessly with the college's vision, mission, values, and motto. We embrace behavioural indicators as guiding principles, offering a shared understanding of how we demonstrate infinite love, growth, and possibilities through our actions. These indicators reinforce our commitment to supporting the members of our JPFam and fostering meaningful interactions with our stakeholders.</p>
 
-<p><b>Infinite Love:</b> Together, JPFam embraces challenges and rises from setbacks, valuing each other's well-being and progress. We support one another through difficult times, fostering a sense of belonging and unity within our community. By prioritising empathy and compassion, we create a nurturing environment where everyone feels safe to express their thoughts and emotions, ultimately leading to stronger relationships and collective resilience.</p>
+<p></p><h5><b>Infinite Love:</b></h5><p></p>
+<p>Together, JPFam embraces challenges and rises from setbacks, valuing each other's well-being and progress. We support one another through difficult times, fostering a sense of belonging and unity within our community. By prioritising empathy and compassion, we create a nurturing environment where everyone feels safe to express their thoughts and emotions, ultimately leading to stronger relationships and collective resilience.</p>
 
 <p><b>Behaviourial Indicators:</b></p>
 <p></p><ol><li><b> Foster Inclusivity:</b> Listen actively, express yourself constructively, handle disagreements kindly, involve others in discussion, and respect all JPFam members to create a safe, valued environment.</li>
