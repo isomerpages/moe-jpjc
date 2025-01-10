@@ -6,6 +6,9 @@ description: ""
 third_nav_title: 2024 Events
 ---
 <div align="justify">
+
+	
+![](/images/2024%20Life%20@%20JPJC/7th%20CCA%20Leaders%20Installation/mr_ang_addressing_the_audience.jpg)	
 	
 <p>On 8 August 2024, the college commemorated Singapore’s 59th National Day with a series of fun-filled events. Dressed in red and white, students and staff celebrated this joyous occasion as one big JPFam! This year’s National Day celebration featured the National Day Observance Ceremony, the National Day Carnival, and the much-anticipated National Day Concert. The theme, “Together, As One United People,” conveyed a powerful message for all Singaporeans to embrace the future with confidence and work together to create a shared destiny as a united nation.</p>
 
