@@ -43,7 +43,7 @@ third_nav_title: College Identity
 </tbody></table>
 
 <p><b>Infinite Possibilities:</b> Together, JPFam unlocks greater potential, achieving what’s beyond reach alone - Plus Ultra. We believe that collaboration amplifies creativity, allowing us to combine our diverse skills and perspectives to tackle challenges effectively. By working together, we cultivate a spirit of innovation and exploration, inspiring one another to dream big and pursue ambitious goals that contribute to our collective success.</p>
-	
+
 <table style="width:100%">
    <tbody><tr>
     <td style="width:30%;"><div style="text-align:center"><figure>
