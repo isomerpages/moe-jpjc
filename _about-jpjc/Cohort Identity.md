@@ -3,7 +3,6 @@ title: Cohort Identity
 permalink: /cohort-identity/
 variant: markdown
 description: ""
-third_nav_title: College Identity
 ---
 <div align="justify">
 <center><b><h5>Class of 2024</h5></b></center><p></p> <figure>

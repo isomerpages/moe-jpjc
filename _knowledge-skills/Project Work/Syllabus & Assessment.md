@@ -11,5 +11,5 @@ variant: markdown
 
 <img src="/images/JPJC%20Experience/Curriculum/Knowledge%20Skills/Project%20Work/Assessment/PW_assessment.jpg">
 </figure>
-<p>Please refer to <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/2025-project-work-(8882)-examination-syllabus.pdf">SEAB website</a> for more information.</p>
+<p>Please refer to <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/2025_project_work__8882__examination_syllabus.pdf">SEAB website</a> for more information.</p>
 </div>
