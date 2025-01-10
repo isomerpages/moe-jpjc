@@ -19,7 +19,7 @@ third_nav_title: College Identity
 <p><b>Infinite Growth:</b> Together, JPFam strives for continuous improvement and innovation - While I Live, I Learn. We actively seek opportunities for personal and professional development, encouraging each other to step outside our comfort zones and explore new horizons. By fostering a culture of feedback and reflection, we empower individuals to embrace their potential, cultivating a mindset that celebrates learning as a lifelong journey.</p>
 
 <b>Behaviourial Indicators:</b><p></p>
-<b>1.   Embrace Growth:</b> Role model a "can-do" spirit, experiment boldly, view failures as learning opportunities, and take on challenges that expand skills *(While I Live, I Learn)* and push beyond comfort zones *(Plus Ultra)*.<p></p>
+<b>1.   Embrace Growth:</b> Role model a "can-do" spirit, experiment boldly, view failures as learning opportunities, and take on challenges that expand skills (While I Live, I Learn) and push beyond comfort zones (Plus Ultra).<p></p>
 <b>2.  Reflect Deeply:</b> Review successes, challenges and failures, documenting lessons learned to inform future decisions.<p></p>
 <b>3.   Seek Feedback</b> Ask for input from JPFam members to uncover areas for growth and improvement.<p></p>
 
