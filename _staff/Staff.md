@@ -1,6 +1,6 @@
 ---
 title: Staff
-permalink: /accomplishments/staff/2023/
+permalink: /staff/
 variant: markdown
 description: ""
 ---
