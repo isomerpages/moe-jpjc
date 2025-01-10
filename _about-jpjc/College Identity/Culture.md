@@ -13,10 +13,10 @@ third_nav_title: College Identity
 
 <table style="width:100%">
    <tbody><tr>
-    <td align="center" style="width:30%"><figure>
+    <td style="width:30%"><figure>
 <img src="/images/About%20JPJC/College%20Identity/c1.jpg">
 </figure></td>
-    <td align="justify" style="width:70%"><b>Behaviourial Indicators:</b><p></p>
+    <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><p></p>
 <b> 1. Foster Inclusivity:</b> Listen actively, express yourself constructively, handle disagreements kindly, involve others in discussion, and respect all JPFam members to create a safe, valued environment. <p></p>
 <b> 2. Offer Support:</b> Help JPFam members who are struggling, whether through words of encouragement or appropriate assistance. <p></p>
 <b> 3. Recognise Achievements:</b> Celebrate the contributions and successes of JPFam members<p></p></td>
