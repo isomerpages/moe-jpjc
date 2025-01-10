@@ -2,26 +2,35 @@
 title: Internationalisation Programme
 permalink: /jpjc-experience/co-curriculum/internationalisation-programme/
 description: ""
+variant: markdown
 ---
-<div align=justify>
-<p>
-With the emphasis on developing 21st Century Competencies (21CC) in our students and the recognition that schools’ internationalisation efforts can strongly support the Desired Outcomes of Education, our college organizes various overseas trips to broaden our students’ experiences and deepen their learning.</p>
-
+<div align="justify">
+<center><h5>JP Global Experience</h5></center>
+	
 <h4><strong>Objectives</strong></h4>
+<div align="justify">
+<p>
+In an interconnected world, fostering civic, global, and cross-cultural literacy is imperative for shaping well-rounded individuals. JPJC recognises the importance of enabling students to engage with diverse perspectives, enhance cultural understanding, and develop a sense of global citizenship for lifelong learning. JP Global Experience is designed to provide students with these opportunities by developing and coordinating internationalisation trips that transcend traditional boundaries—both beyond the classroom and across national borders.</p>
 
+<b>Key Features of ‘JP Global Experience’</b>
+	
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Internationalisation%20Programme/01.jpg">
+<figcaption></figcaption></figure>
 <style>ol.a {list-style-type: upper-alpha;}</style>
 
-<ol class="a">
-	<li>Student Empowerment – enhancing students’ leadership skills and their 21st century competencies</li>
-	<li>Innovation – empowering students’ creativity and exposure in addressing global issues</li>
-	<li>Experiential Learning – deepening and broadening students’ global perspectives</li>
-	<li>Opportunities for cross-cultural exchange – enriching students’ cultural sensitivity and commitment of their rootedness towards Singapore</li></ol>
+<div align="justify">
+<p><b>Diversity</b>: The cornerstone of JP Global Experience lies in the diverse array of internationalisation trips planned. Recognising the importance of individual curiosity and interests, students can customise their overseas learning by selecting trips aligned with their passions. This fosters personalised learning that enhances not only their academic proficiency but also their cultural understanding and global perspectives.</p>
+	
+<p><b>Interdisciplinary Focus</b>: JP Global Experience offers internationalisation trips with diverse interdisciplinary focuses, fostering a rich spectrum of learning experiences for students. Interdisciplinary education is crucial, as it allows students to explore complex issues from multiple perspectives, breaking down traditional academic silos. By integrating knowledge and methodologies from diverse disciplines, students develop a holistic understanding that enhances critical thinking, problem-solving, and the ability to address real-world challenges in innovative ways.</p>
+	
+<p><b>School – Industry – Community Partnership</b>: JP Global Experience serves as a catalyst for deepening and enriching students' learning experiences by providing a platform to learn from a diverse array of partners, including overseas schools, communities, and industries. This unique initiative goes beyond conventional educational boundaries, offering students exposure to a variety of skills and competencies essential for different industries and communities worldwide. Collaborations with overseas schools foster cultural exchange and global perspectives, enabling students to appreciate diverse approaches to education while creating opportunities for meaningful cross-cultural connections. Additionally, engaging with industries allows students to gain insights into the practical applications of their academic knowledge, preparing them for the demands of various professional fields.</p>
 
 <h4><strong>Key Approaches</strong></h4>
 
 <style> ol.b {list-style-type: upper-alpha;></style>
 
-<ol class ="b">
+<ol class="b">
 	<li>Conducting overseas trips and cultural exchange opportunities for both students and staff for cultural immersion to develop global outlook</li>
 	<li>Hosting of overseas educators and students to facilitate rich cross-cultural exchanges with overseas partners</li></ol>
 
@@ -88,4 +97,4 @@ Hosting students and teachers from</p>
 
 <h4><strong>TIE Fund</strong></h4>
 <p>
-Financial support will be given to students by MOE under TRIPS FOR INTERNATIONAL EXPERIENCE (TIE) Fund. Students could also utilise Edusave grant to fund the trip. Needy students could apply additional financial support through the college, subject to approval.</p>
+Financial support will be given to students by MOE under TRIPS FOR INTERNATIONAL EXPERIENCE (TIE) Fund. Students could also utilise Edusave grant to fund the trip. Needy students could apply additional financial support through the college, subject to approval.</p></div></div></div>
