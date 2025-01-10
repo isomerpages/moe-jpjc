@@ -5,14 +5,14 @@ description: ""
 variant: markdown
 ---
 <div align="justify">
-<center><h5>JP Global Experience</h5></center>
+<center><h4><strong>JP Global Experience<strong></strong></strong></h4></center><strong><strong>
 	
 <h4><strong>Objectives</strong></h4>
 <div align="justify">
 <p>
 In an interconnected world, fostering civic, global, and cross-cultural literacy is imperative for shaping well-rounded individuals. JPJC recognises the importance of enabling students to engage with diverse perspectives, enhance cultural understanding, and develop a sense of global citizenship for lifelong learning. JP Global Experience is designed to provide students with these opportunities by developing and coordinating internationalisation trips that transcend traditional boundaries—both beyond the classroom and across national borders.</p>
 
-<b>Key Features of ‘JP Global Experience’</b>
+<b><h5>Key Features of ‘JP Global Experience’</h5></b><h5><b></b>
 	
 <figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Internationalisation%20Programme/01.jpg">
@@ -63,4 +63,4 @@ In an interconnected world, fostering civic, global, and cross-cultural literacy
 
 <h4><strong>TIE Fund</strong></h4>
 <p>
-Financial support will be given to students by MOE under TRIPS FOR INTERNATIONAL EXPERIENCE (TIE) Fund. Students could also utilise Edusave grant to fund the trip. Needy students could apply additional financial support through the college, subject to approval.</p></div></div></div>
+Financial support will be given to students by MOE under TRIPS FOR INTERNATIONAL EXPERIENCE (TIE) Fund. Students could also utilise Edusave grant to fund the trip. Needy students could apply additional financial support through the college, subject to approval.</p></div></h5></div></strong></strong></div>
