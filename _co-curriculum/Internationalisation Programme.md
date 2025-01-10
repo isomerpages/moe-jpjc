@@ -55,9 +55,9 @@ In an interconnected world, fostering civic, global, and cross-cultural literacy
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Internationalisation%20Programme/07.jpg">
 <figcaption>Hosted by the locals in a traditional house built on stilts above the Brunei River, Kampong Ayer</figcaption></figure>
 <style>ol.a {list-style-type: upper-alpha;}</style>
-	
+
 <figure>
-<img src="/images/JPJC%20Experience/Co%20Curriculum/Internationalisation%20Programme/08.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Internationalisation%20Programme/08__1_.jpg">
 <figcaption> Exchange Programme at our Partner School, Koishikawa Secondary School, Japan</figcaption></figure>
 <style>ol.a {list-style-type: upper-alpha;}</style>
 
