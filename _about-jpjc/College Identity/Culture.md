@@ -26,18 +26,21 @@ third_nav_title: College Identity
   </tr>
 </tbody></table>
 	
-	
-
-
-	
-	
-	
 <p><b>Infinite Growth:</b> Together, JPFam strives for continuous improvement and innovation - While I Live, I Learn. We actively seek opportunities for personal and professional development, encouraging each other to step outside our comfort zones and explore new horizons. By fostering a culture of feedback and reflection, we empower individuals to embrace their potential, cultivating a mindset that celebrates learning as a lifelong journey.</p>
-
-<b>Behaviourial Indicators:</b><p></p>
-<b>1.   Embrace Growth:</b> Role model a "can-do" spirit, experiment boldly, view failures as learning opportunities, and take on challenges that expand skills (While I Live, I Learn) and push beyond comfort zones (Plus Ultra).<p></p>
-<b>2.  Reflect Deeply:</b> Review successes, challenges and failures, documenting lessons learned to inform future decisions.<p></p>
-<b>3.   Seek Feedback</b> Ask for input from JPFam members to uncover areas for growth and improvement.<p></p>
+	
+<table style="width:100%">
+   <tbody><tr>
+    <td style="width:30%;"><div style="text-align:center"><figure>
+<img src="/images/About%20JPJC/College%20Identity/c2.jpg">
+			</figure></div></td>
+    <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
+<b> 1.   Embrace Growth:</b> Role model a "can-do" spirit, experiment boldly, view failures as learning opportunities, and take on challenges that expand skills (While I Live, I Learn) and push beyond comfort zones (Plus Ultra). </div>
+<div style="text-align: justify; text-justify: inter-word;">
+<b> 2. Reflect Deeply:</b> Review successes, challenges and failures, documenting lessons learned to inform future decisions. </div>
+<div style="text-align: justify; text-justify: inter-word;">
+<b> 3. Seek Feedback:</b> Ask for input from JPFam members to uncover areas for growth and improvement.</div></td>
+  </tr>
+</tbody></table>
 
 <p><b>Infinite Possibilities:</b> Together, JPFam unlocks greater potential, achieving what’s beyond reach alone - Plus Ultra. We believe that collaboration amplifies creativity, allowing us to combine our diverse skills and perspectives to tackle challenges effectively. By working together, we cultivate a spirit of innovation and exploration, inspiring one another to dream big and pursue ambitious goals that contribute to our collective success.</p>
 	
