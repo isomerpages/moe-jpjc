@@ -14,9 +14,9 @@ third_nav_title: College Identity
 
 <table style="width:100%">
    <tbody><tr>
-    <td style="width:30%;"><div style="text-align:center"><figure>
+    <td style="width:30%;vertical-align: middle;"><figure>
 <img src="/images/About%20JPJC/College%20Identity/c1.jpg">
-			</figure></div></td>
+			</figure></td>
     <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
 <b> 1. Foster Inclusivity:</b> Listen actively, express yourself constructively, handle disagreements kindly, involve others in discussion, and respect all JPFam members to create a safe, valued environment. </div>
 <div style="text-align: justify; text-justify: inter-word;">
@@ -30,9 +30,9 @@ third_nav_title: College Identity
 	
 <table style="width:100%">
    <tbody><tr>
-    <td style="width:30%;"><div style="text-align:center"><figure>
+    <td style="width:30%;vertical-align: middle;"><figure>
 <img src="/images/About%20JPJC/College%20Identity/c2.jpg">
-			</figure></div></td>
+			</figure></td>
     <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
 <b> 1.   Embrace Growth:</b> Role model a "can-do" spirit, experiment boldly, view failures as learning opportunities, and take on challenges that expand skills (While I Live, I Learn) and push beyond comfort zones (Plus Ultra). </div>
 <div style="text-align: justify; text-justify: inter-word;">
@@ -46,9 +46,9 @@ third_nav_title: College Identity
 
 <table style="width:100%">
    <tbody><tr>
-    <td style="width:30%;"><div style="text-align:center"><figure style="margin:auto;width:40%;">
+    <td style="width:30%;vertical-align: middle;" valign="middle"><figure style="margin:auto;width:40%;">
 <img src="/images/About%20JPJC/College%20Identity/c3.jpg">
-			</figure></div></td>
+			</figure></td>
     <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
 <b> 1. Cultivate Collaboration:</b> Engage diverse perspectives, foster cross-domain discussions to inspire creativity, and refine solutions through collective feedback.</div>
 <div style="text-align: justify; text-justify: inter-word;">
@@ -58,4 +58,4 @@ third_nav_title: College Identity
   </tr>
 </tbody></table>
 	
-	</div>
+</div>
