@@ -3,48 +3,53 @@ title: Values in Action
 permalink: /jpjc-experience/co-curriculum/cce/via/
 description: ""
 third_nav_title: Character and Citizenship Edu
+variant: markdown
 ---
-<div align=justify>
-<p>The Service Learning (SL) programme serves to inculcate a sense of social and civic responsibility in the students by getting them to learn through serving the college and community. With the mission to nurture a community of compassionate leaders with a heart to serve, the college adopts a whole-school approach to SL of which all students are encouraged to participate or lead in Values-In-Action (VIA) projects through the following approaches:</p>
+<div align="justify">
+<p>The Service Learning (SL) programme aims to inculcate a sense of social and civic responsibility in students by encouraging them to learn through serving the college and community. With the mission of nurturing a community of compassionate leaders with a heart to serve, the college adopts a whole-school approach to SL, where all students are encouraged to participate in or lead Values-in-Action (VIA) projects through the following approaches:</p>
 <ul>
-<li>Developing students’ awareness on the community needs through discussion of community and social issues in CCE lessons and CCAs.</li>
+<li>Developing students’ awareness of community needs through discussions of community and social issues in CCE lessons and CCAs.</li>
 
-<li>Raising awareness on volunteerism through sharing sessions by community partners and providing opportunities for the students to volunteer within school and/or community through collaboration with community partners.</li></ul>
-
-<h4>Service Learning (SL) Festival – Sharing from Community partners, alumni and students</h4>
+<li>Raising awareness of volunteerism through sharing sessions by community partners and providing opportunities for students to volunteer within the school and/or community in collaboration with these partners.</li>
 	
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA2.jpg">
-<figcaption>Students had the opportunity to interact with the Social Service Organisations, community partners and alumni, and gained greater awareness on their social causes and source for volunteering opportunities<br>
-</figcaption></figure>
+<li>Empowering students to serve the community through CCA VIA, student-initiated VIA, and external VIA. Students take ownership of understanding the needs of the beneficiaries and initiate Values-in-Action projects with their peers from their class or CCA.</li></ul>
+
+<h4>Service Learning (SL) Festival</h4>
+
+<p>The Service Learning (SL) Festival brings together students and representatives from social service agencies (SSAs) to explore a variety of opportunities, featuring booths and talks focused on volunteering prospects and career pathways in the social service sector. Students had the opportunity to interact with social service organizations, community partners, and alumni, gaining greater awareness of social causes and sourcing volunteering opportunities.</p>
+
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v1.jpg">Service Learning Festival Booths at concourse</figure><p></p>
 	
-<p>Empowering the students to serve the community through CCA VIA, Student-initiated VIA and External VIA. Students took ownership to understand the need of the beneficiaries and initiated Values in Action project with their peers from their class or CCA.</p>
-
-<h4>Examples of Student-Initiated VIA Projects were as follows:</h4>
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA3.jpg">
-<figcaption>Students from Eco Club, Interact Club and Play Art organised various workshops for the senior participants and residents like Smartphone clinic (e.g. Instagram), handicraft sessions (e.g. D.I.Y. magnet and painting) and terrarium-making.<br>
-</figcaption>
-</figure>
-
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v2.jpg">Students at the SPCA Booth</figure><p></p>
 	
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA4.jpg">
-<figcaption> Students from Gym Fit Club initiated a care pack collection drive in the college and items were donated to the needy residents of Jurong Spring Estate</figcaption></figure>
+<p>Examples of Student-Initiated VIA Projects were as follows:</p>
 
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA5.jpg">
-<figcaption>For beneficiaries where face to face interaction were not suitable, our students from various classes and CCA groups continued to engage them virtually.</figcaption></figure>
+<li>Blood Donation Drive</li>
+<p>Annually, students from Interact Club organise the Blood Donation Drive to raise awareness of the National Blood Donation Programme and encourage our staff and students to donate blood to save lives.</p>
 	
-<p>Students from Community Engagement Council and Interact Club initiated VIA projects to show their appreciation to our support staff and contract cleaners in our college. For example, presenting goodie bags to them during festive seasons, and sharing by the staff on their hobbies for the college to know them better.</p>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v3.png">Students donating blood</figure><p></p>
 
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA7.jpg"></figure>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v4.png">Interact Club Students Preparing Publicity Materials for the Blood Donation Drive</figure><p></p>
 
-<h4>Blood Donation Drive</h4>
+<li>Promoting Active Living for Seniors</li>
+<p>Students from various classes and CCAs worked together to organise an Active Learning Festival for the residents of Jurong Spring estate to promote active living through fun-filled activities.</p>
 
-<p>Annually, the college organises the Blood Donation Drive to raise awareness of the National Blood Donation Programme and encourages our staff and students to donate their blood to save lives.</p>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v5.jpg">Active Learning Festival at Jurong Spring CC</figure><p></p>
 
-<figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/VIA6.jpg"></figure>
+<li>Engaging the Young</li>
+<p>Tapping into their talents and interests, students initiated VIA projects to serve community needs.</p>
+
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v6.jpg">Chess club students conducting basic training for the students</figure><p></p>
+	
+<li>Raising Awareness and Green Advocacy</li>
+<p>Through student-driven projects, our students promote sustainability on campus and within the community. Initiatives like "Recycling Right!" and the Green Bazaar encourage recycling, while events like the Sustainable Jurong Spring project inspire sustainable practices through interactive activities, workshops, and the promotion of reusing pre-loved items.</p>
+
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v7.jpg">Students designed a game booth at the Green Bazaar</figure><p></p>
+	
+<li>Showing Appreciation to Our Unsung Heroes</li>
+<p>Students from the Community Engagement Council initiated a project to show their appreciation for our support staff and contract cleaners at the college. They presented them with festive goodie bags and cards.</p>
+
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Values%20in%20Action/v8.jpg">School Leaders Presenting Festive Hampers to OSOs</figure><p></p>
+
+
 </div>
