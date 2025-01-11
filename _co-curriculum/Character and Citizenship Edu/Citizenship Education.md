@@ -44,8 +44,8 @@ variant: markdown
 	
 <p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n9.jpg">Student representatives from JC1 classes are learning core life-saving skills such as basic first aid, CPR and AED usage, and firefighting techniques</figure><p></p>	
 	
-<p></p><li><b>Festive Celebrations</b></li>
-Annually, our Mother Tongue Languages Department organises various ethnic festive celebrations, such as Chinese New Year, Hari Raya Puasa and Deepavali, where students and staff come together to celebrate these festive seasons and learn more about the practices and cultures of different ethnic communities in Singapore.<p></p>
+<li><b>Festive Celebrations</b></li>
+<p>Annually, our Mother Tongue Languages Department organises various ethnic festive celebrations, such as Chinese New Year, Hari Raya Puasa and Deepavali, where students and staff come together to celebrate these festive seasons and learn more about the practices and cultures of different ethnic communities in Singapore.</p>
 	
 
 </div>
