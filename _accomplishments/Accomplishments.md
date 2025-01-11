@@ -1,6 +1,6 @@
 ---
 title: Accomplishments
-permalink: /a-level-inspirational-stories/2023/overview/
+permalink: /accomplishments/
 description: ""
 variant: markdown
 ---

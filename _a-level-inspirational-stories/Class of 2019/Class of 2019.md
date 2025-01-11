@@ -1,6 +1,6 @@
 ---
 title: Class of 2019
-permalink: /accomplishments/students/a-level-inspirational-stories/2019/overview/
+permalink: /a-level-inspirational-stories/2019/overview/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

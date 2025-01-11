@@ -1,6 +1,6 @@
 ---
 title: Class of 2021
-permalink: /accomplishments/students/a-level-inspirational-stories/2021/overview/
+permalink: /a-level-inspirational-stories/2021/overview/
 description: ""
 third_nav_title: Class of 2021
 variant: markdown
