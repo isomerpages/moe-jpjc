@@ -31,9 +31,11 @@ Objectives:</h2>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/Picture_2.png">
 <figcaption></figcaption></figure>		
 <p>JP Spotlight is an annual in-house talent competition showcasing the diverse talents of our JPFam. This year’s Spotlight was themed ‘Press Start!’, which took the JPFAM on a nostalgic journey back to the Y2K era, celebrating all things from music to fashion and computer bugs. The talents showcased were truly impressive, ranging from electrifying dance routines to enchanting harp melodies. </p>
-	
+
+<figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/Picture_4.jpg">
-<figcaption>PowerPuff girls’ dance performance was so LIT that it not only earned them second runner-up and the Audience’s Choice Award</figcaption>	
+<figcaption>PowerPuff girls’ dance performance was so LIT that it not only earned them second runner-up and the Audience’s Choice Award</figcaption></figure>
+<style>ol.a {list-style-type: upper-alpha;}</style>
 	
 <h2>Arts@Assembly</h2>
 <p> From the enchanting melodies of the Chinese Orchestra to the harmonious tunes of the Concert Band, the soul-stirring performances by the Choir, the rhythmic melodies of the Guitar Ensemble, and the playful dance displays by the Malay Cultural Society, each act illuminated the stage with its unique charm and artistry.
@@ -42,16 +44,21 @@ Not forgetting the mesmerising performance by the JP Dance crew, whose powerful 
 
 Arts@Assembly was a testament to the rich tapestry of talents present within our community, showcasing a diverse range of genres and styles that truly spoke to the vibrancy of our arts scene. This event not only celebrated creativity but also fostered a sense of unity and connection among attendees, highlighting the unique and inclusive spirit of our college. The passion and dedication of our talented performers, along with the wonderful support from the audience, made for a fantastic afternoon together.</p>
 
+<figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/a1.jpg">
-<figcaption>Confidently leading the orchestra</figcaption>	
+<figcaption>Confidently leading the orchestra</figcaption></figure>
+<style>ol.a {list-style-type: upper-alpha;}</style>
+
 
 <h2>Arts Fest</h2>
 <p> The Arts Fest was envisioned by the Arts &amp; Aesthetics (A&amp;A) Programme Committee with the aim of facilitating interest discovery through experiential learning while creating arts vibrancy within the college. Therefore, the committee conceptualised an updated lineup of activities for the third edition.
 
 The A&amp;A CCAs and Art students facilitated arts exposure booths for their peers, promoting greater appreciation for the arts encouraging infinite growth. The student committee explored infinite possibilities, by setting up the Visual and Literary Arts exhibition which showcased poems and visual art by JPJC students. They also assisted the lunchtime performances which enlivened the canteen.</p>
 
+<figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Arts%20and%20Aesthetics/a2.jpg">
-<figcaption>Students took part in the Arts Fest booth activities</figcaption>	
+<figcaption>Students took part in the Arts Fest booth activities</figcaption></figure>
+<style>ol.a {list-style-type: upper-alpha;}</style>
 
 
 
