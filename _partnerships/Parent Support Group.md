@@ -35,7 +35,7 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <center><h4>Foodie Night</h4></center>	
 <figure>
 	<img src="/images/Partnerships/PSG/PSG.png">
-	<figcaption>PSG members preparing to distribute dinner to students during Foodie Nights</figcaption></figure>
+	<figcaption>PSG Events such as PSG Connect and Foodie Night</figcaption></figure>
 	
 <center><h4>J2 Farewell Assembly</h4></center>	
 <figure>
