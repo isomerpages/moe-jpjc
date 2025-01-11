@@ -60,6 +60,7 @@ The A&amp;A CCAs and Art students facilitated arts exposure booths for their pee
 <figcaption>Students took part in the Arts Fest booth activities</figcaption></figure>
 <style>ol.a {list-style-type: upper-alpha;}</style>
 
+	
 
 
 	
