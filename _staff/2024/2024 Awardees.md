@@ -7,7 +7,7 @@ third_nav_title: "2024"
 ---
 <h3>National Day Awards</h3>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRii4TriIQD_17L3jkivWAuTUcWdx_KgyKmVzpFm_zbDWgMw6buTGuZRwIPnjMAS3fO_gO2FpW1K5wh/pub?embedded=true" width="800px" height="210px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRii4TriIQD_17L3jkivWAuTUcWdx_KgyKmVzpFm_zbDWgMw6buTGuZRwIPnjMAS3fO_gO2FpW1K5wh/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
 
 <h3>MOE Service Excellence Award (MSEA)</h3>
 
@@ -15,7 +15,7 @@ third_nav_title: "2024"
 
 <h3>MOE Innergy (Schools) Awards</h3>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSYSz44o0y8UeznjHO7cc8qCtWixbjlCHjqGhzephOwhVUlvinrrpgdzl9XB6fhO2H1O7nMYB8R7Acq/pub?embedded=true" width="800px" height="610px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSYSz44o0y8UeznjHO7cc8qCtWixbjlCHjqGhzephOwhVUlvinrrpgdzl9XB6fhO2H1O7nMYB8R7Acq/pub?embedded=true" width="800px" height="620px" scrolling="no"></iframe>
 
 <h3>Academy Award for Professional Development</h3>
 
