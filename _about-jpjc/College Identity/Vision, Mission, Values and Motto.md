@@ -17,7 +17,7 @@ variant: markdown
 <p>Integrity, Responsibility, Resilience, Respect, Compassion</p>
 
 <h3><strong>Motto:</strong></h3>
-While I Live, I Learn<br>
-Plus Ultra
+<p>While I Live, I Learn<br>
+Plus Ultra</p>
 
 </div>
