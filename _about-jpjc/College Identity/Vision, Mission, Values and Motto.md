@@ -3,7 +3,7 @@ title: Vision, Mission, Values and Motto
 permalink: /about/college-identity/
 description: ""
 third_nav_title: College Identity
-variant: tiptap
+variant: markdown
 ---
 <div align="justify">
 
@@ -17,7 +17,7 @@ variant: tiptap
 <p>Integrity, Responsibility, Resilience, Respect, Compassion</p>
 
 <h3><strong>Motto:</strong></h3>
-While I Live, I Learn<br>
-Plus Ultra
+<p>While I Live, I Learn<br>
+Plus Ultra</p>
 
 </div>

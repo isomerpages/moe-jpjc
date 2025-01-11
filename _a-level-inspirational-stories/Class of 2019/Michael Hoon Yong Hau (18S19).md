@@ -1,6 +1,6 @@
 ---
 title: Michael Hoon Yong Hau (18S19)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/michael/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/michael/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

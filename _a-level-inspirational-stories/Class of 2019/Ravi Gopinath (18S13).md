@@ -1,6 +1,6 @@
 ---
 title: Ravi Gopinath (18S13)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/ravi/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/ravi/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

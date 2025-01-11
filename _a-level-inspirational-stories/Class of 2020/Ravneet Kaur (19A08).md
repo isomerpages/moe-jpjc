@@ -1,8 +1,9 @@
 ---
 title: Ravneet Kaur (19A08)
-permalink: /accomplishments/students/a-level-inspirational-stories/2021/ravneet/
+permalink: /accomplishments/students/a-level-inspirational-stories/2020/ravneet/
 description: ""
 third_nav_title: Class of 2020
+variant: markdown
 ---
 <figure>
 <img src="/images/Ravneet%20Kaurr.jpg">
@@ -11,7 +12,7 @@ third_nav_title: Class of 2020
 Photo - MOE CEG Unit</figcaption>
 </figure>
 
-<div align=justify>
+<div align="justify">
 <center><h5>THE DIARY OF A HOCKEY CAPTAIN</h5></center>
 
 <p>
@@ -21,4 +22,4 @@ Ravneet loved being out in the field, playing hockey with the girls. She was the
 But just when Ravneet felt like she had fallen into a bottomless dark pit, she witnessed and felt the warmth of humanity extended to her by her teachers and friends. She recalled how her teachers took extra effort to lighten up the mood during online lessons and comforted them when they struggled to catch up with online work. It was truly the love and support from her family members and the people in college that enabled Ravneet to convince herself that she could persevere and put in her very best to complete her junior college journey.</p>
 
 <p>
-Ravneet’s heart for people around her is further exemplified by her future aspiration of becoming a teacher. In Ravneet’s words, her teachers had shown her how a “teacher’s job went beyond simply educating the young but it was also one that nurtured the youths to believe that they can be much more than what they had imagined.” To prepare herself in her aspiring role as an educator, Ravneet is currently a student care teacher at Beacon Primary School’s YMCA student care centre, where she cares for around 20 eight year-old students.</p>
+Ravneet’s heart for people around her is further exemplified by her future aspiration of becoming a teacher. In Ravneet’s words, her teachers had shown her how a “teacher’s job went beyond simply educating the young but it was also one that nurtured the youths to believe that they can be much more than what they had imagined.” To prepare herself in her aspiring role as an educator, Ravneet is currently a student care teacher at Beacon Primary School’s YMCA student care centre, where she cares for around 20 eight year-old students.</p></div>

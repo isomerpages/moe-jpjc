@@ -1,6 +1,6 @@
 ---
 title: Chung Mae Ling Alyssa Cherish (18A05)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/cherish/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/cherish/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

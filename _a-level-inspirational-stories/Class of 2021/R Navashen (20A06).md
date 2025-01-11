@@ -3,6 +3,7 @@ title: R Navashen (20A06)
 permalink: /accomplishments/students/a-level-inspirational-stories/2022/navashen/
 description: ""
 third_nav_title: Class of 2021
+variant: markdown
 ---
 <figure>
 <img src="/images/Navashen.jpg">

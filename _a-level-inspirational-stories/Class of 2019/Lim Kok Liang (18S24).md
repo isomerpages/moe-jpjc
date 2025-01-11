@@ -1,6 +1,6 @@
 ---
 title: Lim Kok Liang (18S24)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/lim-kok-liang/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/lim-kok-liang/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

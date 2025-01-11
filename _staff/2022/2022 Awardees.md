@@ -1,9 +1,9 @@
 ---
 title: 2022 Awardees
-permalink: /staff/2022/2022awardees/
+permalink: /staff/2022/2022-awardees/
 description: ""
 third_nav_title: "2022"
-variant: tiptap
+variant: markdown
 ---
 <h3>National Day Awards</h3>
 

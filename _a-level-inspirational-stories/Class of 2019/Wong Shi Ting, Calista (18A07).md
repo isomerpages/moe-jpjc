@@ -1,6 +1,6 @@
 ---
 title: Wong Shi Ting, Calista (18A07)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/calista/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/calista/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

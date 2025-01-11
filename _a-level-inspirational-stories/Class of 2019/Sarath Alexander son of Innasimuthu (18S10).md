@@ -1,6 +1,6 @@
 ---
 title: Sarath Alexander son of Innasimuthu (18S10)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/sarath/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/sarath/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

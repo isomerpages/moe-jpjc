@@ -1,9 +1,10 @@
 ---
 title: Accomplishments
-permalink: /accomplishments/
+permalink: /a-level-inspirational-stories/2023/overview/
 description: ""
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <p>
 At JPJC, we provide opportunities for our students to enrich their JC experience according to their interests and strengths. A culture of organisational excellence and a framework of support to help our staff grow and excel also underpins our college.</p>

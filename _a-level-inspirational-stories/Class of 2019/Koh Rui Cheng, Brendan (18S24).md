@@ -1,6 +1,6 @@
 ---
 title: Koh Rui Cheng, Brendan (18S24)
-permalink: /accomplishments/students/a-level-inspirational-stories/2020/brendan/
+permalink: /accomplishments/students/a-level-inspirational-stories/2019/brendan/
 description: ""
 third_nav_title: Class of 2019
 variant: markdown

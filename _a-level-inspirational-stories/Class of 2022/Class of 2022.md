@@ -1,6 +1,6 @@
 ---
 title: Class of 2022
-permalink: /a-level-inspirational-stories/2023/overview/
+permalink: /a-level-inspirational-stories/2022/overview/
 description: ""
 third_nav_title: Class of 2022
 variant: markdown

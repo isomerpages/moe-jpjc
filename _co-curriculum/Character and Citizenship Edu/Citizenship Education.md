@@ -7,38 +7,46 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>The Citizenship Education programme aims to develop students to be culturally sensitive, concerned and socially responsible citizens with a global outlook and a strong sense of rootedness to Singapore. The programme seeks to cultivate the citizenship dispositions in our students (sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, which translates to the will to act on improving the lives of others and building a future for our nation) using the following approaches:</p>
+<p>The Citizenship Education programme aims to develop students into culturally sensitive, socially responsible citizens with a global outlook and a strong sense of rootedness to Singapore. The programme seeks to cultivate citizenship dispositions in our students, including a sense of belonging to the nation, hope in themselves and the future, as well as an awareness of the realities of Singapore’s vulnerabilities and constraints. This understanding translates into a commitment to act on improving the lives of others and building a future for our nation. The programme employs the following approaches:</p>
 
-<p></p><ul><li>Engaging our students in conversations during the CCE and academic subject lessons allow them to share perspectives and discuss contemporary issues and public policies in a conducive environment.</li>
+<p></p><li>Engaging our students in conversations during the CCE and academic subject lessons allow them to share perspectives and discuss contemporary issues and public policies in a conducive environment.</li>
 
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/student.jpg"> 
-Students participating actively in conversations on contemporary issues with their classmates and CCE Representative leading a discussion with her classmates.</figure><p></p>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n0.jpg">Students participate actively in conversations on contemporary issues, with a CCE representative leading the discussion among her classmates</figure><p></p>	
 
-<p></p><li>Enriching Student Development Experiences (SDEs) through students’ active participation in school-based activities like NE Commemorative Days, SG Perspectives, NS Engagement, Respond Ready Programme, and various Festive celebrations.</li><p></p>
+<p></p><li>Enriching Student Development Experiences (SDEs) through students’ active participation in school-based activities, such as NE Commemorative Days, Dialogue Sessions with distinguished speakers, NS Engagement, Responders Plus Programme, and various festive celebrations.</li><p></p>
 	
-<ul><li><b>NE Commemoration days</b> like Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day Celebrations.	</li>
+<li><b>NE Commemoration days</b> like Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day Celebrations.	</li>
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/StudentsRHD.jpg">Students participated in the Racial Harmony Day Carnival booths organised by student volunteers.</figure><p></p>	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n1.jpg">Racial Harmony Day group photo</figure><p></p>	
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/students%20ND.jpg">Students participated in the National Day Observance Ceremony, Class Bonding activities and Mass Sing-Along during the National Day Celebrations.</figure><p></p>	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n2.jpg">Students participated in the Racial Harmony Day Carnival booth activities organised by student volunteers</figure><p></p>	
 	
-<p></p><li><b>Dialogue sessions with distinguished speaker</b></li>
-JC1 students attended a dialogue session with an Ambassador from the Ministry of Foreign Affairs to gain a deeper understanding of the issues related to Singapore’s foreign policy. JC2 students attended a dialogue session with an Office Holder to broaden their perspectives on contemporary issues and Singapore policies.<p></p>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n3.jpg">Marching-in of National Flag</figure><p></p>
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/SGperspect.jpg"></figure><p></p>	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n4.jpg">Mass sing-along during the National Day celebrations</figure><p></p>	
 	
-<p></p><li><b>National Service (NS) Engagement</b></li>
-NS Engagement sessions aim to prepare our students for their National Service. Speakers from CMPB and MINDEF were invited to share with our students on the pre-enlistment and vocation selection process. Alumni were invited to share their NS experiences with their juniors. Officers from SAF Volunteer Corps and ARMY Recruitment Centre were also invited to share with our female students on opportunities for them to serve the nation.<p></p>
+<li><b>Dialogue sessions with distinguished speaker</b><br>
+In JC1, students will participate in a dialogue session with a distinguished speaker from the Ministry of Foreign Affairs, where they will hear the ambassador’s perspectives and experiences and engage in discussions on contemporary realities of Singapore’s foreign policy. In JC2, students will participate in a dialogue session with a political office holder on policy matters, raising their awareness of national issues and the rationale behind government policies.</li>
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/NS%20engagement.jpg"></figure><p></p>	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n5.jpg">Mr. Lawrence Anderson during Q&amp;A</figure><p></p>	
 
-<p></p><li><b>Respond Ready Programme</b></li>
-Annually, our college invites SDCF Officers to conduct Community Emergency Preparedness Programme (CEPP) - Response Ready Programme for JC1 students to equip them with the core life-saving skills like basic first aid, CPR and AED and Fire Fighting skills, and to raise their awareness on the emergency procedures.<p></p>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n6.jpg">Minister Mr Masagos having a dialogue with students</figure><p></p>	
 	
-<p></p><figure><img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/Respondready.jpg"></figure><p></p>	
+<li><b>National Service (NS) Engagement</b><br>
+The NS Engagement sessions aim to prepare our students for National Service. For the boys, we invited speakers from CMPB and MINDEF to share insights on the pre-enlistment and vocation selection process, along with alumni who shared their NS experiences with their juniors. For the girls, officers from the SAF Volunteer Corps and the Army Recruitment Centre were invited to share the various opportunities available for them to serve the nation.</li>
 	
-<p></p><li><b>Festive Celebrations</b></li>
-Our Mother Tongue Languages Department organized various ethnic festive celebrations like Chinese New Year, Hari Raya Puasa and Deepavali where all students and staff celebrated the festive seasons together and got to learn more about the practices and cultures of different ethnic communities in Singapore.<p></p></ul>
-	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n7.jpg">Alumnus sharing his NS experiences</figure><p></p>	
 
-<p></p><li>Empowering students to take lead and to contribute back to the college and beyond.</li><p></p></ul></div>
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n8.jpg">VP Mrs Lee presenting the token of appreciation to alumnus</figure><p></p>	
+
+
+<li><b>Responders Plus Programme</b><br>
+Our college has partnered with the SCDF to enhance vigilance and emergency preparedness among our student population. SCDF officers will conduct the Responders’ Plus Programme for student representatives from JC1 classes, equipping them with core life-saving skills such as basic first aid, CPR and AED usage, and firefighting techniques, while also raising their awareness of emergency procedures.</li>
+	
+<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n9.jpg">Student representatives from JC1 classes are learning core life-saving skills such as basic first aid, CPR and AED usage, and firefighting techniques</figure><p></p>	
+	
+<li><b>Festive Celebrations</b><br>
+Annually, our Mother Tongue Languages Department organises various ethnic festive celebrations, such as Chinese New Year, Hari Raya Puasa and Deepavali, where students and staff come together to celebrate these festive seasons and learn more about the practices and cultures of different ethnic communities in Singapore.</li>
+
+
+</div>
