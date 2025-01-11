@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Accomplishments.md
+      - Staff/2024.md
       - Staff/.keep
       - Students/2024 Accomplishments.md
       - Students/2023 Accomplishments.md
