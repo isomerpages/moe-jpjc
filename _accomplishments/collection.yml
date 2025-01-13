@@ -2,6 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
+      - "'A' Lvl Inspirational Stories/.keep"
       - Accomplishments.md
       - Staff/.keep
       - Staff/2024.md
