@@ -44,9 +44,9 @@ telephone no. 6564 6878 extension 202.
 
 	
 	
-</p><p><u>Application will close on 13 Janurary 2025</u>:<br>
+</p><p><u>Application will close on 28 February 2025</u>:<br>
 Application Form, duly complied must be submitted to the General Office,
-	Jurong Pioneer JC <u>no later than 13 Janurary 2025 before noon.</u> Late
+	Jurong Pioneer JC <u>no later than 28 February 2025 before noon.</u> Late
 application will not be considered.</p>
 
 	
