@@ -40,19 +40,19 @@ variant: markdown
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</b></h6>
 
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-DMupFISItwyryhnB8z2Kobiks0Hcxc4E1XRf4bDtlDWge3jrkxogkWetdolqsQ/pub?embedded=true" width="900px" height="2160px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-DMupFISItwyryhnB8z2Kobiks0Hcxc4E1XRf4bDtlDWge3jrkxogkWetdolqsQ/pub?embedded=true" width="900px" height="2150px" scrolling="no"></iframe>
 	
 <h4><i>eTeens</i> Programme</h4>
 
 <ol start="6">
 	<li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li>
 	<li> Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</li></ol>
-
+	
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2025
 
 </b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTlKfSiA6PAnsiPAMy72h6nWBm5GhaEgs3yKK0feculz1QdWgreFpeFGnBOjLO7Lg/pub?embedded=true" width="1600px" height="250px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTlKfSiA6PAnsiPAMy72h6nWBm5GhaEgs3yKK0feculz1QdWgreFpeFGnBOjLO7Lg/pub?embedded=true" width="1600px" height="230px" scrolling="no"></iframe>
 	
 
 <h5>INFORMATION FOR PARENTS</h5>
