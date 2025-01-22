@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - 2025 Events.md
       - College Yearbooks.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
