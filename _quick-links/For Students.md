@@ -25,9 +25,7 @@ description: ""
 <p><a href="https://login.swn.moe.edu.sg:1003/fgtauth?050a1f0710345fd5" rel="noopener noreferrer nofollow" target="_blank">School Wifi</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Quicklink to sch wifi (upon select SWN@SSOE)</p>
-</td>
+
 <td rowspan="1" colspan="1">
 <p>User Login : NRIC, MIMS password</p>
 </td>
@@ -294,3 +292,10 @@ We are here to listen.</p>
 	
 </tbody>
 </table>
+
+
+
+<div hidden="">
+
+<p>Quicklink to sch wifi (upon select SWN@SSOE)</p>
+</div>
