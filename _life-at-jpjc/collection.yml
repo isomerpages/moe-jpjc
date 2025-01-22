@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - College Yearbooks.md
+      - 2025 Events/2025 Events Overview.md
+      - 2025 Events/.keep
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
       - 2024 Events/National Day Celebrations.md
@@ -182,6 +184,7 @@ collections:
       - 2020 Events/Jurong Pioneer JC Open House.md
       - 2020 Events/Orientation Group Leaders (OGL) Camp.md
       - 2020 Events/NTU SCSE Computing Challenge 2020.md
+      - 2019 Events/.keep
       - 2019 Events/2019 Events Overview.md
       - 2019 Events/JPJC Student Selected for Singapore Combined Schools U18
         Squad.md
@@ -217,4 +220,3 @@ collections:
       - 2019 Events/Chinese New Year Celebration.md
       - 2019 Events/Open House.md
       - 2019 Events/The Singapore Chemistry Olympiad.md
-      - 2019 Events/.keep
