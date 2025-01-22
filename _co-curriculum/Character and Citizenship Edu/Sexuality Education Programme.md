@@ -40,9 +40,9 @@ variant: markdown
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</b></h6>
 
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-DMupFISItwyryhnB8z2Kobiks0Hcxc4E1XRf4bDtlDWge3jrkxogkWetdolqsQ/pub?embedded=true" width="900px" height="2150px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-DMupFISItwyryhnB8z2Kobiks0Hcxc4E1XRf4bDtlDWge3jrkxogkWetdolqsQ/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
 	
-	<iframe src="https://docs.google.com/document/d/e/2PACX-1vQjElMCubRfFSYvWC1Gt6Jer_nzeNeBN5f2zMNfgtA5ysmDCorgbetkbQ-mHIfG3g/pub?embedded=true" width="900px" height="2150px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQjElMCubRfFSYvWC1Gt6Jer_nzeNeBN5f2zMNfgtA5ysmDCorgbetkbQ-mHIfG3g/pub?embedded=true" width="900px" height="950px" scrolling="no"></iframe>
 	
 <h4><i>eTeens</i> Programme</h4>
 
