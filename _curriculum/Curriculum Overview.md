@@ -14,11 +14,3 @@ variant: markdown
 	
 	
 	
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img height="200" width="300" src="/images/Open%20House%202025/Co_Curriculum.png">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img height="200" width="300" src="/images/Open%20House%202025/Subject_Combination.png">
-  </div>
-</div>
