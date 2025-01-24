@@ -40,7 +40,8 @@ JP Dance Club at the CCA Showcase</figcaption></figure>
 Our taekwondo team's thrilling demonstration</figcaption></figure>	
 </div>
 	<p></p>
-
+	
+<div align="justify">
 <p>At the #WhyJP Open House, Principal Mr. Kevin Ang emphasised why JPJC stands out as a top choice for junior college, highlighting its quality education and diverse programmes for holistic development. Visitors also explored the Academic and Subject Combination Showcase in the hall, where teachers provided guidance on the JC curriculum and elective programmes, including JPJC’s signature Chinese and Malay Language Elective Programmes.
 </p>
 <p></p>
@@ -63,6 +64,7 @@ Interact Club members sharing about their CCA</figcaption></figure>
 </div>
 <p></p>
 
+<div align="justify">
 <p>Special Programmes and Co-Curricular Activity (CCA) booths across the Concourse, Hall, and Canteen showcased a wide range of opportunities available. Dynamic performances by performing arts CCAs offered a glimpse into the vibrant extracurricular life. These experiences inspired visitors to envision themselves as part of the #JPFam and the exciting journey ahead at JPJC.
 </p>
 <div class="isomer-image-wrapper">
@@ -71,6 +73,7 @@ Interact Club members sharing about their CCA</figcaption></figure>
 Our JPFam</figcaption></figure>	
 </div>
 
+<div align="justify">
 <p>The #WhyJP Open House 2025 showcased JPJC’s vibrant spirit, holistic education, and welcoming community. Visitors experienced the energy of student life, engaged with passionate staff and students, and explored the diverse academic and extracurricular opportunities. By the end of the day, they left the Open House inspired and confident, ready to join a college that nurtures growth, fosters talent, and empowers the leaders of tomorrow.
 </p>
 <div class="isomer-image-wrapper">
@@ -79,4 +82,4 @@ Our JPFam</figcaption></figure>
 School leaders and the Open House 2025 Organising Committee</figcaption></figure>	
 </div>
 <p></p>
-<p></p>
+<p></p></div></div></div>
