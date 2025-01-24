@@ -2,7 +2,7 @@
 title: Curriculum Overview
 permalink: /jpjc-experience/curriculum/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <ul>
 	<li><a href="/humanities-and-the-arts/">Humanities &amp; the Arts</a></li>
@@ -11,3 +11,6 @@ variant: tiptap
 	<li><a href="/languages/">Languages</a></li>
 	<li><a href="/language-elective-programmes/">Language Elective Programmes</a></li>
 	<li><a href="/knowledge-skills/">Knowledge Skills</a></li></ul>
+	
+	
+	
