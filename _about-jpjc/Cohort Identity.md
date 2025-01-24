@@ -15,7 +15,7 @@ description: ""
 <figure>
 
 <p><b></b></p><center><b><h5>Class of 2023</h5></b></center><p></p> 
-<img style="height:500px;width:auto" src="/images/About%20JPJC/College%20Identity/CI2023.jpg">
+<img style="height:700px;width:auto" src="/images/About%20JPJC/College%20Identity/CI2023.jpg">
 <figcaption></figcaption></figure>	
 
  
