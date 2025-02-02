@@ -26,12 +26,13 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: Infopic
+      title: J1 Matriculation and Orientation Programme 2025
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
   - infopic:
       title: Curriculum
       subtitle: Active learners
