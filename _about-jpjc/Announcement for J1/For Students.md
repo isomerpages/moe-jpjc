@@ -34,4 +34,6 @@ Jurong Pioneer Junior College</p>
 | 11 February, Tuesday<br>8:15 AM to 3:30 PM | Feel the energy as you participate in exciting Games, master the College Dances, and cheer with your new Housemates! | 
 | 12 February, Wednesday<br>8:15 AM to 2:15 PM | End the Orientation programme on a high note with a House Bonding Day and connect with your supportive J2 Seniors, who are here to guide and inspire you. |
 	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5rnNIerfBfg0_veZGdPrwYHLpSQgGV0yKEthLq4Mmif_ZdA7U3kirOXusDpWEiQ/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
+	
 </div>
