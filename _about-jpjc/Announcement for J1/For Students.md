@@ -32,7 +32,7 @@ Jurong Pioneer Junior College</p>
 | 7 February, Friday 8:15 AM to 4:00 PM | Dive into the vibrant JC experience with the CCA Talk and an electrifying CCA Fair, where J2 seniors showcase their passions, talents, and share insights about their CCAs to help you discover your interests and find your fit. |
 | 10 February, Monday 8:15 AM to 3:30 PM | Meet your Civics Tutor and classmates, bond with your Housemates, learn the energetic College Dance, and enjoy a fun-filled Games Session to kickstart new friendships. | 
 | 11 February, Tuesday 8:15 AM to 3:30 PM | Feel the energy as you participate in exciting Games, master the College Dances, and cheer with your new Housemates! | 
-| 12 February, Wednesday 8:15 AM to 2:15 PM | End the Orientation programme on a high note with a House Bonding Day and connect with your supportive J2 Seniors, who are here to guide and inspire you. |
+| 12 February, Wednesday 8:15 AM to 2:15 PM | End the Orientation programme on a high note with a House Bonding Day and connect with your supportive J2 Seniors, who are here to guide and inspire you. 
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5rnNIerfBfg0_veZGdPrwYHLpSQgGV0yKEthLq4Mmif_ZdA7U3kirOXusDpWEiQ/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
 	
