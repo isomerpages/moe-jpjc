@@ -27,6 +27,6 @@ Jurong Pioneer Junior College</p>
 	
 
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5rnNIerfBfg0_veZGdPrwYHLpSQgGV0yKEthLq4Mmif_ZdA7U3kirOXusDpWEiQ/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5rnNIerfBfg0_veZGdPrwYHLpSQgGV0yKEthLq4Mmif_ZdA7U3kirOXusDpWEiQ/pub?embedded=true" width="1200px" height="1200px" scrolling="no"></iframe>
 	
 </div>
