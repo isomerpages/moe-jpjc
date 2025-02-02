@@ -26,6 +26,13 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Curriculum
       subtitle: Active learners
       id: infopic
