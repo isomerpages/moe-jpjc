@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: J1 M&O and Parent Engagement
       id: infopic
-      description: Important Information for J1 students and parents
+      description: Important announcement for J1 students and parents
       button: Find out more
       alt: Image alt text
       image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
