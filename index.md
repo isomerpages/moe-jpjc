@@ -33,7 +33,7 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
-      url: /about-jpjc/open-house-2025/
+      url: /about/announcement-for-j1/for-students/
   - infopic:
       title: Curriculum
       subtitle: Active learners
