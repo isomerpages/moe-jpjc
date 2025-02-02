@@ -28,8 +28,7 @@ sections:
   - infopic:
       title: J1 M&O and Parent Engagement
       id: infopic
-      description: Important Information for 1) J1 Matriculation and Orientation
-        Programme 2025 and 2) J1 Parent Engagement on Subject Combination
+      description: Important Information for J1 students and parents
       button: Find out more
       alt: Image alt text
       image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
