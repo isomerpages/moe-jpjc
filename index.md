@@ -26,13 +26,14 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: J1 Matriculation and Orientation Programme 2025
-      subtitle: Add an image and text
+      title: J1 M&O and Parent Engagement
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Important Information for 1) J1 Matriculation and Orientation
+        Programme 2025 and 2) J1 Parent Engagement on Subject Combination
+      button: Find out more
       alt: Image alt text
       image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
+      url: /about-jpjc/open-house-2025/
   - infopic:
       title: Curriculum
       subtitle: Active learners
