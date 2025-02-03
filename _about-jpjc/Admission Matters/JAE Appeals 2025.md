@@ -9,7 +9,6 @@ third_nav_title: Admission Matters
 
 <p>The 2025 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <strong>are not eligible </strong>for this exercise.</p><p></p><p>JAE posting results will be released on Tuesday, 4 February 2025. Appeals for admission to JPJC will commence on Tuesday, 4 February 2025 and end on Monday, 10 February 2025.</p><p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2025, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 	
- here. Each applicant is allowed to submit only one application. 
 	
 <p>All appeal applications must be completed online. The online application form can be accessed <a href="https://jae.jpjc.edu.sg/">here</a>. Each applicant is allowed to submit only one application. The link will be valid only during the JAE  Appeals <b>2025</b> period.	</p>
 <p>Only shortlisted candidates will be contacted for an interview.</p>
