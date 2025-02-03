@@ -22,7 +22,7 @@ third_nav_title: Announcements for J1
 <li>Date: Wednesday, 5 February</li>
 <li>Time: 6:00 PM to 7:00 PM </li>
 <li>Platform: Microsoft Teams</li>
-<li>Register via this link: </li></ul>
+<li>Click <a href="https://events.teams.microsoft.com/event/6c78b2ec-7faa-493e-8bcf-312b271d0c39@6590cdd4-8337-4198-bacc-47645c4a4d4d">here</a> to register</li></ul>
 
 <p>We look forward to your participation and collaboration in supporting your child/ward's academic journey.</p>
 
