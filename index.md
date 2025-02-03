@@ -26,6 +26,14 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: J1 M&O and Parent Engagement
+      id: infopic
+      description: Important announcements for J1 students and parents
+      button: Find out more
+      alt: Image alt text
+      image: /images/Homepage/M_O_and_Parent_Engagement_for_Subject_Combi.png
+      url: /about/announcement-for-j1/for-students/
+  - infopic:
       title: Curriculum
       subtitle: Active learners
       id: infopic
