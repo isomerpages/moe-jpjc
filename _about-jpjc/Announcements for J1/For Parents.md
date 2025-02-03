@@ -22,8 +22,10 @@ third_nav_title: Announcements for J1
 <li>Date: Wednesday, 5 February</li>
 <li>Time: 6:00 PM to 7:00 PM </li>
 <li>Platform: Microsoft Teams</li>
-<li>Click <a href="https://for.edu.sg/parentengagement-subjectcombi">here</a> to register for the Parent Engagmenent </li></ul>
+<li>Click <a href="https://for.edu.sg/parentengagement-subjectcombi">here</a> or scan the QR code to register for the Parent Engagmenent </li></ul>
 
+<p></p><figure style="width:50%; height: auto"><img src="/images/About%20JPJC/Announcements%20for%20J1/Subject_Combi_PES.jpg"></figure><p></p>
+	
 <p>We look forward to your participation and collaboration in supporting your child/ward's academic journey.</p>
 
 <p> Warm regards<br>
