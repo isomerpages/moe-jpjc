@@ -20,7 +20,7 @@ sections:
           url: https://www.jpjc.moe.edu.sg/life-at-jpjc/2024-events/
         - title: A Level Inspiration Stories
           description: Hear from the class of 2023!
-          url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2024/overview/
+          url: /a-level-inspirational-stories/2023/overview/
       variant: center
       backgroundColor: white
       size: sm
@@ -68,7 +68,7 @@ sections:
       description: Be inspired by how our students have overcome various difficulties
         in their lives and found varied pathways to success.
       button: Read more here
-      url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2024/overview/
+      url: /a-level-inspirational-stories/2023/overview/
       image: /images/Homepage/4.png
       alt: Image alt text
 ---
