@@ -5,7 +5,7 @@ variant: markdown
 description: JPJC Open House 2024 FAQ
 third_nav_title: "2024"
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h2>Frequently Asked Questions</h2>
 
