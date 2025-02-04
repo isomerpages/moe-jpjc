@@ -5,6 +5,7 @@ variant: markdown
 description: JPJC Open House 2024 Programmes
 third_nav_title: "2024"
 ---
+<div hidden="">
 <center><h3>Browse our curation of co-curricular programmes for our students' holistic learning experience here!</h3></center>
 <p></p><center>Click on the images/quotes for more information.</center><p></p>
 
@@ -31,4 +32,4 @@ third_nav_title: "2024"
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/"><img src="/images/Open%20house%202024/Programmes/Student_Leadership.jpg"></a></div>
 <div class="column">
 <center><strong>Values in Action</strong></center>
-<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/VIA.jpg"></a></div></div>
+<a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/"><img src="/images/Open%20house%202024/Programmes/VIA.jpg"></a></div></div></div>
