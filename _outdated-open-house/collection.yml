@@ -2,7 +2,7 @@ collections:
   outdated-open-house:
     output: true
     order:
-      - 2024/FAQ.md
+      - 2024/Frequently Asked Questions.md
       - 2024/CCA.md
       - 2024/Programmes.md
       - 2024/Subjects.md
