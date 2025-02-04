@@ -3,6 +3,7 @@ title: Scholars Development Programme
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/
 description: ""
 third_nav_title: Talent and Leadership
+variant: markdown
 ---
 <div align="justify">
 <center><h5>“We Get YOU Places”</h5></center>
@@ -55,8 +56,7 @@ Students in this programme will plan and organise a 2 Day Leadership Camp for yo
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/Picture%202.jpeg">
 <figcaption>Group photo with Grassroots Adviser to Choa Chu Kang GRC GROs (Keat Hong) Mr Zhulkarnain at the Leadership Training Camp (in collaboration with Keat Hong Youth Network) in June 2022</figcaption></figure>
 
-<figure>
-<img src="/images/sdp9.jpg"></figure>
+
 
 <img src="/images/sdp10.jpg" style="width:8%;margin-right:15px;" align="left">
 <strong>Skills Based Workshops (Communications, Public Speaking and Interview Skills)</strong>
