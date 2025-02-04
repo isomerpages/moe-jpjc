@@ -19,7 +19,7 @@ third_nav_title: Admission Matters
 <p><b>Cut-off L1R5 Points for Admission into JPJC</b><br>
 The table below shows past L1R5 aggregate cut-off points (after deduction of bonus points) for the Joint Admission Exercise. Please note that student postings are subject to vacancy availability, and not all applicants with the listed L1R5 aggregate scores are successfully posted to JPJC.
 
-<table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2024</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2025</p></td><td rowspan="1" colspan="1"><p>15</p></td><td rowspan="1" colspan="1"><p>14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
 </p><p><b>Students who are successfully posted to JPJC:</b><br>
 If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 5 February 2025, dressed in your secondary school uniform. <br>
