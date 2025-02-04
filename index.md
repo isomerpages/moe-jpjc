@@ -68,7 +68,7 @@ sections:
       description: Be inspired by how our students have overcome various difficulties
         in their lives and found varied pathways to success.
       button: Read more here
-      url: https://www.jpjc.moe.edu.sg/a-level-inspirational-stories/2023/overview/
+      url: /a-level-inspirational-stories/2023/overview/
       image: /images/Homepage/4.png
       alt: Image alt text
 ---
