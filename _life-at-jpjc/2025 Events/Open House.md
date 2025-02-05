@@ -66,5 +66,12 @@ MLEP Performance</figcaption></figure>
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="School leaders and the Open House 2025 Organising Committee" src="/images/2025%20Life@JPJC/Open%20House/OH_5.jpg">
-<figcaption>School leaders and the Open House 2025 Organising Committee</figcaption></figure>	
+<figcaption>School leaders and the Open House 2025 Organising Committee</figcaption></figure>
+<p>Written by:<br>
+Tan Xuan Ru Zorie, 24S08 <br>
+Chua Chee Yang, 24S12</p>
+
+<p>Photos by:<br>
+@jp_media.tech</p>
+
 </div></div>
