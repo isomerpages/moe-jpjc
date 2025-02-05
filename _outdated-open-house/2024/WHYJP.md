@@ -1,11 +1,11 @@
 ---
 title: WHYJP
-permalink: /about-jpjc/open-house-2024/
+permalink: /permalink/
 variant: markdown
 description: JPJC Open House 2024
 third_nav_title: "2024"
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3><center>Welcome to JPJC's Open House 2024!</center></h3>
 

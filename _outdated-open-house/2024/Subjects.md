@@ -1,10 +1,11 @@
 ---
 title: Subjects
-permalink: /about-jpjc/open-house-2024/subjects/
+permalink: /permalink/
 variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
+<div hidden="">
 <div align="justify">
 <h3><center>Find out more about the wide range of subjects offered at JPJC here!</center></h3>
 	
@@ -71,4 +72,4 @@ third_nav_title: "2024"
 <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/"><img src="/images/Open%20house%202024/Subjects/CCE.jpg"></a></div>
 
 <div class="column">			
-<img src="/images/Open%20house%202024/blank1.png"></div></div>
+<img src="/images/Open%20house%202024/blank1.png"></div></div></div>

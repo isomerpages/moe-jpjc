@@ -1,11 +1,11 @@
 ---
 title: Hear from the JP Fam
-permalink: /about-jpjc/open-house-2024/hear/
+permalink: /permalink/
 variant: markdown
 description: JPJC Open House 2024 Hear from the JP Fam
 third_nav_title: "2024"
 ---
-<div align="justify">
+<div align="justify" hidden="">
 
 <h3><center>Hear from our JPJC family #WHYJP is the college for you!</center></h3>
 	
