@@ -3,7 +3,6 @@ title: For Parents
 permalink: /about/announcement-for-j1/for-parents/
 variant: markdown
 description: ""
-third_nav_title: Announcements for J1
 ---
 <div align="justify">
 
