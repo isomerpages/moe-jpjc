@@ -2,12 +2,14 @@
 title: Total Curriculum Framework
 permalink: /permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+
+<div align="justify" hidden="">
+
 <figure>
 <img src="/images/JPJC%20Experience/Total%20Curriculum%20Framework/pic1.jpg">
-</figure>
-<div align="justify">
+</figure>	
 <p> <style>ol.a{list-style-type: upper-alpha;}</style>
 </p><ol class="a">
 Guided by our mission to nurture a community of active learners, innovative thinkers and compassionate leaders, with confidence for the future, the JPJC Total Curriculum Framework sets the direction for the implementation of the curriculum and co-curriculum in order to achieve the desired outcomes for our students. The framework identifies six key enablers to be adopted by all staff to help our students meet their goals and aspirations. With the college values as our core and foundation, underpinned by our common beliefs, all staff and students aspire towards our college vision together.<p></p>
