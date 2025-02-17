@@ -7,7 +7,9 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">
 
-<h2>Registration</h2><p></p><p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by:</p><ul data-tight="true" class="tight"><li><p>Junior Colleges (JC),</p></li><li><p>Millennia Institute (MI),</p></li><li><p>Polytechnics, and</p></li><li><p>Institute of Technical Education (ITE).</p></li></ul>
+<p></p><h5><b>Our JAE 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
+	
+</h5><h2>Registration</h2><p></p><p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by:</p><ul data-tight="true" class="tight"><li><p>Junior Colleges (JC),</p></li><li><p>Millennia Institute (MI),</p></li><li><p>Polytechnics, and</p></li><li><p>Institute of Technical Education (ITE).</p></li></ul>
 
 
 <p>The following candidates are eligible to participate in the JAE&nbsp;<strong>except</strong>&nbsp;those who have been successfully admitted to a school through the Direct School Admission-Junior Colleges (DSA-JC) Exercise / Polytechnic Early Admissions Exercise (Poly EAE) / ITE Early Admissions Exercise (ITE EAE):</p><ul data-tight="true" class="tight"><li><p>All Singapore Citizens (SC) or Singapore Permanent Residents (SPR) with valid Singapore-Cambridge GCE ‘O’ Level Examination results from any year.</p></li><li><p>International candidates studying in a Government School, Government-Aided School, or an Independent School in Singapore with valid Singapore-Cambridge GCE ‘O’ Level Examination results.</p></li></ul>
