@@ -7,6 +7,8 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">	
 
+<p></p><h5><b>Our DSA 2024 has concluded. Stay tuned for updates in 2025.</b></h5><h5><p></p>
+
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
 
 <p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of JC1 admission, applicants who are:<br>
@@ -17,7 +19,7 @@ third_nav_title: Admission Matters
 	
 </p>
 	
-<p></p><h5><b>Application Procedures</b></h5> 
+<p></p></h5><h5><b>Application Procedures</b></h5> 
 <ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2024</b>, Tuesday, onward.  All applications must be submitted by:<br>
 •	<b>5 Jul 2024</b>, Friday, 2359 hrs for <u>Phase 1</u> Application<br>
 •	<b>9 Aug 2024</b>, Friday, 2359 hrs for <u>Phase 2</u> Application
