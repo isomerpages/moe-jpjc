@@ -7,7 +7,7 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">
 
-<p></p><h5>Our JAE 2025 has concluded. Stay tuned for updates in 2026.</h5><h5><p></p>
+<p></p><h5><b>Our JAE 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 	
 </h5><h2>Registration</h2><p></p><p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by:</p><ul data-tight="true" class="tight"><li><p>Junior Colleges (JC),</p></li><li><p>Millennia Institute (MI),</p></li><li><p>Polytechnics, and</p></li><li><p>Institute of Technical Education (ITE).</p></li></ul>
 
