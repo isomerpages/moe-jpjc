@@ -5,6 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2025
 ---
+<div align="justify">
+
+<p></p><h5><b>Our Open House 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
+	
 <table>
       <tbody><tr>
         <td>
@@ -59,4 +63,4 @@ third_nav_title: Open House 2025
 </a></div>
 <div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img style="width:100%" src="/images/Open%20House%202025/JAE.png"></a>	
-</div></div></div>
+</div></div></div></h5></div>
