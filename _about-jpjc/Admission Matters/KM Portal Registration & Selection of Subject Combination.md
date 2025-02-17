@@ -6,6 +6,8 @@ variant: markdown
 third_nav_title: Admission Matters
 ---
 <div align="justify">
+	
+<p></p><h5><b>Registration for 2025 Subject Combination has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 
 <p>The following information is for <b>JC1 students who have been posted to JPJC.</b></p>
 
@@ -19,5 +21,4 @@ third_nav_title: Admission Matters
 <p></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 5 February, 11:59 PM.</b></p>
-</div>
-
+</h5></div>
