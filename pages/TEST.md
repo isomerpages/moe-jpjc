@@ -4,10 +4,10 @@ permalink: /test/
 variant: markdown
 description: ""
 ---
+
+<div align="justify" hidden="">
 <table style="width:100%">
    <tbody><tr>
-    
-
 <td style="width:50%;text-align:inter-word"><div style="text-align: justify; text-justify: inter-word;">
 <b>	28 January 2025</b><br>
 <b>Chinese New Year Celebration</b><br>
@@ -32,4 +32,4 @@ On the morning of 13 January 2025, the gates of JPJC were opened to the public, 
 			</figure>
 </div></td>
 </tr>
-</tbody></table>
+</tbody></table></div>
