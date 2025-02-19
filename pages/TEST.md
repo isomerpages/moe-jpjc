@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 ---
 
-![](/images/2025%20Life@JPJC/Misc/Read_more__100_x_40_px_.gif)
-
 <table style="width:100%">
    <tbody><tr>
     
@@ -35,3 +33,6 @@ Read more
 </div></td>
 </tr>
 </tbody></table>
+
+
+![](/images/2025%20Life@JPJC/Misc/Read_more__100_x_40_px_.gif)
