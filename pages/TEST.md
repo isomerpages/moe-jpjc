@@ -26,6 +26,7 @@ Read more
 			<b>	13 January 2025</b><br>
 			<b>Open House</b><br>
 On the morning of 13 January 2025, the gates of JPJC were opened to the public, and streams of prospective students and their parents eagerly entered the college to attend the highly anticipated #whyJP Open House. Our JPFam was equally excited, keen to show off the college and the exciting activities. The Open House aimed to immerse visitors in the JPJC experience, allowing them to make informed decisions for the next chapter of their academic journey. 
-<img style="width:35%;vertical-align: middle;" src="/images/2025%20Life@JPJC/Misc/Read_more__100_x_40_px_.gif"></div></td>
+
+<img style="width:45%;vertical-align: right;" src="/images/2025%20Life@JPJC/Misc/Read_more__100_x_40_px_.gif"></div></td>
 </tr>
 </tbody></table>
