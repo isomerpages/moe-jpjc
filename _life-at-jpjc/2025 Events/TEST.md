@@ -13,7 +13,7 @@ The Chinese New Year (CNY) celebrations in JPJC have always been occasions of jo
 <a href="/life-at-jpjc/2025-events/cny/"><img style="width:45%;vertical-align: middle;" src="/images/2025%20Life@JPJC/Misc/LGI.gif"></a>
 </div></td>
 		 
-<td style="width:50%;vertical-align: middle;"><figure style="margin:auto;width:100%;">
+<td style="width:50%;vertical-align: top;"><figure style="margin:auto;width:100%;">
 <img src="/images/2025%20Life@JPJC/CNY%20Celebrations/cny1.jpg">
 </figure></td>
 </tr>
@@ -22,7 +22,7 @@ The Chinese New Year (CNY) celebrations in JPJC have always been occasions of jo
 
 <table style="width:100%">
    <tbody><tr>
-    <td style="width:50%;vertical-align: middle;"><figure style="margin:auto;width:100%;">
+    <td style="width:50%;vertical-align: top;"><figure style="margin:auto;width:100%;">
 <img src="/images/2025%20Life@JPJC/Open%20House/OH_1.jpg">
 			</figure>
     </td>
