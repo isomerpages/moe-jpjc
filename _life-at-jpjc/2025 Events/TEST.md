@@ -31,6 +31,6 @@ The Chinese New Year (CNY) celebrations in JPJC have always been occasions of jo
 			<b>	13 January 2025</b><br>
 			<b>Open House</b><br>
 On the morning of 13 January 2025, the gates of JPJC were opened to the public, and streams of prospective students and their parents eagerly entered the college to attend the highly anticipated #whyJP Open House. Our JPFam was equally excited, keen to show off the college and the exciting activities. The Open House aimed to immerse visitors in the JPJC experience, allowing them to make informed decisions for the next chapter of their academic journey. 
-<a href="/life-at-jpjc/2025-events/cny/"><img style="width:45%;vertical-align: middle;" src="/images/2025%20Life@JPJC/Misc/Love.gif"></a></div></td>
+<a href="/life-at-jpjc/2025-events/open-house/"><img style="width:45%;vertical-align: middle;" src="/images/2025%20Life@JPJC/Misc/Love.gif"></a></div></td>
 </tr>
 </tbody></table>
