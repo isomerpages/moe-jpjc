@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - College Yearbooks.md
-      - 2025 Events/CNY Celebrations.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events Overview.md
+      - 2025 Events/CNY Celebrations.md
       - 2025 Events/Open House.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events Overview.md
