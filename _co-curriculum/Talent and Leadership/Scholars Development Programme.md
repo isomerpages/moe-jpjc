@@ -27,10 +27,12 @@ L1R5 raw score of 11 and below. Other considerations include:
 <p><img src="/images/sdp2.jpg" style="width:8%;margin-right:15px;" align="left">
 	<b>Structured Mentoring Programme</b></p>
 	
+	
 <p>Each student in this programme is assigned a teacher mentor who will guide them in discussions about higher education, scholarships, and career goals. The teacher mentors will also help students identify growth opportunities that enhance the development of 21st Century Competencies and support them in documenting their experiences through e-portfolios.</p>
 <br>
 <p><img src="/images/sdp3.jpg" style="width:8%;margin-right:15px;" align="left">
 <b>Student Experience Programme with Meet-The-People Session</b></p>
+	
 	
 <p>During the Meet-the-People Sessions, students can gain an insight of the real concerns of the community and how the Grassroots Adviser views and resolves issues as a community leader.</p>
 <figure>
@@ -45,6 +47,7 @@ L1R5 raw score of 11 and below. Other considerations include:
 
 <p><img src="/images/sdp6.jpg" style="width:8%;margin-right:15px;" align="left">
 	<b>Leadership Camp for West Zone Sec Schools</b></p>
+	
 	
 <p>Students in this programme plan and organise an annual Leadership Camp for secondary school student leaders, primarily from the West Zone cluster of schools, during the June holidays. This event offers scholars the opportunity to learn how to inspire and impact their juniors, fostering a sense of leadership and responsibility. Through this leadership camp, both the student organisers and secondary school attendees will gain a deeper understanding of how 21st Century Competencies - such as growth mindset, building positive relationships, and ethical decision-making - are essential for their development as student leaders.</p>
 <figure>
