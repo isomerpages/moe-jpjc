@@ -36,7 +36,7 @@ L1R5 raw score of 11 and below. Other considerations include:
 <figcaption>Group photo with Mr Gan Kim Yong (Grassroots Adviser to Chua Chu Kang). Student Experience Programme with Choa Chu Kang Meet-the-People Session (May 2024)</figcaption></figure>
 <figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP2.jpg">
-<figcaption>Group photo with Mr Gan Kim Yong (Grassroots Adviser to Chua Chu Kang). Student Experience Programme with Choa Chu Kang Meet-the-People Session (Nov Dec 2024)</figcaption></figure>
+<figcaption>Group photo with Mr Gan Kim Yong (Grassroots Adviser to Chua Chu Kang). Student Experience Programme with Choa Chu Kang Meet-the-People Session (Nov-Dec 2024)</figcaption></figure>
 <figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP3.jpg">
 <figcaption>Group photo with Mr Zhulkarnain Abdul Rahim (Grassroots Adviser to Keat Hong). Student Experience Programme with Keat Hong Meet-the-People Session (May 2024)</figcaption></figure>
