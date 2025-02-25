@@ -38,32 +38,19 @@ L1R5 raw score of 11 and below. Other considerations include:
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP3.jpg">
 <figcaption>Group photo with Mr Zhulkarnain Abdul Rahim (Grassroots Adviser to Keat Hong). Student Experience Programme with Keat Hong Meet-the-People Session (May 2024)</figcaption></figure>
 
-
-<img src="/images/sdp4.jpg" style="width:8%;margin-right:15px;" align="left">
-	<strong>Grassroots Engagement Programme</strong><br>
-<p>
-A community-based project that is designed to expose our scholars to higher-level community work. It aims to deepen our scholars’ understanding of the community and environment so that they can be compassionate leaders.</p>
-
-<figure>
-<img src="/images/sdp5.jpg"></figure>
-		 
 <img src="/images/sdp6.jpg" style="width:8%;margin-right:15px;" align="left">
-<strong>Leadership Training Camp @ Yuhua</strong>
-<p>Students in the Scholars Development Programme will partner with Yuhua Community Club to plan and organise a 2 Day 1 Night Leadership Camp for youths residing in Jurong GRC during the June holidays as part of their community involvement programme. The purpose of this event seeks to provide an opportunity for students within the Scholars Development Programme to gain an insight into community work while also contribute positively back to society. In the process, they will also obtain the platform to learn important skills such as team work, communication and developing a sense of empathy.</p>
-
+<b>Leadership Camp for West Zone Sec Schools</b>
+<p>Students in this programme plan and organise an annual Leadership Camp for secondary school student leaders, primarily from the West Zone cluster of schools, during the June holidays. This event offers scholars the opportunity to learn how to inspire and impact their juniors, fostering a sense of leadership and responsibility. Through this leadership camp, both the student organisers and secondary school attendees will gain a deeper understanding of how 21st Century Competencies - such as growth mindset, building positive relationships, and ethical decision-making - are essential for their development as student leaders.</p>
 <figure>
-<img src="/images/sdp7.jpg"></figure>
-	
-<img src="/images/sdp6.jpg" style="width:8%;margin-right:15px;" align="left">
-<strong>Leadership Training Camp @ Keat Hong</strong>
-<p>
-Students in this programme will plan and organise a 2 Day Leadership Camp for youths residing in Choa Chu Kang GRC during the June holidays as part of their community involvement programme, in conjunction with Keat Hong Community Club. This event seeks to provide an opportunity for all scholars to gain an insight into community work while also contribute positively back to society. In the process, scholars will obtain the platform to learn important skills such as team work, communication and developing a sense of empathy for others. This is a new initiative mooted by the students themselves following the excellent and positive reviews and feedback from the Leadership Training Camp at Yuhua Community Club.</p>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP4.jpg">
+<figcaption>Group photo with Guest of Honour Mr Zhulkarnain Abdul Rahim (Grassroots Adviser to Keat Hong) and Vice-Principal Mrs Lee Bee Cheow. Leadership Camp for West Zone Sec Schools 2023</figcaption></figure>
 <figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/Picture%202.jpeg">
-<figcaption>Group photo with Grassroots Adviser to Choa Chu Kang GRC GROs (Keat Hong) Mr Zhulkarnain at the Leadership Training Camp (in collaboration with Keat Hong Youth Network) in June 2022</figcaption></figure>
-
-
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP5.jpg">
+<figcaption>Photo of camp participants tackling the Shark Tank challenge. Leadership Camp for West Zone Sec Schools 2024</figcaption></figure>
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP6.jpg">
+<figcaption>Group photo of camp participants with Principal Mr Kevin Ang. Leadership Camp for West Zone Sec Schools 2024</figcaption></figure>
 
 <img src="/images/sdp10.jpg" style="width:8%;margin-right:15px;" align="left">
-<strong>Skills Based Workshops (Communications, Public Speaking and Interview Skills)</strong>
-<p>To better prepare and equip our students with the skills, content and disposition in overcoming rigorous scholarship interviews, the college has provided support and engaged experienced trainers to offer customised training for all members in this programme based on their individual scholarship aspirations.</p></div>
+<b>Skills Based Training (Community Leadership, Communication Skills, and Interview Skills)</b>
+<p>To better prepare and equip our students with the skills and competencies needed to lead community projects and excel in scholarship interviews, experienced trainers provide specialised training for students in this programme.</p></div>
