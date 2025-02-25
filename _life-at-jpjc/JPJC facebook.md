@@ -4,7 +4,7 @@ permalink: /jpjc-facebook/
 variant: markdown
 description: ""
 ---
-<div id="fb-root"></div>
 
 
-<div data-show-facepile="true" data-hide-cover="false" data-adapt-container-width="true" data-small-header="false" data-height="" data-width="" data-tabs="timeline" data-href="https://www.facebook.com/jpjc.sg" class="fb-page"><blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/jpjc.sg"><a href="https://www.facebook.com/jpjc.sg">Jurong Pioneer Junior College</a></blockquote></div>
+
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="500" width="340" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fjpjc.sg&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId"></iframe>
