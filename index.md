@@ -26,15 +26,6 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: GCE A-Level Result Release
-      subtitle: IMPORTANT ANNOUNCEMENT
-      id: infopic
-      description: Please report to the college hall at 2:00 PM on Friday, 21 February
-        2025, for the release of the 2024 Singapore-Cambridge GCE A-Level
-        examination results.
-      image: /images/Homepage/A_level_Results.png
-      alt: Image alt text
-  - infopic:
       title: Curriculum
       subtitle: Active learners
       id: infopic
