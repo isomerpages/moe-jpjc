@@ -21,19 +21,16 @@ L1R5 raw score of 11 and below. Other considerations include:
   <li>Excellent character reference</li>
 	<li>Selection interview</li>
 </ul><p></p>
-
-<figure>
-<img src="/images/sdp%201.jpg"></figure>
 		 
-<p>Members of this programme are <span style="color:#ae3434">empowered</span> through:</p>  
+<p>Members of this programme are empowered through:</p>  
 
 <img src="/images/sdp2.jpg" style="width:8%;margin-right:15px;" align="left">
-<strong>Structured Mentoring Programme</strong><br>
-<p>Each student will be assigned a teacher as his/her personal mentor whom he/she can look to for academic guidance and advice, developmental needs and plans, socio-emotional learning needs, insights into careers and general sharing of experiences.</p>
+<b>Structured Mentoring Programme</b><br>
+<p>Each student in this programme is assigned a teacher mentor who will guide them in discussions about higher education, scholarships, and career goals. The teacher mentors will also help students identify growth opportunities that enhance the development of 21st Century Competencies and support them in documenting their experiences through e-portfolios.</p>
 <br>
 <img src="/images/sdp3.jpg" style="width:8%;margin-right:15px;" align="left">
-<strong>MP Attachment Programme</strong><br>
-<p>Scholars are attached to a Member of Parliament during the Meet-the-People Sessions. They are able to gain an insight of the real concerns of the community and how the MP views and resolves issues as a community leader.</p>
+<b>Student Experience Programme with Meet-The-People Session</b><br>
+<p>During the Meet-the-People Sessions, students can gain an insight of the real concerns of the community and how the Grassroots Adviser views and resolves issues as a community leader.</p>
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/Picture%201.jpeg">
 <figcaption>Group photo with Minister Gan Kim Yong. Student Experience Programme with Choa Chu Kang Meet-the-People Sessions (May &amp; June 2022)</figcaption></figure>
