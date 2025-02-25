@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - Social Media/Facebook.md
       - Social Media/.keep
       - College Yearbooks.md
       - 2025 Events/.keep
