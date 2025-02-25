@@ -2,8 +2,8 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - JPJC facebook.md
       - College Yearbooks.md
+      - JPJC facebook.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events Overview.md
       - 2025 Events/CNY Celebrations.md
