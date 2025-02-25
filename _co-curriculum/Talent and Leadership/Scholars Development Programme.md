@@ -6,16 +6,21 @@ third_nav_title: Talent and Leadership
 variant: markdown
 ---
 <div align="justify">
-<center><h5>“We Get YOU Places”</h5></center>
-
 <p>
-The Scholars Development Programme adopts a broad-based and holistic approach that aims to&nbsp;<strong><span style="color:#b74b4b">develop our members</span></strong>&nbsp;to their full potential,&nbsp;<strong><span style="color:#b74b4b">groom them for scholarships</span></strong>&nbsp;of their choice and&nbsp;<strong><span style="color:#b74b4b">empower them</span></strong>&nbsp;to achieve their career goals and aspirations. The programme also develops all members of this programme to be compassionate, informed (global outlook &amp; concerned citizen) and skilful leaders who would take on a scholarship and serve the community in his/her best capacity in future.</p>
+The Scholars Development Programme adopts a broad-based and holistic approach that aims to <b>develop our students in the programme</b> to their full potential, <b>prepare them</b> for scholarship opportunities and <b>empower them</b> to achieve their career goals and aspirations.</p>
 
 <p>	
-<strong>Mission:</strong> To provide promising students with meaningful guidance, opportunities and exposure to make them compassionate, informed and skilful leaders in the 21st&nbsp;Century.</p>
+<b>Mission:</b> To equip promising students with opportunities and exposure, helping them become compassionate, informed, and skilled leaders who serve their community to the best of their ability.</p>
 
 <p>	
-<strong>Vision:</strong> A Scholar, A Leader, An Active Contributor</p>
+<b>Selection Criteria:</b><br>
+L1R5 raw score of 11 and below. Other considerations include:
+	</p><ul>
+  <li>Keen to apply for scholarships</li>
+  <li>Leadership experience / intending to take up leadership role in JPJC</li>
+  <li>Excellent character reference</li>
+	<li>Selection interview</li>
+</ul><p></p>
 
 <figure>
 <img src="/images/sdp%201.jpg"></figure>
