@@ -32,8 +32,8 @@ L1R5 raw score of 11 and below. Other considerations include:
 <b>Student Experience Programme with Meet-The-People Session</b><br>
 <p>During the Meet-the-People Sessions, students can gain an insight of the real concerns of the community and how the Grassroots Adviser views and resolves issues as a community leader.</p>
 <figure>
-<img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/Picture%201.jpeg">
-<figcaption>Group photo with Minister Gan Kim Yong. Student Experience Programme with Choa Chu Kang Meet-the-People Sessions (May &amp; June 2022)</figcaption></figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/SDP1.jpg">
+<figcaption>1.	Group photo with Mr Gan Kim Yong (Grassroots Adviser to Chua Chu Kang). Student Experience Programme with Choa Chu Kang Meet-the-People Session (May 2024).</figcaption></figure>
 
 <img src="/images/sdp4.jpg" style="width:8%;margin-right:15px;" align="left">
 	<strong>Grassroots Engagement Programme</strong><br>
