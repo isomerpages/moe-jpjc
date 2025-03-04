@@ -63,4 +63,14 @@ sections:
       url: /a-level-inspirational-stories/2023/overview/
       image: /images/Homepage/4.png
       alt: Image alt text
+  - infopic:
+      title: Hear from Class of 2024!
+      subtitle: Highlights
+      id: infopic
+      description: Be inspired by how our students have overcome various difficulties
+        in their lives and found varied pathways to success.
+      button: Read more here
+      url: /a-level-inspirational-stories/2024/overview/
+      image: /images/Accomplishment/2024 A Lvl Inspirational Story/Alvl_infopic.png
+      alt: Image alt text
 ---
