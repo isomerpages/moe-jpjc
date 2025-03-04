@@ -32,5 +32,4 @@ third_nav_title: Class of 2024
 
 <p>No matter what path he takes in the future, he will carry his brother’s advice with him, a constant reminder to persevere through challenges. His brother’s unwavering optimism continues to inspire him, shaping not only his outlook on life but also his desire to help others find the strength to persevere, no matter the obstacles they face. “I will always remember my brother’s advice—to never give up. The A-Levels might seem overwhelming, but if I stay determined, if I keep pushing forward despite the challenges, I can make it. That’s exactly what I did—I kept going.” </p>
 
-
 </figure></div>
