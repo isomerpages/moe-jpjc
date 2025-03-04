@@ -54,16 +54,6 @@ sections:
       image: /images/Homepage/3.png
       alt: Image alt text
   - infopic:
-      title: Hear from the Class of 2023!
-      subtitle: Highlights
-      id: infopic
-      description: Be inspired by how our students have overcome various difficulties
-        in their lives and found varied pathways to success.
-      button: Read more here
-      url: /a-level-inspirational-stories/2023/overview/
-      image: /images/Homepage/4.png
-      alt: Image alt text
-  - infopic:
       title: Hear from the Class of 2024!
       subtitle: Highlights
       id: infopic
