@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Class of 2024
 ---
 <div align="justify">
+	
 <figure>
 <img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/1__Damien.jpg">
 	
@@ -27,6 +28,4 @@ third_nav_title: Class of 2024
 
 <p>Damien hopes to pursue a degree in either Psychology or Sports Science in university, both of which align with his personal experiences and aspirations. Psychology appeals to him because he wants to better understand the human mind and, more importantly, support those who, like himself, have endured the pain of loss. Through this, he hopes to provide comfort and guidance to others navigating grief, just as he once struggled to do. At the same time, his passion for Sports Science stems from his deep appreciation for the resilience and discipline that sports have instilled in him—qualities that became his anchor during difficult times.</p>
 
-<p>No matter what path he takes in the future, he will carry his brother’s advice with him, a constant reminder to persevere through challenges. His brother’s unwavering optimism continues to inspire him, shaping not only his outlook on life but also his desire to help others find the strength to persevere, no matter the obstacles they face. “I will always remember my brother’s advice—to never give up. The A-Levels might seem overwhelming, but if I stay determined, if I keep pushing forward despite the challenges, I can make it. That’s exactly what I did—I kept going.” </p>
-
-</figure></div>
+<p>No matter what path he takes in the future, he will carry his brother’s advice with him, a constant reminder to persevere through challenges. His brother’s unwavering optimism continues to inspire him, shaping not only his outlook on life but also his desire to help others find the strength to persevere, no matter the obstacles they face. “I will always remember my brother’s advice—to never give up. The A-Levels might seem overwhelming, but if I stay determined, if I keep pushing forward despite the challenges, I can make it. That’s exactly what I did—I kept going.” </p></figure></div>
