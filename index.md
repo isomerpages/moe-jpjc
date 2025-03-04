@@ -64,7 +64,7 @@ sections:
       image: /images/Homepage/4.png
       alt: Image alt text
   - infopic:
-      title: Hear from Class of 2024!
+      title: Hear from the Class of 2024!
       subtitle: Highlights
       id: infopic
       description: Be inspired by how our students have overcome various difficulties
