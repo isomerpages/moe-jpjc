@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Class of 2024/.keep
-      - Class of 2024.md
       - "'A' Level Inspirational Stories.md"
       - Class of 2023/.keep
       - Class of 2023/Class of 2023.md
