@@ -8,7 +8,7 @@ third_nav_title: Class of 2024
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2__Purinita.jpg"></figure>
+<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2__Purinita.jpg"><figcaption>Purinita d/o Gurmit Singh boldly chose to be part of the Malay Language Elective Programme (MLEP) immersing herself in a language and culture she was not raised in, but eventually grew a deep passion for.</figcaption></figure>
 
 <b><h5>From Faraway Roots to a New Home  - A student’s love for the Malay language and culture, despite not coming from a Malay-speaking background.</h5></b>
 
