@@ -10,7 +10,7 @@ third_nav_title: Class of 2024
 <figure>
 <img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2__Purinita.jpg"></figure>
 
-<b>From Faraway Roots to a New Home  - A student’s love for the Malay language and culture, despite not coming from a Malay-speaking background.</b>
+<b><h5>From Faraway Roots to a New Home  - A student’s love for the Malay language and culture, despite not coming from a Malay-speaking background.</h5></b>
 
 <p>Purinita d/o Gurmit Singh’s journey in Jurong Pioneer Junior College’s Malay Language Elective Programme (MLEP) exemplifies her remarkable dedication to a language and culture that were not part of her upbringing. As the daughter of a Punjabi father and a Filipino mother, neither of whom spoke Malay, her decision to pursue H2 Malay Language and Literature (H2MLL) in Junior College was both bold and inspiring. Despite her parents requiring an English briefing during the MLEP talk, their unwavering support for her passion remained evident throughout her journey.</p>
  
