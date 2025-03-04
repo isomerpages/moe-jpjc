@@ -6,11 +6,10 @@ description: ""
 third_nav_title: Class of 2024
 ---
 <div align="justify">
-
 <figure>
 <img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/1__Damien.jpg">
-
-<b>Determination to excel despite sudden loss.</b>
+	
+<h5><b>Determination to excel despite sudden loss.</b></h5>
 
 <p>In the lead up to the A-levels while Damien Lim, a student from Jurong Pioneer Junior College, was in the midst of his Prelim preparations, the unthinkable happened. “It was late at night when the police called. I didn’t know what happened initially, but my father and mother hurried out of the house,” Damien recalled. The next thing he knew, his mother came home to tell him that his only elder brother had passed on. ‘’My mind went blank, I didn’t know how to react at first,” Damien said. It was only later that same night when reality hit him hard. “I wasn’t sure why, but my mother started cooking dinner for my brother, just like she always does when he is supposed to come home, but as she set out the dinner table for him, she started crying and I broke down seeing her like that,” Damien recounted.</p>
 
@@ -26,7 +25,7 @@ third_nav_title: Class of 2024
 
 <p>Damien also found strength through his involvement in sports – his Co-Curricular Activities (CCA), badminton and cycling. The intense training badminton sessions taught him resilience, mental endurance, and the ability to stay composed under pressure. These qualities became invaluable as he coped with the demands of his personal and academic life. The discipline and focus he developed on the court helped him overcome adversity and stay grounded amid chaos. Beyond badminton, Damien turned to night cycling with his friends as a way to clear his mind when he needed it. The rhythmic motion of pedaling and the cool night breeze provided a sense of calm and clarity, allowing him to momentarily escape the stresses of preparing for a major examination and overcoming grief. Cycling not only served as a physical outlet to relieve stress but also gave him the freedom to reflect, reset, and regain focus. </p>
 
-<p>Damien hopes to pursue a degree in either Psychology or Sports Science in university, both of which align with his personal experiences and aspirations. Psychology appeals to him because he wants to better understand the human mind and, more importantly, support those who, like himself, have endured the pain of loss. Through this, he hopes to provide comfort and guidance to others navigating grief, just as he once struggled to do. At the same time, his passion for Sports Science stems from his deep appreciation for the resilience and discipline that sports have instilled in him—qualities that became his anchor during difficult times. </p>
+<p>Damien hopes to pursue a degree in either Psychology or Sports Science in university, both of which align with his personal experiences and aspirations. Psychology appeals to him because he wants to better understand the human mind and, more importantly, support those who, like himself, have endured the pain of loss. Through this, he hopes to provide comfort and guidance to others navigating grief, just as he once struggled to do. At the same time, his passion for Sports Science stems from his deep appreciation for the resilience and discipline that sports have instilled in him—qualities that became his anchor during difficult times.</p>
 
 <p>No matter what path he takes in the future, he will carry his brother’s advice with him, a constant reminder to persevere through challenges. His brother’s unwavering optimism continues to inspire him, shaping not only his outlook on life but also his desire to help others find the strength to persevere, no matter the obstacles they face. “I will always remember my brother’s advice—to never give up. The A-Levels might seem overwhelming, but if I stay determined, if I keep pushing forward despite the challenges, I can make it. That’s exactly what I did—I kept going.” </p>
 
