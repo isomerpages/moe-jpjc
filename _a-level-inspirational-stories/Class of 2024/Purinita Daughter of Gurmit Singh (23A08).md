@@ -8,7 +8,7 @@ third_nav_title: Class of 2024
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2__Purinita.jpg">
+<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2__Purinita.jpg"></figure>
 
 <b>From Faraway Roots to a New Home  - A student’s love for the Malay language and culture, despite not coming from a Malay-speaking background.</b>
 
@@ -28,8 +28,4 @@ third_nav_title: Class of 2024
 
 <p>This philosophy has guided her not only academically but also in her creative pursuits. With a passion for writing and drama, Purinita has taken every opportunity to express herself- whether through crafting thoughtful essays, auditioning for local plays, or even volunteering for community theatre projects. Her journey in the arts has been a constant reminder that creativity and resilience often go hand in hand. “Every script I read or performance I take part in teaches me something new about myself and the world around me,” she says. “It’s a process of continuous learning, much like life itself.”</p>
 	
-<p>Looking ahead, Purinita is eager to further her passion for Malay studies at the National University of Singapore, with ambitions in translation, media, or any field that marries culture and language. “I see my future as a blend of academia and creative expression,” she says. “I want to use my love for language to build bridges between communities and share stories that matter.” Her dream is to contribute to a more inclusive society; one where cultural differences are celebrated rather than seen as obstacles. Her advice to juniors is both practical and heartfelt: “Never postpone your planning. Start early, understand your subjects deeply, and remember that every struggle you overcome is a step toward becoming a stronger, more well-rounded person.” Purinita believes that time management and the ability to seek support when needed are critical skills that will serve any student well, both in school and in life.</p>
-
-
-
-</figure></div>
+<p>Looking ahead, Purinita is eager to further her passion for Malay studies at the National University of Singapore, with ambitions in translation, media, or any field that marries culture and language. “I see my future as a blend of academia and creative expression,” she says. “I want to use my love for language to build bridges between communities and share stories that matter.” Her dream is to contribute to a more inclusive society; one where cultural differences are celebrated rather than seen as obstacles. Her advice to juniors is both practical and heartfelt: “Never postpone your planning. Start early, understand your subjects deeply, and remember that every struggle you overcome is a step toward becoming a stronger, more well-rounded person.” Purinita believes that time management and the ability to seek support when needed are critical skills that will serve any student well, both in school and in life.</p></div>
