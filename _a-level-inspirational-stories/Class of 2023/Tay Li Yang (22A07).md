@@ -46,11 +46,5 @@ Reflecting on challenges, Li Yang mentioned facing a significant setback when he
 	
 <p>“Currently, I am dedicated to maintaining discipline in my daily routine, incorporating regular workouts, and prioritising my injury recovery to better prepare myself for National Service. Additionally, I am involved in part-time work to support my personal financial growth. Exploring different job opportunities provides me with insights into areas of interest for potential future endeavours. One aspiration I have is becoming a psychologist. I have a very strong interest in this work aspect, as I'm curious about how and why each of us thinks differently. I am keen to help people in their different situations, hoping they can feel better and more comfortable both emotionally and spiritually.”
 In Li Yang’s story, the adage resounds – ‘though swift horses are common, good judges of talents are not (千里马常有, 而伯乐不常有)’. He stands as a testament to the supportive mentorship he found in Jurong Pioneer JC. As he seeks new horizons, the school's role as a visionary mentor(伯乐) becomes evident, highlighting the college's dedication to providing opportunities and nurturing generations of students coming through its gates.</p>
-
-
-
-
-
-
-
+	
 </div>
