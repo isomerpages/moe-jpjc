@@ -8,9 +8,8 @@ third_nav_title: Class of 2024
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/1__Damien.jpg">
-</figure>
-
+<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/1__Damien.jpg"><figcaption>Damien Lim experienced sudden loss of his elder brother, whom he was close to, close to the A-level period, shattering his world. Despite coping with grief, he forged ahead with perseverance and tenacity to complete his A-level examinations.</figcaption></figure>
+	
 <b><h5>Determination to excel despite sudden loss.</h5></b>
 
 <p>In the lead up to the A-levels while Damien Lim, a student from Jurong Pioneer Junior College, was in the midst of his Prelim preparations, the unthinkable happened. “It was late at night when the police called. I didn’t know what happened initially, but my father and mother hurried out of the house,” Damien recalled. The next thing he knew, his mother came home to tell him that his only elder brother had passed on. ‘’My mind went blank, I didn’t know how to react at first,” Damien said. It was only later that same night when reality hit him hard. “I wasn’t sure why, but my mother started cooking dinner for my brother, just like she always does when he is supposed to come home, but as she set out the dinner table for him, she started crying and I broke down seeing her like that,” Damien recounted.</p>  
