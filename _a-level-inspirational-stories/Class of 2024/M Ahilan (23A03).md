@@ -32,6 +32,6 @@ third_nav_title: Class of 2024
 
 <p>Ahilan’s advice to those struggling in school, “Don’t be afraid to ask for help. Make honest self-assessments and work towards your goals with discipline. Play hard, but study even harder. When you can, look beyond yourself—see where you can make a difference in your community.” Ahilan hopes to pursue a degree in Political Science or International Relations and aspires to serve the nation as a regular in the Singapore Army. His JC experience has shaped his perspective on leadership, resilience, and service. He spoke of his future plans - “I want to continue making a difference, whether in my career or my community. If not me, then who?” he mused.</p>
 	
-<p></p>Link to article on Ahilan’s service learning trip to Vietnam: 
-https://www.youthcorps.gov.sg/yep/StoryDetails/2243
-<p></p></div>
+<p>Please visit the following <a href="https://www.youthcorps.gov.sg/yep/StoryDetails/2243](https://www.youthcorps.gov.sg/yep/StoryDetails/2243">link</a> for an article on Ahilan’s service learning trip to Vietnam.</p>
+	
+</div>
