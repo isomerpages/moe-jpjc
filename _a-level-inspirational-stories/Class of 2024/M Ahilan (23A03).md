@@ -8,7 +8,7 @@ third_nav_title: Class of 2024
 <div align="justify">
 
 <figure>
-<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/3__Ahilan.jpg"><figcaption>M Ahilan (23A03) initially struggled with the rigorous JC curriculum, but with his belief in infinite growth, sheer determination and guidance from his teachers, he overcame the initial struggles academically and also went on to serve the community even more actively and developed a passion for community service.</figcaption></figure>
+<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/3__Ahilan.jpg"><figcaption>M Ahilan initially struggled with the rigorous JC curriculum, but with his belief in infinite growth, sheer determination and guidance from his teachers, he overcame the initial struggles academically and also went on to serve the community even more actively and developed a passion for community service.</figcaption></figure>
 
 <b><h5>Rising Above Challenges to Give Back - Turnaround student with a BIG heart for the community</h5></b>
 
