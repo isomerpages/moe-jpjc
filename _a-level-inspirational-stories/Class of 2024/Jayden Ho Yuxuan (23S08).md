@@ -20,7 +20,7 @@ third_nav_title: Class of 2024
 
 <p>"I’ve always believed that my disability is not something that holds me back—it’s what drives me forward. Whether it was performing academically, executing a successful event in Student Council or making a meaningful contribution to my community, that sense of fulfillment kept me going, even during the most stressful periods," Jayden shared.</p>
 	
-<p>Jayden took on H2 Chemistry, a subject known for its intensive practical component. Practical sessions were particularly challenging due to his physical constraints, as he was unable to conduct certain experiments on his own. However, with the support of his Chemistry tutor, Mdm Helena Tay, Jayden adapted.</p>&nbsp;
+<p>Jayden took on H2 Chemistry, a subject known for its intensive practical component. Practical sessions were particularly challenging due to his physical constraints, as he was unable to conduct certain experiments on his own. However, with the support of his Chemistry tutor, Mdm Helena Tay, Jayden adapted.</p>
 	
 <p>"He was always receptive, hardworking, and optimistic. Even though he had the option to be exempted from the A-Level Chemistry Practical Examination, he chose to take it, demonstrating his resilience and determination," recalled Mdm Tay. Through consistent effort and meticulous planning, Jayden developed a strong understanding of lab procedures, practicing the mental routine of simulating experiments before executing them. Over time, his confidence grew, and he became more independent in the science lab.</p>
 
