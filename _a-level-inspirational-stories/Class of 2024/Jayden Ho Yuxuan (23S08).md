@@ -50,7 +50,6 @@ third_nav_title: Class of 2024
 
 <p>Jayden’s story is one of courage, perseverance, and unwavering optimism. In overcoming challenges head-on and giving back to those around him, he truly embodies the spirit of JPJC’s anthem: "Brave the odds, blaze the trails."</p>
 
-<p>Please visit the following link for an earlier article on Jayden.&nbsp;
-[https://southwest.cdc.gov.sg/files/Media%20Release/MR%20%20%202021/2021%2006%2026%20-%20Media%20Release%20-%20Young%20Technopreneur%20Challenge%202021.pdf](https://southwest.cdc.gov.sg/files/Media%20Release/MR%20%20%202021/2021%2006%2026%20-%20Media%20Release%20-%20Young%20Technopreneur%20Challenge%202021.pdf)</p>
+<p>Please visit the following <a href="https://southwest.cdc.gov.sg/files/Media%20Release/MR%20%20%202021/2021%2006%2026%20-%20Media%20Release%20-%20Young%20Technopreneur%20Challenge%202021.pdf](https://southwest.cdc.gov.sg/files/Media%20Release/MR%20%20%202021/2021%2006%2026%20-%20Media%20Release%20-%20Young%20Technopreneur%20Challenge%202021.pdf">link</a> for an earlier article on Jayden.</p>
 
 </div>
