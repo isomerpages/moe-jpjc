@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - College Yearbooks.md
-      - Instagram.md
+      - JPJC Instagram.md
       - JPJC Facebook.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events Overview.md
