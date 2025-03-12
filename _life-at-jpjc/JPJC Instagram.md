@@ -4,7 +4,7 @@ permalink: /jpjc-instagram/
 variant: markdown
 description: ""
 ---
-<table style="width:100%">
+<table style="width:50%">
   <tbody><tr>
     <th style="width:50%"><center>JPJC Instagram</center></th>
     <th style="width:0%"></th> 
