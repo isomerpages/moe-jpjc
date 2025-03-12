@@ -2,6 +2,7 @@ collections:
   life-at-jpjc:
     output: true
     order:
+      - JPJC Instagram1.md
       - College Yearbooks.md
       - JPJC Facebook.md
       - JPJC Instagram.md
