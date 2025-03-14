@@ -2,8 +2,8 @@ collections:
   life-at-jpjc:
     output: true
     order:
-      - Social Media.md
       - College Yearbooks.md
+      - Social Media.md
       - Social Facebook.md
       - JPJC Instagram.md
       - 2025 Events/.keep
