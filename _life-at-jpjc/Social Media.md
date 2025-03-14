@@ -4,7 +4,7 @@ permalink: /social-media/
 variant: markdown
 description: ""
 ---
-<table style="width:95%">
+<table style="width:100%">
 <tbody>
 	
 <tr>
