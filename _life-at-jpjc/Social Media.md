@@ -5,8 +5,12 @@ variant: markdown
 description: ""
 ---
 <table style="width:100%">
-<tbody><tr>
-
+<tbody>
+	
+<tr><td> Facebook</td>
+<td>Instagra</td></tr>	
+	
+<tr>
 <td style="width:50%;vertical-align: middle;"><figure style="margin:auto;width:50%;">
 <h3><center>Facebook</center></h3>
 <br>
@@ -24,5 +28,5 @@ description: ""
 	
 	
 </figure></td>
-  </tr>
+</tr>
 </tbody></table>
