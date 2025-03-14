@@ -4,6 +4,12 @@ permalink: /test/
 variant: markdown
 description: ""
 ---
+
+
+
+
+
+
 <table style="width:100%">
    <tbody><tr>
 <td style="width:50%;text-align:inter-word"><div style="text-align: justify; text-justify: inter-word;"><b>	28 January 2025</b><br>
@@ -33,3 +39,27 @@ On the morning of 13 January 2025, the gates of JPJC were opened to the public, 
 <a href="/life-at-jpjc/2025-events/open-house/"><img style="width:45%;vertical-align: middle;" src="/images/2025%20Life@JPJC/Misc/Love.gif"></a></div></td>
 </tr>
 </tbody></table>
+
+<div hidden="">
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:70%">Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</tbody></table></div>

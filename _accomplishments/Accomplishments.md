@@ -5,13 +5,10 @@ description: ""
 variant: markdown
 ---
 <div align="justify">
-
 <p>
-At JPJC, we provide opportunities for our students to enrich their JC experience according to their interests and strengths. A culture of organisational excellence and a framework of support to help our staff grow and excel also underpins our college.</p>
-
+At JPJC, we offer our students diverse opportunities to enrich their JC experience, tailored to their unique interests and strengths. Guided by a culture of organisational excellence, we empower both students and staff to grow, excel, and embrace the #infinitepossibilities ahead.</p>
 <p>
-In the course of their journey of discovery and growth, we imbue in all members of the JPJC family the autonomy and courage to pursue excellence.</p>
-
+Through this journey of discovery and #infinitegrowth, we nurture in every JPFam member the courage to embrace a "can-do" spirit—experimenting boldly, viewing failures as valuable learning experiences, and taking on challenges that expand their skills (While I Live, I Learn) while pushing beyond comfort zones (Plus Ultra).</p>
 <p>
-In JPJC, we celebrate all accomplishments, both big and small, and foster a strong growth mindset in one and all.</p>
+In #infinitelove, we celebrate the contributions and successes of all JPFam members—big and small—while fostering a mindset of limitless potential in everyone.</p>
 </div>
