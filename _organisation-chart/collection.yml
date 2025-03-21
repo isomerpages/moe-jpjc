@@ -2,9 +2,9 @@ collections:
   organisation-chart:
     output: true
     order:
-      - Civics Tutors/J2 Civics Tutors.md
-      - Civics Tutors/J1 Civics Tutors.md
       - Civics Tutors/.keep
+      - Civics Tutors/J1 Civics Tutors.md
+      - Civics Tutors/J2 Civics Tutors.md
       - College Advisory Committee.md
       - College Management Committee.md
       - IP Departments/.keep
