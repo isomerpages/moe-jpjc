@@ -27,5 +27,13 @@ third_nav_title: Civics Tutors
 25S10 | <a href="mailto: lim_kok_wei@moe.edu.sg">Mr Lim Kok Wei</a>
 25S11 | <a href="mailto: goh_kwee_how@moe.edu.sg">Mr Goh Kwee How</a>
 25S12 | <a href="mailto: ng_jee_wai_david@moe.edu.sg">Mr David Ng Jee Wai</a>
-25S13 | <a href="mailto: lee_wei_chai@moe.edu.sg">Mr Lee Wei Cha</a>
-25S14 | <a href="mailto: lee_wei_chai@moe.edu.sg">Mr Lee Wei Cha</a>
+25S13 | <a href="mailto: lee_wei_chai@moe.edu.sg">Mr Lee Wei Chai</a>
+25S14 | <a href="mailto: chew_poh_hiang@moe.edu.sg">Ms Jeslyn Chew Poh Hiang</a>
+25S15 | <a href="mailto: goh_lee_leng@moe.edu.sg">Mdm Goh Lee Leng</a>
+25S16 | <a href="mailto: yeo_wi_sze@moe.edu.sg">Mr Yeo Wi Sze</a>
+25S17 | <a href="mailto: song_ting_wan@moe.edu.sg">Mdm Song Ting Wan</a>
+25S18 | <a href="mailto: sufian_ahmad@moe.edu.sg">Mr Sufian Bin Ahmad</a>
+25S19 | <a href="mailto: lim_chin_kuan@moe.edu.sg">Mr Lim Chin Kuan</a>
+25S20 | <a href="mailto: oh_thiam_hong@moe.edu.sg">Mr Oh Thiam Hong</a>
+25S21 | <a href="mailto: ng_zhifeng_clement@moe.edu.sg"> Mr Clement Ng Zhifeng</a>
+25S22 | <a href="mailto: low_hwee_miang@moe.edu.sg">Ms Low Hwee Miang</a>
