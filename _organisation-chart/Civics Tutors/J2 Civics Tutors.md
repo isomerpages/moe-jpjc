@@ -23,17 +23,17 @@ third_nav_title: Civics Tutors
 24S07 | <a href="mailto: s_k_seetha_letchimi@moe.edu.sg">Mdm S K Seetha Letchimi</a>
 24S08 | <a href="mailto: chen_tuck_han_freddie@moe.edu.sg">Mr Freddie Chen Tuck Han</a>
 24S09 | <a href="mailto: v_tamil_vani@moe.edu.sg">Ms V Tamil Vani</a>
-24S10 | <a href="mailto: lim_kok_wei@moe.edu.sg">Mr Lim Kok Wei</a>
-24S11 | <a href="mailto: goh_kwee_how@moe.edu.sg">Mr Goh Kwee How</a>
-24S12 | <a href="mailto: ng_jee_wai_david@moe.edu.sg">Mr David Ng Jee Wai</a>
-24S13 | <a href="mailto: lee_wei_chai@moe.edu.sg">Mr Lee Wei Chai</a>
-24S14 | <a href="mailto: chew_poh_hiang@moe.edu.sg">Ms Jeslyn Chew Poh Hiang</a>
-24S15 | <a href="mailto: goh_lee_leng@moe.edu.sg">Mdm Goh Lee Leng</a>
-24S16 | <a href="mailto: yeo_wi_sze@moe.edu.sg">Mr Yeo Wi Sze</a>
-24S17 | <a href="mailto: song_ting_wan@moe.edu.sg">Mdm Song Ting Wan</a>
-24S18 | <a href="mailto: sufian_ahmad@moe.edu.sg">Mr Sufian Bin Ahmad</a>
-24S19 | <a href="mailto: lim_chin_kuan@moe.edu.sg">Mr Lim Chin Kuan</a>
-24S20 | <a href="mailto: oh_thiam_hong@moe.edu.sg">Mr Oh Thiam Hong</a>
-24S21 | <a href="mailto: ng_zhifeng_clement@moe.edu.sg"> Mr Clement Ng Zhifeng</a>
-24S22 | <a href="mailto: low_hwee_miang@moe.edu.sg">Ms Low Hwee Miang</a>
-24S23 | <a href="mailto: wang_zhongxiang@moe.edu.sg">Mr Wang Zhongxiang</a>
+24S10 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
+24S11 | <a href="mailto: chong_woon_hui@moe.edu.sg">Ms Chong Woon Hui</a>
+24S12 | <a href="mailto: gerard_ng_wee_meng@moe.edu.sg">Mr Gerard Ng Wee Meng</a>
+24S13 | <a href="mailto: goh_tok_foon@moe.edu.sg">Mrs Heng-Goh Tok Foon</a>
+24S14 | <a href="mailto: lee_boon_keong@moe.edu.sg">Mr Joseph Lee Boon Keong</a><br><a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a> 
+24S15 | <a href="mailto: khoo_puay_cheng@moe.edu.sg">Mdm Khoo Puay Cheng</a>
+24S16 | <a href="mailto: yap_lok_hun@moe.edu.sg">Mr Yap Lok Hun</a>
+24S17 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
+24S18 | <a href="mailto: yeoh_phaik_khee@moe.edu.sg">Ms Alexis Yeoh Phaik Khee</a><br><a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a> 
+24S19 | <a href="mailto: lee_eng_seng@moe.edu.sg">Mr Lee Eng Seng</a><br><a href="mailto: marian_thng_bee_peng@moe.edu.sg">Ms Marian Thng Bee Peng</a>
+24S20 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
+24S21 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
+24S22 | <a href="mailto: tan_soon_hong@moe.edu.sg">Mr Tan Soon Hong</a>
+24S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a>
