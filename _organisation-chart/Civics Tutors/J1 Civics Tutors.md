@@ -35,5 +35,5 @@ third_nav_title: Civics Tutors
 25S18 | <a href="mailto: sufian_ahmad@moe.edu.sg">Mr Sufian Bin Ahmad</a>
 25S19 | <a href="mailto: lim_chin_kuan@moe.edu.sg">Mr Lim Chin Kuan</a>
 25S20 | <a href="mailto: oh_thiam_hong@moe.edu.sg">Mr Oh Thiam Hong</a>
-25S21 | <a href="mailto: ng_zhifeng_clement@moe.edu.sg"> Mr Clement Ng Zhifeng</a>
+25S21 | <a href="mailto: ng_zhifeng_clement@moe.edu.sg">Mr Clement Ng Zhifeng</a>
 25S22 | <a href="mailto: low_hwee_miang@moe.edu.sg">Ms Low Hwee Miang</a>
