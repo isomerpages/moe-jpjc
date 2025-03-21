@@ -2,7 +2,6 @@ collections:
   organisation-chart:
     output: true
     order:
-      - Civics Tutors.md
       - College Advisory Committee.md
       - College Management Committee.md
       - IP Departments/.keep
@@ -14,6 +13,7 @@ collections:
       - IP Departments/Mother Tongue Languages.md
       - IP Departments/Physical Education & Co Curricular Activities.md
       - IP Departments/Physics & Biology.md
+      - Civics Tutors.md
       - Administration & Finance.md
       - Counselling Department.md
       - ICT & Library.md
