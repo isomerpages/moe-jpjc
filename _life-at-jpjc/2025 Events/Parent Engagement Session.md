@@ -32,5 +32,7 @@ third_nav_title: 2025 Events
 	
 <p>In both engagement sessions, parents had the opportunity to connect with their child’s Civics Tutors and Key Personnel through meaningful conversations and shared experiences. They gained insights into their child’s progress in their JP journey and discussed ways to collaborate in empowering every student to succeed.</p>
 
+<p>#JPFam #WhyJP #whileiliveilearn #plusultra #infinitelove #infinitegrowth #infinitepossibilities</p>
+
 </div>
 </div></div>
