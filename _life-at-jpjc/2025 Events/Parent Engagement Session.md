@@ -8,7 +8,7 @@ third_nav_title: 2025 Events
 <div align="justify">
 	
 <p>At JPJC, we deeply value the partnership between parents and the college in supporting our students on their academic and personal journeys. Through our Parent Engagement Sessions, we aim to strengthen relationships with parents and provide them with essential information to better support their children.</p>
-
+	
 <b><h5>J2 Parent Engagement Session (7 Feb 2025)</h5></b>
 
 <p>Our Principal, Mr. Kevin Ang, shared an overview of the J2 students' experiences in 2024 and how they have been coping so far. Our J2 Year Head, Mr. Subash Ramiah, outlined key milestones and expectations for the A-Level year, providing a clear roadmap for the journey ahead.</p>
