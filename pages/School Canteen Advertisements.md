@@ -4,7 +4,7 @@ permalink: /partnerships/schoolcanteen/
 description: JPJC Canteen Advertisements
 variant: markdown
 ---
-<div align="justify">
+<div align="justify" hidden="">
 	
 <h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
 
