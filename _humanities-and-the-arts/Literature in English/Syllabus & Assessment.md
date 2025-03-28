@@ -15,7 +15,7 @@ H2 candidates will sit for P1 and P3.</p>
 
 <h3><strong>Assessment</strong></h3>
 <p>
-H1 Literature in English (8842): Paper 1<br>
+H1 Literature in English (8841): Paper 1<br>
 H2 Literature in English (9539): Paper 1 &amp; Paper 3<br></p>
 <h4><strong>Paper 1: Reading Literature (3 hours - Open Book)</strong></h4>
 <p>
