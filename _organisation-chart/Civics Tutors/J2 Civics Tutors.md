@@ -19,7 +19,7 @@ third_nav_title: Civics Tutors
 24S03 | <a href="mailto: yu_zhen@moe.edu.sg">Mr Yu Zhen</a>
 24S04 | <a href="mailto: tan_lee_peng@moe.edu.sg">Mdm Tan Lee Peng</a>
 24S05 | <a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a><br><a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> 
-24S06 | <a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena\_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a> 
+24S06 | <a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a> 
 24S07 | <a href="mailto: s_k_seetha_letchimi@moe.edu.sg">Mdm S K Seetha Letchimi</a>
 24S08 | <a href="mailto: chen_tuck_han_freddie@moe.edu.sg">Mr Freddie Chen Tuck Han</a>
 24S09 | <a href="mailto: v_tamil_vani@moe.edu.sg">Ms V Tamil Vani</a>
