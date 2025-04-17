@@ -11,7 +11,7 @@ third_nav_title: Civics Tutors
 24A02 | <a href="mailto: lim_weili@moe.edu.sg">Mr Lim Weili</a><br><a href="mailto: nor_azah_abdul_aziz@moe.edu.sg">Mdm Nor Azah Binte Abdul Aziz</a>   
 24A03 | <a href="mailto: lim_han_ling@moe.edu.sg">Mr Lim Han Ling</a> 
 24A04 | <a href="mailto: lim_yu_ching@moe.edu.sg">Mr Lim Yu Ching</a><br><a href="mailto: penny_lee_si_li@moe.edu.sg">Ms Penny Lee Si Li</a>   
-24A05 | <a href="">Mdm Shamala d/o Maheswaran</a>
+24A05 | <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a>
 24A06 | <a href="mailto: ang_shu_zhen@moe.edu.sg">Ms Ang Shu Zhen</a>
 24A07 | <a href="mailto: aini_azidah@moe.edu.sg">Ms Aini Azidah Bt Haja Maideen</a><br><a href="mailto: chng_jun_ni_june@moe.edu.sg">Ms Chng Jun Ni June</a>    
 24S01 | <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a> 
