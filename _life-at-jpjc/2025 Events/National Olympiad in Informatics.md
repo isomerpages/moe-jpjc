@@ -22,8 +22,8 @@ third_nav_title: 2025 Events
 	<li>Wu Yao Jie Junior (24S22) 🏅</li>
 	<li>Lee Xuan Hui (24S22) 🏅</li></ul><p></p>
 	
-<b>Bronze Medalists:</b>
-<ul>
+<p><b>Bronze Medalists:</b>
+</p><ul>
 	<li>Shyam Mourouguessane (24S22) 🥉</li>
 	<li>Sun Hongxuan (24S11) 🥉</li><p></p>
 
