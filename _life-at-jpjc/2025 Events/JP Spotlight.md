@@ -37,7 +37,7 @@ third_nav_title: 2025 Events
 	
 <p>With its mix of fun, energy, and community spirit, JP Spotlight 2025 truly brought the #WhyJP experience to life. As the curtains close on Term 1, we can’t wait to see what Spotlight 2026 has in store!</p>
 	
-<p>Write-up written by students from Media Tech Club members Thoo Lear Yee (24A07) and Ernest Wan Koi Yan (24A01)</p>
+<p>Write-up written by students from Media Tech Club members Thoo Ler Yee (24A07) and Ernest Wan Koi Yan (24A01)</p>
 
 </div>
 </div></div></div></div></div>
