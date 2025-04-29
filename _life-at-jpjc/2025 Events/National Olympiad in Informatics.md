@@ -28,16 +28,15 @@ third_nav_title: 2025 Events
 	<li>Shyam Mourouguessane (24S22) 🥉</li>
 	<li>Sun Hongxuan (24S11) 🥉</li><p></p>
 
-<p>Congratulations once again to all participants in the NOI 2025! The dedication and achievements demonstrated pave the way for infinite growth and infinite possibilities. 🚀✨</p>
-
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/NOI/NOI_1.jpg">
 <figcaption>JPJC finalists receiving their NOI certificates from Principal Mr. Kevin Ang—celebrating their dedication and achievement in competitive programming.</figcaption></figure>	
 	
-	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/NOI/NOI_3.jpg">
 	<figcaption>JPJC finalists at NUS School of Computing</figcaption></figure>
+
+<p>Congratulations once again to all participants in the NOI 2025! The dedication and achievements demonstrated pave the way for infinite growth and infinite possibilities. 🚀✨</p>
 
 </div>
 </div></ul></div>
