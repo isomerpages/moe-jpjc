@@ -13,11 +13,11 @@ third_nav_title: 2025 Events
 
 <p>The NOI challenges participants to tackle complex programming problems over an intensive five-hour period. This rigorous competition serves as an invaluable platform for students to hone their problem-solving skills, test their coding proficiency under pressure, and engage with like-minded peers from across the nation. 🤔</p>
 
-<p>The following are our well-deserved winners.
+<p>The following are our well-deserved winners.</p>
 	
 <b>Certificates of Participation:</b>
 	
-</p><ul>
+<p></p><ul>
 	<li>Tan Hong En (24S21) 🏅</li>
 	<li>Odin Loh Jing Zhi (24S22)🏅</li>
 	<li>Wu Yao Jie Junior (24S22) 🏅</li>
