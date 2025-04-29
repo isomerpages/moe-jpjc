@@ -13,26 +13,28 @@ third_nav_title: 2025 Events
 
 <p>The NOI challenges participants to tackle complex programming problems over an intensive five-hour period. This rigorous competition serves as an invaluable platform for students to hone their problem-solving skills, test their coding proficiency under pressure, and engage with like-minded peers from across the nation. 🤔</p>
 
-<p>The following are our well-deserved winners.</p>
+<p>The following are our well-deserved winners.
 	
-<p>Certificates of Participation:<br>
+<b>Certificates of Participation:</b>
+	
 </p><ul>
 	<li>Tan Hong En (24S21) 🏅</li>
 	<li>Odin Loh Jing Zhi (24S22)🏅</li>
 	<li>Wu Yao Jie Junior (24S22) 🏅</li>
 	<li>Lee Xuan Hui (24S22) 🏅</li></ul><p></p>
 	
-<p>Bronze Medalists:<br>
-</p><ul>
+<b>Bronze Medalists:</b>
+<ul>
 	<li>Shyam Mourouguessane (24S22) 🥉</li>
-	<li>Sun Hongxuan (24S11) 🥉</li>
-	
+	<li>Sun Hongxuan (24S11) 🥉</li><p></p>
+
 <p>Congratulations once again to all participants in the NOI 2025! The dedication and achievements demonstrated pave the way for infinite growth and infinite possibilities. 🚀✨</p>
-	
+
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/NOI/NOI_1.jpg">
 <figcaption>JPJC finalists receiving their NOI certificates from Principal Mr. Kevin Ang—celebrating their dedication and achievement in competitive programming.</figcaption></figure>	
-
+	
+	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/NOI/NOI_3.jpg">
 	<figcaption>JPJC finalists at NUS School of Computing</figcaption></figure>
