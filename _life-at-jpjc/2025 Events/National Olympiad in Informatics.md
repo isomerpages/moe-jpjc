@@ -33,7 +33,7 @@ third_nav_title: 2025 Events
 	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/NOI/NOI_3.jpg">
-	<figcaption>JPJC finalists at NUS School of Computing</figcaption></figure>
+	<figcaption>JPJC finalists at the NOI finals</figcaption></figure>
 
 <p>Congratulations once again to all participants in the NOI 2025! The dedication and achievements demonstrated pave the way for infinite growth and infinite possibilities. 🚀✨</p>
 
