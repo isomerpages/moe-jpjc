@@ -39,36 +39,19 @@ third_nav_title: Admission Matters
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
 	
-<p>	General information on the DSA-JC Exercise can be found on MOE’s website https://www.moe.gov.sg/post-secondary/admissions/dsa</p>
-	
-	
+<p>	General information on the DSA-JC Exercise can be found on MOE’s website <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa"> https://www.moe.gov.sg/post-secondary/admissions/dsa</a></p>
 	
 <p>If you have any enquiries, please contact the following teachers:<br>
 </p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
 <p></p>
-
+</div>
 	
+	
+<div align="justify">		
 <h5><b><u>	DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2025 </u></b></h5>
 <p>JPJC will consider direct admission for the following programmes and CCAs:</p>
 
 <figure><center>	
-<iframe scrolling="no" height="5800px" width="600px" src="https://docs.google.com/document/d/e/2PACX-1vRbzvD1kTMWsB0J4Z68IKZ5T5K9XdijBCVAOh6tPc51yLxeTU2JVks99K2GpbuWrg/pub?embedded=true"></iframe>	</center></figure>
+<iframe scrolling="no" height="5800px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRbzvD1kTMWsB0J4Z68IKZ5T5K9XdijBCVAOh6tPc51yLxeTU2JVks99K2GpbuWrg/pub?embedded=true"></iframe>	</center></figure>
 	
-</div>	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
+</div>
