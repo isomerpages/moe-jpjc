@@ -9,9 +9,9 @@ third_nav_title: Admission Matters
 
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
 
-<p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of JC1 admission, applicants who are:<br>
-• Singapore Citizen (SC) or Singapore Permanent Resident (SPR) - must be between 16 and 20+ years old. <br>
-•	Non-SC/SPR - must be between 16 and 18+ years old.</p>
+<p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of JC1 admission, applicants who are:</p>
+<ul><li> Singapore Citizen (SC) or Singapore Permanent Resident (SPR) - must be between 16 and 20+ years old.</li>
+	<li>	Non-SC/SPR - must be between 16 and 18+ years old.</li></ul>
 
 <p><i>Successful DSA-JC candidates are <b>NOT</b> allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.</i>
 	
