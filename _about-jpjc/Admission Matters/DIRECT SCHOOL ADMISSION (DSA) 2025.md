@@ -36,4 +36,4 @@ third_nav_title: Admission Matters
 <li>Football (Boys Only)</li>
 	<li>Volleyball</li></ul></li>
 
-<p>More details about the application process for DSA-JC 2024 will be published on 6 May 2025 on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.</p></ol></div>
+<p>More details about the application process for DSA-JC 2024 will be published on <u>6 May 2025</u> on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.</p></ol></div>
