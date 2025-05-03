@@ -6,21 +6,24 @@ description: ""
 ---
 <div align="justify">	
 
-<p></p><h5><b>Our DSA 2024 has concluded. Stay tuned for updates in 2025.</b></h5><h5><p></p>
-
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2024. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
 
 <p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of JC1 admission, applicants who are:<br>
 • Singapore Citizen (SC) or Singapore Permanent Resident (SPR) - must be between 16 and 20+ years old. <br>
 •	Non-SC/SPR - must be between 16 and 18+ years old.</p>
 
-<p><i>Successful DSA-JC candidates are <b>NOT</b> be allowed to participate in the Joint Admissions Exercise. They will also <b>NOT</b> be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.</i>
+<p><i>Successful DSA-JC candidates are NOT allowed to participate in the Joint Admissions Exercise. They will also NOT be allowed to transfer to another school after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.</i>
 	
 </p>
 	
-<p></p></h5><h5><b>Application Procedures</b></h5> 
-<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2024</b>, Tuesday, onward.  All applications must be submitted by:<br>
-•	<b>5 Jul 2024</b>, Friday, 2359 hrs for <u>Phase 1</u> Application<br>
+<p></p><h5><b>Application Procedures</b></h5> 
+<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted by:<br>
+	<ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
+<i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
+</li><li>DSA Phase 2: <b>15 Aug 2025</b>
+	
+	
+	Friday, 2359 hrs for  Application<br>
 •	<b>9 Aug 2024</b>, Friday, 2359 hrs for <u>Phase 2</u> Application
 
 
@@ -35,7 +38,7 @@ description: ""
 •	Art Portfolio (if applicable)<br> 
 •	Relevant certifications and records of achievement in national competitions related to the area of talent.<br>
 •	Any other supporting documents (if applicable)
-</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol><p></p>
+</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ul></li></ol><p></p>
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
 <p>If you have any enquiries, please contact the following teachers:<br>
