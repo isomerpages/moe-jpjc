@@ -17,7 +17,7 @@ description: ""
 </p>
 	
 <p></p><h5><b>Application Procedures</b></h5> 
-<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted by:<br>
+<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted by:
 <ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
 <i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
 </li><li>DSA Phase 2: <b>15 Aug 2025</b><br>
@@ -28,13 +28,13 @@ description: ""
 </li><li>Applicants who are not offered a place in Phase 1 need not re-submit an application for Phase 2 as the first application will be considered for both phases. 
 
 </li><li>It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately. <br>
-</li><li>All applicants will have to submit the following documents online: <br>
-•	Secondary 3 End-of-Year and/or Secondary 4 Mid-Year results (if Mid-Year examination was conducted) <br>
-•	Latest CCA Records <br>
-•	Art Portfolio (if applicable)<br> 
-•	Relevant certifications and records of achievement in national competitions related to the area of talent.<br>
-•	Any other supporting documents (if applicable)
-</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol><p></p>
+</li><li>All applicants will have to submit the following documents online:
+<ul><li>Secondary 3 End-of-Year and/or Secondary 4 Mid-Year results (if Mid-Year examination was conducted)</li>
+<li>Latest CCA Records </li>
+<li>Art Portfolio (if applicable)</li> 
+<li>Relevant certifications and records of achievement in national competitions related to the area of talent.</li>
+<li>Any other supporting documents (if applicable)</li>
+<li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ul></li></ol><p></p>
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
 <p>If you have any enquiries, please contact the following teachers:<br>
