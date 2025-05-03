@@ -20,8 +20,8 @@ description: ""
 <ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted by:<br>
 	<ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
 <i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
-</li><li>DSA Phase 2: <b>15 Aug 2025</b>
-	
+</li><li>DSA Phase 2: <b>15 Aug 2025</b><br>
+<i>(DSA Phase 2 applicants will receive notification from the school by 22 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
 	
 	Friday, 2359 hrs for  Application<br>
 •	<b>9 Aug 2024</b>, Friday, 2359 hrs for <u>Phase 2</u> Application
