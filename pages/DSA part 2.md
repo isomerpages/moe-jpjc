@@ -29,12 +29,12 @@ description: ""
 
 </li><li>It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately. <br>
 </li><li>All applicants will have to submit the following documents online:
-<ul><li>Secondary 3 End-of-Year and/or Secondary 4 Mid-Year results (if Mid-Year examination was conducted)</li>
+<ul><li>	Secondary 3 End-of-Year and/or Secondary 4E/5N(A) Mid-Year results (if Mid-Year examination was conducted) </li>
 <li>Latest CCA Records </li>
 <li>Art Portfolio (if applicable)</li> 
 <li>Relevant certifications and records of achievement in national competitions related to the area of talent.</li>
-<li>Any other supporting documents (if applicable)</li>
-<li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ul></li></ol><p></p>
+<li>Any other supporting documents (if applicable)</li></ul>
+</li><li>Shortlisted students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol>
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
 <p>If you have any enquiries, please contact the following teachers:<br>
