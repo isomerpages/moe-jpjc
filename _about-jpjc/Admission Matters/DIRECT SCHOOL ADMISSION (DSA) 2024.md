@@ -67,12 +67,15 @@ third_nav_title: Admission Matters
 
 
 
-<div hidden="">
 <div align="justify">
 
 <iframe scrolling="no" height="1000px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vRA9sL0eAf3veOShBrkCyEvZu-S_LumsdRXKRf_y8n6KZgJ4evYX0pp8q_l7Om5Qg/pub?embedded=true"></iframe>		
 
-<div hidden="">
+	
+	
+	
+	
+	
 <div align="justify">
 		
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. DSA-JC is open to all SEC 4E/5N(A) O-Level graduating cohort studying in mainstream secondary schools.</p>
@@ -106,14 +109,17 @@ third_nav_title: Admission Matters
 	</li><li><b>Shortlisted</b> students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</li></ol><p></p>
 	
 <h5><b><u>ENQUIRIES</u></b></h5>	
-<p>If you have any enquiries, please contact the following teacher:<br>
+<p>If you have any enquiries, please contact:<br>
 •	Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></p>
 
 <h5><b><u>	DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2025</u></b></h5>
 
 <iframe scrolling="no" height="5200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vRbzvD1kTMWsB0J4Z68IKZ5T5K9XdijBCVAOh6tPc51yLxeTU2JVks99K2GpbuWrg/pub?embedded=true"></iframe>		
 
-<div hidden="">
+	
+	
+	
+	
 <div align="justify">	
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. Successful DSA-JC candidates will gain admission to JPJC in 2026 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</p>
 
@@ -144,4 +150,4 @@ third_nav_title: Admission Matters
 
 <p>More details about the application process for DSA-JC 2024 will be published on <u>6 May 2025</u> on the school website. Potential students may then refer to the school website for the DSA-JC timeline, application process, selection process and selection criteria.</p>
 	
-<p></p></div></div></div></div></div></div>
+<p></p></div></div></div>
