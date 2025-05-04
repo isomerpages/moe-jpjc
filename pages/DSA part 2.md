@@ -51,6 +51,6 @@ description: ""
 <p>JPJC will consider direct admission for the following programmes and CCAs:</p>
 
 	
-<iframe scrolling="no" height="7200px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vQfLHYcsNUtVaWByBrij-MItaNBaax7EAFoF4xUCxnhE8lynYzyLtiDxNJ6erTPyg/pub?embedded=true"></iframe>	
+<figure><center><iframe scrolling="no" height="7200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQfLHYcsNUtVaWByBrij-MItaNBaax7EAFoF4xUCxnhE8lynYzyLtiDxNJ6erTPyg/pub?embedded=true"></iframe>	</center></figure>
 
 </div>
