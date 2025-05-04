@@ -40,7 +40,7 @@ description: ""
 	
 <p>	General information on the DSA-JC Exercise can be found on MOE’s website <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa"> https://www.moe.gov.sg/post-secondary/admissions/dsa</a></p>
 	
-<p>If you have any enquiries, please contact the following teachers:<br>
+<p>If you have any enquiries, please contact:<br>
 </p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
 <p></p>
 </div>
