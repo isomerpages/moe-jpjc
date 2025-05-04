@@ -9,26 +9,26 @@ third_nav_title: Admission Matters
 	
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. Successful DSA-JC candidates will gain admission to JPJC in 2026 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results. </p>
 
-<p>Our college will be offering the following DSA-JC Talent Areas for the potential students:
-	
-</p><ol><li>	Language and Humanities 
+<p>Our college will be offering the following DSA-JC Talent Areas for the potential students:</p>
+
+<ol><li><b>	Language and Humanities </b>
 <ul><li>Chinese Language Elective Programme (CLEP)</li>
 <li>Malay Language Elective Programme (MLEP)</li>
-<li>Humanities Programme</li> </ul>
-
-</li><li>Science, Technology, Engineering and Mathematics
+<li>Humanities Programme</li> </ul></li>
+	
+<li><b>Science, Technology, Engineering and Mathematics</b>
 <ul><li>Mathematics/Science</li></ul>
 	
-</li><li>Visual Arts, Design &amp; Media
+</li><li><b>Visual Arts, Design &amp; Media</b>
 <ul><li>Art</li>
 	<li>Film &amp; Photography</li></ul>
 
-</li><li>Performing Arts
+</li><li><b>Performing Arts</b>
 <ul><li>Concert Band</li>
 <li>Choir (Girls Only)</li>
 <li>Chinese Orchestra</li></ul>
 
-</li><li>Sports &amp; Games
+</li><li><b>Sports &amp; Games</b>
 <ul><li>Badminton (Girls Only)</li>
 <li>Badminton (Girls Only)</li>
 <li>Basketball (Boys Only)</li>
