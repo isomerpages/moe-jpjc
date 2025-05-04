@@ -44,7 +44,7 @@ third_nav_title: Admission Matters
 
 
 
-
+<div hidden="">
 <div align="justify">	
 <br>
 	
@@ -98,4 +98,4 @@ third_nav_title: Admission Matters
 	
 <figure><center><iframe scrolling="no" height="5400px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQfLHYcsNUtVaWByBrij-MItaNBaax7EAFoF4xUCxnhE8lynYzyLtiDxNJ6erTPyg/pub?embedded=true"></iframe>	</center></figure>
 
-</div>
+</div></div>
