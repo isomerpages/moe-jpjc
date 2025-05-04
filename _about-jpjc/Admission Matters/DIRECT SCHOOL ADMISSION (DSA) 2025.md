@@ -77,7 +77,7 @@ third_nav_title: Admission Matters
 <li>Latest CCA Records </li>
 <li>Art Portfolio (if applicable)</li> 
 <li>Relevant certifications and records of achievement in national competitions related to the area of talent.</li>
-<li>Any other supporting documents (if applicable)</li></ul>
+	<li>Any other supporting documents (if applicable)</li></ul>
 	
 <li><ul><b>Shortlisted</b> students will be invited for interview/audition/aptitude test/written assessment in JPJC if they meet the eligibility stated in the table. Please refer to the relevant areas of talent for more information.</ul></li></ul></li></ol>
 	
