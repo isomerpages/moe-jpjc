@@ -17,18 +17,18 @@ third_nav_title: Admission Matters
 <li>Humanities Programme</li> </ul></li>
 	
 <li><b>Science, Technology, Engineering and Mathematics</b>
-<ul><li>Mathematics/Science</li></ul>
+<ul><li>Mathematics/Science</li></ul></li>
 	
-</li><li><b>Visual Arts, Design &amp; Media</b>
+<li><b>Visual Arts, Design &amp; Media</b>
 <ul><li>Art</li>
-	<li>Film &amp; Photography</li></ul>
-
-</li><li><b>Performing Arts</b>
+<li>Film &amp; Photography</li></ul></li>
+	
+<li><b>Performing Arts</b>
 <ul><li>Concert Band</li>
 <li>Choir (Girls Only)</li>
-<li>Chinese Orchestra</li></ul>
-
-</li><li><b>Sports &amp; Games</b>
+<li>Chinese Orchestra</li></ul></li>
+	
+<li><b>Sports &amp; Games</b>
 <ul><li>Badminton (Girls Only)</li>
 <li>Badminton (Girls Only)</li>
 <li>Basketball (Boys Only)</li>
