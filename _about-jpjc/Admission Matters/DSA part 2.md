@@ -18,7 +18,7 @@ third_nav_title: Admission Matters
 </p>
 	
 <p></p><h5><b>Application Procedures</b></h5> 
-<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted by:
+<ol><li>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted latest by:
 <ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
 <i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
 </li><li>DSA Phase 2: <b>15 Aug 2025</b><br>
@@ -26,7 +26,7 @@ third_nav_title: Admission Matters
 
 </li><li>Applicants should clearly indicate their area of interest/talent/expertise and highlight their achievement for the college’s consideration. 
 
-</li><li>Applicants who are not offered a place in Phase 1 need not re-submit an application for Phase 2 as the first application will be considered for both phases. 
+</li><li>3.	Applicants who are not offered a place in Phase 1 need not apply for Phase 2 as the first application will be considered for both phases. 
 
 </li><li>It is the applicant’s responsibility to provide accurate and complete information. An applicant found with false declaration will be rejected immediately. <br>
 </li><li>All applicants will have to submit the following documents online:
