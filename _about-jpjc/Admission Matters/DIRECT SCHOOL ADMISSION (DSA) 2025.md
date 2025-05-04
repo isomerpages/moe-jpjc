@@ -11,7 +11,7 @@ third_nav_title: Admission Matters
 
 <p>Our college will be offering the following DSA-JC Talent Areas for the potential students:</p>
 	
-<ol><li>	Language and Humanities
+<ol><li>	Language and Humanities 
 <ul><li>Chinese Language Elective Programme (CLEP)</li>
 <li>Malay Language Elective Programme (MLEP)</li>
 <li>Humanities Programme</li> </ul>
