@@ -31,7 +31,6 @@ third_nav_title: Admission Matters
 	
 <li><ul><b>Sports &amp; Games</b>
 <li>Badminton (Girls Only)</li>
-<li>Badminton (Girls Only)</li>
 <li>Basketball (Boys Only)</li>
 <li>Floorball</li>
 <li>Football (Boys Only)</li>
