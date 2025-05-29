@@ -7,6 +7,7 @@ third_nav_title: 2025 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+16 May 2025|[Artistic Reverie](/life-at-jpjc/2025-events/ar/)
 22 March 2025|[National Olympiad in Informatics](/life-at-jpjc/2025-events/noi/)
 12 March 2025|[JP Spotlight](/life-at-jpjc/2025-events/jpspotlight/)
 5 March 2025|[PW Marketplace of Ideas Pitch](/life-at-jpjc/2025-events/pwmoi/)
