@@ -27,7 +27,7 @@ third_nav_title: 2025 Events
 
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Artistic%20Reverie/Band2.jpg">
-<figcaption>A harmonious start to the evening — the Chinese Orchestra set the tone with a captivating performance that blended tradition with youthful flair</figcaption></figure>	
+<figcaption>The Concert Band delivered a rousing performance, filling the hall with rhythm and energy</figcaption></figure>	
 
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Artistic%20Reverie/Choir.jpg">
