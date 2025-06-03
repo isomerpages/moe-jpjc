@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Staff.md
-      - 2025.md
       - 2024/.keep
       - 2024/2024 Awardees.md
       - 2023/.keep
