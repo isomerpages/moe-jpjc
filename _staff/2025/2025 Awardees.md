@@ -1,0 +1,7 @@
+---
+title: 2025 Awardees
+permalink: /staff/2025/2025-awardees/
+variant: markdown
+description: ""
+third_nav_title: "2025"
+---
