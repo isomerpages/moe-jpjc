@@ -52,7 +52,7 @@ third_nav_title: College Identity
     <td style="width:70%;text-align:inter-word"><b>Behaviourial Indicators:</b><div style="text-align: justify; text-justify: inter-word;">
 <b> 1. Cultivate Collaboration:</b> Engage diverse perspectives, foster cross-domain discussions to inspire creativity, and refine solutions through collective feedback.</div>
 <div style="text-align: justify; text-justify: inter-word;">
-<b> 2. Lead Initiatives:</b>Inspire others to utilise the unique strengths of JPFam members to achieve shared objectives. </div>
+<b> 2. Lead Initiatives:</b> Inspire others to utilise the unique strengths of JPFam members to achieve shared objectives. </div>
 <div style="text-align: justify; text-justify: inter-word;">
 <b> 3. Share Experiences:</b> Draw insights and be generous to inspire and support fellow JPFam members.</div></td>
   </tr>
