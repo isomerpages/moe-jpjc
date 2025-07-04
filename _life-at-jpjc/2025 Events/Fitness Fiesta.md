@@ -19,8 +19,6 @@ third_nav_title: 2025 Events
 
 <p>#infinitelove♥️ #infinitegrowth🌱 #infinitepossibilities🚀 #JPFam #whyJP #whileiliveilearn #plusultra</p>
 
-<p><i>Write-up written by Nur Qaiyisah Athirah Binte Zulkifli (25S03). Photos by JP Media Tech Club.</i></p><i>
-
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Fitness%20Fiesta/ff1.jpg">
 <figcaption>This is what JPJC family looks like! From school leaders to staff to students - all smiles, one spirit, countless memories.</figcaption></figure>	
@@ -61,5 +59,7 @@ third_nav_title: 2025 Events
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Fitness%20Fiesta/ff10.jpg">
 <figcaption>Leading with smiles! Our school leaders beaming with pride as JPJC Fitness Fiesta 2025 draws to a spectacular close. When your leadership team radiates this much joy, you know it's been an amazing morning!</figcaption></figure>
 
-</div>
-</div></div></div></div></div></div></div></div></div></i></div>
+<p><i>Write-up written by Nur Qaiyisah Athirah Binte Zulkifli (25S03). Photos by JP Media Tech Club.</i></p><i>
+
+</i></div><i>
+</i></div></div></div></div></div></div></div></div></div></div>
