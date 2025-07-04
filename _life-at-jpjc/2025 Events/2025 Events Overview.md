@@ -7,6 +7,7 @@ third_nav_title: 2025 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+27 May 2025|[Fitness Fiesta](/life-at-jpjc/2025-events/ff/)
 16 May 2025|[Artistic Reverie](/life-at-jpjc/2025-events/ar/)
 22 March 2025|[National Olympiad in Informatics](/life-at-jpjc/2025-events/noi/)
 14 March 2025|[‘Xin Kong Xia’ National Schools Xinyao Festival](/life-at-jpjc/2025-events/xkx/)
