@@ -17,7 +17,7 @@ third_nav_title: 2025 Events
 
 <p>What an exciting way to close the term!💫</p>
 
-<p>#infinitelove♥️ #infinitegrowth🌱 #infinitepossibilities🚀 #JPFam #whyJP #whileiliveilearn #plusultra</p>
+<p>#infinitelove ❤️ #infinitegrowth 🌱 #infinitepossibilities 🚀 #JPFam #whyJP #whileiliveilearn #plusultra</p>
 
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Fitness%20Fiesta/ff1.jpg">
