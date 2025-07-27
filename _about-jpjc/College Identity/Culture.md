@@ -1,6 +1,6 @@
 ---
 title: Culture
-permalink: /culture/
+permalink: /about/college-identity/culture/
 variant: markdown
 description: ""
 third_nav_title: College Identity
