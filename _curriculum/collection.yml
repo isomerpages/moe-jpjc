@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Character and Citizenship Edu/.keep
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
@@ -11,3 +10,4 @@ collections:
       - Language Elective Programmes.md
       - Knowledge Skills.md
       - Character and Citizenship Education.md
+      - Character and Citizenship Edu/.keep
