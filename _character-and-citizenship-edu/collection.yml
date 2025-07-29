@@ -1,5 +1,4 @@
 collections:
   character-and-citizenship-edu:
     output: true
-    order:
-      - Student Well Being.md
+    order: []
