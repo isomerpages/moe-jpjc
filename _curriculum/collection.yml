@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
