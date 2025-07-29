@@ -2,5 +2,4 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
-      - Values in Action.md
       - Student Well Being.md
