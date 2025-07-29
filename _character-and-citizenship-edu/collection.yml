@@ -2,5 +2,6 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
+      - Citizenship Education.md
       - CCE.md
       - Education and Career Guidance.md
