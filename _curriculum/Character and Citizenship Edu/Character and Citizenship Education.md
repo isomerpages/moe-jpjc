@@ -1,9 +1,9 @@
 ---
-title: CCE
-permalink: /jpjc-experience/co-curriculum/cce/
+title: Character and Citizenship Education
+permalink: /character-and-citizenship-education/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <div align="justify">
 

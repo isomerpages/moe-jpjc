@@ -1,9 +1,9 @@
 ---
 title: Social Emotional Learning and Life Skills
-permalink: /jpjc-experience/co-curriculum/cce/social-emotional-learning-and-life-skills/
+permalink: /character-and-citizenship-education/social-emotional-learning-and-life-skills/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <figure>
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/JPJC%20Experience/Co%20Curriculum/CCE/Social%20Emotional%20L%20and%20LS/CCE_lifeskills.jpg"></figure>

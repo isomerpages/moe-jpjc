@@ -1,9 +1,9 @@
 ---
 title: Education and Career Guidance
-permalink: /jpjc-experience/co-curriculum/cce/further-ecg/
+permalink: /character-and-citizenship-education/ecg/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <div align="justify">
 

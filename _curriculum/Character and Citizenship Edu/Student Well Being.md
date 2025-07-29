@@ -1,9 +1,9 @@
 ---
 title: Student Well Being
-permalink: /jpjc-experience/co-curriculum/cce/student-well-being/
+permalink: /character-and-citizenship-education/student-well-being/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <div align="justify">
 	

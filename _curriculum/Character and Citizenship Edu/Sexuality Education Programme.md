@@ -1,9 +1,9 @@
 ---
 title: Sexuality Education Programme
-permalink: /jpjc-experience/co-curriculum/cce/sex-edu/
+permalink: /character-and-citizenship-education/sex-edu/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <div align="justify">
 

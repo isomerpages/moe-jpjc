@@ -1,9 +1,9 @@
 ---
 title: Values in Action
-permalink: /jpjc-experience/co-curriculum/cce/via/
+permalink: /character-and-citizenship-education/via/
 description: ""
-third_nav_title: Character and Citizenship Edu
 variant: markdown
+third_nav_title: Character and Citizenship Edu
 ---
 <div align="justify">
 <p>The Service Learning (SL) programme aims to inculcate a sense of social and civic responsibility in students by encouraging them to learn through serving the college and community. With the mission of nurturing a community of compassionate leaders with a heart to serve, the college adopts a whole-school approach to SL, where all students are encouraged to participate in or lead Values-in-Action (VIA) projects through the following approaches:</p>
