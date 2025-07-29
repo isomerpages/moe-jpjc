@@ -11,5 +11,4 @@ variant: markdown
 	<li><a href="/languages/">Languages</a></li>
 	<li><a href="/language-elective-programmes/">Language Elective Programmes</a></li>
 	<li><a href="/knowledge-skills/">Knowledge Skills</a></li>
-<li><a href="/character-and-citizenship/">Character and Citizenship Education</a></li></ul>
-	
+<li><a href="/character-and-citizenship-education/">Character and Citizenship Education</a></li></ul>
