@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
+      - Social Emotional Learning and Life Skills.md
       - Citizenship Education.md
       - CCE.md
       - Education and Career Guidance.md
