@@ -2,10 +2,10 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
-      - Student Well Being.md
-      - Values in Action.md
-      - Sexuality Education Programme.md
-      - Social Emotional Learning and Life Skills.md
-      - Citizenship Education.md
       - CCE.md
       - Education and Career Guidance.md
+      - Citizenship Education.md
+      - Social Emotional Learning and Life Skills.md
+      - Sexuality Education Programme.md
+      - Values in Action.md
+      - Student Well Being.md
