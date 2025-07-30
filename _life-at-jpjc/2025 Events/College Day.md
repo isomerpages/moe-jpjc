@@ -14,10 +14,10 @@ third_nav_title: 2025 Events
 <p>Principal Mr Ang shared how the past year has been a transformative one where our students exemplified servant leadership through peer-led workshops, community outreach, and remarkable achievements in academics, sports, the arts, and innovation. Their success in the 2024 A-Level Examinations is a testament to JPJC’s holistic approach to education. He also highlighted how strengthened partnerships, tech-integrated learning, and the expansion of our JP Global Experience programme have created richer learning opportunities for all. 👏🌍</p>
 
 <p>A big congratulations to Tan Jia Rui, our 2024 Valedictorian of the Year, who exemplifies excellence, leadership, and compassion. His unwavering dedication to growth, both academic and personal, truly embodies the spirit of JPJC. 🌟🚀📚</p>
-
-<p>📸 More photos from this memorable day can be viewed here: [https://drive.google.com/drive/folders/1l4gBI72WSJakUqVINE6oQKKkTiJPInSH?usp=sharing  
   
-</p><p>College Day is a cherished tradition that celebrates the accomplishments of our students in academics, co-curricular activities, leadership, and service. 🏅 It is also a moment to express our heartfelt appreciation to the many partners and supporters who have shaped our JPFam story. As we honoured our past and celebrated the present, we look ahead with courage and optimism, ready to cross new frontiers and chase even greater milestones together as one #JPFam with #infinitelove❤️, #infinitegrowth🌱 and #infinitepossibilities🚀.</p>
+<p>📸 More photos from this memorable day can be viewed <a href="https://drive.google.com/drive/folders/1l4gBI72WSJakUqVINE6oQKKkTiJPInSH?usp=sharing">here</a>.</p>
+	
+<p></p><p>College Day is a cherished tradition that celebrates the accomplishments of our students in academics, co-curricular activities, leadership, and service. 🏅 It is also a moment to express our heartfelt appreciation to the many partners and supporters who have shaped our JPFam story. As we honoured our past and celebrated the present, we look ahead with courage and optimism, ready to cross new frontiers and chase even greater milestones together as one #JPFam with #infinitelove❤️, #infinitegrowth🌱 and #infinitepossibilities🚀.</p>
 	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2025%20Life@JPJC/Fitness%20Fiesta/ff1.jpg">
