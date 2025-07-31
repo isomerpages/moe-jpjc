@@ -16,7 +16,7 @@ The TLD framework follows Dr. Treffinger’s Levels of Services Approach, and gu
 <center><h5><strong>Talent and Leadership Development Framework</strong></h5></center>
 
 <figure>
-<img src="/images/Talent%20and%20Leadership%20Development%20Framework.jpg">
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/TLD_Refresh.png">
 </figure>
 
 </div>
