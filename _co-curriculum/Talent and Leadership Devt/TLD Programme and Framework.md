@@ -1,5 +1,5 @@
 ---
-title: TLD Framework
+title: TLD Programme and Framework
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership/
 description: ""
 third_nav_title: Talent and Leadership Devt
