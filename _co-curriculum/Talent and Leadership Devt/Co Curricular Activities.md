@@ -2,7 +2,7 @@
 title: Co Curricular Activities
 permalink: /jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/
 description: ""
-third_nav_title: Talent and Leadership
+third_nav_title: Talent and Leadership Devt
 variant: markdown
 ---
 <div align="justify">

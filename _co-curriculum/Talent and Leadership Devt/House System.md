@@ -2,7 +2,7 @@
 title: House System
 permalink: /jpjc-experience/co-curriculum/talent-n-leadership-development-programme/house-system/
 description: ""
-third_nav_title: Talent and Leadership
+third_nav_title: Talent and Leadership Devt
 ---
 <figure>
 <img src="/images/house1.jpg">

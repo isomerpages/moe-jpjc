@@ -1,8 +1,8 @@
 ---
-title: Talent and Leadership
+title: TLD Framework
 permalink: /jpjc-experience/co-curriculum/talent-and-leadership/
 description: ""
-third_nav_title: Talent and Leadership
+third_nav_title: Talent and Leadership Devt
 variant: markdown
 ---
 <div align="justify">

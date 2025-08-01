@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education
+title: CCE Approach
 permalink: /character-and-citizenship-education/
 description: ""
 variant: markdown

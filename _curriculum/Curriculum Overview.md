@@ -4,11 +4,6 @@ permalink: /jpjc-experience/curriculum/
 description: ""
 variant: markdown
 ---
-<ul>
-	<li><a href="/humanities-and-the-arts/">Humanities &amp; the Arts</a></li>
-	<li><a href="/physical-education/">Physical Education</a></li>
-	<li><a href="/mathematics-and-sciences/">Mathematics &amp; Sciences</a></li>
-	<li><a href="/languages/">Languages</a></li>
-	<li><a href="/language-elective-programmes/">Language Elective Programmes</a></li>
-	<li><a href="/knowledge-skills/">Knowledge Skills</a></li>
-<li><a href="/character-and-citizenship-education/">Character and Citizenship Education</a></li></ul>
+<div align="justify">
+
+<p>At JPJC, our academic curriculum is aligned with the Ministry of Education (MOE)’s Junior College framework, designed to nurture students into curious, critical thinkers and lifelong learners. Grounded in academic rigour and holistic development, our JC curriculum offers a wide range of subject combinations, alongside programmes that stretch students’ intellectual capacities and prepare them for the challenges of higher education and the future world of work.</p></div>
