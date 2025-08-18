@@ -8,6 +8,7 @@ third_nav_title: 2025 Events
 | Date | Events | 
 | -------- | -------- |
 18 July 2025|[College Day](/life-at-jpjc/2025-events/cd/)
+16 July 2025|[Racial Harmony Day](/life-at-jpjc/2025-events/rhd/)
 27 May 2025|[Fitness Fiesta](/life-at-jpjc/2025-events/ff/)
 16 May 2025|[Artistic Reverie](/life-at-jpjc/2025-events/ar/)
 22 March 2025|[National Olympiad in Informatics](/life-at-jpjc/2025-events/noi/)
