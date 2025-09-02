@@ -101,10 +101,11 @@ All students are expected to play an active role in their CCAs for their develop
 		
 <div class="column">
 			<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Open%20house%202024/CCA/Taekwondo.png"></a>
-		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a><a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a></div>
+	<img alt="Tchoukball" src="/images/Open%20house%202024/CCA/Tchoukball.png">
+		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
 	
 <div class="column">
-		<img alt="Tchoukball" src="/images/Open%20house%202024/CCA/Tchoukball.png">
+		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
 		<a href="https://www.instagram.com/jp.ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a>
 		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a>
 </div></div></figure>	
