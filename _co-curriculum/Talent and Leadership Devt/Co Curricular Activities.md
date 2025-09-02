@@ -124,4 +124,11 @@ All students are expected to play an active role in their CCAs for their develop
 	<a href="https://www.instagram.com/jpjc.mlep/"><img alt="Malay Cultural Society" src="/images/Open%20house%202024/CCA/Malay_Cultural_Society.png"></a>
 
 
+<a href="https://www.instagram.com/jpjcbasketball/"><img alt="Tchoukball" src="/images/Open%20house%202024/CCA/Tchoukball_icon.jpg"></a>	
+	
+	
 </div>
+
+
+
+
