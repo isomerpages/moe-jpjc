@@ -29,7 +29,33 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <p>Please contact us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a> for more details.</p>
 
 <h3><strong>Past Activities</strong></h3>
+	
+<h3>Year 2025</h3>
 
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_1.png">
+	<figcaption>4 Apr 2025 Parents' Connect Session (PCS)</figcaption></figure>
+
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_2.png">
+	<figcaption>16 May 2025 Parents' Wellness Talk</figcaption></figure>
+
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_3.png">
+	<figcaption>5 Jul 2025 Singapore Management University (SMU) Visit</figcaption></figure>
+	
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_4.png">
+	<figcaption>16 Aug 2025 College of Design and Engineering – NUS Visit</figcaption></figure>
+	
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_5.png">
+	<figcaption>Aug - Sep 2025 Pre-Exam Dinner (PED)</figcaption></figure>
+	
+<figure>
+	<img src="/images/Partnerships/PSG/PSG_6.png">
+	<figcaption>20 Aug 2025 Teachers’ Day Appreciation Lunch</figcaption></figure>
+	
 <h3>Year 2024</h3>
 
 <center><h4>Foodie Night</h4></center>	
