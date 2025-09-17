@@ -50,7 +50,23 @@ Please contact us at <a href="mailto:jpjc@moe.edu.sg">jpjc@moe.edu.sg</a>&nbsp;f
 
 <p>Since 2019, we have been privileged to have alumni from various fields and disciplines generously sharing their experiences with their juniors. They include:</p>
 
-
+<h4>Year 2025</h4>	
+	
+<figure><img src="/images/Partnerships/JPJC%20Alumni/2025%20alumni%20speaker%20series.png"><figcaption>
+Enzo Xuan Ng <br>(JJC Alumnus - Materials Engineering, NTU) <br>
+Cavan Yeo <br>(JJC Alumnus – Economics, NUS)<br>
+Ooi Yuan Phing <br>(JJC Alumna, Class of 2018 - Economics, NUS) <br>
+Desmond Kwa <br>(JJC Alumnus, Class of 2018 – Computer Engineering, NUS)<br>
+Timothy Beh <br>(JJC Alumnus, Class of 2016 – Law, NUS)<br>
+Foong Yifei<br>(JPJC Alumna, Class of 2022 – History and Literature, NUS College)<br>
+Faith Low<br>(JPJC Alumna, Class of 2022 – English Literature and History, NTU)<br>
+Sarar Khan<br>(JJC Alumnus, Class of 2018 - Mechanical Engineering with Aeronautical Specialisation, NUS)<br>
+A.Guhanavel S/O Ashok Kumar<br> (JJC Alumnus, Class of 2018 – Data Science, NUS)<br>
+Kim Clistus Mathias<br>(JPJC Alumna, Class of 2022 – Life Sciences, NUS)<br>
+Ng Chun Rong<br>(JPJC Alumna, Class of 2020 – Chemistry, NTU/NIE)<br>
+Law Zhenwen<br>(PJC Alumnus, Class of 2017 – Architecture, SUTD)<br>	
+</figcaption></figure>		
+	
 <h4>Year 2024</h4>	
 	
 <figure><img src="/images/Partnerships/JPJC%20Alumni/alumni2024.png"><figcaption>
