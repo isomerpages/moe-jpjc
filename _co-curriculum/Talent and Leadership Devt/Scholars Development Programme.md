@@ -57,6 +57,17 @@ L1R5 raw score of 11 and below. Other considerations include:
 <figure>
 <img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/25SDP3.jpg">
 <figcaption>Camp participants presenting their ideas. Leadership Camp for West Zone Sec Schools 2025</figcaption></figure>
+
+<img src="/images/sdp3.jpg" style="width:8%;margin-right:15px;" align="left"><b>Jurong Spring Family Sports Carnival</b><br>
+<p>Students in this programme, together with members from sports CCAs in JPJC, collaborate with the People’s Association’s Jurong Spring Community Sports Network to organise a family sports carnival for the Jurong Spring community. The event features interactive game booths that engage residents across different age groups, and is graced by Dr Hamid Razak, Adviser to West Coast–Jurong West GRC (Jurong Spring). This carnival provides students with the opportunity to serve the wider community while nurturing personal growth through community engagement.</p>
+<figure><img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/25SDP5.jpg">
+<figcaption>Group photo with Dr Hamid Razak (Grassroots Adviser to Jurong Spring). Jurong Spring Family Sports Carnival 2025</figcaption></figure>
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/25SDP4.jpg">
+<figcaption>Dr Hamid Razak interacting with Jurong Spring residents. Jurong Spring Family Sports Carnival 2025</figcaption></figure>
+<figure>
+<img src="/images/JPJC%20Experience/Co%20Curriculum/Talent%20and%20Leadership/Scholars%20Development%20Program/25SDP6.jpg">
+<figcaption>Booth facilitators interacting with Jurong Spring residents. Jurong Spring Family Sports Carnival 2025</figcaption></figure>
 	
 <img src="/images/sdp10.jpg" style="width:8%;margin-right:15px;" align="left"><b>Skills Based Training (Community Leadership, Communication Skills, and Interview Skills)</b><br>	
 <p>To better prepare and equip our students with the skills and competencies needed to lead community projects and excel in scholarship interviews, experienced trainers provide specialised training for students in this programme.</p></div>
