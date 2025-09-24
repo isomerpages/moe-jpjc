@@ -34,8 +34,7 @@ Programme (HMSP)" guidelines.</li>
 <a href="https://schadmsvc.moe.gov.sg">(https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer Junior College from 24 September 2025.
 <br>Application form with all necessary documents must be attached.
 <br>Incomplete forms will be rejected.
-
-For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at telephone no. 6564 6878 extension 202 / 206.</p>
+<br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan at telephone no. 6564 6878 extension 202 / 206.</p>
 	
 <p><u>Application will close on 7 October 2025</u>:<br>
 Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 7 October 2025 before noon.</u> Late
@@ -49,8 +48,8 @@ canteen committee.</p>
 </p><ul><li>Food stall license from Singapore Food Agency (SFA).</li>
 <li>Utilities service - SP services for gas and water &amp; Senoko Energy for electricity. </li></ul><p></p>
 	
-	
 </div>	
+
 <div align="justify" hidden="">
 	
 <h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
