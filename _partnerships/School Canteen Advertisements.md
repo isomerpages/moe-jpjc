@@ -12,8 +12,7 @@ variant: markdown
 (Japanese / Korean) stall</u></b> from the 1 January to 31 December 2026.</p>
 
 <p><u>Interested applicants must meet the following Criteria</u>:</p>
-<ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall
-assistants.</li>
+<ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall assistants.</li>
 <li>Able to maintain a high standard of food safety and personal hygiene.</li>
 <li>Able to provide good service and quality food with prices determined in
 consultation with the college.</li>
@@ -36,9 +35,9 @@ Programme (HMSP)" guidelines.</li>
 <br>Application form with all necessary documents must be attached.
 <br>Incomplete forms will be rejected.
 
-For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at telephone no. 6564 6878 extension 202 / 206.
-
-</p><p><u>Application will close on 7 October 2025</u>:<br>
+For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at telephone no. 6564 6878 extension 202 / 206.</p>
+	
+<p><u>Application will close on 7 October 2025</u>:<br>
 Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 7 October 2025 before noon.</u> Late
 application will not be considered.</p>
 
