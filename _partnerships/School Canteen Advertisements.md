@@ -4,6 +4,54 @@ permalink: /partnerships/schoolcanteen/
 description: JPJC Canteen Advertisements
 variant: markdown
 ---
+<div align="justify">
+	
+<h3><b>Application for a Canteen Asia Cuisine (Japanese / Korean) Stall in Jurong Pioneer Junior College</b></h3>	
+
+<p>We are pleased to invite applications to apply for a <b><u>Canteen Asia Cuisine 
+(Japanese / Korean) stall</u></b> from the 1 January to 31 December 2026.</p>
+
+<p><u>Interested applicants must meet the following Criteria</u>:</p>
+<ul><li>Singaporean or Singapore Permanent Resident (PR) for stall owner and stall
+assistants.</li>
+<li>Able to maintain a high standard of food safety and personal hygiene.</li>
+<li>Able to provide good service and quality food with prices determined in
+consultation with the college.</li>
+<li>Able to provide cooked food that meets health &amp; nutritional standards set by
+the Health Promotion Board (HPB) under the “Healthy Meals in Schools
+Programme (HMSP)" guidelines.</li>
+<li>Healthy and Fit to operate the stall (7.30am to 5pm daily during school week).</li>
+<li>Experience in operating a canteen stall in Secondary Schools or JC preferred.</li></ul>
+	
+<p><u>Applicant should preferably fulfil the following criteria</u>:</p>
+<ul><li>Successful applicants and stall assistants must possess the WSQ Basic Food Hygiene Certificate.</li>
+<li>Possess catering experience or experience operating in a Secondary / JC environment.</li></ul>
+	
+<p><u>Pricing</u>:</p>
+<ul><li>Provide full list of food items and their prices together with your application submission. Meals include portion of fruits.</li></ul>
+	
+<p><u>Application</u>:</p>
+<p>Application forms are available on the MOE website
+<a href="https://schadmsvc.moe.gov.sg">(https://schadmsvc.moe.gov.sg)</a> and at the General Office, Jurong Pioneer Junior College from 24 September 2025.
+<br>Application form with all necessary documents must be attached.
+<br>Incomplete forms will be rejected.
+
+For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan at telephone no. 6564 6878 extension 202 / 206.
+
+</p><p><u>Application will close on 7 October 2025</u>:<br>
+Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 7 October 2025 before noon.</u> Late
+application will not be considered.</p>
+
+<p><u>Food Tasting</u>:<br>
+Shortlisted vendors will be required to provide food sampling for the school
+canteen committee.</p>
+
+<p>Successful applicant is required to apply the following before commencement:<br>
+</p><ul><li>Food stall license from Singapore Food Agency (SFA).</li>
+<li>Utilities service - SP services for gas and water &amp; Senoko Energy for electricity. </li></ul><p></p>
+	
+	
+</div>	
 <div align="justify" hidden="">
 	
 <h3><b>Application for a Canteen Halal Cuisine Stall in Jurong Pioneer Junior College</b></h3>	
