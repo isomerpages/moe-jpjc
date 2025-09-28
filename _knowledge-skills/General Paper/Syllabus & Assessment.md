@@ -27,5 +27,9 @@ There are 2 papers and candidates must offer both. Paper 1 and Paper 2 will be t
 
 <p>
 The duration for each paper is 1 hour 30 minutes.</p>
+	
+	
+<p>You may refer to <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8881_y25_sy_pdf__updated_.pdf">MOE Website</a> for General Paper syllabus in detail. For information on examinations, please refer to this <a href="https://www.seab.gov.sg/gce-a-level/">link</a>.</p>	
+	
  
 </div>
