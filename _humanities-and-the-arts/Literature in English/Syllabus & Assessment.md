@@ -51,9 +51,10 @@ Two questions will be set, primarily focusing on analysis skills. One question w
 <h5><strong>Section C: Pre-20th Century Writing</strong></h5>
 <p>Two questions will be set, primarily focusing on analysis skills. One question will be an essay question, the other a passage-based question. The candidate will answer one question on one text, <i><strong>King Lear<i></i></strong><i> by William Shakespeare.</i></i></p>
 
+	
+<p>You may refer to SEAB Website for <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9539_y25_sy.pdf">Literature in English H2 </a>and <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8841_y25_sy.pdf">Literature in English H1</a> syllabus in detail. 
 
 
 
 
-
-</div>
+</p></div>
