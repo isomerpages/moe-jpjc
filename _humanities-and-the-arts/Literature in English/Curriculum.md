@@ -22,6 +22,14 @@ variant: markdown
 <figure>
 <img src="/images/Curriculum/English%20Literature/lit4.jpg">
 <figcaption>The Literature Unit adds to the fun on stage through the Mystery Teachers’ Item</figcaption></figure>
+<figure>
+<img src="/images/Curriculum/English%20Literature/lit5.jpg">
+<figcaption>Cast and Crew</figcaption></figure>
+<figure>
+<img src="/images/Curriculum/English%20Literature/lit6.jpg">
+<figcaption>Dramatisation of H2 Post-Colonial Text</figcaption></figure>
+	
+	
 	
 	
 </div>
