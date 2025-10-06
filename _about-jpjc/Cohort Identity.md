@@ -51,6 +51,3 @@ description: ""
 <figcaption></figcaption></figure>	 
  
 <p>Like a tree, the cohort has grown through their experiences in JPJC  and possesses the potential to thrive in the face of challenges. Rooted in the ground (JPJC), the JP experience will always remain a part of them, no matter where they go. </p>
-	
-
-
