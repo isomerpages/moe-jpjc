@@ -46,3 +46,12 @@ description: ""
 <p>Like a tree, the cohort has grown through their experiences in JPJC  and possesses the potential to thrive in the face of challenges. Rooted in the ground (JPJC), the JP experience will always remain a part of them, no matter where they go. </p>
 	
 </div>
+
+<div hidden="">
+<p><b></b></p><center><b><h5>Class of 2025</h5></b></center><p></p>	
+<figure>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="JPJC College Anthem" src="https://www.youtube.com/embed/gcmVrfUS8AQ" height="315" width="560"></iframe>
+<figcaption><strong>Class of 2025 - Video</strong></figcaption></figure>
+
+<p>Continuing from the orientation theme of 'Mirage', the CMs of the batch worked together with the YHs and their peers to create an art piece that engages the sight and sound of the audience. Titled 'Making the Mirage our Miracle' the art piece is a 'Mirage' which presents different images from the cohort when viewed from the left and the right akeen to a mirage and it has the embedded wishes from the classes for the cohort.</p>
+<br></div>
