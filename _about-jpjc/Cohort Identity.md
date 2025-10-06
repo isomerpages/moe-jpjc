@@ -12,7 +12,7 @@ description: ""
 <figcaption><strong>Making the Mirage our Miracle</strong></figcaption></figure>
 
 <p>Continuing from the orientation theme of 'Mirage', the CMs of the batch worked together with the YHs and their peers to create an art piece that engages the sight and sound of the audience. Titled 'Making the Mirage our Miracle' the art piece is a 'Mirage' which presents different images from the cohort when viewed from the left and the right akeen to a mirage and it has the embedded wishes from the classes for the cohort.</p>
-<br></div>
+<br>
 
 <center><b><h5>Class of 2024</h5></b></center><p></p> <figure>
 <img src="/images/About%20JPJC/College%20Identity/CI2024.jpg">
@@ -51,3 +51,5 @@ description: ""
 <figcaption></figcaption></figure>	 
  
 <p>Like a tree, the cohort has grown through their experiences in JPJC  and possesses the potential to thrive in the face of challenges. Rooted in the ground (JPJC), the JP experience will always remain a part of them, no matter where they go. </p>
+	
+</div>
