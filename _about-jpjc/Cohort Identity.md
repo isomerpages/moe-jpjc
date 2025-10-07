@@ -11,7 +11,7 @@ description: ""
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qtJgte1ayQc?si=WapBl1kwGO3I4awx" height="315" width="560"></iframe>
 <figcaption><strong>Making the Mirage our Miracle</strong></figcaption></figure>
 
-<p>Continuing from the orientation theme of 'Mirage', the CMs of the batch worked together with the YHs and their peers to create an art piece that engages the sight and sound of the audience. Titled 'Making the Mirage our Miracle' the art piece is a 'Mirage' which presents different images from the cohort when viewed from the left and the right akeen to a mirage and it has the embedded wishes from the classes for the cohort.</p>
+<p>Continuing from the orientation theme of 'Mirage', the CMs of the batch worked together with the YHs and their peers to create an art piece that engages the sight and sound of the audience. Titled 'Making the Mirage our Miracle', the art piece is a 'Mirage' which presents different images from the cohort when viewed from the left or the right akeen to a mirage and it has the embedded wishes from the classes for the cohort.</p>
 <br>
 
 <center><b><h5>Class of 2024</h5></b></center><p></p> <figure>
