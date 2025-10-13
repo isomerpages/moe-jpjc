@@ -11,7 +11,7 @@ The Computing Unit at JPJC is committed to fostering experiential learning that 
 
 <figure>
 <img src="/images/2025%20Life@JPJC/NOI/NOI_4.jpg">
-<figcaption>Finalists at National Olympiad in Infomatics (NOI) 2025</figcaption></figure>
+<figcaption>Finalists at National Olympiad in Informatics (NOI) 2025</figcaption></figure>
 
 <p>From participating in both internal and national-level competitions (e.g.: NOI, NOAI, Cyberthon, Whitehacks), to embarking on learning journeys to leading technology companies (e.g.: ByteDance) and institutions of higher learning. They also engage actively in local conferences and enrichment events, broadening their perspectives on innovation and the digital landscape.</p>
 
