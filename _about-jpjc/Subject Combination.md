@@ -23,7 +23,7 @@ variant: markdown
 	<li>Students may be exempted from taking H1 Mother Tongue if they have obtained D7 or better in their Higher Mother Tongue at the ‘O’ level.</li>
 	<li>Students with L1R5 ≤ 11 (raw score) may be offered a 4 H2 subject combination.</li></ol>
 	
-<h3><center>Subjects offered in 2025</center></h3>
+	<h3><center>Subjects offered in 2026</center></h3>
 
 <figure><center>
 	<iframe scrolling="no" height="600px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
