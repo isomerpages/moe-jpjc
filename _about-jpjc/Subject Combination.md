@@ -12,7 +12,7 @@ variant: markdown
 <p>At JPJC, we provide a wide range of subject combinations to cater to students’ personal interests, abilities and future career choices. In addition, we are the only centre for Language Elective Programmes in both Chinese and Malay. Students are advised to choose a subject combination carefully that best suits their needs and aspirations.
 </p>
 
-<h2><center>2025 Subject Combinations</center></h2>
+<h2><center>2026 Subject Combinations</center></h2>
 
 <ol>
 	<li>The following table shows the standard subject combination which most students will take :</li>
