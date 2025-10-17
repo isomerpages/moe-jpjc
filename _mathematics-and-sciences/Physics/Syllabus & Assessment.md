@@ -20,8 +20,10 @@ The&nbsp;<i><strong>Values</strong></i>,&nbsp;<i><strong>Ethics</strong></i>,&nb
 
 <figure>
 <img src="/images/Curriculum/A_Level_Physics_Curriculum_Framework.png">
+<figcaption>Figure 1: A-Level Physics Curriculum Framework
+</figcaption>
 </figure>
-
+	
 <p>
 The&nbsp;<i><strong>Practices of Science</strong></i>&nbsp;highlight the ways of thinking and doing that are inherent in the scientific approach, with the aim of equipping students with the understanding, skills, and attitudes shared by the scientific disciplines, including an appropriate approach to ethical issues.</p>
 
@@ -84,6 +86,8 @@ The&nbsp;<i><strong>Values</strong></i>,&nbsp;<i><strong>Ethics</strong></i>,&nb
 
 <figure>
 <img src="/images/Curriculum/A_Level_Physics_Curriculum_Framework.png">
+<figcaption>Figure 1: A-Level Physics Curriculum Framework
+</figcaption>
 </figure>
 
 <p>
