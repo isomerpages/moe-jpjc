@@ -40,6 +40,10 @@ The&nbsp;<i><strong>Learning Experiences</strong></i>&nbsp;refer to a range of l
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
 
+<figure>
+<img src="/images/Curriculum/phy_assessment_weightage.png">
+</figure>
+	
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
 <p>
 This paper will consist of 30 compulsory multiple-choice questions. All questions will be of the direct choice type with 4 options.</p>
