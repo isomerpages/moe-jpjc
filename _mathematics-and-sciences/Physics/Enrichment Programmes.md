@@ -35,7 +35,7 @@ Scholarship recipients will also be strongly encouraged to participate in a hand
 </p>		
 	
 <figure>
-<img src="/images/Curriculum/phy_enrichment.jpg">Enrichment programmes organised for students
+<img src="/images/Curriculum/Physics/Physics2.jpg">Enrichment programmes organised for students
 
 </figure>	
 
