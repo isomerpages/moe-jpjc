@@ -19,7 +19,7 @@ Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 The&nbsp;<i><strong>Values</strong></i>,&nbsp;<i><strong>Ethics</strong></i>,&nbsp;<i><strong>Attitudes</strong></i>,&nbsp;<i><strong>the Practices of Science</strong></i>,&nbsp;<i><strong>the Disciplinary Content</strong></i>&nbsp;and&nbsp;<i><strong>Learning Experiences</strong></i>&nbsp;are put together in a framework (Figure 1) to guide the development of the A-Level Physics curriculum.</p>
 
 <figure>
-<img src="/images/Curriculum/A_Level_Physics_Curriculum_Framework.png">
+<img src="/images/Curriculum/Physics/Physics1.jpg">
 <figcaption>Figure 1: A-Level Physics Curriculum Framework
 </figcaption>
 </figure>
@@ -41,7 +41,7 @@ The&nbsp;<i><strong>Learning Experiences</strong></i>&nbsp;refer to a range of l
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
 
 <figure>
-<img src="/images/Curriculum/phy_assessment_weightage.png">
+<img src="/images/Curriculum/Physics/phy_assessment_weightage.png">
 </figure>
 	
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
@@ -87,9 +87,9 @@ Candidates may not simultaneously offer Physics at H1 and H2 levels.</p>
 <h4><strong>Curriculum Framework</strong></h4>
 <p>
 The&nbsp;<i><strong>Values</strong></i>,&nbsp;<i><strong>Ethics</strong></i>,&nbsp;<i><strong>Attitudes</strong></i>,&nbsp;<i><strong>the Practices of Science</strong></i>,&nbsp;<i><strong>the Disciplinary Content</strong></i>&nbsp;and&nbsp;<i><strong>Learning Experiences</strong></i>&nbsp;are put together in a framework (Figure 1) to guide the development of the A-Level Physics curriculum.</p>
-
+	
 <figure>
-<img src="/images/Curriculum/A_Level_Physics_Curriculum_Framework.png">
+<img src="/images/Curriculum/Physics/Physics1.jpg">
 <figcaption>Figure 1: A-Level Physics Curriculum Framework
 </figcaption>
 </figure>
