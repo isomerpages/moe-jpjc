@@ -17,7 +17,7 @@ variant: markdown
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRiUY8XTY3n3Zn9Rt67PJCC_whBr3bF1SttPeI2gxQPK9kZ9P6g2avPm-7obHCe6C23OFWDswlSC3kw/pub?embedded=true" width="800px" height="120px" scrolling="no"></iframe>
 	
-<h4><strong>Art Discourse</strong></h4>
+<h4><strong>Art Discourse (For H1 and H2 Art)</strong></h4>
 <p>Art Discourse evaluates the candidate’s ability to engage in the appraisal of art’s meanings and its ability to reflect and shape society and culture. Candidates are expected to be able to engage with the visual characteristics of artworks and to conduct formal analysis. They should be able to form interpretations regarding artists’ intent, evaluate and comment on artworks in an informed and critical manner. Candidates are required to be sensitive to the ways art is made, encountered, and discussed in response to personal, social, and cultural issues and real-world needs. They should demonstrate an informed understanding of the six topics and their key concepts in the syllabus content:.</p>
 
 <ol>	
