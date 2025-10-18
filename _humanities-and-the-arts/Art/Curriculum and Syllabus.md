@@ -30,6 +30,11 @@ variant: markdown
 </li></ol>
 	
 <p>
-Through responses to visual stimuli and essay questions, candidates demonstrate their abilities to use appropriate visual language, critically analyse artworks, issues, themes, or problems significant to Art practices. Candidates should note that all visual stimuli referred to in the question paper will be unseen and candidates must be prepared to apply their skills of visual literacy in their analysis and response. Candidates can draw links with their direct experience or environment to form personal opinions about the artworks or selected artists..</p>
+Through responses to visual stimuli and essay questions, candidates demonstrate their abilities to use appropriate visual language, critically analyse artworks, issues, themes, or problems significant to Art practices. Candidates should note that all visual stimuli referred to in the question paper will be unseen and candidates must be prepared to apply their skills of visual literacy in their analysis and response. Candidates can draw links with their direct experience or environment to form personal opinions about the artworks or selected artists.</p>
+
+<h4><strong>Portfolio (For H2 Art Only)</strong></h4>
+<p>Portfolio will require candidates to form and develop their sense of identity, culture and place in society. Candidates will demonstrate critical and inventive thinking as they engage with ambiguity, consider multiple perspectives, imagine and envision as part of their art journey. The portfolio will demand candidates to actively engage in processes such as observing and investigating subject matter; innovating through expressive forms; experimenting with a range of digital and non-digital materials/ media, technologies, tools and techniques; exploring aesthetic principles and conceptual strategies towards resolving their artworks; documenting artworks and processes; discussing others and their own work, showcasing artworks; and reflecting critically on their artistic practice.
+
+The Portfolio should present candidates the opportunity to gain the knowledge, understanding and skills to express themselves visually and communicate artistic intent through art making and in written form. Their selection of visual materials and commentary will be evidence of their art learning. The critical connections demonstrate their disciplinary understanding and a sense of agency.</p>
 
 </div>
