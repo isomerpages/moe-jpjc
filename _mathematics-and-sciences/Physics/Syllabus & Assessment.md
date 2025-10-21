@@ -39,10 +39,6 @@ The&nbsp;<i><strong>Learning Experiences</strong></i>&nbsp;refer to a range of l
 <h4><strong>Scheme of Assessment</strong></h4>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTNolPIcNROSNN_N2C7ydoHdKj0tWLzsn5mDHwynHGJhnmj4c1IHRr6gn3pku9mu4LXsfpCasJh9AJ4/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
-
-<figure>
-<img src="/images/Curriculum/Physics/phy_assessment_weightage.png">
-</figure>
 	
 <h5><strong>Paper 1 (1 h, 30 marks)</strong></h5>
 <p>
