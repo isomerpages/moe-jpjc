@@ -6,7 +6,7 @@ third_nav_title: Economics
 variant: markdown
 ---
 <div align="justify">
-<p>Both H1 and H2 Economics is offered in JPJC.</p>
+<p>Both H1 and H2 Economics are offered in JPJC.</p>
 <h4><strong>Assessment Objectives for H1 and H2 Economics</strong></h4>
 <p>AO1: Knowledge and Understanding
 	</p><ul>
