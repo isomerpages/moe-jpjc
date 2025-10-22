@@ -6,9 +6,29 @@ third_nav_title: Art
 variant: markdown
 ---
 <div align="justify">
+
 <p>
 In order to bring the subject of Art to life, our H1 and H2 Art students get the opportunity to participate in a wide range of enrichment opportunities. Here are some of the experiences that students can look forward to.</p>
 
+<h4>Museum Based Learning</h4>
+
+<p>As part of our curriculum, students embark on a Museum Based Learning module to the National Gallery Singapore and other museums. The Museum Based Learning module allows for students to engage with artworks in a multi-sensory manner, making space for deeper, authentic learning to happen.</p>
+	
+<figure>
+<img src="/images/Curriculum/Art/Art1.jpg"><figcaption>H2 and H1 Art students engage with Olafur Eliasson’s “The cubic structural evolution project”, an interactive Lego artwork at his solo show at Singapore Art Museum in 2024 as part of their MBL.</figcaption></figure>
+	
+<p>The Art Unit also provides opportunities for students to participate in Art-related competitions, exhibitions and workshops. Students can appreciate art's role in society and connect with local arts practitioners, thanks to our connections to artists, alumni in art-related careers, and graduates who have continued to art-related further education.
+	
+</p><figure>
+<img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/Enrichment%20Programmes/pic4.jpg">
+<figcaption>Our students attended an Art workshop conducted by Mr Tang Da Wu, one of the most important Singapore artists of our times. Such valuable opportunities offer students unique insights into the ideas and processes of artists.</figcaption></figure>
+	
+<figure>
+<img src="/images/Curriculum/Art/Art2.jpg"><figcaption>Our H2 Art students pictured with Ms Grace Fu, Minister for Sustainability and the Environment at Parking Day 2024 where students created interactive booths for members of the public to learn more about the Science of Happiness in conjunction with Bold at Work and Singapore Science Centre. </figcaption></figure>
+
+<div hidden="">
+<p>
+In order to bring the subject of Art to life, our H1 and H2 Art students get the opportunity to participate in a wide range of enrichment opportunities. Here are some of the experiences that students can look forward to.</p>
 
 <h4><strong>1. Museum Based Learning</strong></h4>
 <p>
@@ -40,4 +60,4 @@ On top of the above enrichment opportunities,&nbsp;the Art Unit also provides op
 </p>
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Humanities%20and%20the%20Arts/Art/Enrichment%20Programmes/pic4.jpg">
-<figcaption>Our students attended an Art workshop conducted by Mr Tang Da Wu, one of the most important Singapore artists of our times and also an artist in the SOVA syllabus. Such valuable opportunities offer students unique insights into the ideas and processes of the artists they study.</figcaption></figure></div>
+<figcaption>Our students attended an Art workshop conducted by Mr Tang Da Wu, one of the most important Singapore artists of our times and also an artist in the SOVA syllabus. Such valuable opportunities offer students unique insights into the ideas and processes of the artists they study.</figcaption></figure></div></div>

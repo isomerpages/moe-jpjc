@@ -17,7 +17,7 @@ variant: markdown
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRiUY8XTY3n3Zn9Rt67PJCC_whBr3bF1SttPeI2gxQPK9kZ9P6g2avPm-7obHCe6C23OFWDswlSC3kw/pub?embedded=true" width="800px" height="120px" scrolling="no"></iframe>
 	
-<h4><strong>Art Discourse</strong></h4>
+<h4><strong>Art Discourse (For H1 and H2 Art)</strong></h4>
 <p>Art Discourse evaluates the candidate’s ability to engage in the appraisal of art’s meanings and its ability to reflect and shape society and culture. Candidates are expected to be able to engage with the visual characteristics of artworks and to conduct formal analysis. They should be able to form interpretations regarding artists’ intent, evaluate and comment on artworks in an informed and critical manner. Candidates are required to be sensitive to the ways art is made, encountered, and discussed in response to personal, social, and cultural issues and real-world needs. They should demonstrate an informed understanding of the six topics and their key concepts in the syllabus content:.</p>
 
 <ol>	
@@ -30,6 +30,11 @@ variant: markdown
 </li></ol>
 	
 <p>
-Through responses to visual stimuli and essay questions, candidates demonstrate their abilities to use appropriate visual language, critically analyse artworks, issues, themes, or problems significant to Art practices. Candidates should note that all visual stimuli referred to in the question paper will be unseen and candidates must be prepared to apply their skills of visual literacy in their analysis and response. Candidates can draw links with their direct experience or environment to form personal opinions about the artworks or selected artists..</p>
+Through responses to visual stimuli and essay questions, candidates demonstrate their abilities to use appropriate visual language, critically analyse artworks, issues, themes, or problems significant to Art practices. Candidates should note that all visual stimuli referred to in the question paper will be unseen and candidates must be prepared to apply their skills of visual literacy in their analysis and response. Candidates can draw links with their direct experience or environment to form personal opinions about the artworks or selected artists.</p>
+
+<h4><strong>Portfolio (For H2 Art Only)</strong></h4>
+<p>Portfolio will require candidates to form and develop their sense of identity, culture and place in society. Candidates will demonstrate critical and inventive thinking as they engage with ambiguity, consider multiple perspectives, imagine and envision as part of their art journey. The portfolio will demand candidates to actively engage in processes such as observing and investigating subject matter; innovating through expressive forms; experimenting with a range of digital and non-digital materials/ media, technologies, tools and techniques; exploring aesthetic principles and conceptual strategies towards resolving their artworks; documenting artworks and processes; discussing others and their own work, showcasing artworks; and reflecting critically on their artistic practice.
+
+The Portfolio should present candidates the opportunity to gain the knowledge, understanding and skills to express themselves visually and communicate artistic intent through art making and in written form. Their selection of visual materials and commentary will be evidence of their art learning. The critical connections demonstrate their disciplinary understanding and a sense of agency.</p>
 
 </div>

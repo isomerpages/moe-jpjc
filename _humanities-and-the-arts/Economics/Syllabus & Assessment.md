@@ -6,7 +6,7 @@ third_nav_title: Economics
 variant: markdown
 ---
 <div align="justify">
-<p>Both H1 and H2 Economics is offered in JPJC.</p>
+<p>Both H1 and H2 Economics are offered in JPJC.</p>
 <h4><strong>Assessment Objectives for H1 and H2 Economics</strong></h4>
 <p>AO1: Knowledge and Understanding
 	</p><ul>
@@ -37,14 +37,8 @@ AO4: Evaluation
 <h4><strong>Assessment Format for H2 Economics</strong></h4>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQgSLzPjd285oIDaCRgAEIX2P-wv07QRNWE9WgbkTzcNpC4v5AvAtROqN5kYtOS1KMntJQFuEaSsoJi/pub?embedded=true" width="800px" height="1200" scrolling="no"></iframe>
 
-<h5><strong>Note:</strong></h5>
-<p>
-New H1 and H2 syllabuses (H1/8843 and H2/9570) and exam format for H1/8843 and H2/9570 will be accessible at SEAB website by Nov/Dec 2021. The existing information must be kept for J2 students in 2022. The new H1 and H2 syllabuses will affect JC1 students in 2022.
-</p>
-
-<h4><strong>The Use of Formative Assessment</strong></h4>
-<p>
-Formative assessments are conducted during the course of instruction by the JPJC Economics Department to monitor students’ learning progress, diagnose learning difficulties and provide feedback on areas that need improvement. The modes of formative assessment include Exit Cards and short quizzes using Information and Communication Technologies (ICT) tools such as “Quizziz” and “Mentimeter”.</p>
+<h4><strong>Assessment for Learning</strong></h4>
+<p>Formative assessments are conducted during the course of instruction by the JPJC Economics Department to monitor students' learning progress, diagnose learning difficulties and provide feedback on areas that need improvement. The modes of formative assessment include Exit Cards and short quizzes using Information and Communication Technologies (ICT) tools such as "Mentimeter". The department also employs self-assessment rubrics to enable students to evaluate their own understanding and identify areas for improvement. Additionally, educational technology tools such as Padlet are utilised to promote collaborative learning, allowing students to share insights, engage in peer discussions, and collectively build knowledge through interactive digital platforms.</p>
 	
 <p>
 For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
