@@ -17,7 +17,7 @@ third_nav_title: Character and Citizenship Edu
 	
 <li><b>NE Commemoration days</b> like Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day celebrations.</li>
 	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20Citizenship%20Education/RHD.jpg"><figcaption>Racial Harmony Day group photo</figcaption></figure><p></p> 
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20Citizenship%20Education/RHD.jpg"><figcaption>Racial Harmony Day group photo</figcaption></figure><p></p>
 
 <p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n2.jpg"><figcaption>Students participated in the Racial Harmony Day Carnival booth activities organised by student volunteers</figcaption></figure><p></p> 
 	
