@@ -7,10 +7,12 @@ variant: markdown
 ---
 <h3><strong>Enrichment Programmes</strong></h3>
 <div align="justify">
-<p>The JPJC Economics Department also believes that learning of economics goes beyond the classroom. Annually, the department provides opportunities for students to participate in competitions, dialogues and seminars such as:
+<p>The JPJC Economics Department also believes that learning of economics goes beyond the classroom. Annually, the department provides opportunities for students to participate in learning journeys, competitions, dialogues and seminars such as:
 </p><ul>
+	<li>SMU Learning Journey</li>
+	<li>MAS-ESS Essay Competition</li>
 	<li>GIC-MOE Economics Experience</li>
-	<li>MOE Economics Seminar</li>
+	<li>ESS-MOE Economics Seminar</li>
 	<li>Singapore Budget Dialogue with Members of Parliament.</li></ul>
 	
 <p>
