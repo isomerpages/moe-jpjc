@@ -93,14 +93,14 @@ All questions will include 4 options.</p>
 <p>The data-based question(s) provide(s) good opportunity to test higher order thinking skills such as handling, applying, and evaluating information. Some questions will also require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
 <h5><strong>Paper 3&nbsp;(2 h, 75 marks)</strong></h5>
-This paper consists of two sections:
+<p>This paper consists of two sections:</p>
 <ul>
 	<li>Section A is worth 55 marks consisting of 3–4 structured questions, all compulsory. Each question constitutes 15–25 marks.</li>
 		<li>Section B is worth 20 marks consisting of two questions, each of 20 marks. Candidates are to answer any <i>one</i> question.</li></ul>
 <p>These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
 <h5><strong>Paper 4&nbsp;(2 h 30 min, 50 marks)</strong></h5>
-This paper will assess appropriate aspects of objectives C1 to C5 in the following skill areas:
+<p>This paper will assess appropriate aspects of objectives C1 to C5 in the following skill areas:</p>
 <ul>
 	<li>Planning (P)</li>
 	<li>Manipulation, measurement and observation (MMO)</li>
