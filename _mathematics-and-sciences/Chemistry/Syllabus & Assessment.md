@@ -92,15 +92,15 @@ All questions will include 4 options.</p>
 <p>This paper consists of a variable number of structured questions including data-based questions. All questions are compulsory and answered on the question paper. The data-based question(s) constitute(s) 20–25 marks for this paper.</p>
 <p>The data-based question(s) provide(s) good opportunity to test higher order thinking skills such as handling, applying, and evaluating information. Some questions will also require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
-<h5><strong>Paper 3&nbsp;(2 h, 80 marks)</strong></h5>
+<h5><strong>Paper 3&nbsp;(2 h, 75 marks)</strong></h5>
 This paper consists of two sections:
 <ul>
 	<li>Section A is worth 55 marks consisting of 3–4 structured questions, all compulsory. Each question constitutes 15–25 marks.</li>
 		<li>Section B is worth 20 marks consisting of two questions, each of 20 marks. Candidates are to answer any <i>one</i> question.</li></ul>
 <p>These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
-<h5><strong>Paper 4&nbsp;(2 h 30 min, 55 marks)</strong></h5>
-This paper will assess appropriate aspects of practical in the following skill areas:
+<h5><strong>Paper 4&nbsp;(2 h 30 min, 50 marks)</strong></h5>
+This paper will assess appropriate aspects of objectives C1 to C5 in the following skill areas:
 <ul>
 	<li>Planning (P)</li>
 	<li>Manipulation, measurement and observation (MMO)</li>
@@ -108,10 +108,11 @@ This paper will assess appropriate aspects of practical in the following skill a
 	<li>Analysis, conclusion and evaluation (ACE)</li></ul>
 
 <p>
-The assessment of Planning (P) will have a weighing of 5 %. The assessment of skill areas MMO, PDO and ACE will have a weighing of 15 %.</p>
+The assessment of Planning (P) will have a weighting of 4%. The assessment of skill areas MMO, PDO and ACE will have a weighting of 16%.</p>
 	
-<p>
-The scope of the practical paper is indicated in the Practical Assessment section. The assessment of PDO and ACE may also include questions on data-analysis which do not require practical equipment and apparatus. Candidates will not be permitted to refer to books and laboratory notebooks during the assessment.</p>
+<p>The scope of the practical paper is indicated in the Practical Assessment section. The assessment of PDO and ACE may also include questions on data-analysis which do not require practical equipment and apparatus.</p>
+
+<p>Candidates will <b>not</b> be permitted to refer to books and laboratory notebooks during the assessment.</p>
 
 <p>
 For more details on the H2 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9729_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p>
