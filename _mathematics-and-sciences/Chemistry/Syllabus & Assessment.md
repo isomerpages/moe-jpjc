@@ -19,18 +19,14 @@ variant: markdown
 The content in the H1 Chemistry syllabus are organised into two levels:
 </p>
 
-Core Ideas.
-    
+* Core Ideas.<br>
 There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
 
-*   Extension Topic.
-    
-
+*   Extension Topic.<br>
 Concepts in the core ideas are applied to real-world context in the study of Polymers and Organic Chemistry
 
-**
-<p>
-Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
+<p>Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
+<p>Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRNNrIQv3IwzNf9VZhZ7bsAjPqMwW80L85thHy-97qQIIoRWDzAbvGomPCdaPVeMnPe9hcsBJq9EosU/pub?embedded=true" width="800px" height="180px" scrolling="no"></iframe>	
 
