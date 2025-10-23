@@ -67,16 +67,19 @@ The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extensio
 <img src="/images/Curriculum/Chemistry/ChemFramework.jpg">
 <figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width="800px" height="300px" scrolling="no"></iframe>
+* Core Ideas.<br>
+There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
 
-<figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic4.jpg">
-<figcaption>Content map for H2 Chemistry</figcaption></figure>
+*   Extension Topic.<br>
+Concepts in the core ideas extend into the learning of different chemical systems such as the chemistry of organic compounds, including polymers, the chemistry of aqueous solutions, electrochemistry, and the chemistry of transition elements. As an example, an understanding of concepts of Chemical Bonding and The Periodic Table is extended to the study of the Chemistry of Transition Elements where students learn to appreciate the similarity and differences when comparing with main group metals.
 	
-<p>
-Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles. Experimental work is an important component and should underpin the teaching and learning of Chemistry.</p>
-
-<h4><strong>Assessment for H2 Chemistry</strong></h4>
+<p>Organising the content through the two levels highlights the importance of conceptual understanding in core ideas and how they extend to different chemical systems.</p>
+	
+<figure>
+<img src="/images/Curriculum/Chemistry/Chem2.jpg">
+<figcaption></figcaption></figure>
+	
+<h4><strong>SCHEME OF ASSESSMENT</strong></h4>
 	
 <p>All candidates are required to enter for Papers 1, 2 3 and 4.</p>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width="800px" height="240px" scrolling="no"></iframe>
