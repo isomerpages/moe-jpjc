@@ -7,24 +7,28 @@ variant: markdown
 ---
 <h3><strong>H1 CHEMISTRY (8873)</strong></h3>
 <div align="justify">
-<p>
-H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes&nbsp;<strong>developing an understanding of the skills, ethics and attitudes relevant to the practices of science</strong>. In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to&nbsp;<strong>communicate</strong>&nbsp;and explain the natural world.</p>
-<p>
-The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
+<p>H1 Chemistry aims to develop scientific literacy in our students through the acquisition of core chemistry knowledge and scientific thinking. This includes <b>developing an understanding of the skills, ethics and attitudes relevant to the practices of science.</b> In particular, the syllabus aims to develop in students the ability to navigate Chemistry between macroscopic phenomena, submicroscopic interactions and symbolic representations to <b>communicate</b> and explain the natural world.</p>
+
+<p>The key features of the H1 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic1.jpg">
-<figcaption>H1 Chemistry Curriculum Framework</figcaption>
-	</figure>
-	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQhRAUrrvBSEzrJqYyMd1A4j3-8wiAqcFl2IyV7qwgee5raimC2XjTESWr0nQmUKxL-mLuQYWDv5bI/pub?embedded=true" width="800px" height="240px" scrolling="no"></iframe>
+<img src="/images/Curriculum/Chemistry/ChemFramework.jpg">
+<figcaption>H1 Chemistry Curriculum Framework</figcaption></figure>
 
-<figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic2.jpg">
-<figcaption>Content map for H1 Chemistry</figcaption></figure>
-	
-<p>
-Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
+<p>The <i>Practices of Science</i> highlight the ways of thinking and doing that are inherent in the scientific approach, with the aim of equipping students with the understanding, skills, and attitudes shared by the scientific disciplines, including an appropriate approach to ethical issues.<br>
+The content in the H1 Chemistry syllabus are organised into two levels:
+</p>
+
+Core Ideas.
+    
+There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
+
+*   Extension Topic.
+    
+
+Concepts in the core ideas are applied to real-world context in the study of Polymers and Organic Chemistry
+
+**
 <p>
 Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
 
