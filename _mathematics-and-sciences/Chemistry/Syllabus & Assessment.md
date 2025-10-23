@@ -36,7 +36,7 @@ Concepts in the core ideas are applied to real-world context in the study of Pol
 All questions will include 4 options.</p>
 
 <h4><strong>Paper 2&nbsp;(2 h, 80 marks)</strong></h4>
-This paper consists of two sections. All answers will be written in spaces provided on the Question Paper.<br>
+<p>This paper consists of two sections. All answers will be written in spaces provided on the Question Paper.</p><br>
 
 <h5><strong>Section A (60 marks)</strong></h5>
 <p>A variable number of structured questions including data-based questions, all compulsory. The data-based question(s) constitute(s) 15–20 marks for this paper. The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying, and evaluating information.</p>
