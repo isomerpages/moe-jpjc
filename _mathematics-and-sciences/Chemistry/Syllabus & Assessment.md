@@ -18,12 +18,12 @@ variant: markdown
 <p>The <i>Practices of Science</i> highlight the ways of thinking and doing that are inherent in the scientific approach, with the aim of equipping students with the understanding, skills, and attitudes shared by the scientific disciplines, including an appropriate approach to ethical issues.<br>
 The content in the H1 Chemistry syllabus are organised into two levels:
 </p>
+	
+<li><b>Core Ideas</b><br>
+There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.</li>
 
-* Core Ideas.<br>
-There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
-
-*   Extension Topic.<br>
-Concepts in the core ideas are applied to real-world context in the study of Polymers and Organic Chemistry
+<li><b> Extension Topic</b><br>
+Concepts in the core ideas are applied to real-world context in the study of Polymers and Organic Chemistry.</li>
 
 <p>Candidates will be assumed to have knowledge and understanding of Chemistry at O-Level as a single subject or as part of a balanced science course. This syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles.</p>
 <p>Candidates may not simultaneously offer Chemistry H1 and H2 levels.</p>
@@ -67,12 +67,12 @@ The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extensio
 <img src="/images/Curriculum/Chemistry/ChemFramework.jpg">
 <figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
-* Core Ideas.<br>
-There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
+<li><b>Core Ideas</b><br>
+There are three core ideas, namely Matter, Structure and Properties, and Transformation, which are fundamental in the study of Chemistry. Concepts in these core ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.</li>
 
-*   Extension Topic.<br>
-Concepts in the core ideas extend into the learning of different chemical systems such as the chemistry of organic compounds, including polymers, the chemistry of aqueous solutions, electrochemistry, and the chemistry of transition elements. As an example, an understanding of concepts of Chemical Bonding and The Periodic Table is extended to the study of the Chemistry of Transition Elements where students learn to appreciate the similarity and differences when comparing with main group metals.
-	
+<li><b> Extension Topic</b><br>
+Concepts in the core ideas extend into the learning of different chemical systems such as the chemistry of organic compounds, including polymers, the chemistry of aqueous solutions, electrochemistry, and the chemistry of transition elements. As an example, an understanding of concepts of Chemical Bonding and The Periodic Table is extended to the study of the Chemistry of Transition Elements where students learn to appreciate the similarity and differences when comparing with main group metals.</li>
+
 <p>Organising the content through the two levels highlights the importance of conceptual understanding in core ideas and how they extend to different chemical systems.</p>
 	
 <figure>
