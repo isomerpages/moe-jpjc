@@ -85,23 +85,19 @@ Concepts in the core ideas extend into the learning of different chemical system
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width="800px" height="240px" scrolling="no"></iframe>
 
 <h5><strong>Paper 1&nbsp;(1 h, 30 marks)</strong></h5>
-<p>
-This paper consists of 30 compulsory multiple choice questions. Five to eight items will be of the multiple completion type.<br>
+<p>This paper consists of 30 compulsory multiple choice questions. Five to eight items will be of the multiple completion type.<br>
 All questions will include 4 options.</p>
 
 <h5><strong>Paper 2&nbsp;(2 h, 75 marks)</strong></h5>
-<p>
-This paper consists of a variable number of structured questions including data-based questions. All questions are compulsory and answered on the question paper. The data-based question(s) constitute(s) 20-25 marks for this paper.</p>
-<p>
-The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying and evaluating information. Some questions will also require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+<p>This paper consists of a variable number of structured questions including data-based questions. All questions are compulsory and answered on the question paper. The data-based question(s) constitute(s) 20–25 marks for this paper.</p>
+<p>The data-based question(s) provide(s) good opportunity to test higher order thinking skills such as handling, applying, and evaluating information. Some questions will also require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
 <h5><strong>Paper 3&nbsp;(2 h, 80 marks)</strong></h5>
 This paper consists of two sections:
 <ul>
-	<li><strong>Section A</strong>&nbsp;(60 marks) consists 3-4 free response questions, all compulsory. Each question constitutes 15-25 marks.</li>
-		<li><strong>Section B</strong>&nbsp;(20 marks) consists&nbsp;<strong>two</strong>&nbsp;questions, each of 20 marks. Candidates are to answer any one question.</li></ul>
-<p>
-These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+	<li>Section A is worth 55 marks consisting of 3–4 structured questions, all compulsory. Each question constitutes 15–25 marks.</li>
+		<li>Section B is worth 20 marks consisting of two questions, each of 20 marks. Candidates are to answer any <i>one</i> question.</li></ul>
+<p>These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
 
 <h5><strong>Paper 4&nbsp;(2 h 30 min, 55 marks)</strong></h5>
 This paper will assess appropriate aspects of practical in the following skill areas:
