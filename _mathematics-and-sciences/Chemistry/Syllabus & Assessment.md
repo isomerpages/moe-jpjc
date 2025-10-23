@@ -53,20 +53,18 @@ These questions will require candidates to integrate knowledge and understanding
 <p>
 For more details on the H1 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8873_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.
 
-</p><h3><strong>H2 CHEMISTRY (9729)</strong></h3>
+</p><h3><strong>H2 CHEMISTRY (9476)</strong></h3>
 <p>
-H2 Chemistry aims to develop students’ understanding of the chemical concepts and how these concepts are related within chemistry and to other science discipline. A key feature in the study of H2 Chemistry is the development of students’ ability to navigate between macroscopic phenomena, microscopic interactions and symbolic representation to&nbsp;<strong>attain a deep conceptual understanding of the behaviours of chemical systems</strong>.</p>
+H2 Chemistry aims to develop students’ understanding of the chemical concepts and how these concepts are related within chemistry and to other science discipline. A key feature in the study of H2 Chemistry is the development of students’ ability to navigate between macroscopic phenomena, microscopic interactions and symbolic representation to <b>attain a deep conceptual understanding of the behaviours of chemical systems.</b></p>
 
-<p>
-It will enable students to extend this way of viewing and thinking about the behaviours of chemical systems to physical and biological phenomena, which are present in many aspects of daily life, e.g. environmental pollution and food science.</p>
+<p>It will enable students to extend this way of viewing and thinking about the behaviours of chemical systems to physical and biological phenomena, which are present in many aspects of daily life, e.g. environmental pollution and food science.</p>
 
 <h4><strong>Syllabus Outline for H2 Chemistry</strong></h4>
 <p>
-The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.
-</p>
+The key features of the H2 Chemistry Curriculum comprise Core Ideas and Extension Topics, Practices of Science and Learning Experiences, as illustrated in the diagram below.</p>
 
 <figure>
-<img src="/images/JPJC%20Experience/Curriculum/Mathematics%20and%20Sciences/Chemistry/Syllabus%20and%20Assessment/pic3.jpg">
+<img src="/images/Curriculum/Chemistry/ChemFramework.jpg">
 <figcaption>H2 Chemistry Curriculum Framework</figcaption></figure>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQv2fH80PwGClDuvhMy-I7e83-NTVYyAjQC52cEn421qJWlENR3gMGYDXABk3q0lo7MMbvpKfPUhu6L/pub?embedded=true" width="800px" height="300px" scrolling="no"></iframe>
