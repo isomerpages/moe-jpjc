@@ -82,7 +82,7 @@ Concepts in the core ideas extend into the learning of different chemical system
 <h4><strong>SCHEME OF ASSESSMENT</strong></h4>
 	
 <p>All candidates are required to enter for Papers 1, 2 3 and 4.</p>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width="800px" height="240px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQwd1CdY61FqRTurxiQyFTGSX1trPzce-8ld6m9DKDy22tsClSThIUOG0R3Qp9_pY0QKZPP0W8RWqf4/pub?embedded=true" width="800px" height="250px" scrolling="no"></iframe>
 
 <h5><strong>Paper 1&nbsp;(1 h, 30 marks)</strong></h5>
 <p>This paper consists of 30 compulsory multiple choice questions. Five to eight items will be of the multiple completion type.<br>
@@ -113,10 +113,13 @@ The assessment of Planning (P) will have a weighting of 4%. The assessment of sk
 <p>The scope of the practical paper is indicated in the Practical Assessment section. The assessment of PDO and ACE may also include questions on data-analysis which do not require practical equipment and apparatus.</p>
 
 <p>Candidates will <b>not</b> be permitted to refer to books and laboratory notebooks during the assessment.</p>
+	
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSLPnG-LzZQSyBIbNNx2QYDg0TKA4nRFdH4drJWz_VGPBgsFVxnF9uDVJJxZN0FEnEh_xSrwcZ4djoK/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
 
 <p>
 For more details on the H2 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9729_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p>
 
+<div hidden="">
 <h3><strong>H3 CHEMISTRY (9813)</strong></h3>
 <p>
 The H3 Chemistry framework is built on H2 Chemistry, anchored by the three Core Ideas – (1) Matter, (2) Structure and Properties, and (3) Transformation. Throughout the study of H3 Chemistry, explicit links will be made to the Core Ideas, deepening students’ understanding of their knowledge in these Core Ideas and the Practices of Science. Learning Experiences also feature prominently in H3 Chemistry to enhance students’ learning.</p>
@@ -143,4 +146,4 @@ This section consists of a variable number of compulsory free response questions
 <p>
 Candidates will be required to answer&nbsp;<strong>two</strong>&nbsp;out of three free response questions. Each question will carry 20 marks.</p>
 <p>
-For more details on the H3 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9813_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p></div>
+For more details on the H3 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9813_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p></div></div>
