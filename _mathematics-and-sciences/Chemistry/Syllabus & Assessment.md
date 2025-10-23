@@ -36,15 +36,19 @@ Concepts in the core ideas are applied to real-world context in the study of Pol
 All questions will include 4 options.</p>
 
 <h4><strong>Paper 2&nbsp;(2 h, 80 marks)</strong></h4>
-This paper consists of two sections:<br>
+This paper consists of two sections. All answers will be written in spaces provided on the Question Paper.<br>
 
 <h5><strong>Section A (60 marks)</strong></h5>
-<p>
- A variable number of structured questions including data-based questions, all compulsory. The data-based question(s) constitute(s) 15\-20 marks for this paper. The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying and evaluating information.</p>
+<p>A variable number of structured questions including data-based questions, all compulsory. The data-based question(s) constitute(s) 15–20 marks for this paper. The data-based question(s) provide(s) a good opportunity to test higher order thinking skills such as handling, applying, and evaluating information.</p>
 	
 <h5><strong>Section B&nbsp;(20 marks)</strong></h5>
-<p>	
-Candidates will be required to answer&nbsp;<strong>one</strong>&nbsp;out of two questions. Each question will carry 20 marks. These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+<p>Candidates will be required to answer <b>one</b> out of two questions. Each question will carry 20 marks.<br>
+These questions will require candidates to integrate knowledge and understanding from different areas and topics of the chemistry syllabus.</p>
+	
+<h5><strong>Weighting of Assessment Objectives
+</strong></h5>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTpFOpfO-xEwX4KVwyiRc33Y5DmQG6JjPpPklKkQRX1WivmPGabC7ibvpuUwN8GhqcnUHNjveXOZj5p/pub?embedded=true" width="800px" height="180px" scrolling="no"></iframe>	
 
 <p>
 For more details on the H1 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8873_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.
