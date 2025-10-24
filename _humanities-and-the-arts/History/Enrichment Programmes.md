@@ -55,5 +55,9 @@ At NUS, students engage with academic historians and explore the discipline beyo
 <figure>
 <img src="/images/Curriculum/History/History3.jpg">
 <figcaption>Theatrical Production of Former President, Mr Yusof Ishak</figcaption></figure>
+	
+<figure>
+<img src="/images/Curriculum/History/History4.jpg">
+<figcaption>JC1 History students after watching the brilliant theater performance of Yusof: Potrait of a President</figcaption></figure>
 
 </ol></div>
