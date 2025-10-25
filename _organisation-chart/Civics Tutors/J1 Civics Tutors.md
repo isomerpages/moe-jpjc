@@ -18,7 +18,7 @@ third_nav_title: Civics Tutors
 25S01 | <a href="mailto: poh_swee_huat@moe.edu.sg">Mr Steve Poh Swee Huat</a> 
 25S02 | <a href="mailto: tan_wei_yee_isabelle@moe.edu.sg">Ms Tan Wei Yee Isabelle</a> 
 25S03 | <a href="mailto: aw_chew_wei@moe.edu.sg">Mdm Aw Chew Wei (Mrs How)</a>
-25S04 | <a href="mailto: liu_chang_c@moe.edu.sg">Ms Liu Chang</a><br><a href="mailto: gan_xin_li@moe.edu.sg">Mr Gan Xin Li</a>
+25S04 | <a href="mailto: liu_chang_c@moe.edu.sg">Ms Liu Chang</a>
 25S05 | <a href="mailto: jasima_parveen_abdul_azeez@moe.edu.sg">Mdm Jasima Parveen Abdul Azeez</a>
 25S06 | <a href="mailto: lim_mei_guei@moe.edu.sg">Ms Susan Lim Mei Guei</a>
 25S07 | <a href="mailto: natarajan_usha@moe.edu.sg">Ms Natarajan Usha</a><br><a href="mailto: ng_yi_peng_timothy@moe.edu.sg">Mr Ng Yi Peng Timothy</a>
