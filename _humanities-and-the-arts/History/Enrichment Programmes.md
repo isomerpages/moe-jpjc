@@ -58,6 +58,6 @@ At NUS, students engage with academic historians and explore the discipline beyo
 	
 <figure>
 <img src="/images/Curriculum/History/History4.jpg">
-<figcaption>JC1 History students after watching the brilliant theater performance of Yusof: Potrait of a President</figcaption></figure>
+<figcaption>JC1 History students after watching the brilliant theater performance of Yusof: Portrait of a President</figcaption></figure>
 
 </ol></div>
