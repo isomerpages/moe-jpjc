@@ -56,6 +56,10 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 	<img src="/images/Partnerships/PSG/PSG_6.png">
 	<figcaption>20 Aug 2025 Teachers’ Day Appreciation Lunch</figcaption></figure>
 	
+<figure>
+	<img src="/images/Partnerships/PSG/PSG7.png">
+	<figcaption>20 Sep 2025 JPJCxPSG Learning Journey to Nanyang Technological University (NTU)</figcaption></figure>
+	
 <h3>Year 2024</h3>
 
 <center><h4>Foodie Night</h4></center>	
