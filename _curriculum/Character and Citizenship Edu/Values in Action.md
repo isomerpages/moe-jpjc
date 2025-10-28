@@ -19,9 +19,7 @@ third_nav_title: Character and Citizenship Edu
 
 <p>The Service Learning (SL) Festival brings together students and representatives from social service agencies (SSAs) to explore a variety of opportunities, featuring booths and talks focused on volunteering prospects and career pathways in the social service sector. Students had the opportunity to interact with social service organisations, community partners, and alumni, gaining greater awareness of social causes and sourcing volunteering opportunities.</p>
 
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JP_Innovation_Fest_1.jpg"><figcaption></figcaption></figure><p></p>
-	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JP_Innovation_Fest_2.jpg"><figcaption>Students interacting with community partners to learn about community issues and ways they can volunteer</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JPInnovation3.jpg"><figcaption>Students interacting with community partners to learn about community issues and ways they can volunteer</figcaption></figure><p></p>
 
 <p>Examples of Student-Initiated VIA Projects were as follows:</p>
 
