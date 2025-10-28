@@ -35,9 +35,9 @@ In JC1, students participate in a dialogue session with a distinguished speaker 
 <li><b>National Service (NS) Engagement</b><br>
 The NS Engagement sessions aim to prepare students for National Service. For the boys, speakers from CMPB and MINDEF are invited to share insights on the pre-enlistment and vocation selection process, along with alumni who share their NS experiences with their juniors. For the girls, officers from the SAF Volunteer Corps and/or the Army Recruitment Centre are invited to share the various opportunities available for them to serve the nation.</li>
 	
-<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n7.jpg">Alumnus sharing his NS experiences</figure><p></p>	
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20Citizenship%20Education/NSengage1.jpg"><figcaption>Boys' engagement session featuring alumni sharing their NS experiences and a CMPB officer explaining the recruitment process</figcaption></figure><p></p>
 
-<p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n8.jpg">VP Mrs Lee presenting the token of appreciation to alumnus</figure><p></p>	
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20Citizenship%20Education/NSengage2.jpg"><figcaption>Girls' engagement session featuring a female officer sharing her career experiences</figcaption></figure><p></p>	
 
 
 <li><b>Responders Plus Programme</b><br>
