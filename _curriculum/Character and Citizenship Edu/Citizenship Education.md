@@ -33,7 +33,7 @@ In JC1, students participate in a dialogue session with a distinguished speaker 
 <p></p><figure><img src="/images/Curriculum/CCE%20%20%20Citizenship%20Education/Dialogue_4_jpeg.jpg"><figcaption>Minister Chee Hong Tat in dialogue with JC2 students</figcaption></figure><p></p>
 	
 <li><b>National Service (NS) Engagement</b><br>
-The NS Engagement sessions aim to prepare students for National Service. For the boys, speakers from CMPB and MINDEF are invited to share insights on the pre-enlistment and vocation selection process, along with alumni who share their NS experiences with their juniors. For the girls, officers from the SAF Volunteer Corps and the Army Recruitment Centre are invited to share the various opportunities available for them to serve the nation.</li>
+The NS Engagement sessions aim to prepare students for National Service. For the boys, speakers from CMPB and MINDEF are invited to share insights on the pre-enlistment and vocation selection process, along with alumni who share their NS experiences with their juniors. For the girls, officers from the SAF Volunteer Corps and/or the Army Recruitment Centre are invited to share the various opportunities available for them to serve the nation.</li>
 	
 <p></p><figure><img src="/images/JPJC%20Experience/Co%20Curriculum/CCE/Citizen%20Education/n7.jpg">Alumnus sharing his NS experiences</figure><p></p>	
 
