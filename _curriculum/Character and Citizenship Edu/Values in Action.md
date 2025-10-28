@@ -34,11 +34,7 @@ third_nav_title: Character and Citizenship Edu
 <li>Promoting Active Living for Seniors<br>
 Students from various classes and CCAs worked together to organise Sports Carnival for the residents of Jurong Spring estate to promote active living through fun-filled activities.</li>
 
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_1.jpg"><figcaption></figcaption></figure><p></p>
-
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_2.jpg"><figcaption></figcaption></figure><p></p>
-	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_3_jpeg.jpg"><figcaption>Students organised various activity booths to engage residents and promote active living</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC4.jpg"><figcaption>Students organised various activity booths to engage residents and promote active living</figcaption></figure><p></p>
 
 <li>Engaging the Young<br>
 Tapping into their talents and interests, students initiated VIA projects to serve community needs.</li>
