@@ -44,9 +44,7 @@ Through student-driven projects, students promote sustainability on campus and w
 
 <p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_3.jpg"><figcaption>Students organising recycling drives in the college</figcaption></figure><p></p> 
 	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_1_jpeg.jpg"><figcaption></figcaption></figure><p></p> 
-
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_2.jpg"><figcaption>Students buying potted plants and participating in game booths at the Green Bazaar</figcaption></figure><p></p> 
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/GreenBazaar4.jpg"><figcaption>Students buying potted plants and participating in game booths at the Green Bazaar</figcaption></figure><p></p> 
 
 <li>Showing Appreciation to Our Unsung Heroes<br>
 Students from the Community Engagement Council initiated a project to show their appreciation for support staff and contract cleaners at the college. They presented them with festive goodie bags and cards.</li>
