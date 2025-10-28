@@ -38,7 +38,7 @@ Students from various classes and CCAs worked together to organise Sports Carniv
 
 <p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_2.jpg"><figcaption></figcaption></figure><p></p>
 	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_3_jpeg.jpg"><figcaption>Students organised various activity booths to engage residents and promote active livingr</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_3_jpeg.jpg"><figcaption>Students organised various activity booths to engage residents and promote active living</figcaption></figure><p></p>
 
 <li>Engaging the Young<br>
 Tapping into their talents and interests, students initiated VIA projects to serve community needs.</li>
