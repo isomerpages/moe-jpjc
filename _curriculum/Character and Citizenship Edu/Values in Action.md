@@ -19,9 +19,7 @@ third_nav_title: Character and Citizenship Edu
 
 <p>The Service Learning (SL) Festival brings together students and representatives from social service agencies (SSAs) to explore a variety of opportunities, featuring booths and talks focused on volunteering prospects and career pathways in the social service sector. Students had the opportunity to interact with social service organisations, community partners, and alumni, gaining greater awareness of social causes and sourcing volunteering opportunities.</p>
 
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JP_Innovation_Fest_1.jpg"><figcaption></figcaption></figure><p></p>
-	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JP_Innovation_Fest_2.jpg"><figcaption>Students interacting with community partners to learn about community issues and ways they can volunteer</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JPInnovation3.jpg"><figcaption>Students interacting with community partners to learn about community issues and ways they can volunteer</figcaption></figure><p></p>
 
 <p>Examples of Student-Initiated VIA Projects were as follows:</p>
 
@@ -34,11 +32,7 @@ third_nav_title: Character and Citizenship Edu
 <li>Promoting Active Living for Seniors<br>
 Students from various classes and CCAs worked together to organise Sports Carnival for the residents of Jurong Spring estate to promote active living through fun-filled activities.</li>
 
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_1.jpg"><figcaption></figcaption></figure><p></p>
-
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_2.jpg"><figcaption></figcaption></figure><p></p>
-	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC_Carnival_3_jpeg.jpg"><figcaption>Students organised various activity booths to engage residents and promote active livingr</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/JSCC4.jpg"><figcaption>Students organised various activity booths to engage residents and promote active living</figcaption></figure><p></p>
 
 <li>Engaging the Young<br>
 Tapping into their talents and interests, students initiated VIA projects to serve community needs.</li>
@@ -50,9 +44,7 @@ Through student-driven projects, students promote sustainability on campus and w
 
 <p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_3.jpg"><figcaption>Students organising recycling drives in the college</figcaption></figure><p></p> 
 	
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_1_jpeg.jpg"><figcaption></figcaption></figure><p></p> 
-
-<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/Green_Bazaar_2.jpg"><figcaption>Students buying potted plants and participating in game booths at the Green Bazaar</figcaption></figure><p></p> 
+<p></p><figure><img src="/images/Curriculum/CCE%20%20%20VIA/GreenBazaar4.jpg"><figcaption>Students buying potted plants and participating in game booths at the Green Bazaar</figcaption></figure><p></p> 
 
 <li>Showing Appreciation to Our Unsung Heroes<br>
 Students from the Community Engagement Council initiated a project to show their appreciation for support staff and contract cleaners at the college. They presented them with festive goodie bags and cards.</li>
