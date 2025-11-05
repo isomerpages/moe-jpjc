@@ -7,8 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 <figure>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="JPJC College Anthem" src="https://www.youtube.com/embed/gcmVrfUS8AQ" height="315" width="560"></iframe>
-<figcaption><strong>College Anthem - Video</strong></figcaption></figure>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nUDcrcjVROE?si=eDHHguI1esBmrbUg" height="315" width="560"></iframe><figcaption><strong>College Anthem - Video</strong></figcaption></figure>
 
 
 <p>The story behind our college anthem, Crescendo, captures the spirit of unity, growth, and resilience, celebrating our journey as JPFam - coming together from diverse paths to pursue a shared vision. The lyrics convey a commitment to lifelong learning and an open-hearted approach to embracing new challenges. Key themes include boundless love, collective ambition, and courage in facing the unknown. The line "While I live, I learn" highlights the value of continuous personal and intellectual growth, while "Plus Ultra" embodies an aspiration to transcend limits.&nbsp;</p>
