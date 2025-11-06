@@ -50,7 +50,7 @@ sections:
       description: Instilling empathy and compassion through meaningful service to the
         community.
       button: Find out more
-      url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/cce/via/
+      url: https://www.jpjc.moe.edu.sg/character-and-citizenship-education/via/
       image: /images/Homepage/3.png
       alt: Image alt text
   - infopic:
