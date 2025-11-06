@@ -32,9 +32,7 @@ variant: markdown
 	
 <h5><strong><li>IMDA DigitalAccess@Home</li></strong></h5>
 
-<p>Students from low-income households who are interested to apply for subsidised broadband and/or laptop/tablet under IMDA.</p>
-
-<p>DigitalAccess@Home can apply via:</p>
+<p>Students from low-income households who are interested to apply for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply via:</p>
 <ul>
 	<li><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> <b>OR</b></li>
 	<li>Contact 6377 3800, <b>OR</b></li>
