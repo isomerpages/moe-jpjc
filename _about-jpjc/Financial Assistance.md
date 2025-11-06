@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance
-permalink: /about/fas/
+permalink: /about/fa/
 description: ""
 variant: markdown
 ---
