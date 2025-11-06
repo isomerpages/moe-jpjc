@@ -36,7 +36,7 @@ variant: markdown
 
 <p>DigitalAccess@Home can apply via:</p>
 <ul>
-	<li>https://www.imda.gov.sg/how-we-can-help/digital-access-at-home, <b>OR</b></li>
+	<li><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> <b>OR</b></li>
 	<li>Contact 6377 3800, <b>OR</b></li>
 	<li>Email: digitalaccess@imda.gov.sg</li></ul>
 
