@@ -14,3 +14,6 @@ third_nav_title: "2025"
 
 <h3>Associate of AST Award</h3>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTIHM6UDW8Kss0scK-0RZ0AZsDrA6pXg86KNjOx07E9J4Ak9eQwKUpxvp9qAlG6dYWtBX1YMKG8GHtb/pub?embedded=true" width="800px" height="150px" scrolling="no"></iframe>
+
+<h3>MOE Service Excellence Award</h3>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTr5Fhc6_VwSHSEmgacAmtG8tB7kcJqIomVMsGWsoyN8pJ6F9zv-vlwvWTE8RcafiVKHVapKDHVwhA7/pub?embedded=true" width="800px" height="1600px" scrolling="no"></iframe>
