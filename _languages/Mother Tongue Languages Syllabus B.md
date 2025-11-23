@@ -16,4 +16,4 @@ Paper 3: Oral Examination 35%<br>
 Paper 3: Listening Comprehension 15%</p>
 
 <p>
-For information on examinations, please click on the following link:&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8611_y25_sy.pdf">CLB</a>,&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8613_y25_sy.pdf">MLB</a>, <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8614_y25_sy.pdf">TLB</a>.</p></div>
+For information on examinations, please click on the following link:&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8611_y26_sy.pdf">CLB</a>,&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8613_y26_sy.pdf">MLB</a>, <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8614_y26_sy.pdf">TLB</a>.</p></div>
