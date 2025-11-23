@@ -23,8 +23,8 @@ The syllabus is divided into two parts, the core syllabus and the extension topi
 
 <h4>Syllabuses</h4>
 <ul>
-<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8876_y25_sy.pdf">2025 A-Level Syllabus (H1 Biology)</a></li>
-	<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9744_y25_sy.pdf">2025 A-Level Syllabus (H2 Biology)</a></li></ul>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8876_y26_sy.pdf">2026 A-Level Syllabus (H1 Biology)</a></li>
+	<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sy.pdf">2026 A-Level Syllabus (H2 Biology)</a></li></ul>
 
 	
 <h4>Assessment</h4>
@@ -37,4 +37,5 @@ The syllabus is divided into two parts, the core syllabus and the extension topi
 H1 Candidates are required to enter for Papers 1 and 2.</p>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSYcdjy-FKU3x5POgWxJUgmRDblqWki44DowLYkyMWtHiff4eF9Oq_ir4hyKMRVnWbpQ0fxxryIrFYP/pub?embedded=true" width="800px" height="300px" scrolling="no"></iframe>
+	
 </div>
