@@ -43,5 +43,5 @@ AO4: Evaluation
 <p>
 For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
 <ul>
-<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8843_y25_sy.pdf"><strong>H1 Economics</strong></a></li>
-<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9570_y25_sy.pdf"><strong>H2 Economics</strong></a></li></ul></div>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8843_y26_sy.pdf"><strong>H1 Economics</strong></a></li>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9570_y26_sy.pdf"><strong>H2 Economics</strong></a></li></ul></div>
