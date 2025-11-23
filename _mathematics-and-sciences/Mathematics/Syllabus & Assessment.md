@@ -8,7 +8,7 @@ variant: markdown
 <div align="justify">
 
 
-<p>The full syllabus and scheme of examination papers for A Level examination in 2025 is available on the SEAB website <a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2025/">here</a>.</p>
+<p>The full syllabus and scheme of examination papers for A Level examination in 2026 is available on the SEAB website for <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8865_y26_sy.pdf">H1 Mathematics</a>, <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9758_y26_sy.pdf">H2 Mathematics</a> and <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y26_sy.pdf">H3 Mathematics</a>.</p>
 	
 <h3>8865 H1 Mathematics</h3>
 
