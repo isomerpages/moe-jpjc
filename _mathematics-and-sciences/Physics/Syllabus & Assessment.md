@@ -120,4 +120,10 @@ This paper will consist of 2 sections. All answers will be written in spaces pro
 <p>This section will consist of a variable number of structured questions including one or two data-based questions, all compulsory. The data-based question(s) will constitute 15-20 marks.</p>
 <li><strong>Section B (20 marks)</strong></li>
 <p>
-This section will consist of two 20-mark questions of which candidates will answer one. The questions will require candidates to integrate knowledge and understanding from different areas of the syllabus.</p></ul></div>
+This section will consist of two 20-mark questions of which candidates will answer one. The questions will require candidates to integrate knowledge and understanding from different areas of the syllabus.</p></ul>
+
+<p>
+For more information about GCE ‘A’ Level examination syllabuses, refer to:</p>
+<ul>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8867_y26_sy.pdf"><strong>H1 Physics</strong></a></li>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sy.pdf"><strong>H2 Physics</strong></a></li></ul></div>
