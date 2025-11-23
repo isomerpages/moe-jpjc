@@ -50,7 +50,7 @@ These questions will require candidates to integrate knowledge and understanding
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTpFOpfO-xEwX4KVwyiRc33Y5DmQG6JjPpPklKkQRX1WivmPGabC7ibvpuUwN8GhqcnUHNjveXOZj5p/pub?embedded=true" width="800px" height="180px" scrolling="no"></iframe>	
 
 <p>
-For more details on the H1 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8873_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.
+For more details on the H1 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.
 
 </p><h3><strong>H2 CHEMISTRY (9476)</strong></h3>
 <p>
@@ -116,7 +116,7 @@ The assessment of Planning (P) will have a weighting of 4%. The assessment of sk
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSLPnG-LzZQSyBIbNNx2QYDg0TKA4nRFdH4drJWz_VGPBgsFVxnF9uDVJJxZN0FEnEh_xSrwcZ4djoK/pub?embedded=true" width="800px" height="220px" scrolling="no"></iframe>
 
 <p>
-For more details on the H2 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9729_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p>
+For more details on the H2 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9729_y26_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p>
 
 <div hidden="">
 <h3><strong>H3 CHEMISTRY (9813)</strong></h3>
@@ -145,4 +145,4 @@ This section consists of a variable number of compulsory free response questions
 <p>
 Candidates will be required to answer&nbsp;<strong>two</strong>&nbsp;out of three free response questions. Each question will carry 20 marks.</p>
 <p>
-For more details on the H3 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9813_y25_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p></div></div>
+For more details on the H3 Chemistry syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf">here</a>&nbsp;to download the PDF from SEAB website.</p></div></div>
