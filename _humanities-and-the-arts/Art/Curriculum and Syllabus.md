@@ -38,7 +38,7 @@ Through responses to visual stimuli and essay questions, candidates demonstrate 
 The Portfolio should present candidates the opportunity to gain the knowledge, understanding and skills to express themselves visually and communicate artistic intent through art making and in written form. Their selection of visual materials and commentary will be evidence of their art learning. The critical connections demonstrate their disciplinary understanding and a sense of agency.</p>
 	
 <p>
-For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
+For more information about GCE ‘A’ Level examination syllabuses, refer to:</p>
 <ul>
 <li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8879_y26_sy_v0_4.pdf"><strong>H1 Art</strong></a></li>
 <li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9357_y26_sy_v0_4.pdf"><strong>H2 Art</strong></a></li></ul></div>
