@@ -3,15 +3,15 @@ title: Syllabus & Assessment
 permalink: /mathematics-and-sciences/computing/syllabus-and-assessment/
 description: ""
 third_nav_title: Computing
+variant: markdown
 ---
-
 <h3><strong>H2 Computing (Syllabus 9569)</strong></h3>
 
-<div align=justify>
+<div align="justify">
 <p>
-The syllabus aims to develop problem-solving and computational thinking skills in students, as well as 21st Century Competencies that will help them to adapt to advancements in the field of computing and global changes impacting the workplace and society. Students will acquire fundamental knowledge in core areas of computing and draw connections to real-world problems by applying these knowledge, skills and attitudes to solve a variety of authentic learning tasks.</p>
+The syllabus aims to develop problem-solving and computational thinking skills in students, as well as 21st&nbsp;Century Competencies that will help them to adapt to advancements in the field of computing and global changes impacting the workplace and society. Students will acquire fundamental knowledge in core areas of computing and draw connections to real-world problems by applying these knowledge, skills and attitudes to solve a variety of authentic learning tasks.</p>
 	
-<h4><strong>Section 1: Algorithms & Data Structures</strong></h4>
+<h4><strong>Section 1: Algorithms &amp; Data Structures</strong></h4>
 
 <h5><strong>1.1 Algorithmic Representation</strong></h5>
 <p>
@@ -62,7 +62,7 @@ Encapsulation, information hiding and implementation independence<br>
 Inheritance and software reusability<br>
 Polymorphism and code generalisation</p>
 
-<h4><strong>Section 3: Data & Information</strong></h4>
+<h4><strong>Section 3: Data &amp; Information</strong></h4>
 <h5><strong>3.1 Data Representation</strong></h5>
 <p>
 Understanding denary, binary and hexadecimals<br>
@@ -97,11 +97,11 @@ Implement socket programming</p>
 
 <h5><strong>4.2 Web Applications</strong></h5>
 <p>
-Develop web applications and apply usability principles for targeted audience</p>
+Develop web applications and apply usability principles for&nbsp;targeted audience</p>
 
 <h5><strong>4.3 Network Security</strong></h5>
 <p>
-Threats to computers and networks <br>
+Threats to computers and networks&nbsp;<br>
 Firewall, intrusion detection system (IDS), intrusion prevention system (IPS)<br>
 Encryption, digital signature, authentication to ensure network security</p>
 
@@ -111,4 +111,7 @@ Students will demonstrate computational thinking in a range of real-world proble
 
 <p>
 All candidates will offer Paper 1 and Paper 2. All questions are compulsory in both papers.</p>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTw0rVT5LQhcnI2Psk1Yvmykm_gK4xjNlfLpXIw8rsO6aUbLvuIX1CoxV825cdaVEsuwlS8OFbtNA5I/pub?embedded=true" width=800px height=450px scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTw0rVT5LQhcnI2Psk1Yvmykm_gK4xjNlfLpXIw8rsO6aUbLvuIX1CoxV825cdaVEsuwlS8OFbtNA5I/pub?embedded=true" width="800px" height="450px" scrolling="no"></iframe></div>
+
+<p>
+For more details on the H2 Computing syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9569_y26_sy.pdf">here</a>.</p>
