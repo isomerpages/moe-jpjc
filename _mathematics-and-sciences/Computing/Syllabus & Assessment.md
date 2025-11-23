@@ -111,7 +111,7 @@ Students will demonstrate computational thinking in a range of real-world proble
 
 <p>
 All candidates will offer Paper 1 and Paper 2. All questions are compulsory in both papers.</p>
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTw0rVT5LQhcnI2Psk1Yvmykm_gK4xjNlfLpXIw8rsO6aUbLvuIX1CoxV825cdaVEsuwlS8OFbtNA5I/pub?embedded=true" width="800px" height="450px" scrolling="no"></iframe></div>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTw0rVT5LQhcnI2Psk1Yvmykm_gK4xjNlfLpXIw8rsO6aUbLvuIX1CoxV825cdaVEsuwlS8OFbtNA5I/pub?embedded=true" width="800px" height="350px" scrolling="no"></iframe></div>
 
 <p>
 For more details on the H2 Computing syllabus, click&nbsp;<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9569_y26_sy.pdf">here</a>.</p>
