@@ -36,5 +36,9 @@ Through responses to visual stimuli and essay questions, candidates demonstrate 
 <p>Portfolio will require candidates to form and develop their sense of identity, culture and place in society. Candidates will demonstrate critical and inventive thinking as they engage with ambiguity, consider multiple perspectives, imagine and envision as part of their art journey. The portfolio will demand candidates to actively engage in processes such as observing and investigating subject matter; innovating through expressive forms; experimenting with a range of digital and non-digital materials/ media, technologies, tools and techniques; exploring aesthetic principles and conceptual strategies towards resolving their artworks; documenting artworks and processes; discussing others and their own work, showcasing artworks; and reflecting critically on their artistic practice.
 
 The Portfolio should present candidates the opportunity to gain the knowledge, understanding and skills to express themselves visually and communicate artistic intent through art making and in written form. Their selection of visual materials and commentary will be evidence of their art learning. The critical connections demonstrate their disciplinary understanding and a sense of agency.</p>
-
-</div>
+	
+<p>
+For more information about GCE ‘A’ Level Economics examination syllabuses, refer to:</p>
+<ul>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8879_y26_sy_v0_4.pdf"><strong>H1 Art</strong></a></li>
+<li><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9357_y26_sy_v0_4.pdf"><strong>H2 Art</strong></a></li></ul></div>
