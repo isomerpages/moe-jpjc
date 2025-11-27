@@ -45,7 +45,7 @@ third_nav_title: 2025 Events
 
 <p><b>Preparing for the Future</b></p>
 
-IG Day also featured career readiness sessions. The <b>Junior Achievement Singapore (JA)</b> Career Workshop equipped students with practical skills in résumé writing, interview preparation and self-presentation. According to facilitators, many students showed initiative and confidence during the mock interviews and panel sharing segments.
+<p>IG Day also featured career readiness sessions. The <b>Junior Achievement Singapore (JA)</b> Career Workshop equipped students with practical skills in résumé writing, interview preparation and self-presentation. According to facilitators, many students showed initiative and confidence during the mock interviews and panel sharing segments.</p>
 
 <p>Overall, #InfiniteGrowth Day 2025 provided students with meaningful opportunities to learn beyond the classroom and apply their knowledge in authentic contexts, reinforcing JPJC’s culture of infinite growth and possibilities.</p>
 
