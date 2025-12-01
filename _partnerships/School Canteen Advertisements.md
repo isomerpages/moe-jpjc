@@ -34,7 +34,7 @@ Programme (HMSP)" guidelines.</li>
 	and at the General Office, Jurong Pioneer Junior College from 1 December 2025.
 <br>Application form with all necessary documents must be attached.
 <br>Incomplete forms will be rejected.
-<br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan at telephone no. 6564 6878 extension 202 / 206.</p>
+<br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan or Mdm Adilah Reduwan at telephone no. 6564 6878 extension 202 / 206 / 295.</p>
 	
 <p><u>Application will close on 11 December 2025</u>:<br>
 Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 11 December 2025 before noon.</u> Late
