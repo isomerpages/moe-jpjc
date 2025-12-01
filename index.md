@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/Year_2025_V2.png
+      background: /images/Homepage/2026_Website.png
       key_highlights:
         - title: "@jpjc.official"
           description: Follow us on Instagram!
@@ -32,7 +32,7 @@ sections:
       description: Cultivating curiosity and empowering active learning.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
-      image: /images/Homepage/1.png
+      image: /images/Homepage/2026_Curriculum.jpg
       alt: Image alt text
   - infopic:
       title: Co-curriculum
@@ -41,7 +41,7 @@ sections:
       description: Inspiring creativity and innovation through dynamic JP experiences.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/
-      image: /images/Homepage/2.png
+      image: /images/Homepage/2026_Co_curriculum.jpg
       alt: Image alt text
   - infopic:
       title: Values in Action
@@ -51,7 +51,7 @@ sections:
         community.
       button: Find out more
       url: https://www.jpjc.moe.edu.sg/character-and-citizenship-education/via/
-      image: /images/Homepage/3.png
+      image: /images/Homepage/2026_Values_in_Action.jpg
       alt: Image alt text
   - infopic:
       title: Hear from the Class of 2024!
@@ -61,6 +61,6 @@ sections:
         in their lives and found varied pathways to success.
       button: Read more here
       url: /a-level-inspirational-stories/2024/overview/
-      image: /images/Accomplishment/2024 A Lvl Inspirational Story/Alvl_infopic.png
+      image: /images/Homepage/Hear_from_the_Class_of_2024_.jpg
       alt: Image alt text
 ---
