@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Digital Literacy and Technological Skills.md
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
