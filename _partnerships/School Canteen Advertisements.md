@@ -30,8 +30,8 @@ Programme (HMSP)" guidelines.</li>
 <ul><li>Provide full list of food items and their prices together with your application submission. Meals include portion of fruits.</li></ul>
 	
 <p><u>Application</u>:</p>
-<p>Application forms are available
-<a href="https://www.innovapri.moe.edu.sg/files/Application_for_Canteen_Stall_FormBF7.pdf">here</a> and at the General Office, Jurong Pioneer Junior College from 24 September 2025.
+<p>Application forms are available <a href="/files/Partnerships/Canteen/Application_for_Canteen_Stall_FormBF7___Japanese_Korean_food.pdf">here</a> 
+	and at the General Office, Jurong Pioneer Junior College from 24 September 2025.
 <br>Application form with all necessary documents must be attached.
 <br>Incomplete forms will be rejected.
 <br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan at telephone no. 6564 6878 extension 202 / 206.</p>
