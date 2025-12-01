@@ -36,8 +36,8 @@ Programme (HMSP)" guidelines.</li>
 <br>Incomplete forms will be rejected.
 <br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan at telephone no. 6564 6878 extension 202 / 206.</p>
 	
-<p><u>Application will close on 7 October 2025</u>:<br>
-Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 7 October 2025 before noon.</u> Late
+<p><u>Application will close on 11 December 2025</u>:<br>
+Application Form, duly complied must be submitted to the General Office, Jurong Pioneer JC <u>no later than 11 December 2025 before noon.</u> Late
 application will not be considered.</p>
 
 <p><u>Food Tasting</u>:<br>
@@ -49,6 +49,14 @@ canteen committee.</p>
 <li>Utilities service - SP services for gas and water &amp; Senoko Energy for electricity. </li></ul><p></p>
 	
 </div>	
+
+
+
+
+
+
+
+
 
 <div align="justify" hidden="">
 	
