@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Digital Literacy and Technological Skills.md
       - Curriculum Overview.md
       - Humanities & the Arts.md
       - Physical Education.md
@@ -10,6 +9,7 @@ collections:
       - Languages.md
       - Language Elective Programmes.md
       - Knowledge Skills.md
+      - Digital Literacy and Technological Skills.md
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/CCE Approach.md
       - Character and Citizenship Edu/Education and Career Guidance.md
