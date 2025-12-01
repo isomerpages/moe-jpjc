@@ -31,7 +31,7 @@ Programme (HMSP)" guidelines.</li>
 	
 <p><u>Application</u>:</p>
 <p>Application forms are available <a href="/files/Partnerships/Canteen/Application_for_Canteen_Stall_FormBF7___Japanese_Korean_food.pdf">here</a> 
-	and at the General Office, Jurong Pioneer Junior College from 24 September 2025.
+	and at the General Office, Jurong Pioneer Junior College from 1 December 2025.
 <br>Application form with all necessary documents must be attached.
 <br>Incomplete forms will be rejected.
 <br>For any enquiries, please contact our Admin Executive, Mdm Ang Soh Luan or Mdm Ng Beng Guan at telephone no. 6564 6878 extension 202 / 206.</p>
