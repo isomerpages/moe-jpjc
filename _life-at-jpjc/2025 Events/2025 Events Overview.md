@@ -8,6 +8,7 @@ third_nav_title: 2025 Events
 | Date | Events | 
 | -------- | -------- |
 9 October 2025|[#InfiniteGrowth Day](/life-at-jpjc/2025-events/ig/)
+8 and 9 October 2025|[J2 Farewell Assembly and Graduation Day](/life-at-jpjc/2025-events/fagd/)
 8 August 2025|[National Day Celebration](/life-at-jpjc/2025-events/ndc/)
 18 July 2025|[College Day](/life-at-jpjc/2025-events/cd/)
 16 July 2025|[Racial Harmony Day](/life-at-jpjc/2025-events/rhd/)
