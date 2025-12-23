@@ -11,7 +11,7 @@ third_nav_title: Civics Tutors
 25A02 | <a href="mailto: aw_yi_ling_audrey@moe.edu.sg">Ms Aw Yi Ling, Audrey</a> 
 25A03 | <a href="mailto: ng_liang_meng_augustine@moe.edu.sg">Mr Ng Liang Meng Augustine</a> 
 25A04 | <a href="mailto: toh_wei_ming@moe.edu.sg">Mr Toh Wei Ming</a> 
-25A05 | <a href="mailto: ma_ei_thandar_soe@moe.edu.sg">Ms Ma Ei Thandar Soe</a><br><a href="mailto: immanuel_goh_jin_hong@moe.edu.sg">Mr Immanuel Goh Jin Hong</a> 
+25A05 | <a href="mailto: ma_ei_thandar_soe@moe.edu.sg">Ms Ma Ei Thandar Soe</a>
 25A06 | <a href="mailto: siti_atiqah_punari@moe.edu.sg">Mdm Siti Atiqah Bte Punari</a>
 25A07 | <a href="mailto: chay_chun_ho@moe.edu.sg">Mr Jack Chay</a> 
 25A08 | <a href="mailto: wang_zhongxiang@moe.edu.sg">Mr Wang Zhongxiang</a> 
