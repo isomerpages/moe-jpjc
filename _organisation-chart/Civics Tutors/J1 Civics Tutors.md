@@ -5,6 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Civics Tutors
 ---
+<p></p><h5><b>J1 Civics Tutor list will be updated after 2026 J1 Matriculation &amp; Orientation</b></h5><h5><p></p>
+
+<div hidden="">
 | Class | Civics Tutor | 
 | -------- | -------- | 
 24A01 | <a href="mailto: mohamed_osman_rahamat@moe.edu.sg">Mr Mohamed Osman B Rahamat </a><br><a href="mailto: ng_yee_leen@moe.edu.sg">Ms Ng Yee Leen</a>   
@@ -36,4 +39,4 @@ third_nav_title: Civics Tutors
 24S20 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 24S21 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 24S22 | <a href="mailto: tan_soon_hong@moe.edu.sg">Mr Tan Soon Hong</a>
-24S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a>
+24S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a></div></h5>
