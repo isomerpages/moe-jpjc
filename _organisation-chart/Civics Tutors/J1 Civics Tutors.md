@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Civics Tutors
 ---
 <div align="justify">
-<p></p><h5><i>J1 Civics Tutor list will be updated after 2026 J1 Matriculation &amp; Orientation.</i></h5><h5><p></p>
+<p></p><h5><b>J1 Civics Tutor list will be updated after 2026 J1 Matriculation &amp; Orientation.</b></h5><h5><p></p>
 
 <div hidden="">
 | Class | Civics Tutor | 
