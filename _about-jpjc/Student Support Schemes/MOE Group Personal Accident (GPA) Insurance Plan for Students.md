@@ -6,12 +6,8 @@ description: ""
 third_nav_title: Student Support Schemes
 ---
 <div align="justify">
-	
-<style>ol.a{list-style-type: upper-alpha;}</style>
-<ol class="a">
-<h5><strong><li>MOE Financial Assistance Scheme (MOE FAS)</li></strong></h5>
 
-<p>The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government and Government-aided schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.</p>
+<p>The MOE Group Personal Accident (GPA) insurance is provided for all students in government and government aided schools at no cost to parents. This insurance covers students for accidents that may occur during school hours, during school-related activities, and while students are travelling directly to and from school, subject to the policy's claim limits.</p>
 	
 <p>Under the ministry's guidelines, a student is eligible for MOE FAS if he or she meets either of the following criteria:</p>
 <ul>
@@ -23,7 +19,7 @@ third_nav_title: Student Support Schemes
 	<li>100% Subsidy of school and miscellaneous fees</li>
 	<li>$1,600 annual bursary (inclusive of public transport subsidy)</li></ul>
 
-<p>For more information and application form, please refer to the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">Ministry of Education</a> website.</p>
+<p>Information on claims, FAQs and other details pertaining to the MOE GPA Insurance Plan for students can be found on Income’s <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">website</a>.</p>
 	
 <h5><strong><li>School-Based Financial Assistance Scheme (SBFAS)</li></strong></h5>
 
@@ -42,4 +38,4 @@ third_nav_title: Student Support Schemes
 <h5><strong><li>Other Financial Assistance</li></strong></h5>
 <p>Financial assistance in the form of bursary from external organisations are available from time to time. The college will inform students of other available bursaries and financial assistance through their Civics Tutors.</p>
 
-</ol></div>
+</div>
