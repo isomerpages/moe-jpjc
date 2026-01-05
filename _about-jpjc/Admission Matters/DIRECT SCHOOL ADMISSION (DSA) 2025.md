@@ -6,6 +6,8 @@ description: ""
 third_nav_title: Admission Matters
 ---
 <div align="justify">	
+<p></p><h5><b>Our DSA 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
+
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
 
 <p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of JC1 admission, applicants who are:</p>
@@ -16,7 +18,7 @@ third_nav_title: Admission Matters
 	
 </p>
 	
-<p></p><h5><b>Application Procedures</b></h5> 
+<p></p></h5><h5><b>Application Procedures</b></h5> 
 <ol><li><ul>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted latest by:
 <ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
 <i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
