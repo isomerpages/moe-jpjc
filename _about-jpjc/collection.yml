@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Open House 2026/.keep
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
@@ -31,6 +30,7 @@ collections:
       - Open House 2025/Dynamic JP experiences.md
       - Open House 2025/Virtual campus tour.md
       - Open House 2025/Getting to JPJC.md
+      - Open House 2026/.keep
       - Student Support Schemes/.keep
       - Student Support Schemes/Financial Assistance.md
       - Student Support Schemes/MOE Group Personal Accident (GPA) Insurance Plan
