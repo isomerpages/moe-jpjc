@@ -7,9 +7,6 @@ third_nav_title: Open House 2026
 ---
 <div align="justify">
 
-<div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/Open%20House%202025/JPJC_OH_2026_Poster.png">
-	
 <table>
       <tbody><tr>
         <td>
@@ -104,4 +101,4 @@ third_nav_title: Open House 2026
 </a></div>
 <div class="column">	
 <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img style="width:100%" src="/images/Open%20House%202025/JAE.png"></a>	
-</div></div></h5></div></figure></div></div>
+</div></div></h5></div></div>
