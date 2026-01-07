@@ -32,7 +32,7 @@ sections:
       description: Our Open House will take place on Friday, 16 January 2026, from
         10am to 4pm.
       button: Find out more
-      url: https://jpjc.moe.edu.sg/about-jpjc/open-house-2026/
+      url: /about-jpjc/open-house-2026/
       image: /images/Homepage/JPJC_OH_2026_Poster.png
       alt: Image alt text
   - infopic:
