@@ -12,7 +12,7 @@ third_nav_title: Open House 2025
 <table>
       <tbody><tr>
         <td>
-          <a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view"><img style="width:80%" src="/images/Open%20House%202025/Information_Package.png">
+          <a href="https://drive.google.com/file/d/1GgL71sj0Mx7A5O7ErI3ewUXtL-HKgpJw/view?usp=drive_link"><img style="width:80%" src="/images/Open%20House%202025/Information_Package.png">
 </a>
         </td>
         <td>
