@@ -18,4 +18,8 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" src="/images/JPJC%20Experience/Co%20Curriculum/House.jpg">
 <figcaption>Orientation Group Leaders during Matriculation and Orientation (M&amp;O) 2025</figcaption></figure>
 	
-</div></div>
+<div class="isomer-image-wrapper"><figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/JPJC%20Experience/Co%20Curriculum/House2.jpg">
+<figcaption>Orientation Group Leaders during OGL Camp 2026</figcaption></figure>
+		
+</div></div></div>
