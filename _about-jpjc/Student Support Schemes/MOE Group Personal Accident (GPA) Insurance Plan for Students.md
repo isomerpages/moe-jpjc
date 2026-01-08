@@ -14,10 +14,10 @@ third_nav_title: Student Support Schemes
 <p>Please submit the claims <a href="https://studentgpa.incomegroupins.com.sg/">online</a>.</p>
 	
 <p>Please note the applicable limits and coverage for medical expenses. Ineligible expenses or expenses in excess of the limits will be borne by the students/ parents/ guardians.</p>
+ 
+<p>Parents/ guardians should also take note that medical treatments at private hospitals will typically cost higher, and parents/ guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</p>
 
-<p>Parents/ guardians should also take note that medical treatments at private hospitals will typically cost higher, and parents/guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</p>
-
-<p>Parents/guardians can contact Income Insurance Ltd for more information:<br>
+<p>Parents/ guardians can contact Income Insurance Ltd for more information:<br>
 </p><ul><li>Hotline at 6788 1777<br>
 Mon to Fri: 9.00am to 6.00pm<br>
 	Sat, Sun &amp; Public Holiday: Closed</li><p></p>
