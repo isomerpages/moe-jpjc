@@ -7,7 +7,7 @@ third_nav_title: Open House 2026
 ---
 <div align="justify">
 
-#1: From Bukit Panjang MRT**
+**#1: From Bukit Panjang MRT**
 
 *   Enter Hillion Mall
 *   Take bus 975 from the bus interchange
