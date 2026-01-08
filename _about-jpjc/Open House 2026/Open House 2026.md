@@ -46,7 +46,7 @@ third_nav_title: Open House 2026
 <table>
       <tbody><tr>
         <td>
-         <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img src="/images/Open%20House%202025/Internationalisation.png" style="width:80%">
+         <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/internationalisation-programme/"><img src="/images/Open%20House%202025/Internationalisation.png" style="width:80%">
 </a>
         </td>
         <td>
