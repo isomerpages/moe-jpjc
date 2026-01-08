@@ -21,7 +21,7 @@ third_nav_title: Open House 2026
 
 <h4><center>Special Programmes</center></h4>
 
-<center>Curious about the opportunities beyond the classroom? Here’s a quick look at the CLEP/ MLEP, the JP Global Experience, and our STEAM programmes — where students explore languages, the world, and innovation in hands-on, meaningful ways..</center>
+<center>Curious about the opportunities beyond the classroom? Here’s a quick look at the CLEP/ MLEP, the JP Global Experience, and our STEAM programmes — where students explore languages, the world, and innovation in hands-on, meaningful ways.</center>
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u8lc_ScOj8c?si=J1uuOn9CX4xTODdJ" height="315" width="560"></iframe></center>
 
