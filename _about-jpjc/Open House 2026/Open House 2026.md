@@ -22,24 +22,35 @@ third_nav_title: Open House 2026
 </tbody></table>
  
  
+	
+	
+
+	
 <table>
       <tbody><tr>
         <td>
-<a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img src="/images/Open%20House%202025/JAE.png" style="width:40%"></a>	
+      <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img src="/images/Open%20House%202025/JAE.png" style="width:80%"></a>	
         </td>
-      
+        <td>
+      <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img src="/images/Open%20House%202025/CurriculumClub.png" style="width:80%">
+</a>
+        </td>
  </tr>
-</tbody></table>
- 
+</tbody></table>	
+	
+	
+	
+	
+	
  
 <table>
       <tbody><tr>
         <td>
-         <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img src="/images/Open%20House%202025/CurriculumClub.png" style="width:80%">
+         <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img src="/images/Open%20House%202025/Internationalisation.png" style="width:80%">
 </a>
         </td>
         <td>
-      <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/"><img src="/images/Open%20House%202025/Co_Curriculum.png" style="width:80%">
+      <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/co-curriculum/talent-and-leadership/"><img src="/images/Open%20House%202025/Co_Curriculum2.png" style="width:80%">
 </a>
         </td>
  </tr>
