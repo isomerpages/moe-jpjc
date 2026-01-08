@@ -11,7 +11,7 @@ third_nav_title: Open House 2026
 <table>
       <tbody><tr>
         <td>
-          <a href="https://drive.google.com/file/d/1au4Gb7UzShlMqFYXpZqRCXGLiTtCfW4z/view"><img src="/images/Open%20House%202025/Information_Package.png" style="width:100%">
+          <a href="https://drive.google.com/file/d/1GgL71sj0Mx7A5O7ErI3ewUXtL-HKgpJw/view"><img src="/images/Open%20House%202025/Information_Package.png" style="width:100%">
 </a>
         </td>
         <td>
