@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div align="justify">
 	
-<figure><img src="/images/About%20JPJC/Principal's%20Message/P_s_Message2.jpg"></figure>
+<figure><img src="/images/About%20JPJC/Principal's%20Message/P.jpg"></figure>
 
 <p>
 Thank you for visiting the Jurong Pioneer Junior College (JPJC) website and your interest in our college. I am honoured to be appointed as the 2nd Principal of JPJC, bringing with me 25 years of experience from stints in secondary schools, a junior college and the Ministry of Education headquarters. I am humbled and excited to lead JPJC to develop its unique brand of JC education. JPJC has certainly catered to the diverse interests and needs of our students to fulfil our college’s mission to nurture a community of <b>active learners, innovative thinkers and compassionate leaders</b>, with confidence for the future.</p>
