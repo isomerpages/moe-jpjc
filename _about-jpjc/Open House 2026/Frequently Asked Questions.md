@@ -55,6 +55,15 @@ third_nav_title: Open House 2026
 <h5><b>1. Do I still need to take a H1 contrasting subject since it will not be counted?</b></h5>
 
 <p>Yes, a H1 contrasting subject is still required. We encourage students to view it as an opportunity to broaden their interests and gain exposure to different ways of thinking and skillsets. If a student attains a good grade, the H1 subject can also improve their University Admission Score (UAS).</p>
+	
+<h5><b>2. What happens if I fail Mother Tongue (MT) or Project Work (PW)?</b></h5>
+
+<p>Students who do not pass MT or PW will not be eligible for admission to local autonomous universities.</p>
+
+<p>Please refer to the respective university websites to learn more about their admission criteria, expectations, and requirements.</p>
+
+<h3>University Admission Requirements</h3>
+<h5><b>1. Do I still need to take a H1 contrasting subject since it will not be counted?</b></h5>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
