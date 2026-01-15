@@ -5,8 +5,17 @@ variant: markdown
 description: ""
 third_nav_title: Open House 2026
 ---
-<h5><b>1. What are some programmes JPJC offer to promote holistic development?	</b></h5>
+<div align="justify">
+	
+<h3>Admission</h3>
+<h5><b>1. What are the cut-off points for JPJC?</b></h5>
 
+<p>For reference, the 2025 L1R5 cut-off point for the Arts Stream was 15, and for the Science Stream, 14. The cut-off point for admission to JPJC in 2026 will be released after the conclusion of JAE 2026.</p>
+
+<p>We encourage students to consider JPJC holistically, taking into account not just academic results but also the college’s culture, support structures, and programmes.</p>
+
+
+<div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
 
 <h5><b>2. What is the 2024 cut-off point for JPJC?	</b></h5>
@@ -30,4 +39,4 @@ third_nav_title: Open House 2026
 <p>On top of that, Student Councilors will be involved in leadership workshop or camps, together with other CCA leaders, organised by the College.</p>
 
 <h5><b>6. How many days are CCA Days and what are the timings?</b></h5><p></p>
-<p> In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fridays (4pm to 7pm). Depending on the nature of the CCA and activities, the duration of the CCA activities will last between 2-3 hours per session.</p>
+<p> In general, the college CCA days are designated on Wednesdays (3pm - 6pm) and Fridays (4pm to 7pm). Depending on the nature of the CCA and activities, the duration of the CCA activities will last between 2-3 hours per session.</p></div></div>
