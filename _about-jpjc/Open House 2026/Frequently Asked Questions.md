@@ -62,8 +62,10 @@ third_nav_title: Open House 2026
 
 <p>Please refer to the respective university websites to learn more about their admission criteria, expectations, and requirements.</p>
 
-<h3>University Admission Requirements</h3>
-<h5><b>1. Do I still need to take a H1 contrasting subject since it will not be counted?</b></h5>
+<h3>Holistic Development</h3>
+<h5><b>1. What programmes does JPJC offer to support holistic development?</b></h5>
+	
+<p>JPJC offers a wide range of programmes aimed at developing students holistically. These include the Talent and Leadership Development Programme, which encompasses Co-Curricular Activities (CCAs), <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/steam/">STEAM</a> enrichment opportunities, competitions across various interest areas, and structured <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/student-leadership/">Student Leadership</a> programmes.</p>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
