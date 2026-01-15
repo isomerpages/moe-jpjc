@@ -13,7 +13,18 @@ third_nav_title: Open House 2026
 <p>For reference, the 2025 L1R5 cut-off point for the Arts Stream was 15, and for the Science Stream, 14. The cut-off point for admission to JPJC in 2026 will be released after the conclusion of JAE 2026.</p>
 
 <p>We encourage students to consider JPJC holistically, taking into account not just academic results but also the college’s culture, support structures, and programmes.</p>
+	
+<h3>About JPJC</h3>
+<h5><b>1. How is JPJC’s culture like?</b></h5>
 
+<p>JPJC’s culture is centred around the JPJC Family—JPFam for short. Everyone—students, teachers, staff, and key stakeholders such as parents and alumni—is part of this family.</p>
+
+<p>To provide clarity on the actions that contribute to our desired culture, this has been further distilled into the Infinite series:</p>
+	<ul>
+	<li>Infinite Love: Students are encouraged to show empathy, respect, and consideration for others. JPFam creates a safe and inclusive space where everyone feels valued and supported. Helping and supporting peers, just as our staff care for students. Celebrating achievements strengthens the sense of belonging for JPFam.</li>
+	<li>Infinite Growth: Students are encouraged to adopt a growth mindset and see learning as a lifelong journey. JPFam nurtures resilience and a willingness to embrace challenges, helping students grow in confidence and skills.</li>
+	<li>Infinite Possibilities: Collaboration, problem-solving, innovation, and creativity are hallmarks of the JPFam. </li></ul>
+	<p>JPFam’s spirit reflects the college motto, <i>“While I Live, I Learn. Plus Ultra,”</i>i inspiring students to explore beyond their comfort zones.</p>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
