@@ -31,9 +31,16 @@ third_nav_title: Open House 2026
 	
 <p>JPJC offers a wide and flexible range of <a href="/about/subject-combination/">subject combinations</a> (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the subject combinations available and select one that best aligns with their learning interests and long-term goals.</p>
 	
-<h5><b>1. What subject combinations are available in JPJC?</b></h5>
+<h5><b>2. If I am taking Combined Science, can I still take two H2 sciences?</b></h5>
 	
-<p>JPJC offers a wide and flexible range of <a href="/about/subject-combination/">subject combinations</a> (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the subject combinations available and select one that best aligns with their learning interests and long-term goals.</p>
+<p>For students with Science (Chemistry/Biology), Science (Physics/Chemistry), Science (Physics/Biology), who are opting to do the subject combination of either H2 Mathematics, H2 Chemistry, H2 Biology OR H2 Mathematics, H2 Chemistry, H2 Physics, it is preferred that students should obtain
+</p><ul>
+	<li>Distinction in the Combined Science with the two relevant Science disciplines, OR</li>
+	<li>a pass in the relevant Pure Science and Combined Science.</li></ul><p></p>
+	
+<h5><b>3. Can I take H2 Mathematics if I did not take Additional Mathematics?</b></h5>
+	
+<p>It is possible, but students may find the transition demanding. Bridging lessons will be provided to help students adjust. Students who prefer a more gradual progression may choose to take H1 Mathematics instead.</p>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
