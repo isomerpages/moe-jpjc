@@ -29,7 +29,7 @@ third_nav_title: Open House 2026
 <h3>Subject Combinations</h3>
 <h5><b>1. What subject combinations are available in JPJC?</b></h5>
 	
-<p>JPJC offers a wide and flexible range of <a href="/about/subject-combination/">subject combinations</a> (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the subject combinations available and select one that best aligns with their learning interests and long-term goals.</p>
+<p>JPJC offers a wide and flexible range of subject combinations (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the <a href="/about/subject-combination/">subject combinations</a> available and select one that best aligns with their learning interests and long-term goals.</p>
 	
 <h5><b>2. If I am taking Combined Science, can I still take two H2 sciences?</b></h5>
 	
