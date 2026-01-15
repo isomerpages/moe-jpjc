@@ -83,7 +83,7 @@ third_nav_title: Open House 2026
 	
 <h5><b>4. What is the selection process for the Student Council?</b></h5>
 	
-<p>The selection process comprises two stages:
+<p>The selection process comprises two stages:<br>
 a) a preliminary interview, followed by<br>
 b) student polling after the campaigning period, where candidates engage the student population to share their ideas and vision.<br>
 Student Councillors hold CCA sessions twice a week on Wednesdays and Fridays.</p> 
