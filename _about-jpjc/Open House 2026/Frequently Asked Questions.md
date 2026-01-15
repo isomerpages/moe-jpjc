@@ -17,7 +17,7 @@ third_nav_title: Open House 2026
 <h3>About JPJC</h3>
 <h5><b>1. How is JPJC’s culture like?</b></h5>
 
-<p>JPJC’s culture is centred around the JPJC Family—JPFam for short. Everyone—students, teachers, staff, and key stakeholders such as parents and alumni—is part of this family.</p>
+<p>JPJC’s <a href="/about/college-identity/culture/">culture</a> is centred around the JPJC Family—JPFam for short. Everyone—students, teachers, staff, and key stakeholders such as parents and alumni—is part of this family.</p>
 
 <p>To provide clarity on the actions that contribute to our desired culture, this has been further distilled into the Infinite series:</p>
 	<ul>
