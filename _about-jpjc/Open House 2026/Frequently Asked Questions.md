@@ -77,7 +77,19 @@ third_nav_title: Open House 2026
 
 <p>CCAs provide valuable opportunities for students to discover their interests, develop character, and grow beyond academics.</p>
 
-
+<h5><b>3. How many days are CCA days and what are the timings?</b></h5>
+	
+<p>CCA sessions are generally held on Wednesdays and Fridays from 3:30 pm. Depending on the nature of the CCA, sessions typically last between 2 to 3 hours.</p> 
+	
+<h5><b>4. What is the selection process for the Student Council?</b></h5>
+	
+<p>The selection process comprises two stages:
+a) a preliminary interview, followed by<br>
+b) student polling after the campaigning period, where candidates engage the student population to share their ideas and vision.<br>
+Student Councillors hold CCA sessions twice a week on Wednesdays and Fridays.</p> 
+	
+<p>As the Student Council oversees large-scale college events such as Orientation, Teachers’ Day celebrations, and Graduation Night, councillors may occasionally be called back on additional days for planning and rehearsals. They also participate in leadership workshops and camps organised by the college, alongside student leaders from other CCAs.</p>
+	
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
 
