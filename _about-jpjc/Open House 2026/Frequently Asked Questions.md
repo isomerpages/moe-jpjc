@@ -25,6 +25,15 @@ third_nav_title: Open House 2026
 	<li>Infinite Growth: Students are encouraged to adopt a growth mindset and see learning as a lifelong journey. JPFam nurtures resilience and a willingness to embrace challenges, helping students grow in confidence and skills.</li>
 	<li>Infinite Possibilities: Collaboration, problem-solving, innovation, and creativity are hallmarks of the JPFam. </li></ul>
 	<p>JPFam’s spirit reflects the college motto, <i>“While I Live, I Learn. Plus Ultra,”</i>i inspiring students to explore beyond their comfort zones.</p>
+	
+<h3>Subject Combinations</h3>
+<h5><b>1. What subject combinations are available in JPJC?</b></h5>
+	
+<p>JPJC offers a wide and flexible range of <a href="/about/subject-combination/">subject combinations</a> (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the subject combinations available and select one that best aligns with their learning interests and long-term goals.</p>
+	
+<h5><b>1. What subject combinations are available in JPJC?</b></h5>
+	
+<p>JPJC offers a wide and flexible range of <a href="/about/subject-combination/">subject combinations</a> (over 100) to support students with diverse interests, strengths, and future aspirations. We encourage students to explore the subject combinations available and select one that best aligns with their learning interests and long-term goals.</p>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
