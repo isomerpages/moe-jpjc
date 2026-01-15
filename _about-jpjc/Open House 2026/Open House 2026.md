@@ -29,7 +29,7 @@ third_nav_title: Open House 2026
 <table>
       <tbody><tr>
         <td>
-      <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2025/"><img src="/images/Open%20House%202025/JAE.png" style="width:100%"></a>	
+      <a href="https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/jae2026/"><img src="/images/Open%20House%202025/JAE.png" style="width:100%"></a>	
         </td>
         <td>
       <a href="https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/"><img src="/images/Open%20House%202025/CurriculumClub.png" style="width:100%">
