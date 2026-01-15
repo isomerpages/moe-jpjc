@@ -90,6 +90,13 @@ Student Councillors hold CCA sessions twice a week on Wednesdays and Fridays.</p
 	
 <p>As the Student Council oversees large-scale college events such as Orientation, Teachers’ Day celebrations, and Graduation Night, councillors may occasionally be called back on additional days for planning and rehearsals. They also participate in leadership workshops and camps organised by the college, alongside student leaders from other CCAs.</p>
 	
+<h3>Appeals</h3>
+<h5><b>1. How do I appeal for admission to JPJC?</b></h5>
+	
+<p>Students who wish to appeal may submit an <a href="https://portal.jpjc.edu.sg/0/appeal.html">online application</a>, which will be made available on the college website. Shortlisted applicants will be contacted for an interview.</p> 
+
+<p>We seek your understanding that walk-in appeals are not accepted.</p> 
+	
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
 
