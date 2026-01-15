@@ -24,8 +24,11 @@ The table below shows past L1R5 aggregate cut-off points (after deduction of bon
 </p><p><b>Students who are successfully posted to JPJC:</b><br>
 If you are successfully posted to JPJC, you will need to report to the school on the morning of Wednesday, 4 February 2026, dressed in your secondary school uniform. <br>
 <b>	More details will be provided, keep a lookout for new announcements for J1 students and parents.</b><br>
-
-</p><p><b>Selection Tests at 2pm on Thursday, 6 February 2025</b><br>
+	
+</p></div>
+	
+<div hidden="">
+<p></p><p><b>Selection Tests at 2pm on Thursday, 6 February 2025</b><br>
 1.	H2 Art @ Art Room<br> 
 2.	H2 Translation @ G4-01
 	
