@@ -41,6 +41,20 @@ third_nav_title: Open House 2026
 <h5><b>3. Can I take H2 Mathematics if I did not take Additional Mathematics?</b></h5>
 	
 <p>It is possible, but students may find the transition demanding. Bridging lessons will be provided to help students adjust. Students who prefer a more gradual progression may choose to take H1 Mathematics instead.</p>
+	
+<h3>Timetable</h3>
+<h5><b>1. What is the timetable like in JPJC?</b></h5>
+	
+<p>Given the wide variety of subject combinations (over 100) offered to cater to students’ diverse interests, lessons may span the whole day. Instead of fixed recess or lunch periods, students have breaks of 30 minutes or longer built into their timetable.</p>
+
+<p>Students are coached to develop good habits under our Self-Regulation Guide and are encouraged to make good use of these breaks—not only for academic learning but also for co-curricular involvement and personal development. These experiences help students build important life and soft skills that are valuable beyond the classroom.</p>
+
+<p>Self-Directed Learning (SDL) Days are integrated into the curriculum. SDL days nurture independent, self-directed, and lifelong learners by giving students space to learn at their own pace and explore interests beyond the curriculum.</p>
+
+<h3>University Admission Requirements</h3>
+<h5><b>1. Do I still need to take a H1 contrasting subject since it will not be counted?</b></h5>
+
+<p>Yes, a H1 contrasting subject is still required. We encourage students to view it as an opportunity to broaden their interests and gain exposure to different ways of thinking and skillsets. If a student attains a good grade, the H1 subject can also improve their University Admission Score (UAS).</p>
 
 <div align="justify" hidden="">
 <p>JPJC offers varied programmes to develop our students holistically. Programmes offered under our the Talent and Leadership Development Programme include <a href="/jpjc-experience/co-curriculum/talent-n-leadership-development-programme/co-curricular-activities/">CCAs</a>, Student Interest Groups, enrichment and competitions in various areas of interests. Our <a href="/jpjc-experience/co-curriculum/talent-and-leadership-development-programme/scholars-development/">Scholars Development Programme</a> also provides opportunities for high potential students to develop their leadership potential, widen their network and make meaningful contributions to the community.</p>
