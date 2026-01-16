@@ -17,7 +17,7 @@ third_nav_title: Admission Matters
 </p>
 
 <p><b>Cut-off L1R5 Points for Admission into JPJC</b><br>
-The table below shows past L1R5 aggregate cut-off points (after deduction of bonus points) for the Joint Admission Exercise. Please note that student postings are subject to vacancy availability, and not all applicants with the listed L1R5 aggregate scores are successfully posted to JPJC.
+The table below shows past L1R5 aggregate cut-off points (after deduction of bonus points) for the Joint Admission Exercise. 
 
 <table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2025</p></td><td rowspan="1" colspan="1"><p>10 to 15</p></td><td rowspan="1" colspan="1"><p>6 to 14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
