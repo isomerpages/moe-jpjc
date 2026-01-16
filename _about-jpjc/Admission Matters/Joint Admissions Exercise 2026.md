@@ -16,8 +16,8 @@ third_nav_title: Admission Matters
 <p>The JAE application starts at 4pm on Wednesday, 14 January 2026 and ends at 4.30pm on Monday, 19 January 2026. During this period, you must submit your application through the JAE-IS (available 24-hour).
 </p>
 
-<p><b>Cut-off L1R5 Points for Admission into JPJC</b><br>
-The table below shows past L1R5 aggregate cut-off points (after deduction of bonus points) for the Joint Admission Exercise. 
+<p><b>L1R5 Points for Admission into JPJC</b><br>
+The table below shows past L1R5 Net Aggregate Range (after deduction of bonus points) for the Joint Admission Exercise. 
 
 <table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Arts</p></th><th rowspan="1" colspan="1"><p>Science</p></th></tr><tr><td rowspan="1" colspan="1"><p>2025</p></td><td rowspan="1" colspan="1"><p>10 to 15</p></td><td rowspan="1" colspan="1"><p>6 to 14</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
