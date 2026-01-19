@@ -16,9 +16,9 @@ third_nav_title: Character and Citizenship Edu
 	<li>The <b>Goals</b> of Sexuality Education are to:</li>
 <style> ul.a{list-style-type: lower-alpha</style>
 <ul class="a">
-	<li>Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
-	<li>Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
-	<li>Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li></ul>
+	<li>(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
+	<li>(b)	Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
+	<li>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li></ul>
 	<li>The <b>Key Messages</b> of Sexuality Education are:</li>
 <style>ul.b{list-style-type: lower-alpha}</style>
 <ul class="b">
@@ -29,7 +29,7 @@ third_nav_title: Character and Citizenship Edu
 
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.</p>
 
-<h3>OVERVIEW OF JURONG PIONEER JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF JURONG PIONEER JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 
 <ol start="4">
 	<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li></ol>
@@ -37,7 +37,7 @@ third_nav_title: Character and Citizenship Edu
 <h4>Sexuality Education</h4>
 
 <ol start="5">
-	<li> The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
+	<li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships. </li></ol>
 
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</b></h6>
 
