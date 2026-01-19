@@ -5,8 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: Character and Citizenship Edu
 ---
+<p></p><h3><center>JURONG PIONEER JUNIOR COLLEGE<p></p>
+	
 <div align="justify">
-
+	
 <h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
 
 <ol>
@@ -79,4 +81,4 @@ third_nav_title: Character and Citizenship Edu
 	
 	
 <li>Parents can contact the school at 6564 6878 or e-mail us at  <a href="mailto:jpjc@moe.edu.sg"> jpjc@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
-</div>
+</div></center></h3>
