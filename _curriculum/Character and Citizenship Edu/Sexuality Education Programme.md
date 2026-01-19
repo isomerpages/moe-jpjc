@@ -41,17 +41,15 @@ third_nav_title: Character and Citizenship Edu
 
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-DMupFISItwyryhnB8z2Kobiks0Hcxc4E1XRf4bDtlDWge3jrkxogkWetdolqsQ/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTFeTUPy7MxoGNl5Co7SPzahafPJfTKNbNh_byftvowwbOqMghFmfc74j0UmZYQBA/pub?embedded=true" width="900px" height="1200px" scrolling="no"></iframe>
 	
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQjElMCubRfFSYvWC1Gt6Jer_nzeNeBN5f2zMNfgtA5ysmDCorgbetkbQ-mHIfG3g/pub?embedded=true" width="900px" height="920px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQbdcLcK7xec4o1PnQ6imq-L0_EaDMizhILcibazX0lZw4lfsUboPISjKrPzYq3pw/pub?embedded=true" width="900px" height="950px" scrolling="no"></iframe>
 	
-<h4><i>eTeens</i> Programme</h4>
-
 <ol start="6">
-	<li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li>
-	<li> Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</li></ol>
+	<li><i>eTeens</i> is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</li>
+	<li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </li></ol>
 	
-<h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2025
+<h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2026
 
 </b></h6>
 
