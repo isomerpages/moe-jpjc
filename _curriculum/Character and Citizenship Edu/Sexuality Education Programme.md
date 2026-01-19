@@ -53,9 +53,8 @@ third_nav_title: Character and Citizenship Edu
 
 </b></h6>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTlKfSiA6PAnsiPAMy72h6nWBm5GhaEgs3yKK0feculz1QdWgreFpeFGnBOjLO7Lg/pub?embedded=true" width="1600px" height="230px" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQONSTXlDkTwXGIxqPKZUZPqqeraCIlMNGBkB0vTD4WsAFyipxqoT4zOCzTTodrqg/pub?embedded=true" width="1600px" height="420px" scrolling="no"></iframe>
 	
-
 <h5>INFORMATION FOR PARENTS</h5>
 
 <ol start="8">
