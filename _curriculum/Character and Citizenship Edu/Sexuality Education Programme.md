@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 third_nav_title: Character and Citizenship Edu
 ---
-<p></p><h3><center>JURONG PIONEER JUNIOR COLLEGE<p></p>
-	
 <div align="justify">
+
+<h3><center>JURONG PIONEER JUNIOR COLLEGE</center></h3>
 	
 <h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
 
@@ -25,7 +25,7 @@ third_nav_title: Character and Citizenship Edu
 	<li>Love and respect yourself as you love and respect others;</li>
 	<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
 	<li>Make responsible decisions for yourself, your family and society; and</li>
-	<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ul></ol>
+	<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ul></ol><p></p>
 
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.</p>
 
@@ -81,4 +81,4 @@ third_nav_title: Character and Citizenship Edu
 	
 	
 <li>Parents can contact the school at 6564 6878 or e-mail us at  <a href="mailto:jpjc@moe.edu.sg"> jpjc@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
-</div></center></h3>
+</div>
