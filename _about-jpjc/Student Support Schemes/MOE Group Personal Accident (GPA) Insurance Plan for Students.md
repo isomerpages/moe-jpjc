@@ -22,6 +22,6 @@ third_nav_title: Student Support Schemes
 Mon to Fri: 9.00am to 6.00pm<br>
 	Sat, Sun &amp; Public Holiday: Closed</li><p></p>
 
-<li>Email: studentgpa@income.com.sg</li></ul>
+<li>Email: <a href="mailto:studentgpa@income.com.sg">studentgpa@income.com.sg</a></li></ul>
 
 </div>
