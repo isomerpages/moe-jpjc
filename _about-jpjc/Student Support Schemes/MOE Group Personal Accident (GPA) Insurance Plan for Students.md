@@ -9,7 +9,7 @@ third_nav_title: Student Support Schemes
 
 <p>The MOE Group Personal Accident (GPA) insurance is provided for all students in government and government aided schools at no cost to parents. This insurance covers students for accidents that may occur during school hours, during school-related activities, and while students are travelling directly to and from school, subject to the policy's claim limits.</p>
 	
-<p>Information on claims, FAQs and other details pertaining to the MOE GPA Insurance Plan for students can be found on Income’s <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">website</a>.</p>
+<p>Information on claims, FAQs and other details pertaining to the MOE GPA Insurance Plan for students can be found on Income’s <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students">website</a>.</p>
 	
 <p>Please submit the claims <a href="https://studentgpa.incomegroupins.com.sg/">online</a>.</p>
 	
