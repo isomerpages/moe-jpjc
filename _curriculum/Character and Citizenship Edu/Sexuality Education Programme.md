@@ -50,9 +50,7 @@ third_nav_title: Character and Citizenship Edu
 	
 <li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </li></ol>
 	
-<h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2026
-
-</b></h6>
+<h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in <u>2026</u>:</b></h6>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQONSTXlDkTwXGIxqPKZUZPqqeraCIlMNGBkB0vTD4WsAFyipxqoT4zOCzTTodrqg/pub?embedded=true" width="1600px" height="420px" scrolling="no"></iframe>
 	
