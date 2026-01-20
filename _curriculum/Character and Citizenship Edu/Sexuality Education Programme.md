@@ -37,7 +37,7 @@ third_nav_title: Character and Citizenship Edu
 <h4>Sexuality Education</h4>
 
 <ol start="5">
-	<li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships. </li></ol>
+	<li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li></ol>
 
 <h6><b>At Jurong Pioneer Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</b></h6>
 
@@ -61,7 +61,7 @@ third_nav_title: Character and Citizenship Edu
 <ol start="8">
 	<li>Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li><br>
 	
-<li><p>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens talk need to complete an opt-out form.</p>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens talk need to complete an opt-out form.
 <ul>
 <li>For <b>JC2 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj2sedoptout2026">here</a> to opt-out by 11 February 2026.</li>
 <li>For <b>JC1 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj1sedoptout2026">here </a> to opt-out by 22 July 2026.</li>
