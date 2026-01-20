@@ -16,9 +16,9 @@ third_nav_title: Character and Citizenship Edu
 	<li>The <b>Goals</b> of Sexuality Education are to:</li>
 <style> ul.a{list-style-type: lower-alpha</style>
 <ul class="a">
-	<li>(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
-	<li>(b)	Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
-	<li>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li></ul>
+	<li>Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
+	<li>Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
+	<li>Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li></ul>
 	<li>The <b>Key Messages</b> of Sexuality Education are:</li>
 <style>ul.b{list-style-type: lower-alpha}</style>
 <ul class="b">
@@ -46,8 +46,9 @@ third_nav_title: Character and Citizenship Edu
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQbdcLcK7xec4o1PnQ6imq-L0_EaDMizhILcibazX0lZw4lfsUboPISjKrPzYq3pw/pub?embedded=true" width="900px" height="950px" scrolling="no"></iframe>
 	
 <ol start="6">
-	<li><i>eTeens</i> is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</li>
-	<li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </li></ol>
+	<li><i>eTeens</i> is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</li><br>
+	
+<li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </li></ol>
 	
 <h6><b>At Jurong Pioneer Junior College, the <i>eTeens</i> programme will be implemented as follows in 2026
 
@@ -58,19 +59,14 @@ third_nav_title: Character and Citizenship Edu
 <h5>INFORMATION FOR PARENTS</h5>
 
 <ol start="8">
-	<li>Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
-	<li><p>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens talk need to complete an opt-out form.</p>
+	<li>Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li><br>
+	
+<li><p>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens talk need to complete an opt-out form.</p>
 	
 <p>For <b>JC2 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj2sedoptout2026">here</a> to opt-out by 11 February 2026.
 </p><p>	For <b>JC1 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj1sedoptout2026">here </a> to opt-out by 22 July 2026.
 
 </p><p>For <b>JC1 eTeens Mass Talk</b>, click <a href="https://go.gov.sg/jpjcj1eteensoptout2026">here</a> to opt-out by 22 July 2026.	</p>
-	
-	
-	
-	
-	
-	
 </li>
 		
 <br>
