@@ -26,7 +26,7 @@ third_nav_title: College Identity
   </tr>
 </tbody></table>
 	
-<p><b>Infinite Growth:</b> Together, JPFam strives for continuous improvement and innovation - While I Live, I Learn. We actively seek opportunities for personal and professional development, encouraging each other to step outside our comfort zones and explore new horizons. By fostering a culture of feedback and reflection, we empower individuals to embrace their potential, cultivating a mindset that celebrates learning as a lifelong journey.</p>
+<p><b>Infinite Growth:</b> Together, JPFam strives for continuous improvement and innovation - While I Live, I Learn. Plus Ultra. We actively seek opportunities for personal and professional development, encouraging each other to step outside our comfort zones and explore new horizons. By fostering a culture of feedback and reflection, we empower individuals to embrace their potential, cultivating a mindset that celebrates learning as a lifelong journey.</p>
 	
 <table style="width:100%">
    <tbody><tr>
@@ -42,7 +42,7 @@ third_nav_title: College Identity
   </tr>
 </tbody></table>
 
-<p><b>Infinite Possibilities:</b> Together, JPFam unlocks greater potential, achieving what’s beyond reach alone - Plus Ultra. We believe that collaboration amplifies creativity, allowing us to combine our diverse skills and perspectives to tackle challenges effectively. By working together, we cultivate a spirit of innovation and exploration, inspiring one another to dream big and pursue ambitious goals that contribute to our collective success.</p>
+<p><b>Infinite Possibilities:</b> Together, JPFam unlocks greater potential, achieving what’s beyond reach alone. We believe that collaboration amplifies creativity, allowing us to combine our diverse skills and perspectives to tackle challenges effectively. By working together, we cultivate a spirit of innovation and exploration, inspiring one another to dream big and pursue ambitious goals that contribute to our collective success.</p>
 
 <table style="width:100%">
    <tbody><tr>
