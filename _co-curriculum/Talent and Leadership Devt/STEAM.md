@@ -36,6 +36,6 @@ variant: markdown
 <p>
 Students are also able to further their interests in STEAM by embarking on research or initiating investigative projects mentored by our teachers and researchers from tertiary institutions. There are also many opportunities for such projects to be presented in prestigious national and international platforms such as the Singapore Science and Engineering Fair <a href="https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair">(SSEF)</a>, International Elementz Fair and the International Humanities Symposium.</p>
 	
-<p> Find out more about our STEAM Programme in our <a href="https://sites.google.com/moe.edu.sg/jpjcsteam/home">microsite</a>.
+<p> Find out more about our STEAM Programme in our <a href="https://go.gov.sg/jpjcsteam">microsite</a>.
 
 </p></div>
