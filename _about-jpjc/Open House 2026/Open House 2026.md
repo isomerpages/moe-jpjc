@@ -7,6 +7,7 @@ third_nav_title: Open House 2026
 ---
 <div align="justify">
  
+<p></p><h5><b>Our Open House 2026 has concluded. Stay tuned for updates in 2027.</b></h5><h5><p></p>
 	
 <table>
       <tbody><tr>
@@ -55,4 +56,4 @@ third_nav_title: Open House 2026
         </td>
  </tr>
 </tbody></table>
-</div>
+</h5></div>
