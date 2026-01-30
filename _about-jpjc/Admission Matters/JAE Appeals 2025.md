@@ -7,12 +7,10 @@ third_nav_title: Admission Matters
 ---
 <div align="justify">
 
-<p></p><h5><b>Our JAE Appeal 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
-
-<p>The 2025 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <strong>are not eligible </strong>for this exercise.</p><p></p><p>JAE posting results will be released on Tuesday, 4 February 2025. Appeals for admission to JPJC will commence on Tuesday, 4 February 2025 and end on Monday, 10 February 2025.</p><p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2025, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
+<p>The 2026 Joint Admissions Exercise (JAE) Appeal Exercise is for candidates who have not been posted to Jurong Pioneer Junior College (JPJC) under the JAE Posting Exercise. Candidates admitted to other institutions via Direct School Admission (DSA-JC) <strong>are not eligible </strong>for this exercise.</p><p></p><p>JAE posting results will be released at 9.00am on Tuesday, 3 February 2026. Appeals for admission to JPJC will commence on Tuesday, 3 February 2026 and end on Monday, 9 February 2026.</p><p>Candidates who wish to appeal for transfer to JPJC will need to meet the college’s course cut-off point (COP) in 2026, subject to the availability of vacancies and fulfilment of the college’s admission requirements.</p>
 	
 	
-<p>All appeal applications must be completed online. The online application form can be accessed <a href="https://jae.jpjc.edu.sg/">here</a>. Each applicant is allowed to submit only one application. The link will be valid only during the JAE  Appeals <b>2025</b> period.	</p>
+<p>All appeal applications must be completed online. The online application form can be accessed <a href="https://portal.jpjc.edu.sg/0/appeal.html">here</a>. Each applicant is allowed to submit only one application. The link will be valid only during the JAE  Appeals 2026 period.</p>
 <p>Only shortlisted candidates will be contacted for an interview.</p>
 <p>All shortlisted candidates will be notified before the end of the appeal period. Candidates are required to bring both the original and a duplicate copy of the following documents:</p>
 <ul><li>JAE Form A</li>
@@ -22,7 +20,7 @@ third_nav_title: Admission Matters
 </li><li>Secondary school testimonial
 </li><li>Other relevant supporting documents</li></ul><p></p>
 
-</h5></div>	
+</div>	
 	
 	
 	
@@ -50,6 +48,9 @@ third_nav_title: Admission Matters
 
 
 <div hidden="">	
-<p>Only shortlisted candidates will be notified via email to attend an interview with the school leaders and HODs. More details will be provided in the email notification. In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href="mailto:jpjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to this <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/" rel="noopener noreferrer nofollow" target="_blank"> webpage.</a></p><p>Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:</p><ul data-tight="true" class="tight"><li><p>latest ‘O’ Level result slips,</p></li><li><p>secondary school testimonials,</p></li><li><p>secondary school CCA records, and</p></li><li><p>other supporting documents.</p></li></ul><h5> Important Note</h5><p>All applicants are required to report to the college that they are posted to by the Ministry of Education on <u><strong>2 Feb 2024 (Fri), 0730hrs</strong></u>, pending the outcome of their appeal application to Jurong Pioneer Junior College.</p><p>Please contact 6564 6878 if you have further enquiry regarding JAE.</p>
+	
+<p></p><h5><b>Our JAE Appeal 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
+	
+<p>Only shortlisted candidates will be notified via email to attend an interview with the school leaders and HODs. More details will be provided in the email notification. In the event that you encounter difficulties uploading your GCE ‘O’ Level results slip and other relevant documents via our online portal, you may email the softcopy documents to <a href="mailto:jpjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> jpjc@moe.edu.sg</a>. For information about subject combinations and pre-requisites, you may refer to this <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/" rel="noopener noreferrer nofollow" target="_blank"> webpage.</a></p><p>Successful applicants will be notified of the outcome of their appeal application through a phone call. You will be required to bring along your original GCE ‘O’ Level results slip and Form A for verification as well as a photocopied set of the following documents:</p><ul data-tight="true" class="tight"><li><p>latest ‘O’ Level result slips,</p></li><li><p>secondary school testimonials,</p></li><li><p>secondary school CCA records, and</p></li><li><p>other supporting documents.</p></li></ul></h5><h5> Important Note</h5><p>All applicants are required to report to the college that they are posted to by the Ministry of Education on <u><strong>2 Feb 2024 (Fri), 0730hrs</strong></u>, pending the outcome of their appeal application to Jurong Pioneer Junior College.</p><p>Please contact 6564 6878 if you have further enquiry regarding JAE.</p>
 
 </div>
