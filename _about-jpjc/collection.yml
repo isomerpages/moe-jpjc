@@ -2,7 +2,6 @@ collections:
   about-jpjc:
     output: true
     order:
-      - Announcement for J1/.keep
       - Principal's Message.md
       - College Identity/.keep
       - College Identity/Vision, Mission, Values and Motto.md
@@ -26,6 +25,7 @@ collections:
         Combination.md
       - Admission Matters/Returning Singaporeans (RS) and International Students
         (IS).md
+      - Announcement for J1/.keep
       - Open House 2026/.keep
       - Open House 2026/Open House 2026.md
       - Open House 2026/JP Dynamic Experiences.md
