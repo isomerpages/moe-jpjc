@@ -20,78 +20,18 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH2.jpg">
-<figcaption>Principal Mr Ang's Sharing, Zi Ling's #WHYJP, Aries House Cheer, MLEP in Action, #WHYJP TKD</figcaption></figure>
-
+<figcaption>Principal Mr Ang's Sharing, Zi Ling's #WHYJP, Aries House Cheer, MLEP in Action, #WHYJP TKD, #Infinitelove for JP</figcaption></figure>
 
 <p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
+	
+<div class="isomer-image-wrapper"><figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH3.jpg">
+<figcaption>Organising Committee, #JPFAM</figcaption></figure>
+
 	
 <p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
 	
 <p>Photos by:<br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
-
-
-	
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Our friendly student leaders welcoming the visitors" src="/images/2025%20Life@JPJC/Open%20House/OH_1.jpg">
-<figcaption>
-Our friendly student leaders welcoming the visitors</figcaption></figure>	
-</div>
-	
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="MLEP Performance" src="/images/2025%20Life@JPJC/Open%20House/OH_2A.jpg">
-<figcaption>
-MLEP Performance</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="JP Dance Club at the CCA Showcase" src="/images/2025%20Life@JPJC/Open%20House/OH_2B.jpg">
-<figcaption>JP Dance Club at the CCA Showcase</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Our taekwondo team's thrilling demonstration" src="/images/2025%20Life@JPJC/Open%20House/OH_2C.jpg"><figcaption>Our taekwondo team's thrilling demonstration</figcaption></figure>	
-</div>
-	<p></p>
-
-<p></p>
-	<div class="isomer-image-wrapper">
-	<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Students engaging visitors at the Computing booth" src="/images/2025%20Life@JPJC/Open%20House/OH_3A.jpg">
-<figcaption>Students engaging visitors at the Computing booth</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Students engaging visitors at the Economics booth" src="/images/2025%20Life@JPJC/Open%20House/OH_3B.jpg">
-<figcaption>Students engaging visitors at the Economics booth</figcaption></figure>	
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Interact Club members sharing about their CCA" src="/images/2025%20Life@JPJC/Open%20House/OH_3C.jpg">
-<figcaption>Interact Club members sharing about their CCA</figcaption></figure>	
-</div>	
-
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="Our JPFam" src="/images/2025%20Life@JPJC/Open%20House/OH_4.jpg">
-<figcaption>Our JPFam</figcaption></figure>	
-</div>
-
-<p></p>
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" alt="School leaders and the Open House 2025 Organising Committee" src="/images/2025%20Life@JPJC/Open%20House/OH_5.jpg">
-<figcaption>School leaders and the Open House 2025 Organising Committee</figcaption></figure>
-
-<p>Photos by:<br>
-@jp_media.tech</p>
 
 </div></div></div></div>
