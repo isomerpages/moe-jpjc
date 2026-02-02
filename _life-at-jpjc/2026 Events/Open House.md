@@ -12,6 +12,10 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 	
 <p>Our welcoming student leaders😊led visitors on guided tours around the campus, offering insights along the way. Both the hall and canteen were filled with interactive subject, programme, and CCA showcases, giving guests the chance to explore a wide range of co-curricular options up close. Meanwhile, energetic performances at the concourse 🎭🎤infused the day with excitement and captured the vibrant spirit of the school.</p>
 	
+<div class="isomer-image-wrapper"><figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH1.jpg">
+<figcaption>Warm Welcome, College Tour, Subject and CCA Booths in the Hall, Happy to receive prospective students, Sharing Insights</figcaption></figure>
+	
 <p>Held in LT3, "Hear from the JPFam" featured meaningful sharing by four JPJC students alongside the Principal, offering visitors valuable insights into the college's vision and its commitment to developing future-ready learners. Academic pathways and niche programmes such as CLEP and MLEP🔥were also spotlighted, showcasing the many ways students can grow and thrive. Adding to the buzz, the CCA Showcase at the concourse saw students confidently presenting their skills and strong sense of teamwork, bringing the JPJC spirit to life.</p>
 
 <p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
@@ -20,6 +24,8 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 	
 <p>Photos by:<br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
+
+
 	
 <div class="isomer-image-wrapper">
 <figure>
@@ -73,7 +79,7 @@ MLEP Performance</figcaption></figure>
 <img style="width: 100%" height="auto" width="100%" alt="Our JPFam" src="/images/2025%20Life@JPJC/Open%20House/OH_4.jpg">
 <figcaption>Our JPFam</figcaption></figure>	
 </div>
-<p>The #WhyJP Open House 2025 showcased JPJC’s vibrant spirit, holistic education, and welcoming community. Visitors experienced the energy of student life, engaged with passionate staff and students, and explored the diverse academic and extracurricular opportunities. By the end of the day, they left the Open House inspired and confident, ready to join a college that nurtures growth, fosters talent, and empowers the leaders of tomorrow.</p>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
@@ -83,4 +89,4 @@ MLEP Performance</figcaption></figure>
 <p>Photos by:<br>
 @jp_media.tech</p>
 
-</div></div>
+</div></div></div>
