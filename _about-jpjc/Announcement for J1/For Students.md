@@ -7,7 +7,9 @@ third_nav_title: Announcement for J1
 ---
 <div align="justify">
 
-<h3>J1 Matriculation and Orientation Programme 2025</h3>
+<div hidden="">
+
+<h3>J1 Matriculation and Orientation Programme 2026</h3>
 <p>Dear J1 Students,</p>
 <p>Congratulations on joining Jurong Pioneer Junior College! We are excited to welcome you to our JPFam.</p> 
 <p>To help you settle in and make the most of your journey here, we have planned an engaging Matriculation and Orientation (M&amp;O) Programme. The programme will run from 5 February to 12 February.</p>
@@ -32,4 +34,4 @@ Jurong Pioneer Junior College</p>
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5rnNIerfBfg0_veZGdPrwYHLpSQgGV0yKEthLq4Mmif_ZdA7U3kirOXusDpWEiQ/pub?embedded=true" width="1200px" height="1200px" scrolling="no"></iframe>
 	
-</div>
+</div></div>
