@@ -19,7 +19,7 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 <p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
 	
 <p>Photos by:<br>
-@jp_media.tech</p>
+<a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
 	
 <div class="isomer-image-wrapper">
 <figure>
