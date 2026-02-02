@@ -26,6 +26,16 @@ sections:
       size: sm
       alignment: right
   - infopic:
+      title: JPFam warmly welcomes you
+      subtitle: IMPORTANT ANNOUNCEMENT!
+      id: infopic
+      description: Here are two important announcements to share with our new J1
+        students and parents.
+      button: FIND OUT MORE
+      url: /about/announcement-for-j1/for-students/
+      image: /images/2026 Life@JPJC/Open House/JPFAM.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House 2026
       subtitle: Highlights
       id: infopic
