@@ -25,12 +25,7 @@ third_nav_title: Announcement for J1
 <p> Warm regards<br>
 Jurong Pioneer Junior College</p>
 
-
-	
-	
 <p><u>M&amp;O Programme</u></p>
-	
-
 	
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vT4qO4SrBJqHH3XWGb4Qm9C_ah1OqzpvtgOfO8PewPIBUGHGRJFGnrOjaoGQGfLuQ/pub?embedded=true" width="1200px" height="1200px" scrolling="no"></iframe>
 	
