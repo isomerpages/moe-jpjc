@@ -7,15 +7,28 @@ third_nav_title: 2026 Events
 ---
 <div align="justify">
 	
-<p>On the morning of 13 January 2025, the gates of JPJC were opened to the public, and streams of prospective students and their parents eagerly entered the college to attend the highly anticipated #whyJP Open House. Our JPFam was equally excited, keen to show off the college and the exciting activities. The Open House aimed to immerse visitors in the JPJC experience, allowing them to make informed decisions for the next chapter of their academic journey.</p>
-<p>Upon entering, visitors were warmly welcomed at the registration table by our enthusiastic student leaders whose friendly smiles set the tone for an engaging day ahead. From there, they could choose their own adventure: join a guided tour to explore the campus, head to the hall to learn more about subject selection, or interact with students to discover the wide variety of co-curricular activities available at JPJC.</p>
+<p>More than two thousand prospective students and parents streamed into our JP campus on Friday, 16
+January 2026, for a day of exploration and discovery. The Open House brought to life JPJC's dynamic campus culture 🏫, comprehensive academic pathways 📚, and vibrant array of CCAs 🎶⚽— a true reflection of what makes JPJC a great place to learn and grow.</p>
+	
+<p>Our welcoming student leaders 😊 led visitors on guided tours around the campus, offering insights along the way. Both the hall and canteen were filled with interactive subject, programme, and CCA showcases, giving guests the chance to explore a wide range of co-curricular options up close. Meanwhile, energetic performances at the concourse 🎭🎤 infused the day with excitement and captured the vibrant spirit of the school.</p>
+	
+<p>Held in LT3, "Hear from the JPFam" featured meaningful sharing by four JPJC students alongside the Principal, offering visitors valuable insights into the college's vision and its commitment to developing future-ready learners. Academic pathways and niche programmes such as CLEP and MLEP🔥
+were also spotlighted, showcasing the many ways students can grow and thrive. Adding to the buzz, the CCA Showcase at the concourse saw students confidently presenting their skills and strong sense of teamwork, bringing the JPJC spirit to life.</p>
+
+<p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
+	
+<p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
+	
+<p>Photos by:<br>
+@jp_media.tech</p>
+	
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="Our friendly student leaders welcoming the visitors" src="/images/2025%20Life@JPJC/Open%20House/OH_1.jpg">
 <figcaption>
 Our friendly student leaders welcoming the visitors</figcaption></figure>	
 </div>
-<p>One of the highlights was the CCA Showcase, featuring captivating performances that highlighted the incredible talent of our students. Visitors were treated to vibrant displays by the Malay Language Elective Programme, Concert Band, Chinese Orchestra, Guitar Ensemble, Choir, JP Dance Club, and the energetic Taekwondo Team, offering a glimpse into the dynamic and inclusive college community.</p>
+	
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
@@ -35,7 +48,7 @@ MLEP Performance</figcaption></figure>
 <img style="width: 100%" height="auto" width="100%" alt="Our taekwondo team's thrilling demonstration" src="/images/2025%20Life@JPJC/Open%20House/OH_2C.jpg"><figcaption>Our taekwondo team's thrilling demonstration</figcaption></figure>	
 </div>
 	<p></p>
-<p>At the #WhyJP Open House, Principal Mr. Kevin Ang emphasised why JPJC stands out as a top choice for junior college, highlighting its quality education and diverse programmes for holistic development. Visitors also explored the Academic and Subject Combination Showcase in the hall, where teachers provided guidance on the JC curriculum and elective programmes, including JPJC’s signature Chinese and Malay Language Elective Programmes.</p>
+
 <p></p>
 	<div class="isomer-image-wrapper">
 	<figure>
@@ -54,7 +67,7 @@ MLEP Performance</figcaption></figure>
 <img style="width: 100%" height="auto" width="100%" alt="Interact Club members sharing about their CCA" src="/images/2025%20Life@JPJC/Open%20House/OH_3C.jpg">
 <figcaption>Interact Club members sharing about their CCA</figcaption></figure>	
 </div>	
-<p>Special Programmes and Co-Curricular Activities (CCA) booths across the Concourse, Hall, and Canteen showcased a wide range of opportunities available in JPJC. Dynamic performances by performing arts CCAs offered a glimpse into the vibrant extracurricular life. These experiences inspired visitors to envision themselves as part of the #JPFam and the exciting journey ahead at JPJC.</p>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <figure>
@@ -67,9 +80,6 @@ MLEP Performance</figcaption></figure>
 <figure>
 <img style="width: 100%" height="auto" width="100%" alt="School leaders and the Open House 2025 Organising Committee" src="/images/2025%20Life@JPJC/Open%20House/OH_5.jpg">
 <figcaption>School leaders and the Open House 2025 Organising Committee</figcaption></figure>
-<p>Written by:<br>
-Tan Xuan Ru Zorie, 24S08 <br>
-Chua Chee Yang, 24S12</p>
 
 <p>Photos by:<br>
 @jp_media.tech</p>
