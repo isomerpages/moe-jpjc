@@ -28,13 +28,12 @@ Jurong Pioneer Junior College</p>
 	
 <p>         
 
-1.  [Matriculation Day 1-3 Programme](https://www.canva.com/design/DAG-08rtaIg/kJ3xs4uXkgH5iJughN_mOw/edit)
-2.  [Financial Assistance Schemes](#page-1)
-3.  [Purchase of S](#page-4)chool Uniform and House Tee
-4.  [Purchase of](#page-2) Graphing Calculator
-5.  [Extension of EZ Link](#page-5)
+1. Matriculation Day 1-3 Programme
+2. Financial Assistance Scheme
+3. Purchase of School Uniform and House Tee
+4. Purchase of Graphing Calculator
+5.  Extension of EZ Link
 6.  Orientation Day 1-3 Programme
 7.  Student Handbook
-	
 	
 </p></div>
