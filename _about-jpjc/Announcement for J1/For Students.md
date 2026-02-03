@@ -36,7 +36,7 @@ Jurong Pioneer Junior College</p>
 </p><p>Click on the <a href="https://www.canva.com/design/DAG97xyjPRU/5udzPwYEXRTVmnJvDH0ArA/edit?utm_content=DAG97xyjPRU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">link</a> or scan the QR code to below for more information.</p>
 
 <p></p><figure style="width:50%; height: auto"><img src="/images/About%20JPJC/Announcements%20for%20J1/M_O2026.jpg"></figure><p></p>
+	
+<p>Please report to JPJC on Wednesday, 4 February at 7:30am in your secondary school uniform and school shoes.</p>
 
-	
-	
 <p></p></div>
