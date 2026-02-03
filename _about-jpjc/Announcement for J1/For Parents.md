@@ -27,7 +27,7 @@ third_nav_title: Announcement for J1
 <li>Platform: Microsoft Teams</li>
 <li>Register via this <a href="https://go.gov.sg/jpjc-parents-engagement-webinar-2026">link</a> or scan the QR code to register</li></ul>
 
-<p></p><figure style="width:50%; height: auto"><img src="/images/About%20JPJC/Announcements%20for%20J1/PEW2026_jpeg.jpg"></figure><p></p>
+<p></p><figure style="width:50%; height: auto"><img src="/images/About%20JPJC/Announcements%20for%20J1/PEW2026.jpg"></figure><p></p>
 	
 <p>A confirmation email containing the webinar link will be sent to their inbox upon successful registration.</p>
 
