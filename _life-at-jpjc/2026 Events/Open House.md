@@ -14,21 +14,20 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH1.jpg">
-<figcaption>Warm Welcome, College Tour, Subject and CCA Booths in the Hall, Happy to receive prospective students, Sharing Insights</figcaption></figure>
+<figcaption></figcaption></figure>
 	
 <p>Held in LT3, "Hear from the JPFam" featured meaningful sharing by four JPJC students alongside the Principal, offering visitors valuable insights into the college's vision and its commitment to developing future-ready learners. Academic pathways and niche programmes such as CLEP and MLEP🔥were also spotlighted, showcasing the many ways students can grow and thrive. Adding to the buzz, the CCA Showcase at the concourse saw students confidently presenting their skills and strong sense of teamwork, bringing the JPJC spirit to life.</p>
 
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH2.jpg">
-<figcaption>Principal Mr Ang's Sharing, Zi Ling's #WHYJP, Aries House Cheer, MLEP in Action, #WHYJP TKD, #Infinitelove for JP</figcaption></figure>
+<figcaption></figcaption></figure>
 
 <p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
 	
 <div class="isomer-image-wrapper"><figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH3.jpg">
-<figcaption>Organising Committee, #JPFAM</figcaption></figure>
+<figcaption></figcaption></figure>
 
-	
 <p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
 	
 <p>Photos by:<br>
