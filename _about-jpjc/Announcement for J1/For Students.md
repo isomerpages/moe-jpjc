@@ -24,16 +24,18 @@ third_nav_title: Announcement for J1
 <p> Warm regards<br>
 Jurong Pioneer Junior College</p>
 
-<p><u>M&amp;O Programme Highlights</u></p>
-	
-<p>         
-
-1. Matriculation Day 1-3 Programme
-2. Financial Assistance Scheme
-3. Purchase of School Uniform and House Tee
-4. Purchase of Graphing Calculator
-5.  Extension of EZ Link
-6.  Orientation Day 1-3 Programme
+<p><u>Information on M&amp;O</u></p>
+<p>1. Matriculation Day 1-3 Programme<br>
+2. Financial Assistance Scheme<br>
+3. Purchase of School Uniform and House Tee<br>
+4. Purchase of Graphing Calculator<br>
+5.  Extension of EZ Link<br>
+6.  Orientation Day 1-3 Programme<br>
 7.  Student Handbook
 	
-</p></div>
+</p><p>Scan the QR code below</p>
+<p></p><figure style="width:50%; height: auto"><img src="/images/About%20JPJC/Announcements%20for%20J1/M_O2026.jpg"></figure><p></p>
+
+	
+	
+<p></p></div>
