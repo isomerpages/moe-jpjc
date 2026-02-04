@@ -6,10 +6,8 @@ variant: markdown
 third_nav_title: Admission Matters
 ---
 <div align="justify">
-	
-<p></p><h5><b>Registration for 2025 Subject Combination has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 
-<p>The following information is for <b>JC1 students who have been posted to JPJC.</b></p>
+<p>The following information is for <b>J1 students who have been posted to JPJC.</b></p>
 
 <p>We will need you to update your particulars via our college’s Knowledge Management (KM) Portal: <a href="https://portal.jpjc.edu.sg">https://portal.jpjc.edu.sg</a></p>
 
@@ -21,4 +19,7 @@ third_nav_title: Admission Matters
 <p></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on 5 February, 11:59 PM.</b></p>
-</h5></div>
+</div>
+
+<div hidden="">	
+<p></p><h5><b>Registration for 2025 Subject Combination has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p></h5></div>
