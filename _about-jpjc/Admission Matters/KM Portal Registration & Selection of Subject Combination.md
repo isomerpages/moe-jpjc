@@ -16,7 +16,7 @@ third_nav_title: Admission Matters
 <p>You may refer to the following documents for the slides used for the KM Portal and Subject Combination briefing that was done in the hall.</p>
 
 
-<p></p><li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2025_KM_Portal_and_Registration_Briefing.pdf">KM Portal and Registration Briefing</a></li>
+<p></p><li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2026_KM_Portal_and_Registration_Briefing.pdf">KM Portal and Registration Briefing</a></li>
 <li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2025_J1_Matric_Day_1_Talk_Subject_Combi_upload.pdf">Subject Combination Talk</a></li>
 <p></p>
 
