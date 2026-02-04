@@ -15,7 +15,7 @@ third_nav_title: Admission Matters
 
 
 <p></p><li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2026_J1_M1_Talk_Subject_Combi_upload.pdf">KM Portal and Registration Briefing</a></li>
-<li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2025_J1_Matric_Day_1_Talk_Subject_Combi_upload.pdf">Subject Combination Talk</a></li> 
+<li><a href="/files/Admission%20Matters/KM%20portal%20and%20registration/2026_J1_M1_Talk_Subject_Combi_upload.pdf">Subject Combination Talk</a></li>
 <p></p>
 
 <p>Please note that the <b>deadline to complete updating your particulars as well as subject registration will be on Thursday, 5 February 2026, 10:00am.</b></p>
