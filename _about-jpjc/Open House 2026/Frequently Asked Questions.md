@@ -24,7 +24,7 @@ third_nav_title: Open House 2026
 	<li>Infinite Love: Students are encouraged to show empathy, respect, and consideration for others. JPFam creates a safe and inclusive space where everyone feels valued and supported. Helping and supporting peers, just as our staff care for students. Celebrating achievements strengthens the sense of belonging for JPFam.</li>
 	<li>Infinite Growth: Students are encouraged to adopt a growth mindset and see learning as a lifelong journey. JPFam nurtures resilience and a willingness to embrace challenges, helping students grow in confidence and skills.</li>
 	<li>Infinite Possibilities: Collaboration, problem-solving, innovation, and creativity are hallmarks of the JPFam. </li></ul>
-	<p>JPFam’s spirit reflects the college motto, <i>“While I Live, I Learn. Plus Ultra,”</i>i inspiring students to explore beyond their comfort zones.</p>
+	<p>JPFam’s spirit reflects the college motto, <i>“While I Live, I Learn. Plus Ultra,”</i> inspiring students to explore beyond their comfort zones.</p>
 	
 <h3>Subject Combinations</h3>
 <h5><b>1. What subject combinations are available in JPJC?</b></h5>
