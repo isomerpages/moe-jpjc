@@ -25,17 +25,17 @@ third_nav_title: Civics Tutors
 26S06 | <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> 
 26S07 | <a href="mailto: chen_tuck_han_freddie@moe.edu.sg">Mr Freddie Chen Tuck Han</a>
 26S08 | <a href="mailto: chong_woon_hui@moe.edu.sg">Ms Chong Woon Hui</a><br><a href="mailto: natarajan_usha@moe.edu.sg">Ms Natarajan Usha</a>
-26S09 | <a href="mailto: v_tamil_vani@moe.edu.sg">Ms V Tamil Vani</a>
-26S10 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
+26S09 | <a href="mailto: marian_thng_bee_peng@moe.edu.sg">Ms Marian Thng Bee Peng</a>
+26S10 | <a href="mailto: v_tamil_vani@moe.edu.sg">Ms V Tamil Vani</a>
 26S11 | <a href="mailto: chong_woon_hui@moe.edu.sg">Ms Chong Woon Hui</a>
 26S12 | <a href="mailto: gerard_ng_wee_meng@moe.edu.sg">Mr Gerard Ng Wee Meng</a>
-26S13 | <a href="mailto: goh_tok_foon@moe.edu.sg">Mrs Heng-Goh Tok Foon</a>
+26S13 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
 26S14 | <a href="mailto: lee_boon_keong@moe.edu.sg">Mr Joseph Lee Boon Keong</a><br><a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a> 
 26S15 | <a href="mailto: khoo_puay_cheng@moe.edu.sg">Mdm Khoo Puay Cheng</a>
 26S16 | <a href="mailto: yap_lok_hun@moe.edu.sg">Mr Yap Lok Hun</a>
 26S17 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
 26S18 | <a href="mailto: yeoh_phaik_khee@moe.edu.sg">Ms Alexis Yeoh Phaik Khee</a><br><a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a> 
-26S19 | <a href="mailto: lee_eng_seng@moe.edu.sg">Mr Lee Eng Seng</a><br><a href="mailto: marian_thng_bee_peng@moe.edu.sg">Ms Marian Thng Bee Peng</a>
+26S19 | <a href="mailto: lee_eng_seng@moe.edu.sg">Mr Lee Eng Seng</a><br>
 26S20 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 26S21 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 26S22 | <a href="mailto: tan_soon_hong@moe.edu.sg">Mr Tan Soon Hong</a>
