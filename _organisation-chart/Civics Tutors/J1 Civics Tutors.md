@@ -27,7 +27,7 @@ third_nav_title: Civics Tutors
 26S08 | <a href="mailto: chong_woon_hui@moe.edu.sg">Ms Chong Woon Hui</a><br><a href="mailto: natarajan_usha@moe.edu.sg">Ms Natarajan Usha</a>
 26S09 | <a href="mailto: marian_thng_bee_peng@moe.edu.sg">Ms Marian Thng Bee Peng</a>
 26S10 | <a href="mailto: v_tamil_vani@moe.edu.sg">Ms V Tamil Vani</a>
-26S11 | <a href="mailto: chong_woon_hui@moe.edu.sg">Ms Chong Woon Hui</a>
+26S11 | <a href="mailto: chng_jun_ni_june@moe.edu.sg">Ms Chng Jun Ni June</a>
 26S12 | <a href="mailto: gerard_ng_wee_meng@moe.edu.sg">Mr Gerard Ng Wee Meng</a>
 26S13 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
 26S14 | <a href="mailto: lee_boon_keong@moe.edu.sg">Mr Joseph Lee Boon Keong</a><br><a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a> 
@@ -42,5 +42,5 @@ third_nav_title: Civics Tutors
 26S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a></h5></div>
 
 <div hidden="">
-	26A07 | <a href="mailto: aini_azidah@moe.edu.sg">Ms Aini Azidah Bt Haja Maideen</a><br><a href="mailto: chng_jun_ni_june@moe.edu.sg">Ms Chng Jun Ni June</a> <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a> <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a> a href="mailto: tan_wen_yao_benjamin@moe.edu.sg"&gt;Mr Tan Wen Yao Benjamin<br><a href="mailto: tan_ying_xin@moe.edu.sg">Ms Tan Ying Xin</a> <a href="mailto: yu_zhen@moe.edu.sg">Mr Yu Zhen</a><br><a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a><br><a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a><br><a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a>
+	26A07 | <a href="mailto: aini_azidah@moe.edu.sg">Ms Aini Azidah Bt Haja Maideen</a><br> <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a> <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a> a href="mailto: tan_wen_yao_benjamin@moe.edu.sg"&gt;Mr Tan Wen Yao Benjamin<br><a href="mailto: tan_ying_xin@moe.edu.sg">Ms Tan Ying Xin</a> <a href="mailto: yu_zhen@moe.edu.sg">Mr Yu Zhen</a><br><a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a><br><a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a><br><a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a>
 	</div>
