@@ -8,12 +8,12 @@ third_nav_title: Civics Tutors
 <div align="justify">
 <p></p><h5><b>J1 Civics Tutor list will be updated after 2026 J1 Matriculation &amp; Orientation.</b></h5><h5><p></p>
 
-<div hidden="">
+
 | Class | Civics Tutor | 
 | -------- | -------- | 
-26A01 | <a href="mailto: mohamed_osman_rahamat@moe.edu.sg">Mr Mohamed Osman B Rahamat </a><br><a href="mailto: ng_yee_leen@moe.edu.sg">Ms Ng Yee Leen</a>   
-26A02 | <a href="mailto: lim_weili@moe.edu.sg">Mr Lim Weili</a><br><a href="mailto: nor_azah_abdul_aziz@moe.edu.sg">Mdm Nor Azah Binte Abdul Aziz</a>   
-26A03 | <a href="mailto: lim_han_ling@moe.edu.sg">Mr Lim Han Ling</a> 
+26A01 | <a href="mailto: mohamed_osman_rahamat@moe.edu.sg">Mr Mohamed Osman B Rahamat </a>
+26A02 | <a href="mailto: guan_yanli_lily@moe.edu.sg">Ms Guan Yanli Lily</a><br><a href="mailto: sai_chang_sheng@moe.edu.sg">Mr Dillon Sai</a>   
+26A03 | <a href="mailto: yeoh_phaik_khee@moe.edu.sg">Ms Alexis Yeoh Phaik Khee</a> 
 26A04 | <a href="mailto: lim_yu_ching@moe.edu.sg">Mr Lim Yu Ching</a><br><a href="mailto: penny_lee_si_li@moe.edu.sg">Ms Penny Lee Si Li</a>   
 24A05 | <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a>
 26A06 | <a href="mailto: ang_shu_zhen@moe.edu.sg">Ms Ang Shu Zhen</a>
@@ -40,4 +40,7 @@ third_nav_title: Civics Tutors
 26S20 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 26S21 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 26S22 | <a href="mailto: tan_soon_hong@moe.edu.sg">Mr Tan Soon Hong</a>
-26S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a></div></h5></div>
+26S23 | <a href="mailto: siti_khadijah_mohammed_a@moe.edu.sg">Mdm Siti Khadijah Binte Mohammed Anis</a></h5></div>
+
+<div hidden="">
+	<br><a href="mailto: ng_yee_leen@moe.edu.sg">Ms Ng Yee Leen</a>   </div>
