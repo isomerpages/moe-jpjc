@@ -32,15 +32,16 @@ third_nav_title: Civics Tutors
 26S13 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
 26S14 | <a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a>
 26S15 | <a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a><br><a href="mailto: tay_shunwei_felicia@moe.edu.sg">Ms Tay Shunwei Felicia</a><br>
-26S16 | <a href="mailto: chay_chun_ho@moe.edu.sg">Mr Jack Chay Chun Ho</a><a href="mailto: yap_lok_hun@moe.edu.sg">Mr Yap Lok Hun</a> 
+26S16 | <a href="mailto: chay_chun_ho@moe.edu.sg">Mr Jack Chay Chun Ho</a> 
 26S17 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
 26S18 | <a href="mailto: yeoh_phaik_khee@moe.edu.sg">Ms Alexis Yeoh Phaik Khee</a><br><a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a> 
 26S19 | <a href="mailto: lee_eng_seng@moe.edu.sg">Mr Lee Eng Seng</a><br>
 26S20 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 26S21 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 26S22 | <a href="mailto: khoo_puay_cheng@moe.edu.sg">Mdm Khoo Puay Cheng</a>
-26S23 | <a href="mailto: gerard_ng_wee_meng@moe.edu.sg">Mr Gerard Ng Wee Meng</a></h5></div>
+26S23 | <a href="mailto: gerard_ng_wee_meng@moe.edu.sg">Mr Gerard Ng Wee Meng</a>
+26S24 | <a href="mailto: yap_lok_hun@moe.edu.sg">Mr Yap Lok Hun</a><br><a href="mailto: aini_azidah@moe.edu.sg">Ms Aini Azidah Bt Haja Maideen</a></h5></div>
 
 <div hidden="">
-	26A07 | <a href="mailto: aini_azidah@moe.edu.sg">Ms Aini Azidah Bt Haja Maideen</a><br> <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a> <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a> a href="mailto: tan_wen_yao_benjamin@moe.edu.sg"&gt;Mr Tan Wen Yao Benjamin<br><a href="mailto: tan_ying_xin@moe.edu.sg">Ms Tan Ying Xin</a> <a href="mailto: yu_zhen@moe.edu.sg">Mr Yu Zhen</a><br><a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a><br><a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a><br><a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a>
+	26A07 | <br> <a href="mailto: shamala_maheswaran@moe.edu.sg">Mdm Shamala d/o Maheswaran</a> <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a> a href="mailto: tan_wen_yao_benjamin@moe.edu.sg"&gt;Mr Tan Wen Yao Benjamin<br><a href="mailto: tan_ying_xin@moe.edu.sg">Ms Tan Ying Xin</a> <a href="mailto: yu_zhen@moe.edu.sg">Mr Yu Zhen</a><br><a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a><br><a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a><br><a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a>
 	</div>
