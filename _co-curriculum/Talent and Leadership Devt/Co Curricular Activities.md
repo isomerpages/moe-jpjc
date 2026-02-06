@@ -28,7 +28,6 @@ All students are expected to play an active role in their CCAs for their develop
 
 <center><h1>Clubs &amp; Societies</h1></center>
 <br>
-<figure>
 <div class="row">
   <div class="column">	
 <a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
@@ -108,7 +107,7 @@ All students are expected to play an active role in their CCAs for their develop
 		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
 		<a href="https://www.instagram.com/jp.ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a>
 		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a>
-</div></div></figure>	
+</div></div>
 </div></div>
 
 
