@@ -23,36 +23,34 @@ CCA is an integral part of every student’s experience in the college. CCAs pro
 All students are expected to play an active role in their CCAs for their development can be reflected in the School Graduation Certificate (SGC).</p>
 
 <div>
-
 <h3><center>Click on each of the icons to learn more about our CCAs!</center></h3>
 
 <center><h1>Clubs &amp; Societies</h1></center>
 <br>
-<figure>
 <div class="row">
   <div class="column">	
-<a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Open%20house%202024/CCA/AVAC.png"></a>
-<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Open%20house%202024/CCA/Chess_Club.png"></a>
-<a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Open%20house%202024/CCA/Chinese_Cultural_Society.png"></a>
+<a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Co%20Curriculum/CCA/AVAC.png"></a>
+<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Co%20Curriculum/CCA/Chess_Club.png"></a>
+<a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Co%20Curriculum/CCA/Chinese_Cultural_Society.png"></a>
 </div>
 
 
 <div class="column">
-<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Open%20house%202024/CCA/Community_Engagement_Council.png"></a>
-		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Open%20house%202024/CCA/Eco_Club.png"></a>
-		<a href="https://www.instagram.com/jpjc_infocomm/"><img alt="InfoComm Club" src="/images/Open%20house%202024/CCA/InfoComm_Club.png"></a></div>
+<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Co%20Curriculum/CCA/Community_Engagement_Council.png"></a>
+		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Co%20Curriculum/CCA/Eco_Club.png"></a>
+		<a href="https://www.instagram.com/jpjc_infocomm/"><img alt="InfoComm Club" src="/images/Co%20Curriculum/CCA/InfoComm_Club.png"></a></div>
 
 	
 	
 <div class="column">
-<a href="https://www.instagram.com/jpjc.interact/"><img alt="Interact Club" src="/images/Open%20house%202024/CCA/Interact_Club.png"></a>
-<a href="https://www.instagram.com/jpjcicas/"><img alt="International Current Affairs Society" src="/images/Open%20house%202024/CCA/International_Current_Affairs_Society.png"></a>
-<a href="https://www.instagram.com/jp_media.tech/"><img alt="JPJC Media Tech Club" src="/images/Open%20house%202024/CCA/JP_Media_Tech_Club.png"></a></div>
+<a href="https://www.instagram.com/jpjc.interact/"><img alt="Interact Club" src="/images/Co%20Curriculum/CCA/Interact_Club.png"></a>
+<a href="https://www.instagram.com/jpjcicas/"><img alt="International Current Affairs Society" src="/images/Co%20Curriculum/CCA/International_Current_Affairs_Society.png"></a>
+<a href="https://www.instagram.com/jp_media.tech/"><img alt="JPJC Media Tech Club" src="/images/Co%20Curriculum/CCA/JP_Media_Tech_Club.png"></a></div>
 
 
 <div class="column">
-		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Open%20house%202024/CCA/PlayArt.png"></a>
-	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Open%20house%202024/CCA/Student_Council.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Co%20Curriculum/CCA/PlayArt.png"></a>
+	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Co%20Curriculum/CCA/Student_Council.png"></a></div></div>
 
 
 
@@ -65,18 +63,18 @@ All students are expected to play an active role in their CCAs for their develop
 <br>
 <div class="row">
 <div class="column">
-<a href="https://www.instagram.com/jpjcco/"><img alt="Chinese Orchestra" src="/images/Open%20house%202024/CCA/Chinese_Orchestra.png"></a>
-<a href="https://www.instagram.com/jp_choir/"><img alt="Choir" src="/images/Open%20house%202024/CCA/Choir.png"></a></div>
+<a href="https://www.instagram.com/jpjcco/"><img alt="Chinese Orchestra" src="/images/Co%20Curriculum/CCA/Chinese_Orchestra.png"></a>
+<a href="https://www.instagram.com/jp_choir/"><img alt="Choir" src="/images/Co%20Curriculum/CCA/Choir.png"></a></div>
 	
 <div class="column">
-<a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Open%20house%202024/CCA/Concert_Band.png"></a>
+<a href="https://www.instagram.com/jpjcconcertband/"><img alt="Concert Band" src="/images/Co%20Curriculum/CCA/Concert_Band.png"></a>
 </div>
 
 <div class="column">
-<a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Open%20house%202024/CCA/Guitar_Ensemble.png"></a></div>
+<a href="https://www.instagram.com/jpguitarensemble/"><img alt="Guitar Ensemble" src="/images/Co%20Curriculum/CCA/Guitar_Ensemble.png"></a></div>
 	
 <div class="column">
-		<a href="https://www.instagram.com/jpjcdanceclub/"><img alt="JP Dance Club" src="/images/Open%20house%202024/CCA/JPDC.png"></a></div></div>
+		<a href="https://www.instagram.com/jpjcdanceclub/"><img alt="JP Dance Club" src="/images/Co%20Curriculum/CCA/JPDC.png"></a></div></div>
 
 <br>
 <br>
@@ -89,26 +87,26 @@ All students are expected to play an active role in their CCAs for their develop
 
 <div class="row">
 	<div class="column">
-		<a href="https://www.instagram.com/jpjcathletics/"><img alt="Athletics" src="/images/Open%20house%202024/CCA/Athletics.png"></a>
-		<a href="https://www.instagram.com/jpjcbadminton/"><img alt="Badminton" src="/images/Open%20house%202024/CCA/Badminton.png"></a>
-		<a href="https://www.instagram.com/jpjcbasketball/"><img alt="Basketball" src="/images/Open%20house%202024/CCA/Basketball.png"></a><a href="https://www.instagram.com/jpfalcons/"><img alt="Floorball" src="/images/Open%20house%202024/CCA/Floorball.png"></a>
+		<a href="https://www.instagram.com/jpjcathletics/"><img alt="Athletics" src="/images/Co%20Curriculum/CCA/Athletics.png"></a>
+		<a href="https://www.instagram.com/jpjcbadminton/"><img alt="Badminton" src="/images/Co%20Curriculum/CCA/Badminton.png"></a>
+		<a href="https://www.instagram.com/jpjcbasketball/"><img alt="Basketball" src="/images/Co%20Curriculum/CCA/Basketball.png"></a><a href="https://www.instagram.com/jpfalcons/"><img alt="Floorball" src="/images/Co%20Curriculum/CCA/Floorball.png"></a>
 	</div>
 	
 <div class="column">
-		<a href="https://www.instagram.com/jpjcfutbol/"><img alt="Football" src="/images/Open%20house%202024/CCA/Football.png"></a>
-		<a href="https://www.instagram.com/jpnetball_/"><img alt="Netball" src="/images/Open%20house%202024/CCA/Netball.png"></a><a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Table Tennis" src="/images/Open%20house%202024/CCA/Table_Tennis.png"></a></div>
+		<a href="https://www.instagram.com/jpjcfutbol/"><img alt="Football" src="/images/Co%20Curriculum/CCA/Football.png"></a>
+		<a href="https://www.instagram.com/jpnetball_/"><img alt="Netball" src="/images/Co%20Curriculum/CCA/Netball.png"></a><a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Table Tennis" src="/images/Co%20Curriculum/CCA/Table_Tennis.png"></a></div>
 		
 		
 <div class="column">
-			<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Open%20house%202024/CCA/Taekwondo.png"></a>
-	<img alt="Tchoukball" src="/images/Open%20house%202024/CCA/Tchoukball.png">
-		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Open%20house%202024/CCA/Tennis.png"></a></div>
+			<a href="https://www.instagram.com/jptaekwondo/"><img alt="Taekwondo" src="/images/Co%20Curriculum/CCA/Taekwondo.png"></a>
+	<img alt="Tchoukball" src="/images/Co%20Curriculum/CCA/Tchoukball.png">
+		<a href="https://www.instagram.com/jpjctennis/"><img alt="Tennis" src="/images/Co%20Curriculum/CCA/Tennis.png"></a></div>
 	
 <div class="column">
-		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Open%20house%202024/CCA/Touch_Rugby.png"></a>
-		<a href="https://www.instagram.com/jp.ultimate/"><img alt="Ultimate Frisbee" src="/images/Open%20house%202024/CCA/Ultimate_Frissbee.png"></a>
-		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Open%20house%202024/CCA/Volleyball.png"></a>
-</div></div></figure>	
+		<a href="https://www.instagram.com/jptouchrugby/?igsh=MWtiNXdyZHhtd29wYQ%3D%3D"><img alt="Touch Rugby" src="/images/Co%20Curriculum/CCA/Touch_Rugby.png"></a>
+		<a href="https://www.instagram.com/jp.ultimate/"><img alt="Ultimate Frisbee" src="/images/Co%20Curriculum/CCA/Ultimate_Frissbee.png"></a>
+		<a href="https://www.instagram.com/jpjcvolleyball/"><img alt="Volleyball" src="/images/Co%20Curriculum/CCA/Volleyball.png"></a>
+</div></div>
 </div></div>
 
 
