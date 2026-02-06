@@ -30,7 +30,7 @@ third_nav_title: Civics Tutors
 26S11 | <a href="mailto: chng_jun_ni_june@moe.edu.sg">Ms Chng Jun Ni June</a>
 26S12 | <a href="mailto: tan_wen_yao_benjamin@moe.edu.sg">Mr Tan Wen Yao Benjamin</a>
 26S13 | <a href="mailto: kelvin_sng_yee_min@moe.edu.sg">Dr Kelvin Sng Yee Min</a>
-26S14 | <a href="mailto: lee_boon_keong@moe.edu.sg">Mr Joseph Lee Boon Keong</a><br><a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a> 
+26S14 | <a href="mailto: lim_meow_ang@moe.edu.sg">Mdm Lim Meow Ang</a>
 26S15 | <a href="mailto: khoo_puay_cheng@moe.edu.sg">Mdm Khoo Puay Cheng</a>
 26S16 | <a href="mailto: yap_lok_hun@moe.edu.sg">Mr Yap Lok Hun</a>
 26S17 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
