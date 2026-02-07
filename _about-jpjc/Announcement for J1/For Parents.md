@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Announcement for J1
 ---
-**Our webinar has concluded. Please find the selected resources and the link to the KM portal here: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/kmportal/. Stay tuned for updates in 2027.**
+**Our webinar has concluded. Please find the 
+<a href="/about-jpjc/admission-matters/kmportal">selected resources and the link to the KM portal here</a>. Stay tuned for updates in 2027.**
 
 <div align="justify">
 
