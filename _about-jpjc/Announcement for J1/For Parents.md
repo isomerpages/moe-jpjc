@@ -5,11 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Announcement for J1
 ---
+**Our webinar has concluded. Please find the selected resources and the link to the KM portal here: https://www.jpjc.moe.edu.sg/about-jpjc/admission-matters/kmportal/. Stay tuned for updates in 2027.**
+
 <div align="justify">
 
 <h3>J1 Parent Engagement on Subject Combination</h3>
 
-<p>Dear J1 Parents and Guardians,</p>
+<p>Dear J1 Parents/Guardians,</p>
 <p>To support our new J1 students in selecting their subject combinations, we warmly invite you to attend our Parent Engagement on Subject Combination. This session will be held virtually via Microsoft Teams on Wednesday, 4 February, from 6:00 PM to 7:00 PM.</p> 
 	
 <p>During this session, you will hear from our Heads of Departments (HODs) and the Education and Career Guidance (ECG) Counsellor, who will provide insights into:</p>
