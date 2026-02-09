@@ -6,8 +6,11 @@ description: ""
 third_nav_title: Open House 2026
 ---
 <div align="justify">
-	
 <h3>Admission</h3>
+Explore pathways and understand the posting processs:
+a. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-the-posting-process">What to consider</a>
+b. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-the-posting-process/how-posting-works">How posting works</a> 
+	
 <h5><b>1. What are the cut-off points for JPJC?</b></h5>
 
 <p>For reference, the L1R5 Net Aggregate Range for 2026 JAE for the Arts Stream was 9 to 14, and for the Science Stream, 4 to 14.</p>
