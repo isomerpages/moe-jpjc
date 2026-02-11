@@ -4,11 +4,46 @@ permalink: /test/
 variant: markdown
 description: ""
 ---
+<div class="row">	
+<div class="column">	
+<a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Co%20Curriculum/CCA/AVAC.png"></a>
+
+<div class="column">	
+<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Co%20Curriculum/CCA/Chess_Club.png"></a>
+</div>	
 
 
+</div>	
+	
+	
+		
+<div class="column">		
+<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Co%20Curriculum/CCA/Chess_Club.png"></a>
+<a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Co%20Curriculum/CCA/Chinese_Cultural_Society.png"></a></div>
+
+<div class="column">	
+<a href="https://www.instagram.com/jpjc_av/"><img alt="Audio Visual Club" src="/images/Co%20Curriculum/CCA/AVAC.png"></a>
+<a href="https://www.instagram.com/jpjc.chessclub/"><img alt="Chess Club" src="/images/Co%20Curriculum/CCA/Chess_Club.png"></a>
+<a href="https://www.instagram.com/jpjc_ccs/"><img alt="Chinese Cultural Society" src="/images/Co%20Curriculum/CCA/Chinese_Cultural_Society.png"></a>
+</div>
 
 
+<div class="column">
+<a href="https://www.instagram.com/jpcec/"><img alt="Community Engagement Council" src="/images/Co%20Curriculum/CCA/Community_Engagement_Council.png"></a>
+		<a href="https://www.instagram.com/jpjc_ecoclub/"><img alt="Eco Club" src="/images/Co%20Curriculum/CCA/Eco_Club.png"></a>
+		<a href="https://www.instagram.com/jpjc_infocomm/"><img alt="InfoComm Club" src="/images/Co%20Curriculum/CCA/InfoComm_Club.png"></a></div>
 
+	
+	
+<div class="column">
+<a href="https://www.instagram.com/jpjc.interact/"><img alt="Interact Club" src="/images/Co%20Curriculum/CCA/Interact_Club.png"></a>
+<a href="https://www.instagram.com/jpjcicas/"><img alt="International Current Affairs Society" src="/images/Co%20Curriculum/CCA/International_Current_Affairs_Society.png"></a>
+<a href="https://www.instagram.com/jp_media.tech/"><img alt="JPJC Media Tech Club" src="/images/Co%20Curriculum/CCA/JP_Media_Tech_Club.png"></a></div>
+
+
+<div class="column">
+		<a href="https://www.instagram.com/jpjcplayart/"><img alt="PlayArt" src="/images/Co%20Curriculum/CCA/PlayArt.png"></a>
+	<a href="https://www.instagram.com/humans.of.jpjc/"><img alt="Student Council" src="/images/Co%20Curriculum/CCA/Student_Council.png"></a></div></div>
 
 
 
