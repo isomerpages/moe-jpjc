@@ -280,6 +280,19 @@ We are here to listen.</p>
 </td>
 </tr>
 	
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://uas.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">UAS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University of the Arts Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet Access</p>
+</td>
+</tr>
+	
 	
 </tbody>
 </table>
