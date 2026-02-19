@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Announcement for J1
 ---
 <div align="justify">
+<p></p><h5><b>Our M&amp;O 2026 has concluded. Stay tuned for updates in 2027.</b></h5><h5><p></p>
 
-<h3>J1 Matriculation and Orientation Programme 2026</h3>
+</h5><h3>J1 Matriculation and Orientation Programme 2026</h3>
 	
 <p>Dear J1 Students,</p>
 <p>Congratulations on joining Jurong Pioneer Junior College! We are excited to welcome you to our JPFam.</p> 

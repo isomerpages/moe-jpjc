@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Announcement for J1
 ---
-**Our webinar has concluded. Please find the 
-<a href="/about-jpjc/admission-matters/kmportal">selected resources and the link to the KM portal here</a>. Stay tuned for updates in 2027.**
+<p></p><h5><b>Our webinar has concluded. Please find the 
+<a href="/about-jpjc/admission-matters/kmportal">selected resources and the link to the KM portal here</a>. Stay tuned for updates in 2027.</b></h5><h5><p></p>
 
 <div align="justify">
 
@@ -37,4 +37,4 @@ third_nav_title: Announcement for J1
 <p>We look forward to your participation and collaboration in supporting your child/ward's academic journey.</p>
 
 <p>Warm regards<br>
-Jurong Pioneer Junior College</p></div>
+Jurong Pioneer Junior College</p></div></h5>
