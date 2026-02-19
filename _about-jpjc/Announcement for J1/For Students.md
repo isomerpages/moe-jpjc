@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Announcement for J1
 ---
 <div align="justify">
-<p></p><h5><b>M&amp;O 2026 has concluded. Stay tuned for updates in 2027.</b></h5><h5><p></p>
+<p></p><h5><b>Our M&amp;O 2026 has concluded. Stay tuned for updates in 2027.</b></h5><h5><p></p>
 
 </h5><h3>J1 Matriculation and Orientation Programme 2026</h3>
 	
