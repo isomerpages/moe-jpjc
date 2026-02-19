@@ -169,7 +169,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching Resources</p>
+<p>Teachers' Resources</p>
 </td>
 </tr>
 <tr>
