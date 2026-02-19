@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: Admission Matters
 ---
 <div align="justify">
-<p></p><h5><b>Registration for 2026 Subject Combination has concluded. Stay tuned for updates in 2027.</b></h5><h5><p>
+<p></p><h5><b>Registration for Subject Combination 2026 has concluded. Stay tuned for updates in 2027.</b></h5><h5><p>
 
 </p><p>The following information is for <b>J1 students who have been posted to JPJC.</b></p>
 
