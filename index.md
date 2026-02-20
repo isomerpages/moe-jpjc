@@ -26,14 +26,13 @@ sections:
       size: sm
       alignment: right
   - infopic:
-      title: JPFam warmly welcomes you
-      subtitle: IMPORTANT ANNOUNCEMENT!
+      title: GCE A-Level Result Release
+      subtitle: IMPORTANT ANNOUNCEMENT
       id: infopic
-      description: Here are two important announcements to share with our new J1
-        students and parents.
-      button: FIND OUT MORE
-      url: /about/announcement-for-j1/for-students/
-      image: /images/2026 Life@JPJC/Open House/JPFAM.jpg
+      description: Please report to the college hall at 2:00 PM on Friday, 21 February
+        2025, for the release of the 2025 Singapore-Cambridge GCE A-Level
+        examination results.
+      image: /images/A_level_2025_Release.jpg
       alt: Image alt text
   - infopic:
       title: Curriculum
