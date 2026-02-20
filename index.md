@@ -29,8 +29,8 @@ sections:
       title: GCE A-Level Result Release
       subtitle: IMPORTANT ANNOUNCEMENT
       id: infopic
-      description: Please report to the college hall at 2:00 PM on Friday, 21 February
-        2025, for the release of the 2025 Singapore-Cambridge GCE A-Level
+      description: Please report to the college hall at 2:00 PM on Friday, 27 February
+        2026, for the release of the 2025 Singapore-Cambridge GCE A-Level
         examination results.
       image: /images/A_level_2025_Release.jpg
       alt: Image alt text
