@@ -7,28 +7,29 @@ third_nav_title: 2026 Events
 ---
 <div align="justify">
 	
-<p>More than two thousand prospective students and parents streamed into our JP campus on Friday, 16
-January 2026, for a day of exploration and discovery. The Open House brought to life JPJC's dynamic campus culture 🏫, comprehensive academic pathways 📚, and vibrant array of CCAs 🎶⚽— a true reflection of what makes JPJC a great place to learn and grow.</p>
-	
-<p>Our welcoming student leaders😊led visitors on guided tours around the campus, offering insights along the way. Both the hall and canteen were filled with interactive subject, programme, and CCA showcases, giving guests the chance to explore a wide range of co-curricular options up close. Meanwhile, energetic performances at the concourse 🎭🎤infused the day with excitement and captured the vibrant spirit of the school.</p>
+<p>From the 4th to the 6th of February, our new J1 students were welcomed warmly by the “happy line” put up by our Orientation Group Leaders (OGLs), and mellifluous greetings started the day on a high note! Throughout the various talk series held by the Heads of Departments (HODs), teachers and counselors, students were able to select their desired subject combinations, understand our school history and make themselves feel at home amongst the JPFam. 📚  </p>
+  
+<p>But what fun would M&amp;O be without any games? Through college tour games as well as a multitude of icebreakers, the J1s grew familiar with the school and forged friendships within their matriculation groups, killing two birds with one stone. Matriculation then ended off on a high note with the J1s visiting the various (Co-Curricular Activities) CCA booths to select their CCA of choice, marking the start of their journey as official members of the JPFam. ⛹🏻‍♀️  </p>
+  
+<p>The three-day Orientation programme warmly welcomed the J1 students and immersed them in vibrant and meaningful experiences, easing their transition into college life. Each morning began with the lively ‘happy line’, where the OGLS energised the students and set an enthusiastic tone for the day. A key highlight was the House meeting, during which students bonded more closely with their House members and learnt their House cheers, proudly building identity and spirit. The learning of the college dance further united the cohort, as everyone moved in sync and shared in the excitement. The mass games stood out as one of the most exhilarating segments, requiring teamwork, resilience and communication, while fostering strong friendships within matriculation groups. The Orientation skits also left a lasting impression by creatively conveying messages about unity and belonging. Orientation completed with a bang with the electrifying dance performances by the OGLs of the various houses, bringing the M&amp;O event to a rousing close. 🎉  
+</p>  
+<p>Overall, the programme successfully strengthened House spirit, forged new friendships and helped the J1s begin their college journey with confidence and enthusiasm.  
+❤️🌱🚀</p>
+
 	
 <div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH1.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix1.jpg">
 <figcaption></figcaption></figure>
-	
-<p>Held in LT3, "Hear from the JPFam" featured meaningful sharing by four JPJC students alongside the Principal, offering visitors valuable insights into the college's vision and its commitment to developing future-ready learners. Academic pathways and niche programmes such as CLEP and MLEP🔥were also spotlighted, showcasing the many ways students can grow and thrive. Adding to the buzz, the CCA Showcase at the concourse saw students confidently presenting their skills and strong sense of teamwork, bringing the JPJC spirit to life.</p>
 
 <div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH2.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix2.jpg">
 <figcaption></figcaption></figure>
-
-<p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
 	
 <div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/Combined_OH3.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix3.jpg">
 <figcaption></figcaption></figure>
-
-<p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
+	
+	
 	
 <p>Photos by:<br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
