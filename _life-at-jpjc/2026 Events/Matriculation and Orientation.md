@@ -21,17 +21,11 @@ third_nav_title: 2026 Events
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix1.jpg">
 <figcaption></figcaption></figure>
 
-<div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix2.jpg">
-<figcaption></figcaption></figure>
-	
-<div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Matriculation%20and%20Orientation/pix3.jpg">
-<figcaption></figcaption></figure>
+
 	
 	
 	
 <p>Photos by:<br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
 
-</div></div></div></div>
+</div></div>
