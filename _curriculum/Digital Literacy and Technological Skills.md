@@ -12,8 +12,7 @@ description: ""
 	
 <p>Beyond this baseline, students strengthen their digital proficiency through experiences embedded across academic subjects and the co-curriculum. These learning opportunities are designed to develop <b>hard, soft, and blended digital competencies</b>, as illustrated below.</p>
 
-<p></p><figure><img src="/images/Curriculum/DLTS/DLTS.png"><figcaption>Hard (Digital) Competencies Development
-across the Curriculum and Co-Curriculum</figcaption></figure><p></p>
+<p></p><figure><img src="/images/Curriculum/DLTS/venn_diagram.png"><figcaption>Hard, soft, and blended digital competencies</figcaption></figure><p></p>
 		
 <p>Supported by students’ personal learning devices, these experiences encompass essential software and tools as well as cyber wellness, digital responsibility, and healthy technology habits. While specific components are compulsory to ensure a strong foundation, students are empowered to further customise their learning journey according to their unique interests and passions.</p>
 	
