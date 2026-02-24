@@ -26,6 +26,7 @@ third_nav_title: 2026 Events
 	
 	
 <p>Photos by:<br>
+<a href="https://www.instagram.com/humans.of.jpjc/">@humans.of.jpjc</a><br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
 
 </div></div>
