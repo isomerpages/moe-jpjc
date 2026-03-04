@@ -19,7 +19,7 @@ third_nav_title: Class of 2025
 
 <li><a href="/a-level-inspirational-stories/2025/jason/">Jason Chew Jie Seng (24S17)</a> initially </li>
 	
-<li><a href="/a-level-inspirational-stories/2025/shyam/">Shyam Mourouguessane (24S22(</a> truly e</li>
+<li><a href="/a-level-inspirational-stories/2025/shyam/">Shyam Mourouguessane (24S22)</a> truly e</li>
 
 <li><a href="/a-level-inspirational-stories/2025/hana/">Nurul Hana Binte Mohamad Azeli (24A04)</a> faced </li>
 
