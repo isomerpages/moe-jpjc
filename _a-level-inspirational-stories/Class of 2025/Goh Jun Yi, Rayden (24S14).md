@@ -36,4 +36,6 @@ third_nav_title: Class of 2025
 	
 <p>Reflecting on his journey, Rayden credits self-awareness as the key to his growth. He learned to identify his strengths and weaknesses, adjust his habits, and face challenges deliberately and confidently.</p>
 	
-<p>Today, success is no longer about flawless performance — it is about resilience, reflection, and the courage to choose a path aligned with one’s strengths. Rayden’s story is a testament to the transformative power of structure, guidance, and supportive relationships. It shows that when students are placed in environments suited to their learning, the possibilities are limitless.</p></div>
+<p>Today, success is no longer about flawless performance — it is about resilience, reflection, and the courage to choose a path aligned with one’s strengths. Rayden’s story is a testament to the transformative power of structure, guidance, and supportive relationships. It shows that when students are placed in environments suited to their learning, the possibilities are limitless.</p>
+	
+</div>
