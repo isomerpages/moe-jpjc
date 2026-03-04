@@ -7,7 +7,7 @@ third_nav_title: Class of 2025
 ---
 <div align="justify">
 
-<figure><figcaption></figcaption></figure>
+<figure><img src="/images/Accomplishment/2025%20A%20Level%20Stories/Jason.png"><figcaption></figcaption></figure>
 	
 <b><h5>Flourishing through DSA with Discipline and Drive</h5></b>
 
