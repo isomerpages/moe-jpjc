@@ -2,8 +2,8 @@ collections:
   a-level-inspirational-stories:
     output: true
     order:
-      - Class of 2025/.keep
       - "'A' Level Inspirational Stories.md"
+      - Class of 2025/.keep
       - Class of 2024/.keep
       - Class of 2024/Class of 2024.md
       - Class of 2024/Damien Lim Zheng Yang (23A02).md
