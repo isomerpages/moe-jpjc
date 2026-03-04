@@ -7,7 +7,7 @@ third_nav_title: Class of 2025
 ---
 <div align="justify">
 
-<figure><figcaption></figcaption></figure>
+<figure><img src="/images/Accomplishment/2025%20A%20Level%20Stories/Sofya.jpg"><figcaption></figcaption></figure>
 
 <b><h5>Finding Purpose Through Empathy and Service to Others</h5></b>
 	
