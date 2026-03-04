@@ -10,8 +10,7 @@ third_nav_title: Class of 2025
 <h3><strong>Class of 2025</strong></h3>
 
 <figure>
-<img src="/images/Accomplishment/2024%20A%20Lvl%20Inspirational%20Story/2025_A_Level_Stories.jpg">
-</figure>
+<img src="/images/Accomplishment/2025%20A%20Level%20Stories/2026_JP_Stories.jpg"></figure> 
 	
 <ol>
 <li><a href="/a-level-inspirational-stories/2024/damien/">Damien Lim Zheng Yang (23A02)</a> experienced sudden loss of his elder brother, whom he was close to, close to the A-level period, shattering his world. Despite coping with grief, he forged ahead with perseverance and tenacity to complete his A-level examinations.</li>
