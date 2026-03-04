@@ -15,7 +15,7 @@ third_nav_title: Class of 2025
 <ol>
 <li><a href="/a-level-inspirational-stories/2025/sam/">Liew Jun Sam (24S22)</a> experienced </li>
 
-<li><a href="/a-level-inspirational-stories/2025/sofya/">	Sofya Eridani Binte Mohamed Shaufi (24A02)</a> boldly </li>
+<li><a href="/a-level-inspirational-stories/2025/sofya/">Sofya Eridani Binte Mohamed Shaufi (24A02)</a> boldly </li>
 
 <li><a href="/a-level-inspirational-stories/2025/jason/">Jason Chew Jie Seng (24S17)</a> initially </li>
 	
