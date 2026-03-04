@@ -15,7 +15,7 @@ third_nav_title: Class of 2025
 	
 <p>This partnership is exemplified in the journey of Abdel Hadi B Haidar, a JPJC student whose junior college experience was shaped not only by academic guidance, but by the strong and consistent support of his family working closely with the college. His story offers a powerful illustration of how a strong partnership between parents and educators can create a nurturing ecosystem that enables students to grow confidently and holistically during one of the most demanding phases of their education.</p>
 	
-<p>**Leading with Purpose: A Parent’s Commitment to Community**</p>
+<b>Leading with Purpose: A Parent’s Commitment to Community</b>
 	
 <p>At the heart of the JPJC PSG is Ms Navy Tan, Chairperson of the PSG in 2025, and Hadi’s mother. When she was approached to take on the role, she agreed without hesitation. Having been actively involved in parent support initiatives since her child’s secondary school years, Navy viewed the position not merely as a leadership role, but as a meaningful extension of parenting itself.</p>
 	
@@ -27,7 +27,7 @@ third_nav_title: Class of 2025
 	
 <p>This balance — independence supported by love — defines both her parenting philosophy and her leadership approach within the PSG.</p>
 	
-<p>**Strengthening Support Beyond the Classroom**</p>
+<b>Strengthening Support Beyond the Classroom</b>
 
 <p>Under Navy’s leadership, the PSG continued the strong groundwork laid by previous chairpersons while expanding its scope and operations. Drawing on her professional background in IT, she introduced more efficient systems to support PSG initiatives. For instance, student verification for the Pre-Exam Dinner orders were streamlined through automated software, replacing manual pen-and-paper processes.</p>
 	
@@ -39,7 +39,7 @@ third_nav_title: Class of 2025
 
 <p>“At its core, the PSG serves as a bridge between parents and the College,” Navy explains. “Because it is run by parents for parents, our responsibility is also to invite others to step forward and contribute their time, expertise, and talents.”</p>	
 	
-<p>**Building Belonging Through Meaningful Initiatives**</p>	
+<b>Building Belonging Through Meaningful Initiatives</b>
 	
 <p>Among PSG’s many initiatives, two stand out for their impact on community-building.</p>	
 	
@@ -51,7 +51,7 @@ third_nav_title: Class of 2025
 
 <p>Beyond nourishment, the PED sends a powerful emotional message: students are seen, valued, and supported by an entire community. This visible expression of care strengthens bonds between parents, the College, and students, reinforcing a culture of empathy and belonging.</p>	
 	
-<p>**A Student’s Perspective: Confidence Through Support**</p>	
+<b>A Student’s Perspective: Confidence Through Supports</b>
 	
 <p>For Abdel Hadi, these efforts were not abstract ideas, but lived experiences. He recalls how the PSG-sponsored Pre-Exam Dinner provided both practical and emotional support during intense revision periods. “It gave me and my schoolmates the energy and encouragement we needed,” he shares. “It helped me stay focused and reminded us that our parents were cheering us on.”</p>	
 	
@@ -65,7 +65,7 @@ third_nav_title: Class of 2025
 	
 <p>“To be continuously encouraging, inspiring, motivating, and giving heartening hugs whenever I felt stressed made all the difference,” he reflects. “It reminded me that I wasn’t alone.”</p>	
 	
-<p>**Shared Responsibility, Holistic Growth**</p>	
+<b>Shared Responsibility, Holistic Growth</b>
 	
 <p>Hadi’s journey illustrates how a strong parent–college partnership can create a nurturing ecosystem that empowers students to grow holistically. Supported by his family and guided by his teachers, he navigated the demands of junior college with confidence, developing not just academically, but socially and emotionally.</p>	
 	
