@@ -7,7 +7,7 @@ third_nav_title: Class of 2025
 ---
 <div align="justify">
 
-<figure><figcaption></figcaption></figure>
+<figure><img src="/images/Accomplishment/2025%20A%20Level%20Stories/Sam.png"><figcaption></figcaption></figure>
 	
 <b><h5>Pursuing the A-levels after Surviving Brain Aneurysm and Stroke</h5></b>
 
