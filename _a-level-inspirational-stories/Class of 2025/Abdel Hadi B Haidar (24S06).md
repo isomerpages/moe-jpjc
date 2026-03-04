@@ -73,4 +73,6 @@ third_nav_title: Class of 2025
 	
 <p>As A-Level results are released, Navy offers a message that speaks to both success and uncertainty.</p>	
 	
-<p>“Every stumble, every triumph, every moment of growth reminds me that the best is yet to be — not just for our children, but for us as parents walking alongside them.”</p>	</div>
+<p>“Every stumble, every triumph, every moment of growth reminds me that the best is yet to be — not just for our children, but for us as parents walking alongside them.”</p>	
+	
+</div>
