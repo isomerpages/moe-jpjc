@@ -23,8 +23,10 @@ third_nav_title: Class of 2025
 
 <li><a href="/a-level-inspirational-stories/2025/hana/">Nurul Hana Binte Mohamad Azeli (24A04)</a> faced </li>
 
-<li><a href="/a-level-inspirational-stories/2024/angel/">Angel Lim Yu Xi (23A01)</a> chose JPJC’s Humanities Programme, drawn by her love for Geography and Literature. As the only Arts student taking four H2s in the college, she excelled in her academics while being actively involved in college activities- from managing CCAs, VIA projects, and leadership roles.</li>
+<li><a href="/a-level-inspirational-stories/2025/trina/">Lee Yuxuan, Trina (24S23)</a> chose </li>
 
-<li><a href="/a-level-inspirational-stories/2024/jolene/">Jolene Wang Jing Yi (23A08)</a> shares her journey of resilience as she overcomes and manages anxiety with the strong support from JPFam. After taking some time off school, Jolene came back stronger and regarded the setbacks as just detours leading to a version of herself she is proud of today.</li>
+<li><a href="/a-level-inspirational-stories/2025/hadi/">Abdel Hadi B Haidar (24S06)</a> shares</li>
+	
+<li><a href="/a-level-inspirational-stories/2025/rayden/">Goh Jun Yi, Rayden (24S14)</a> shares</li>
 
 </ol></div>
