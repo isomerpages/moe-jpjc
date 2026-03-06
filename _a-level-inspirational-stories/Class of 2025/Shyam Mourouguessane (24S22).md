@@ -51,7 +51,6 @@ third_nav_title: Class of 2025
 
 <p>“Open-source projects are made by the community, for the community,” he shared, noting his desire to give back to a field that has shaped his journey. “These projects teach you what it’s like to work on something real,” he said, “and they give you the confidence to manage more complex challenges and solutions for the real world.”</p>
 
-<p>Shyam’s story reflects the JPJC spirit of Infinite Growth, Infinite Possibilities — demonstrating how curiosity, discipline, and a willingness to step beyond comfort zones can shape not only academic success but also for <i>curiosity and interest to take root, deepen and blossom into a lifelong passion. 
-	</i></p>
+<p>Shyam’s story reflects the JPJC spirit of Infinite Growth, Infinite Possibilities — demonstrating how curiosity, discipline, and a willingness to step beyond comfort zones can shape not only academic success but also for <i>curiosity and interest to take root, deepen and blossom into a lifelong passion.</i></p>
 	
 </div>
