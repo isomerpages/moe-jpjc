@@ -4,6 +4,12 @@ permalink: /a-level-inspirational-stories/
 description: ""
 variant: markdown
 ---
+<h3><a href="/a-level-inspirational-stories/2025/overview/">Class of 2025</a></h3>
+
+<figure>
+<img src="/images/Accomplishment/2025%20A%20Level%20Stories/2026_JP_Stories.jpg">
+</figure>
+
 <h3><a href="/a-level-inspirational-stories/2024/overview/">Class of 2024</a></h3>
 
 <figure>
