@@ -27,6 +27,8 @@ third_nav_title: Class of 2025
 
 <p>His fingers twitched. It was a small, almost imperceptible movement — but in that moment, it meant everything.</p> 
 	
+<p>“I remember trying to hold a pen,” he recalls quietly. What might have seemed like a simple action became a powerful turning point — a moment of hope breaking through fear, and the first of many hard-won victories on his long journey back.</p>
+	
 <b><h5>Starting Over</h5></b>
 
 <p>Discharged a month later, he watched from home as his peers continued preparing for the A-levels. He attempted to return to school in July but soon realised he was not ready. Although he regained the ability to walk within months, the cognitive effects were more difficult. Short-term memory loss and weakened logical processing made studying frustrating. With guidance and support from his parents and teachers, Jun Sam made the painful decision to defer his A-levels.</p>
