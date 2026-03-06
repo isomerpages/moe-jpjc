@@ -9,7 +9,7 @@ third_nav_title: Class of 2025
 
 <figure><img src="/images/Accomplishment/2025%20A%20Level%20Stories/Sam.png"><figcaption></figcaption></figure>
 	
-<b><h5><i>Pursuing the A-levels after Surviving Brain Aneurysm and Stroke</i></h5></b>
+<b><h5>Pursuing the A-levels after Surviving Brain Aneurysm and Stroke</h5></b>
 
 <p>17 April 2024 began as an ordinary school morning for Liew Jun Sam, a student from Jurong Pioneer Junior College (JPJC) — a routine day filled with lessons and the familiar rhythms of college life. But within moments, everything would change. During his Physical Education lesson, Jun Sam suddenly felt a sharp, pounding headache. He brushed it off as fatigue from studying late the night before. Determined to carry on, he continued the lesson. But as he walked away from the table tennis court with two friends, something terrifying happened — the left side of his body suddenly gave way. His legs collapsed beneath him. His arm would not respond. The world around him blurred as dizziness surged through his body. Within moments, he was drifting in and out of consciousness, unable to control his movements or form clear thoughts.</p>  
 
