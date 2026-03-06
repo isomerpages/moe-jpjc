@@ -51,7 +51,7 @@ third_nav_title: Class of 2025
 
 <p>Beyond nourishment, the PED sends a powerful emotional message: students are seen, valued, and supported by an entire community. This visible expression of care strengthens bonds between parents, the College, and students, reinforcing a culture of empathy and belonging.</p>	
 	
-<b>A Student’s Perspective: Confidence Through Supports</b>
+<b><h5>A Student’s Perspective: Confidence Through Supports</h5></b>
 	
 <p>For Abdel Hadi, these efforts were not abstract ideas, but lived experiences. He recalls how the PSG-sponsored Pre-Exam Dinner provided both practical and emotional support during intense revision periods. “It gave me and my schoolmates the energy and encouragement we needed,” he shares. “It helped me stay focused and reminded us that our parents were cheering us on.”</p>	
 	
@@ -65,7 +65,7 @@ third_nav_title: Class of 2025
 	
 <p>“To be continuously encouraging, inspiring, motivating, and giving heartening hugs whenever I felt stressed made all the difference,” he reflects. “It reminded me that I wasn’t alone.”</p>	
 	
-<b>Shared Responsibility, Holistic Growth</b>
+<b><h5>Shared Responsibility, Holistic Growth</h5></b>
 	
 <p>Hadi’s journey illustrates how a strong parent–college partnership can create a nurturing ecosystem that empowers students to grow holistically. Supported by his family and guided by his teachers, he navigated the demands of junior college with confidence, developing not just academically, but socially and emotionally.</p>	
 	
