@@ -39,7 +39,7 @@ third_nav_title: Class of 2025
 
 <p>“At its core, the PSG serves as a bridge between parents and the College,” Navy explains. “Because it is run by parents for parents, our responsibility is also to invite others to step forward and contribute their time, expertise, and talents.”</p>	
 	
-<b>Building Belonging Through Meaningful Initiatives</b>
+<b><h5>Building Belonging Through Meaningful Initiatives</h5></b>
 	
 <p>Among PSG’s many initiatives, two stand out for their impact on community-building.</p>	
 	
@@ -53,11 +53,13 @@ third_nav_title: Class of 2025
 	
 <b><h5>A Student’s Perspective: Confidence Through Supports</h5></b>
 	
-<p>For Abdel Hadi, these efforts were not abstract ideas, but lived experiences. He recalls how the PSG-sponsored Pre-Exam Dinner provided both practical and emotional support during intense revision periods. “It gave me and my schoolmates the energy and encouragement we needed,” he shares. “It helped me stay focused and reminded us that our parents were cheering us on.”</p>	
+<p>For Abdel Hadi, these efforts were not abstract ideas, but lived experiences. He recalls how the PSG-sponsored Pre-Exam Dinner provided both practical and emotional support during intense revision periods.</p>
 	
-<p>Hadi’s journey at JPJC was also marked by significant personal growth beyond academics. Despite joining the English Drama Society later than many of his peers, he embraced the challenge wholeheartedly. Through dedication and perseverance, he contributed meaningfully to major college productions such as Internal Showcase 2025 and Artistic Reverie 2025.</p>	
+<p>“It gave me and my schoolmates the energy and encouragement we needed,” he shares. “It helped me stay focused and reminded us that our parents were cheering us on.”</p>	
 	
-<p>His performances at the Literature Symposium, featuring scenes from The Changeling and Hard Times, reflected growing confidence, adaptability, and a strong passion for the humanities. Teachers observed not just improved performance skills, but a willingness to take risks and express himself creatively — traits nurtured within a supportive environment.</p>	
+<p>Hadi’s journey at JPJC was also marked by significant personal growth beyond academics. Despite joining the English Drama Society later than many of his peers, he embraced the challenge wholeheartedly. Through dedication and perseverance, he contributed meaningfully to major college productions such as <i>Internal Showcase 2025</i> and <i>Artistic Reverie 2025</i>.</p>	
+	
+	<p>His performances at the <i>Literature Symposium</i>, featuring scenes from <i>The Changeling and Hard Times</i>, reflected growing confidence, adaptability, and a strong passion for the humanities. Teachers observed not just improved performance skills, but a willingness to take risks and express himself creatively — traits nurtured within a supportive environment.</p>	
 	
 <p>College-led guidance further supported his development. A talk conducted by the college counsellor on university applications provided clarity and reassurance about post-A-Level pathways, while a visit to the NUS Mathematics Department inspired him to pursue his academic interests with greater determination.</p>	
 
