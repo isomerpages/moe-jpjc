@@ -15,7 +15,7 @@ third_nav_title: Class of 2025
 	
 <p>This partnership is exemplified in the journey of Abdel Hadi B Haidar, a JPJC student whose junior college experience was shaped not only by academic guidance, but by the strong and consistent support of his family working closely with the college. His story offers a powerful illustration of how a strong partnership between parents and educators can create a nurturing ecosystem that enables students to grow confidently and holistically during one of the most demanding phases of their education.</p>
 	
-<b>Leading with Purpose: A Parent’s Commitment to Community</b>
+<b><h5>Leading with Purpose: A Parent’s Commitment to Community</h5></b>
 	
 <p>At the heart of the JPJC PSG is Ms Navy Tan, Chairperson of the PSG in 2025, and Hadi’s mother. When she was approached to take on the role, she agreed without hesitation. Having been actively involved in parent support initiatives since her child’s secondary school years, Navy viewed the position not merely as a leadership role, but as a meaningful extension of parenting itself.</p>
 	
@@ -27,7 +27,7 @@ third_nav_title: Class of 2025
 	
 <p>This balance — independence supported by love — defines both her parenting philosophy and her leadership approach within the PSG.</p>
 	
-<b>Strengthening Support Beyond the Classroom</b>
+<b><h5>Strengthening Support Beyond the Classroom</h5></b>
 
 <p>Under Navy’s leadership, the PSG continued the strong groundwork laid by previous chairpersons while expanding its scope and operations. Drawing on her professional background in IT, she introduced more efficient systems to support PSG initiatives. For instance, student verification for the Pre-Exam Dinner orders were streamlined through automated software, replacing manual pen-and-paper processes.</p>
 	
