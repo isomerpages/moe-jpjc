@@ -82,7 +82,7 @@ b. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathway
 
 <h5><b>3. How many days are CCA days and what are the timings?</b></h5>
 	
-<p>CCA sessions are generally held on Wednesdays and Fridays from 3:30 pm. Depending on the nature of the CCA, sessions typically last between 2 to 3 hours.</p> 
+<p>CCA sessions are generally held on Wednesdays&nbsp;from 2:30 pm and Fridays from 3:30 pm. Depending on the nature of the CCA, sessions typically last between 2 to 3 hours.</p> 
 	
 <h5><b>4. What is the selection process for the Student Council?</b></h5>
 	
