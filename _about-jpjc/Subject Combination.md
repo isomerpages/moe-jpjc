@@ -15,7 +15,7 @@ variant: markdown
 <h2><center>2026 Subject Combinations</center></h2>
 
 <ol>
-	<li>The following table shows the standard subject combination which most students will take :</li>
+	<li>The following table shows the standard subject combination which most students will take:</li>
 	<figure><center>
 		<iframe scrolling="no" height="350px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
