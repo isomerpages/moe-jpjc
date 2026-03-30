@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>On 7 February 2024, JPJC successfully organised the inaugural Alumni Speakers Series in conjunction with JC2 Enrichment Week. Eight distinguished alumni from both Jurong Junior College and Pioneer Junior College returned to their alma mater to share their educational and career journeys across various industries and sectors. JC2 students had the opportunity to select sessions based on their interests and inclinations, engaging in face-to-face interactions with the alumni speakers in various venues throughout the event.</p>
+<p>On 7 February 2024, JPJC successfully organised the inaugural Alumni Speakers Series in conjunction with J2 Enrichment Week. Eight distinguished alumni from both Jurong Junior College and Pioneer Junior College returned to their alma mater to share their educational and career journeys across various industries and sectors. J2 students had the opportunity to select sessions based on their interests and inclinations, engaging in face-to-face interactions with the alumni speakers in various venues throughout the event.</p>
 <p>The event commenced with our Principal, Mr Kevin Ang, presenting tokens of appreciation to the alumni before they proceeded to their respective venues, to meet with eager students awaiting their insights. </p>
 <p>The eight alumni included:</p> 
 <p>1.	Dr Sim Siang Meng, Researcher @DSO<br>2.	Ms Veronica Loh, Senior Learning &amp; Development Program Manager at Amazon Web Services
