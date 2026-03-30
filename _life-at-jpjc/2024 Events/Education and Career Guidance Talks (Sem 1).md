@@ -22,7 +22,7 @@ third_nav_title: 2024 Events
 
 <p>Throughout the afternoon, students actively engaged with speakers during the question and answer segments, gaining valuable insights into the realities and requirements of various careers. This interactive component fostered a deeper understanding and appreciation for the professional pathways discussed.</p>
 
-<p>In conclusion, Careers Day at JPJC empowered our JC2 students with valuable knowledge and inspiration as they embark on their future career journeys. We extend our heartfelt thanks to all speakers, and committee members whose efforts made this event possible. We look forward to continuing our mission of guiding and preparing our students for their future endeavors.</p>
+<p>In conclusion, Careers Day at JPJC empowered our J2 students with valuable knowledge and inspiration as they embark on their future career journeys. We extend our heartfelt thanks to all speakers, and committee members whose efforts made this event possible. We look forward to continuing our mission of guiding and preparing our students for their future endeavors.</p>
 
 <p>With the valuable insights gained from various career talks in Semester 1 by our wonderful partners, especially our alumni and parents, our students had incredible opportunities to discover their areas of interest. 
 </p>
