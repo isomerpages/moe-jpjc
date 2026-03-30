@@ -20,6 +20,6 @@ variant: markdown
 <h4><strong>Assessment</strong></h4>
 <ul>
 <li><b>Formative Assessment:</b> Includes peer and self-assessment to encourage reflection and improvement.</li>
-<li><b>NAPFA Test:</b> Conducted for JC2 students to assess their physical fitness.</li>
+<li><b>NAPFA Test:</b> Conducted for J2 students to assess their physical fitness.</li>
 
 </ul></div>
