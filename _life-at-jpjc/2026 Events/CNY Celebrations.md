@@ -14,11 +14,11 @@ third_nav_title: 2026 Events
 <p>The atmosphere was further energised by performances from the Chinese Orchestra, Concert Band, Choir, Dance groups, and the CLEP &amp; MLEP Drum Ensemble. Each act showcased students’ talent and cultural pride, bringing the hall alive with festive cheer and applause. 🎶🥁</p>
 	
 <p>The programme wrapped up on a high note, leaving everyone with warm smiles and renewed appreciation for the people around them, further strengthening bonds within our JPFam community!&nbsp; 🌟❤️🌱🚀</p>
-	
-<p>Write-up by Yeo Engxin (25A05), JP Media Tech Club</p>
 
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/2026_CNY_Collage_for_website.jpg">
+
+<p>Write-up by Yeo Engxin (25A05), JP Media Tech Club</p>
 
 </figure></div></div>
