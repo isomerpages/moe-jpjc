@@ -9,7 +9,7 @@ variant: markdown
 <h2>Returning Singaporeans (RS) and International Students (IS)</h2>
 
 <h4>Returning Singaporeans (RS)</h4>
-<p>Returning Singaporeans who wish to seek admission to JC1 in the next academic year must meet the requirements set by MOE and are strongly encouraged to register for the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). This is a centralised merit-based placement exercise conducted for returning Singaporeans who wish to join Year 1 of a junior college (JC) or Millennia Institute (MI) at the beginning of the next academic year.</p>
+<p>Returning Singaporeans who wish to seek admission to J1 in the next academic year must meet the requirements set by MOE and are strongly encouraged to register for the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). This is a centralised merit-based placement exercise conducted for returning Singaporeans who wish to join Year 1 of a junior college (JC) or Millennia Institute (MI) at the beginning of the next academic year.</p>
 
 <p>Please click&nbsp;<a href="https://www.moe.gov.sg/returning-singaporeans">here</a>&nbsp;for more information.</p>
 
