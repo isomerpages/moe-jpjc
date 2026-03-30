@@ -7,10 +7,10 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>During the J2 Enrichment Week, our JC2 students engaged in various Citizenship Education Learning Experiences tailored to their interests. These included a camp visit to Mandai Hill Camp and signing up for a student-led walking trail in the civic district and Chinatown area.</p>
+<p>During the J2 Enrichment Week, our J2 students engaged in various Citizenship Education Learning Experiences tailored to their interests. These included a camp visit to Mandai Hill Camp and signing up for a student-led walking trail in the civic district and Chinatown area.</p>
 
 <p><b>Visit to 11 C4I Bn at Mandai Hill Camp on 2 February 2024</b><br>
-On 2 February 2024, 200 JC2 students visited Mandai Hill Camp to gain insights into the critical role our ARMY plays in our military defense and explore opportunities for contributing  to Total Defence. </p>
+On 2 February 2024, 200 J2 students visited Mandai Hill Camp to gain insights into the critical role our ARMY plays in our military defense and explore opportunities for contributing  to Total Defence. </p>
 
 <p>During the visit, SAF personnel from the 11 C4I Battalion shared valuable insights with our students on how the unit utilises technology to enhance their combat intelligence capabilities. </p>
 
@@ -28,7 +28,7 @@ On 2 February 2024, 200 JC2 students visited Mandai Hill Camp to gain insights i
 	
 
 <p><b>Walking Trail on 5 February 2024</b><br>
-On February 5, 2024, approximately 230 JC2 students embarked on an exhilarating Walking Trail adventure, conceptualised by the 6th Community Engagement Council, to inject excitement into the National Education Programme and setting the stage for TD40. Roaming through iconic spots in the civic district and Chinatown, they immersed themselves into the essence of Total Defence while absorbing the vibrant atmosphere. </p>
+On February 5, 2024, approximately 230 J2 students embarked on an exhilarating Walking Trail adventure, conceptualised by the 6th Community Engagement Council, to inject excitement into the National Education Programme and setting the stage for TD40. Roaming through iconic spots in the civic district and Chinatown, they immersed themselves into the essence of Total Defence while absorbing the vibrant atmosphere. </p>
 
 <p>Guided by the J2 CCE Representatives and student volunteers acting as trail guides, students engaged in interactive activities, exploring the historical significance of each location and unravelling Singapore's defence strategy. From discovering tales of resilience to understanding the importance of community spirit, they embraced hands-on learning that ignited their curiosity and enthusiasm. </p>
 
