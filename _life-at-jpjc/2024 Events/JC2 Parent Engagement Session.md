@@ -7,9 +7,9 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>On 26 January 2024, JPJC successfully hosted the JC2 Parent Engagement
+<p>On 26 January 2024, JPJC successfully hosted the J2 Parent Engagement
 Session, a face-to-face event that offered us the opportunity to reconnect
-with the parents of our JC2 students. The event saw an excellent turnout
+with the parents of our J2 students. The event saw an excellent turnout
 with enthusiastic participation from the parents.</p>
 <p>The session commenced with an interaction segment between Civics Tutors
 and the parents of their students, filling the concourse with lively chatter
@@ -38,12 +38,12 @@ Civics Tutors interacting with Parents</figcaption></figure>
 <img style="width: 100%" height="auto" width="100%" alt="Principal's Talk" src="/images/2024 Life @ JPJC/JC2 Parent Engagement Session/Principal_s_talk.jpeg"><figcaption>
 Principal's Talk</figcaption></figure>	
 </div>
-<p>In the next part of the session, our JC2 Year Head, Mr Koh, shared information
-on the college calendar and assessment milestones for the JC2 year. Mr
+<p>In the next part of the session, our J2 Year Head, Mr Koh, shared information
+on the college calendar and assessment milestones for the J2 year. Mr
 Koh went on to provide pertinent details about the Tiered Support System
 that JPJC utilises to offer tailored facilitation for various students'
 needs. Additionally, Mr Koh explained to parents about the newly introduced
-Self-Directed Learning Afternoon (SDLA) slots in the JC2 timetable. These
+Self-Directed Learning Afternoon (SDLA) slots in the J2 timetable. These
 SDLA slots provide students with dedicated time for asynchronous learning,
 which has been incorporated into their timetable.</p>
 <p>Following this, the Senior School Counsellors, Mrs Estelle Ow and Ms Elaine
@@ -52,7 +52,7 @@ their children as they navigate this challenging year leading up to their
 A-level examinations. JPJC’s Senior Education and Career Guidance Counsellor,
 Ms Michelle Lee, then supplemented this sharing with a closer look at Singapore’s
 University Landscape.</p>
-<p>The JC2 Parent Engagement Session was an enriching session for all, and
+<p>The J2 Parent Engagement Session was an enriching session for all, and
 the college will continue to work closely with parents to foster greater
 college-home partnership to ensure the holistic development of all students.</p>
 <p></p>
