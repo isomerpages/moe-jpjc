@@ -11,7 +11,6 @@ variant: markdown
 
 
 
-    <title>6 Surrounding Icons</title>
 
 
 
@@ -74,5 +73,3 @@ variant: markdown
 <div align="center">
     <a href="#"><img width="70" src="iconA.png"></a>
 </div>
-
-
