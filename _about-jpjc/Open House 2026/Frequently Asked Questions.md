@@ -43,7 +43,7 @@ b. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathway
 	
 <h5><b>3. Can I take H2 Mathematics if I did not take Additional Mathematics?</b></h5>
 	
-<p>It is possible, but students may find the transition demanding. Bridging lessons will be provided to help students adjust. Students who prefer a more gradual progression may choose to take H1 Mathematics instead.</p>
+<p>It is possible, but students may find the transition demanding as there is a list of assumed knowledge from O Level Additional Mathematics. Bridging lessons and materials will be provided to help students adjust. Students who prefer a more gradual progression may choose to take H1 Mathematics in the Arts stream instead.</p>
 	
 <h3>Timetable</h3>
 <h5><b>1. What is the timetable like in JPJC?</b></h5>
