@@ -25,8 +25,8 @@ through&nbsp;the implementation of the 2021 MOE CCE curriculum.</p>
 CCE&nbsp;curriculum includes&nbsp;Values&nbsp;Education, Family Education, Cyberwellness, Financial Literacy, Education and Career Guidance, National Education and&nbsp;Values&nbsp;in&nbsp;Action.</p>
 
 <p>
-JPJC undertakes&nbsp;a thematic approach and the 2 major themes will guide all the assembly and CT lessons across JC1&nbsp;and&nbsp;JC2.</p>
+JPJC undertakes&nbsp;a thematic approach and the 2 major themes will guide all the assembly and CT lessons across J1&nbsp;and&nbsp;J2.</p>
 
 <p>
-Theme for JC1:&nbsp;<strong>Understanding Self</strong><br>
-Theme for JC2:&nbsp;<strong>Developing Self</strong></p></div>
+Theme for J1:&nbsp;<strong>Understanding Self</strong><br>
+Theme for J2:&nbsp;<strong>Developing Self</strong></p></div>
