@@ -8,7 +8,7 @@ third_nav_title: 2024 Events
 <div align="justify">
 	
 <p>During Term 2 Week 6, Jurong Pioneer Junior College (JPJC) organised our Cyber-wellness Week.</p>
-<p>We were grateful to have the opportunity to host this and get support from Cyber Security Agency Singapore (CSA), who shared the Mobile Booth Display at our concourse and the JC1 Cyber-Wellness Engagement through an Interactive drama by PlayInc where the students were able to explore key cyber-wellness habits for a safe online use.</p>
+<p>We were grateful to have the opportunity to host this and get support from Cyber Security Agency Singapore (CSA), who shared the Mobile Booth Display at our concourse and the J1 Cyber-Wellness Engagement through an Interactive drama by PlayInc where the students were able to explore key cyber-wellness habits for a safe online use.</p>
 
 <p>Beyond the Cyber-wellness CCE lessons, CCE Representatives and students from 24S04, 24S14, and 24S16 collaborated to organise the second edition Cyber-Wellness Carnival for the JPFAM on 24 April (Wednesday). Our Peer Supporters and ICT Representatives also took the opportunity to share about elements of online wellness and digital literacy through this platform. This was an initiative for students, by students, and aimed to raise awareness about cyber-wellness and things to note for a more cyber-secure environment. Driven by the shared objective of promoting cyber-wellness awareness, our student facilitators demonstrated resilience, tenacity, and grit in planning and executing the event, ensuring a seamless experience for all participants.</p> 
 	
