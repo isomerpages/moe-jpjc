@@ -7,11 +7,11 @@ third_nav_title: 2023 Events
 ---
 <div align="justify">
 
-<p>Literature Symposium 2023 was a resounding success, bringing together 150 JC1 and JC2 students who honoured and celebrated the diverse aspects of Literature in English. The event featured a captivating programme that included a special choral performance, costume parade and a teachers' performance.</p>
+<p>Literature Symposium 2023 was a resounding success, bringing together 150 J1 and J2 students who honoured and celebrated the diverse aspects of Literature in English. The event featured a captivating programme that included a special choral performance, costume parade and a teachers' performance.</p>
 
 <p><b>Choral Performance: Celebrating Prose, Drama, and Poetry</b></p>
 
-<p>The highlight of the Literature Symposium was the choral performance by the JC1 Literature in English cohort. This performance skillfully encompassed all three literary genres - prose, drama, and poetry. The students exhibited their creative prowess by seamlessly blending an accomplished and original prose piece by Purinita Danielle Justine Jay Kaur, with the dramatic speeches of 'Saint Joan' and 'Hamlet,' resulting in a compelling poetic showcase. This fusion of genres created a unique and enthralling experience for both the participants and audience.</p>
+<p>The highlight of the Literature Symposium was the choral performance by the J1 Literature in English cohort. This performance skillfully encompassed all three literary genres - prose, drama, and poetry. The students exhibited their creative prowess by seamlessly blending an accomplished and original prose piece by Purinita Danielle Justine Jay Kaur, with the dramatic speeches of 'Saint Joan' and 'Hamlet,' resulting in a compelling poetic showcase. This fusion of genres created a unique and enthralling experience for both the participants and audience.</p>
 
 <p>The students' ability to transform a celebrated prose work into a poetic masterpiece, as well as their interpretation of the dramatic speech acts from 'Saint Joan' and 'Hamlet', left the audience in awe. It was evident that these young talents had a deep appreciation for literature and a remarkable skill in reimagining classic texts in innovative ways.</p>
 
@@ -40,7 +40,7 @@ third_nav_title: 2023 Events
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym3.jpg">
 <img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym4.jpg">
-<figcaption>A dramatic reading of Frankenstein by the JC2 H1 Literature in English cohort.</figcaption></figure>
+<figcaption>A dramatic reading of Frankenstein by the J2 H1 Literature in English cohort.</figcaption></figure>
 	
 <figure>
 <img src="/images/Life%20@%20JPJC/2023%20lit%20symposium/Litsym5.jpg">
