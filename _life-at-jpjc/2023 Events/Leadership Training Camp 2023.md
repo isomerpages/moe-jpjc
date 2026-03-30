@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 
-<p>At the end of Semester 1, 148 newly elected CCA Leaders and Student Councillors took part in the Leadership Training Camp (LTC) organised by a Student Planning Committee (SPC). The SPC comprised 7 JC2 CCA Leaders and teachers from the Student Leadership (SLD) Committee.&nbsp; 21 other J2 CCA Leaders served as Group Facilitators for the programme. The LTC is a signature leadership training programme with the objective of instilling leadership competencies and group management skills in new student leaders through numerous hands-on activities and reflection segments. The LTC also serves to create a community of supportive student leaders within the college and is one of the three programmes that JPJC CCA leaders would undergo during their leadership stint.</p>
+<p>At the end of Semester 1, 148 newly elected CCA Leaders and Student Councillors took part in the Leadership Training Camp (LTC) organised by a Student Planning Committee (SPC). The SPC comprised 7 J2 CCA Leaders and teachers from the Student Leadership (SLD) Committee.&nbsp; 21 other J2 CCA Leaders served as Group Facilitators for the programme. The LTC is a signature leadership training programme with the objective of instilling leadership competencies and group management skills in new student leaders through numerous hands-on activities and reflection segments. The LTC also serves to create a community of supportive student leaders within the college and is one of the three programmes that JPJC CCA leaders would undergo during their leadership stint.</p>
 
 <p>The programme items (in chronological order) were:</p>
 
