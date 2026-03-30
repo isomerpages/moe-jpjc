@@ -17,8 +17,8 @@ third_nav_title: 2026 Events
 
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/2026_CNY_Collage_for_website.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/2026_CNY_Collage_for_website.jpg"></figure>
 
 <p>Write-up by Yeo Engxin (25A05), JP Media Tech Club</p>
 
-</figure></div></div>
+</div></div>
