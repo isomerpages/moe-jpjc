@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>The June Holiday Work Shadowing Programme 2024 provided a structured experience where students learned about the world of work under the guidance of mentors at various workplaces. By observing tasks performed by their mentors, students gained insights into different professional roles. This year, four partnering organisations hosted 15 students from JC1 and JC2.</p>
+<p>The June Holiday Work Shadowing Programme 2024 provided a structured experience where students learned about the world of work under the guidance of mentors at various workplaces. By observing tasks performed by their mentors, students gained insights into different professional roles. This year, four partnering organisations hosted 15 students from J1 and J2.</p>
 
 <p>The students engaged in diverse work tasks, which included attending court sessions and client interviews with lawyers and case managers, recording written notes and transcripts, reviewing case materials, and assisting in legal preparations. They also shadowed art therapists and physiotherapists, assisted in leisure occupational therapy programmes, and interacted with patients through various activities. In the corporate sector, students were attached to the product team or brand team, where they observed product development and design processes, attended online meetings, and completed mini projects. Additionally, those attached to accounting professionals attended team meetings, learned basic office skills, analysed management reports, and processed data.</p>
 

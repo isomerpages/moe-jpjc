@@ -3,14 +3,15 @@ title: International Friendship Day Commemoration
 permalink: /life-at-jpjc/2023-events/ifd/
 description: ""
 third_nav_title: 2023 Events
+variant: markdown
 ---
 <div align="justify">
 
 <p>Our college’s commemoration of International Friendship Day (IFD) 2023 aimed at allowing students to understand the geo-political realities facing Singapore, and how Singapore should approach its international relations with other countries.</p>
 
-<p>Both JC1 and JC2 IFD lessons kickstarted with a Kahoot! quiz to engage students whilst raising their awareness of past instances of Singapore’s international and regional involvements. Students were given time to engage in a Think-Pair-Share activity and discuss the question: “What are the current geopolitical realities facing us?” Students developed a greater understanding of the recent significant shifts in the geo-political landscape and the increasing volatility of the world, in the light of worsening US-China tensions with the spy balloon saga, and the ongoing war between Ukraine and Russia that has deepened global polarisation..</p>
+<p>Both J1 and J2 IFD lessons kickstarted with a Kahoot! quiz to engage students whilst raising their awareness of past instances of Singapore’s international and regional involvements. Students were given time to engage in a Think-Pair-Share activity and discuss the question: “What are the current geopolitical realities facing us?” Students developed a greater understanding of the recent significant shifts in the geo-political landscape and the increasing volatility of the world, in the light of worsening US-China tensions with the spy balloon saga, and the ongoing war between Ukraine and Russia that has deepened global polarisation..</p>
 
-<p>From the JC1 and JC2 IFD lessons, students recognised the importance of Singapore standing firm in upholding international laws and agreements and ensuring that we stay relevant while maintaining good relationships with other countries. Furthermore, students also appreciated the crucial need for Singapore to chart our own course based on upholding consistent principles with our long-term national interests in mind, building up a strong defence, and the fact that all of us have a crucial role to play in maintaining domestic unity and cohesion..</p>
+<p>From the J1 and J2 IFD lessons, students recognised the importance of Singapore standing firm in upholding international laws and agreements and ensuring that we stay relevant while maintaining good relationships with other countries. Furthermore, students also appreciated the crucial need for Singapore to chart our own course based on upholding consistent principles with our long-term national interests in mind, building up a strong defence, and the fact that all of us have a crucial role to play in maintaining domestic unity and cohesion..</p>
 
 <p>The lesson ended off with a video, in which Singapore's Senior Minister Tharman Shanmugaratnam discussed the bilateral relations and tensions between the US and China, and the implications for the global community, as well as a quote by MM Lee Kuan Yew, “Friendship, in international relations, is not a function of goodwill or personal affection. We must make ourselves relevant so that other countries have an interest in our continued survival and prosperity as a sovereign and independent nation.” <i>- Mr Lee Kuan Yew, S. Rajaratnam Lecture 2009.</i></p>
 

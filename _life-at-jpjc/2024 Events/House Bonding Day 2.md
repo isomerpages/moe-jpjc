@@ -7,7 +7,7 @@ third_nav_title: 2024 Events
 ---
 <div align="justify">
 	
-<p>The House Excos organised House Bonding Day 2 on 17 July for the JC1 classes. The objectives of the event were to instil a strong House spirit and culture in everyone, provide an opportunity to bond with fellow House members through sports-related activities, and offer a chance to relieve stress and have fun.</p>
+<p>The House Excos organised House Bonding Day 2 on 17 July for the J1 classes. The objectives of the event were to instil a strong House spirit and culture in everyone, provide an opportunity to bond with fellow House members through sports-related activities, and offer a chance to relieve stress and have fun.</p>
 
 <p>The second House Bonding Day of this year was designed to engage each House in two types of activities: Taurus and Aries participated in Dodgeball and Nerf Gun Tagging, Pavo and Aquila in Dodgeball and Kinball, and Ursa and Volans in Dodgeball and Tchoukball.
 Each House, comprising five classes, had to form 12 teams for the event. The teams were a mix of students from different classes within the same House, encouraging them to bond through the sports activities.</p>

@@ -15,7 +15,7 @@ variant: markdown
 <h2><center>2026 Subject Combinations</center></h2>
 
 <ol>
-	<li>The following table shows the standard subject combination which most students will take :</li>
+	<li>The following table shows the standard subject combination which most students will take:</li>
 	<figure><center>
 		<iframe scrolling="no" height="350px" width="800px" src="https://docs.google.com/document/d/e/2PACX-1vR_rq4IZd0OF9Q7aKsboOd0Ho7OQ1VaxGrGbzyKelO0nnjtQv0Bb_Oob7NBIdos3G7tSeIzLV7L1uDe/pub?embedded=true"></iframe></center></figure>
 	<li>General Paper, Project Work and Mother Tongue are compulsory H1 subjects.</li>
@@ -29,7 +29,7 @@ variant: markdown
 	<iframe scrolling="no" height="600px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQNL9LCawaupFsdsR8n2Mr7yhbjcgwDqtWHEGSNC7GnxXURQm_vni2hIOUVb9x8SDxwYUCv_VvSKR09/pub?embedded=true"></iframe></center></figure>
 
 <p><strong>Note:</strong><br>
-	<sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of JC 1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
+	<sup>*</sup> Students may be offered a H3 subject in the following areas if they have done well in their overall examinations at the end of J1, including a high ‘A’ grade in the particular subject at the H2 level.<br>
 	<sup>a</sup> University-taught H3 programmes (NUS, NTU and SMU)<br>
 	<sup>b</sup> Extended, in-depth research (HSSR)<br>
 	<sup>c</sup> MOE-Cambridge H3</p>

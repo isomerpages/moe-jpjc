@@ -7,3 +7,52 @@ variant: markdown
 <div align="justify">
 
 <p>Beyond the classroom, JPJC is deeply committed to nurturing students’ character, leadership, and passions through a vibrant and holistic co-curriculum. From Co-Curricular Activities (CCAs) and student leadership roles to Values-in-Action (VIA) projects and enrichment programmes, our co-curricular experiences are purposefully designed to develop well-rounded individuals anchored in the JPJC G.R.A.C.E. competencies. These efforts are closely aligned with our Vision, Mission, and Values to ensure our students grow into confident and compassionate leaders of tomorrow.</p></div>
+
+
+
+<div hidden="">
+	
+![](/images/Co%20Curriculum/Internationalisation_Programme.png)![](/images/Co%20Curriculum/Talent_and_Leadership_Development.png)![](/images/Co%20Curriculum/Arts_and_Aesthetics.png)![](/images/Co%20Curriculum/Student_Leadership.png)![](/images/Co%20Curriculum/STEAM.png)![](/images/Co%20Curriculum/Scholars_Development_Programme.png)![](/images/Co%20Curriculum/House_System.png)![](/images/Co%20Curriculum/Co_Curricular_Activities.png)	
+	
+<div align="center">
+
+
+<div>
+<a href="#"><img width="25" src="icon1.png"></a>
+</div>
+
+
+<div>
+<a href="#"><img width="25" src="icon2.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img width="25" src="icon3.png"></a>
+</div>
+
+
+<div>
+<a href="#"><img width="90" src="iconB.png"></a>
+</div>
+
+
+<div>
+<a href="#"><img width="25" src="icon4.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img width="25" src="icon5.png"></a>
+</div>
+
+
+<div>
+<a href="#"><img width="25" src="icon6.png"></a>
+</div>
+
+</div>
+
+<br><br>
+
+
+<div align="center">
+<a href="#"><img width="90" src="iconA.png"></a>
+</div>
+
+
+</div>
