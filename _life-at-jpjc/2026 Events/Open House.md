@@ -25,7 +25,7 @@ January 2026, for a day of exploration and discovery. The Open House brought to 
 <p>A big shout out to the teachers-in-charge and student leaders, whose hard work and dedication made the day a success. Their efforts truly reflected the warm and inclusive spirit of JPJC!</p>
 	
 <div class="isomer-image-wrapper"><figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/OH3.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Open%20House/OH3.jpg">
 <figcaption></figcaption></figure>
 
 <p>More than just an Open House, the JPOH 2026 allowed many visitors to envision life as a member of the #JPFam 💙❤️🩵💚💛🧡. From the warm and inclusive community to the wide range of opportunities and energetic campus environment, JP always offers something meaningful and exciting to uncover🌟.</p>
