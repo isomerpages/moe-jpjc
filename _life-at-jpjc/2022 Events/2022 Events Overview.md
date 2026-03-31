@@ -25,7 +25,7 @@ variant: markdown
 |   3 June 2022  |[Leadership Training Camp (in collaboration with Keat Hong Youth Network)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCkeathong)| 
 |  31 May - 3 June 2022   |[Pre University Seminar](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/pre-uni-seminar/)| 
 |27 - 29 May 2022|[Leadership Training Camp (Internal)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-Events/LTCinternal/)| 
-|25 May 2022|[JC1 Dialogue Session with distinguished speaker](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/j1dialogue/)| 
+|25 May 2022|[J1 Dialogue Session with distinguished speaker](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/j1dialogue/)| 
 |  11 May 2022  |[J2 Dialogue Session with distinguished speaker](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/j2dialogue/)| 
 |  7 May 2022   |[JPJC Eco Club X Ayer Rajah CC Mothers' Day Terrarium Workshop](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/jpjc-eco-club-and-terrarium-workshop/)| 
 |6 May 2022|[ECG Parent's Evening](https://www.jpjc.moe.edu.sg/life-at-jpjc/2022-events/ecg-parents-evening/)| 
