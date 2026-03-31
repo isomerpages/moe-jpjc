@@ -3,11 +3,12 @@ title: Service Learning Festival
 permalink: /life-at-jpjc/2022-events/service-learning-festival/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 	
 <p>
-Each year, the college organises the Service Learning Festival (SL Fest) to provide a multi-faceted platform for our students to explore volunteering opportunities. This year, the SL Fest took place on 6 April with 5 concurrent sessions for both our JC1 and JC2 cohorts.</p>
+Each year, the college organises the Service Learning Festival (SL Fest) to provide a multi-faceted platform for our students to explore volunteering opportunities. This year, the SL Fest took place on 6 April with 5 concurrent sessions for both our J1 and J2 cohorts.</p>
 
 <p>
 Speakers from various social service organisations and community partners were invited to share with our students the needs of various groups in the community, and how they could contribute in the various areas of their passion and interests. The organisations who graced the occasion represented different service sectors, from the Society for the Prevention of Cruelty to Animals, The Food Bank Singapore, Family Central (Fei Yue Community Services), the Handicaps Welfare Association, Team Nila, the Ministry of Manpower, ItsRainingRaincoats and Heartware Network.</p>
