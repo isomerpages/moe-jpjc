@@ -3,10 +3,11 @@ title: CCA Leaders Investiture
 permalink: /life-at-jpjc/2022-Events/CCALeadersInvestiture/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
-<p>On 12 August 2022, the college held its CCA Leaders’ Installation for the newly elected JC1 Student Councillors and CCA Leaders. This was the first time a combined ceremony was held to commemorate both the investiture of the 5th Student Councillors and the installation of the 5th CCA Leaders. The theme chosen for this event was ‘Symphony’, signifying the need for student leaders to work harmoniously together during their leadership stint.</p>
+<p>On 12 August 2022, the college held its CCA Leaders’ Installation for the newly elected J1 Student Councillors and CCA Leaders. This was the first time a combined ceremony was held to commemorate both the investiture of the 5th Student Councillors and the installation of the 5th CCA Leaders. The theme chosen for this event was ‘Symphony’, signifying the need for student leaders to work harmoniously together during their leadership stint.</p>
 
 <p>The ceremony began with a pre-recorded opening address by the Principal, Dr Hang Kim Hoo, who commended the students for believing in their own leadership potential and their willingness to learn to be a better leader. He urged them to remain humble in their service to others and to apply the key principles of leadership in all that they do: to model the way, to inspire a shared vision, to challenge the process, to enable others to act, and to encourage the hearts of the people they are serving.</p>
 
@@ -38,4 +39,4 @@ third_nav_title: 2022 Events
 
 <figure>
 <img src="/images/Life%20@%20JPJC/2022%20Events/CCA%20Leaders%20Investiture%201208/Photo%20F%20(2).jpg">
-<figcaption>Captain and Vice Captains of Football striking a pose after being introduced</figcaption></figure></div>
+<figcaption>Captain and Vice Captains of Football striking a pose after being introduced</figcaption></figure>
