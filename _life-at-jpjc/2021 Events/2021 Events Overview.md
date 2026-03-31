@@ -7,8 +7,8 @@ variant: markdown
 ---
 | Date | Event|
 | --- | --- |
-| 11 October 2021 |[JC1 Students' Dialogue with Minister](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc1-students-dialogue-with-minister/)|
-| 8 October 2021 |[JC2 Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-farewell-assembly/) |
+| 11 October 2021 |[J1 Students' Dialogue with Minister](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc1-students-dialogue-with-minister/)|
+| 8 October 2021 |[J2 Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-farewell-assembly/) |
 |  2 September 2021 | [Teachers' Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/teachers-day/) |
 |  12 August 2021| [The Jurong Pioneer Junior College Alumni Breakfast Series Session 3](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jpjc-alumni-breakfast-series-session-3/)| |
 | 6 August 2021  |[National Day Celebrations](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/ndp-celebrations/)  |
@@ -38,10 +38,10 @@ variant: markdown
 | 18 February 2021  |[Total Defence Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/total-defence-day-commemoration/) |
 |  11 February 2021 | [Chinese New Year Celebrations](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/cny-celebrations/) |
 |  4-5 February 2021 |  [Staff Learning Days](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/staff-learning-days/)|
-|  29 January to 5 February 2021 | [JC2 Enrichment Week](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-enrichment-week/) |
+|  29 January to 5 February 2021 | [J2 Enrichment Week](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-enrichment-week/) |
 |  29 January to 5 February 2021 | [Matriculation and Orientation](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/matriculation-and-orientation/) |
 | 27 January 2021  | [SC Investiture & Leaders Installation](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/sc-investiture-and-leaders-installation/) |
-|  21 January 2021 |  [JC2 Parent Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-parent-engagement-session/) |
+|  21 January 2021 |  [J2 Parent Engagement Session](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc2-parent-engagement-session/) |
 | 12 January 2021 |[JPJC e Openhouse](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jpjc-e-openhouse/) |
 | 3-5 January 2021  |  [Orientation Group Leaders' Camp (OGLC)](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/oglc/) |
 |
