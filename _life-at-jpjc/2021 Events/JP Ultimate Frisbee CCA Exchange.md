@@ -3,10 +3,11 @@ title: JP Ultimate Frisbee CCA Exchange
 permalink: /life-at-jpjc/2021-events/jp-ultimate-frisbee-cca-exchange/
 description: ""
 third_nav_title: 2021 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
-On 21 April 2021, Jurong Pioneer Junior College’s JC2 Ultimate Frisbee (ULTI) and Outdoor Activities Club (ODAC) team members participated in a Co-Curricular Activities (CCA) exchange session. The main aim of the session was to learn new skills and knowledge for members of both CCA groups. In the light of the COVID-19 pandemic, all activities were conducted with strict adherence to Safe Management Measures and Ministry of Education guidelines on physical activities.</p>
+On 21 April 2021, Jurong Pioneer Junior College’s J2 Ultimate Frisbee (ULTI) and Outdoor Activities Club (ODAC) team members participated in a Co-Curricular Activities (CCA) exchange session. The main aim of the session was to learn new skills and knowledge for members of both CCA groups. In the light of the COVID-19 pandemic, all activities were conducted with strict adherence to Safe Management Measures and Ministry of Education guidelines on physical activities.</p>
 
 <p>
 The day began with an orienteering segment by ODAC members, who taught the ULTI team basic orienteering skills such as proper map-reading, identifying symbols and following directions. Afterwards, there was a friendly competition amongst the ULTI members for them to apply these skills they picked up. This competition allowed the ULTI team to practice their newly learnt navigation skills under the pressure of time to score points. Points were awarded based on the number of stamps, order of the stamps collected and the timing at which teams finished collecting these stamps.</p>
@@ -31,5 +32,5 @@ In the latter half of the CCA exchange, ULTI members conducted a crash course on
 
 <figure>
 <img src="/images/ultimate4.jpg">
-<figcaption>JPJC Head of Department (Physical Education & Co-Curriculum Activities) Miss Leo Ying Ching giving out prizes to the participants from ULTI and ODAC</figcaption>
-</figure>
+<figcaption>JPJC Head of Department (Physical Education &amp; Co-Curriculum Activities) Miss Leo Ying Ching giving out prizes to the participants from ULTI and ODAC</figcaption>
+</figure></div>
