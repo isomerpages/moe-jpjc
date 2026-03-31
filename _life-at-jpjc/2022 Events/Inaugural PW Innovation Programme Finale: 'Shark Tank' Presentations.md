@@ -3,11 +3,12 @@ title: "Inaugural PW Innovation Programme Finale: 'Shark Tank' Presentations"
 permalink: /life-at-jpjc/2022-events/shark-tank-presentations/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <p>
-The finale of the college’s inaugural PW Innovation Programme took place on Friday, 25 March 2022, in the form of a ‘Shark Tank’-style presentation exercise, where four teams of JC2 students had to pitch their products to a panel. The event, which was held on campus, was the culmination of a programme that was officially launched on 24 November last year. The PW Innovation Programme was meant as a platform for interested students to extend and to hone their skills and knowledge acquired from PW for real-world application. To this end, our college entered into a partnership with Design Singapore Council (DSG) to launch this programme with a focus on Design Thinking (DT). Participants of the programme were trained by design experts from Design Exchange (DX). To provide a goal for the application of their training in DT, programme participants also took part in the SUTD x SIA Upcycling Challenge 2021/2022.</p>
+The finale of the college’s inaugural PW Innovation Programme took place on Friday, 25 March 2022, in the form of a ‘Shark Tank’-style presentation exercise, where four teams of J2 students had to pitch their products to a panel. The event, which was held on campus, was the culmination of a programme that was officially launched on 24 November last year. The PW Innovation Programme was meant as a platform for interested students to extend and to hone their skills and knowledge acquired from PW for real-world application. To this end, our college entered into a partnership with Design Singapore Council (DSG) to launch this programme with a focus on Design Thinking (DT). Participants of the programme were trained by design experts from Design Exchange (DX). To provide a goal for the application of their training in DT, programme participants also took part in the SUTD x SIA Upcycling Challenge 2021/2022.</p>
 
 <figure>
 <img src="/images/shark%20tank%201.jpg">
@@ -20,7 +21,7 @@ The finale of the college’s inaugural PW Innovation Programme took place on Fr
 </figure>
 
 <p>
-At the finale, groups were given 15 minutes to present their products based on the aircraft parts they had previously chosen from a retired Singapore Airlines (SIA) aircraft fleet. The purpose of the competition was to inculcate the importance of upcycling as a means to reduce wastage of finite resources. Selections included life vests, safety belts and even a trash bin! Each team demonstrated much enthusiasm and creativity as they strived to convince the panelists – our Vice Principal Mr Phua Yong Swee and two trainers from DX – as to why their product would address the needs of the intended user while helping SIA to gain publicity.</p>
+At the finale, groups were given 15 minutes to present their&nbsp;products based on the aircraft parts they had previously chosen from a retired Singapore Airlines (SIA) aircraft fleet. The purpose of the competition was to inculcate the importance of upcycling as a means to reduce wastage of finite resources. Selections included life vests, safety belts and even a trash bin! Each team demonstrated much enthusiasm and creativity as they strived to convince the panelists – our Vice Principal Mr Phua Yong Swee and two trainers from DX – as to why their product would address the needs of the intended user while helping SIA to gain publicity.</p>
 
 <figure>
 <img src="/images/shark%20tank%203.jpg">
@@ -43,4 +44,4 @@ After the team presentation segment, the panelists had their share of fun asking
 <figure>
 <img src="/images/shark%20tank%206.jpg">
 <figcaption>An event group photograph with all participants and panelists</figcaption>
-</figure>
+</figure></div>
