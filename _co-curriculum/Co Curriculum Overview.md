@@ -48,8 +48,7 @@ variant: markdown
 </tr>
 </tbody></table>
 
-<a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Open%20House%202025/Subject_Combination.png" style="width:100%">
-</a>
+
 
 
 
