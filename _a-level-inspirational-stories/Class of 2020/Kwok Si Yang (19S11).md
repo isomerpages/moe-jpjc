@@ -16,7 +16,7 @@ Si-Yang hopes to join the SAF as his form of service to the community.
 <center><h5>PAYING IT FORWARD</h5></center>
 
 <p>
-Kwok Si-Yang knows what it means to pay it forward. Despite repeating JC1 in 2019, Si-Yang did not give up on himself easily. Instead he took up various opportunities to improve. From volunteering as an Orientation Group Leader to being in the House Executive Committee, Si-Yang used these opportunities to interact with his peers and juniors, making a difference in their college lives.</p>
+Kwok Si-Yang knows what it means to pay it forward. Despite repeating J1 in 2019, Si-Yang did not give up on himself easily. Instead he took up various opportunities to improve. From volunteering as an Orientation Group Leader to being in the House Executive Committee, Si-Yang used these opportunities to interact with his peers and juniors, making a difference in their college lives.</p>
 
 <p>
 In his pursuit for self-improvement, he also joined the World Scholar’s Cup (WSC) team to represent the college at an international event. When COVID-19 brought many disruptions to the this event and school life in general, Si-Yang kept his spirits up and took it upon himself to be the ‘sunshine’ in the team, cheering his peers on to participate in ‘Couch Camp’ – an unofficial online competition which replaced the official one which had to be cancelled. Si-Yang’s Civics Tutors and WSC teachers admired Si-Yang’s endless positivity in the face of the stress of preparing for the A Level examinations. Ms Megan Miao who was one of Si-Yang’s WSC teachers recounted that “Si-yang manages to see the silver lining in any cloud. He is ever so upbeat and positive, and creates a sense of togetherness wherever he goes.”</p>
