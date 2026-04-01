@@ -19,9 +19,10 @@ third_nav_title: 2026 Events
 <p>#JPFam #InfiniteGrowth #InfiniteLove #InfinitePossibilities</p>
 
 	
-	
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/jpspotlight.jpg"></figure>
+<img src="/images/2026%20Life@JPJC/%20J1%20&amp;%20J2%20PES%202026/J1_PES.png"></figure>
+<figure>
+<img src="/images/2026%20Life@JPJC/%20J1%20&amp;%20J2%20PES%202026/J2_PES.png"></figure>
 	
 </div></div>
