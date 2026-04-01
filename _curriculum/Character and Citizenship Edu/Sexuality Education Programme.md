@@ -61,9 +61,9 @@ third_nav_title: Character and Citizenship Edu
 	
 <li>Parents who wish to opt their children out of the Sexuality Education lessons and eTeens talk need to complete an opt-out form.
 <ul>
-<li>For <b>JC2 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj2sedoptout2026">here</a> to opt-out by 11 February 2026.</li>
-<li>For <b>JC1 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj1sedoptout2026">here </a> to opt-out by 22 July 2026.</li>
-<li>For <b>JC1 eTeens Mass Talk</b>, click <a href="https://go.gov.sg/jpjcj1eteensoptout2026">here</a> to opt-out by 22 July 2026.</li></ul>	
+<li>For <b>J2 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj2sedoptout2026">here</a> to opt-out by 11 February 2026.</li>
+<li>For <b>J1 SEd lessons</b>, click <a href="https://go.gov.sg/jpjcj1sedoptout2026">here </a> to opt-out by 22 July 2026.</li>
+<li>For <b>J1 eTeens Mass Talk</b>, click <a href="https://go.gov.sg/jpjcj1eteensoptout2026">here</a> to opt-out by 22 July 2026.</li></ul>	
 
 </li><li>Parents can contact the school at 6564 6878 or e-mail us at <a href="mailto:jpjc@moe.edu.sg"> jpjc@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</li></ol>
 </div>
