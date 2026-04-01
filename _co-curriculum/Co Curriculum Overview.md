@@ -11,35 +11,6 @@ variant: markdown
 
 
 
-<div align="center">
-<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
-</div>
-<br>
-<div align="center">
-<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
-</div>
-<br>
-
-<div align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
-&nbsp;&nbsp;
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
-&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon4.png"></a>
-&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon3.png"></a>
-&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon2.png"></a>
-&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon1.png"></a>
-</div>
-
-
-
-
-
-
-	
 
 <div hidden="">
 	
