@@ -3,11 +3,12 @@ title: 2020 Events Overview
 permalink: /life-at-jpjc/2020-events/
 description: ""
 third_nav_title: 2020 Events
+variant: markdown
 ---
 | Date | Event |
 | --- | --- |
-| 9 October 2020 | [JC2 Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/jc2-farewell-assembly/) |
-| 5 October 2020 |[JC1 Post Examination Activities Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/jc1-post-examination-activities-day/) |
+| 9 October 2020 | [J2 Farewell Assembly](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/jc2-farewell-assembly/) |
+| 5 October 2020 |[J1 Post Examination Activities Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/jc1-post-examination-activities-day/) |
 | 3 September 2020  | [Teachers' Day Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/teachers-day/celebration/) |
 | 7 August 2020  | [National Day Celebration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/ndp-celebration/) |
 |  5 to 11 August 2020 |  [E STEM Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2020-events/e-stem-day/)|
