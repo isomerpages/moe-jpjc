@@ -10,40 +10,38 @@ variant: markdown
 
 
 
-<table cellspacing="0" cellpadding="10" border="0" align="center">
+<a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:50%"></a><a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:50%"></a><table align="center">
 
 <tbody><tr>
-<td colspan="6" align="center">
-<a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:60%"></a>
-</td>
+
+
 </tr>
 
 <tr>
-<td colspan="6" align="center">
-<a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:60%"></a>
-</td>
+
 </tr>
 
 <tr>
-<td align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
+<td>
+<a href="#"><img src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
 </td>
-<td align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
-</td>
-<td align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/House_System.png"></a>
-</td>
-</tr>
-<tr>	
-<td align="center">
+<td>
 <a href="#"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
 </td>
-<td align="center">
+<td>
+<a href="#"><img src="/images/Co%20Curriculum/House_System.png"></a>
+</td>
+</tr>
+
+<tr>	
+<td>
+<a href="#"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
+</td>
+<td>
 <a href="#"><img src="/images/Co%20Curriculum/STEAM.png"></a>
 </td>
-<td align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Student_Leadership.png"></a>
+<td>
+<a href="#"><img src="/images/Co%20Curriculum/Student_Leadership.png"></a>
 </td>
 </tr>
 </tbody></table>
