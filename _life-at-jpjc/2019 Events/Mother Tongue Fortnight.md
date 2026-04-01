@@ -3,10 +3,11 @@ title: Mother Tongue Fortnight
 permalink: /life-at-jpjc/2019-events/mtl-fortnight/
 description: ""
 third_nav_title: 2019 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
-The Mother Tongue Department organised the inaugural Mother Tongue Fortnight this year between 8 April 2019 and 18 April 2019. The objective of the Mother Tongue Fortnight was to enable students to learn and use the Mother Tongue languages in exciting and engaging ways. The three units – Chinese Language (CL), Malay Language (ML) and Tamil Language (TL) units in the department organised a series of workshops and competitions to enthuse students in their learning of the Mother Tongue languages.</p>
+The Mother Tongue Department organised the inaugural Mother Tongue Fortnight this year between 8 April 2019 and 18 April 2019. The objective of the Mother Tongue Fortnight was to&nbsp;enable students to learn and use the Mother Tongue languages in exciting and engaging ways. The three units – Chinese Language (CL), Malay Language (ML) and Tamil Language (TL) units in the department organised a series of workshops and competitions to enthuse students in their learning of the Mother Tongue languages.</p>
 
 <figure>
 <img src="/images/mtlf%201.jpg">
@@ -14,7 +15,7 @@ The Mother Tongue Department organised the inaugural Mother Tongue Fortnight thi
 </figure>
 
 <p>
-The CL unit organised a Xinyao Music Appreciation Session for students taking Chinese as their Mother Tongue. Local singers belted out pop songs written by Singaporeans which include songs from the 1980’s as well as songs written by last year winners in the National Schools Xinyao Singing and Song writing Competition.Over 400 students also participated in concurrent hands-on workshop such as fan painting, opera mask painting, and diabolo. Students also had a chance to participate in a Chinese riddle game which was open to all JC1 and JC2 students taking Chinese as the Mother Tongue. Around 250 JC1 students attended a training session to learn the language skills required to solve the riddle and 133 won prizes. Besides these exciting workshops and games, H2CLL students also had the opportunity to have a go at song-writing guided by experienced local song writers. They underwent four training sessions to provide them writing skills and background on song-writing.  3 students with best work won prizes.</p>
+The CL unit organised a Xinyao Music Appreciation Session for students taking Chinese as their Mother Tongue. Local singers belted out pop songs written by Singaporeans which include songs from the 1980’s as well as songs written by last year winners in the National Schools Xinyao Singing and Song writing Competition.Over 400 students also participated in concurrent hands-on workshop such as fan painting, opera mask painting, and diabolo. Students also had a chance to participate in a Chinese riddle game which was open to all J1 and J2 students taking Chinese as the Mother Tongue. Around 250 J1 students attended a training session to learn the language skills required to solve the riddle and 133 won prizes. Besides these exciting workshops and games, H2CLL students also had the opportunity to have a go at song-writing guided by experienced local song writers. They underwent four training sessions to provide them writing skills and background on song-writing. &nbsp;3 students with best work won prizes.</p>
 	
 <figure>
 <img src="/images/mtlf%202.jpg">
@@ -25,7 +26,7 @@ The CL unit organised a Xinyao Music Appreciation Session for students taking Ch
 </figure>
 
 <p>
-For the Malay Language (ML) unit, a wide range of activities were conducted which include Creative Writing (Malay poems) and Pulut Kuning Cake Decoration Competitions. The competitions were open to all JC1 H1ML and H2MLL students. The Creative Writing Competition sought to uncover literary talents among students and encourage them to deepen their understanding on Malay language and literature, and appreciate Malay poems.  Three students were awarded prizes for the Creative Writing Competition. Meanwhile, a Pulut Kuning Cake Decoration Competition was also organised to encourage students to understand Malay gastronomy - the Pulut Kuning, which is a traditional dish which has significant function in Malay community. The top three winners of the competition were awarded vouchers for their creativity and effort. Overall, these activities provided authentic opportunities for all JC1 H1ML and H2MLL students to use their Mother Tongue Language and experience the Malay culture and heritage.</p>
+For the Malay Language (ML) unit, a wide range of activities were conducted which include Creative Writing (Malay poems) and Pulut Kuning Cake Decoration Competitions. The competitions were open to all J1 H1ML and H2MLL students. The Creative Writing Competition sought to uncover literary talents among students and encourage them to deepen their understanding on Malay language and literature, and appreciate Malay poems.&nbsp; Three students were awarded prizes for the Creative Writing Competition. Meanwhile, a Pulut Kuning Cake Decoration Competition was also organised to encourage students to understand Malay gastronomy - the Pulut Kuning, which is a traditional dish which has significant function in Malay community. The top three winners of the competition were awarded vouchers for their creativity and effort. Overall, these activities provided authentic opportunities for all JC1 H1ML and H2MLL students to use their Mother Tongue Language and experience the Malay culture and heritage.</p>
 
 <figure>
 <img src="/images/mtlf%204.jpg">
@@ -41,4 +42,4 @@ The Tamil Language (TL) Unit organised a series of events as part of the Mother 
 <figure>
 <img src="/images/mtlf%206.jpg">
 <figcaption>Students looking a sample of dishes on a banana leaf and the traditional</figcaption>
-</figure>
+</figure></div>
