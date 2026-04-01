@@ -85,7 +85,7 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 	<img src="/images/Partnerships/PSG/PSG2.jpg">
 	<figcaption>Our PSG EXCO with our Principal</figcaption></figure>
 	
-<center><h4>JC2 Farewell Assembly</h4></center>
+<center><h4>J2 Farewell Assembly</h4></center>
 	
 <figure>
 	<img src="/images/Partnerships/PSG/PSG3.JPG">
@@ -108,13 +108,13 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <img src="https://raw.githubusercontent.com/isomerpages/moe-jpjc/staging/images/Partnerships/PSG/J2%20Wishes.jpg">
 
 
-<figcaption>PSG EXCO collated well-wishes from parents for the graduating Class of 2022, encouraging them for their upcoming A-Level examination. Parents also sent their blessings for the JC1s who will be sitting for their Mother Tongue and Project Work examinations.</figcaption></figure>		
+<figcaption>PSG EXCO collated well-wishes from parents for the graduating Class of 2022, encouraging them for their upcoming A-Level examination. Parents also sent their blessings for the J1s who will be sitting for their Mother Tongue and Project Work examinations.</figcaption></figure>		
 	
 	
 	
 <h3>Year 2021</h3>
 	
-<center><h4>JC2 Farewell Assembly</h4></center>
+<center><h4>J2 Farewell Assembly</h4></center>
 
 <figure>
 <img src="/images/psg%201a.jpg">
@@ -123,7 +123,7 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <img src="/images/psg%202b.jpg">		 
 <img src="/images/psg%203a.jpg">
 <img src="/images/psg%203b.jpg">		 		 
-<figcaption>PSG EXCO collated well-wishes from parents for the JC2 Farewell Assembly 2021. Here are some of the messages&nbsp;from parents to the Class of 2021 </figcaption></figure>
+<figcaption>PSG EXCO collated well-wishes from parents for the J2 Farewell Assembly 2021. Here are some of the messages&nbsp;from parents to the Class of 2021 </figcaption></figure>
 	
 <h3>Year 2020</h3>
 <center><h4>2020 JPJC Open House</h4></center>
@@ -143,12 +143,12 @@ If you have a child in JPJC, do join PSG@JPJC as a member to give your child an 
 <center><h4>Get-to-Know Session</h4></center>
 <figure>
 <img src="/images/PSG3.jpg">
-<figcaption>Group photo of JC1 and JC2 PSG EXCO/members with JPJC school leaders in 2019.</figcaption></figure>
+<figcaption>Group photo of J1 and J2 PSG EXCO/members with JPJC school leaders in 2019.</figcaption></figure>
 
-<center><h4>JC2 Farewell Assembly</h4></center>
+<center><h4>J2 Farewell Assembly</h4></center>
 <figure>
 <img src="/images/psg4.jpg">
-<figcaption>PSG EXCO/members packing JC2 farewell gifts for the 2019 graduating batch.</figcaption></figure>
+<figcaption>PSG EXCO/members packing J2 farewell gifts for the 2019 graduating batch.</figcaption></figure>
 	
 <center><h4>Foodie Day for Night Study Programme</h4></center>
 <figure>
