@@ -11,7 +11,7 @@ variant: markdown
 <p>Teams battle it out in a quiz which tests their current affairs knowledge through various rounds of elimination to emerge as the college’s Current Affairs Quiz Champion.</p>
 <p></p><figure>
 <img src="/images/Curriculum/Knowledge%20skills/Quiz.jpg">
-	2023 JC1 Current Affairs Quiz Final Round</figure><p></p>
+	2023 J1 Current Affairs Quiz Final Round</figure><p></p>
 
 <p></p><figure>
 <img src="/images/Curriculum/Knowledge%20skills/quiz2.jpg">
@@ -20,7 +20,7 @@ Congratulations to the Top 3 Teams!</figure><p></p>
 	
 <p></p><figure>
 <img src="/images/Curriculum/Knowledge%20skills/2024_JC1_Current_Affairs.jpg">
-2024 JC1 Current Affairs Quiz Final Round</figure><p></p>
+2024 J1 Current Affairs Quiz Final Round</figure><p></p>
 <p></p><figure>
 <img src="/images/Curriculum/Knowledge%20skills/Congratulations.jpg">
 Congratulations to the Winning Team!</figure><p></p>	
