@@ -4,8 +4,9 @@ title: South West CDC & Hewlett Packard Printer Community Initiative Provision
 permalink: /life-at-jpjc/2020-events/southwest-cdc/
 description: ""
 third_nav_title: 2020 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
 As part of the South West Community Development Council’s (CDC) efforts to harness resources and work with corporates like Hewlett Packard (HP Inc) and contribute printers to students from less privileged families in the South West District, 27 Jurong Pioneer Junior College (JPJC) students have benefitted from this new initiative, receiving new printers to help them in their home-based learning. In light of the uncertainties and disruption to learning brought on by COVID-19, the donation of these printers has provided much-needed support for the learning needs of our students at home.</p>
 
@@ -41,4 +42,4 @@ JPJC is grateful for the support afforded to our students by both the South West
 <figure>
 <img src="/images/southwest%20cdc%205.jpg">
 <figcaption>The donation of printers will go a long way in supporting our students in their Home-Based Learning</figcaption>
-</figure>
+</figure></div>
