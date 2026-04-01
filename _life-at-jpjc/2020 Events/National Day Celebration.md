@@ -27,7 +27,7 @@ Finally, the mass sing-a-long session using recorded music videos proved to be a
 
 <figure>
 <img src="/images/20ndp3.jpg">
-<figcaption>JC2 Students from 19S10 showcasing their tote bag designs.</figcaption>
+<figcaption>J2 Students from 19S10 showcasing their tote bag designs.</figcaption>
 </figure>
 
 <figure>
