@@ -3,13 +3,15 @@ title: De Souza Leslie Ethan (20A05)
 permalink: /accomplishments/students/a-level-inspirational-stories/2022/ethan/
 description: ""
 third_nav_title: Class of 2021
+variant: markdown
 ---
+
 <figure>
 <img src="/images/Leslie.jpg">
 <figcaption>&gt;Pursuing his passion in the Arts, De Souza Leslie Ethan (20A05) dared to be different</figcaption>
 	
 <center><h5>From Triple Sciences to the Arts - An all-rounder who dared to pursue his interests in Junior College and had a heart for others.</h5></center>
-
+<div align="justify">
 <p>
 When De Souza Leslie Ethan enrolled in Jurong Pioneer Junior College (JPJC), he took one of the biggest leaps he had ever taken, in his entire life – he decided to pursue something vastly different from what he had taken in secondary school. Coming from a Triple Science stream with no English Literature background in his upper secondary years, Leslie took the plunge and chose the Arts stream in JPJC, taking Literature in English, History and Economics. As Leslie recalls with a laugh, “My secondary school classmates all wanted to pursue the Sciences. Some even took H3 Biology or Physics. When they knew I chose the Arts stream, they probably thought I was making a bad decision.” That ‘bad decision’ turned out to be one that he did not regret. In fact, “it was one of the best leaps of faith” he had ever taken.</p>
 
@@ -35,4 +37,5 @@ Leslie also credits all his teachers for helping him overcome his anxieties. He 
 It thus came as no surprise that when Leslie was asked about his goals for the future, he decisively said that he wanted to pursue the Arts and Humanities in university, and become a teacher in future. “My teachers in JC solidified my decision to pursue teaching as a career, as their steadfast commitment to providing an optimal learning experience for students even during the chaotic circumstances of the past two years really touched me,” Leslie said with a smile. “One of my ambitions in life is to guide and inspire others in the same way I was guided during my time in school.”</p>
 
 <p>
-Indeed, for Leslie, what a leap of courage, growth and change it was back then – a leap that changed, enriched and bolstered his life for the many more adventures and opportunities that will come his way in future.</p></figure>
+Indeed, for Leslie, what a leap of courage, growth and change it was back then – a leap that changed, enriched and bolstered his life for the many more adventures and opportunities that will come his way in future.</p></div></figure>
+
