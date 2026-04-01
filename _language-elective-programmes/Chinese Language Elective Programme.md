@@ -31,7 +31,7 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 
 <h4><b>2. MOE CLEP Camp</b></h4>
 
-<p>A major highlight of the CLEP programme is the MOE CLEP Camp organised for all JC1 CLEP students from the five CLEP centres. Held during the first week of the June holidays, this 3D/2N or 3D non-residential camp at NTU or NUS offers an exciting opportunity to connect with fellow CLEP students, who are passionate to learn more about the Chinese language, literature and culture.</p>
+<p>A major highlight of the CLEP programme is the MOE CLEP Camp organised for all J1 CLEP students from the five CLEP centres. Held during the first week of the June holidays, this 3D/2N or 3D non-residential camp at NTU or NUS offers an exciting opportunity to connect with fellow CLEP students, who are passionate to learn more about the Chinese language, literature and culture.</p>
 <p>Participants engage in a rich learning journey, exploring various literary genres and themes with academics, subject experts, and local writers, while going on learning journeys to have a glimpse of various aspects of our society. This immersive experience strengthens both literary knowledge and friendships, making it an unforgettable part of the CLEP journey.
 </p>
 	
@@ -50,13 +50,13 @@ Each year, MOE CPDD organises a 9-day CLEP Overseas Immersion Trip for the MOE C
 	
 
 	
-<h4><b>4. JC2 Graduation Ceremony</b></h4>
+<h4><b>4. J2 Graduation Ceremony</b></h4>
 
-<p>At the end of each academic year, we hold a meaningful Graduation Ceremony for our JC2 CLEP and MLEP students. This event serves as a farewell and a recognition of their hard work and achievements. Graduates will receive a certificate of recognition from MOE, along with a commemorative booklet from the college, celebrating the culmination of their enriching journey.</p>
+<p>At the end of each academic year, we hold a meaningful Graduation Ceremony for our J2 CLEP and MLEP students. This event serves as a farewell and a recognition of their hard work and achievements. Graduates will receive a certificate of recognition from MOE, along with a commemorative booklet from the college, celebrating the culmination of their enriching journey.</p>
 
 <figure>
 <img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/CLEP/Clep4.png">
-<figcaption>JC2 Graduation Ceremony</figcaption></figure>
+<figcaption>J2 Graduation Ceremony</figcaption></figure>
 
 	
 

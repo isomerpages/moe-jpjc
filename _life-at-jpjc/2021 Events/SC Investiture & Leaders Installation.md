@@ -3,6 +3,7 @@ title: SC Investiture & Leaders Installation
 permalink: /life-at-jpjc/2021-events/sc-investiture-and-leaders-installation/
 description: ""
 third_nav_title: 2021 Events
+variant: markdown
 ---
 <h4><strong>Affirming our Student Councillors and Co-Curricular Activities Leaders</strong></h4>
 
@@ -10,7 +11,7 @@ third_nav_title: 2021 Events
 Jurong Pioneer Junior College’s Student Council (SC) Investiture and the Co-Curricular (CCA) Leaders’ Installation took place on 27 January 2021, close to half a year after the scheduled date, due to the challenges of the COVID-19 pandemic. Both events – which were traditionally held face-to-face in our college Hall – had been postponed for the health and safety of all stakeholders involved, participants and audience alike.</p>
 
 <p>
-As it was imperative that all our incoming student leaders were introduced to the rest of the college as they would be taking over the mantle in 2021, JPJC’s 3rd Student Council and the 3rd batch of CCA Leaders were introduced via a recorded video presentation played during the weekly Civics Tutorial (CT) lesson for our JC2 cohort.</p>
+As it was imperative that all our incoming student leaders were introduced to the rest of the college as they would be taking over the mantle in 2021, JPJC’s 3rd&nbsp;Student Council and the 3rd&nbsp;batch of CCA Leaders were introduced via a recorded video presentation played during the weekly Civics Tutorial (CT) lesson for our J2 cohort.</p>
 
 <p>
 Two videos were conceptualised by our student leaders for this event, with one video for the Student Council, and the other for CCA leaders. The creatively produced videos introduced the key appointment holders in the SC including the President, Vice President (Operations), Vice President (House) and the Heads of Publications and Welfare. It also highlighted the role of the Student Council as the voice of the student body, as well as the numerous initiatives by the Esprit, Welfare and Publications Committees in enhancing the vibrancy of the college. The video also featured one of the most important segments of the Investiture – the recitation of the Council Oath which all Student Councillors would take upon their appointment as leaders. Taking a different yet refreshing perspective, the video for the CCA Leaders Installation showcased clips of CCA leaders in action in their various fields of talent, while introducing themselves.</p>
@@ -28,7 +29,7 @@ It is the hope of all Student Councillors and CCA Leaders that 2021 will be a ye
 
 <figure>
 <img src="/images/scleaders2.jpg">
-<figcaption>Our 3rd JPJC Student Council reciting the Council Oath in unison in the pre-recorded Investiture video.</figcaption>
+<figcaption>Our 3rd&nbsp;JPJC Student Council reciting the Council Oath in unison in the pre-recorded Investiture video.</figcaption>
 </figure>
 
 <figure>

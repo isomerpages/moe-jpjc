@@ -3,6 +3,7 @@ title: Alumni Speakers Series
 permalink: /life-at-jpjc/2022-Events/AlumniSpeakersSeries/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
 <div align="justify">
 <p>In 2022, JPJC’s signature Alumni Speakers Series took on a refreshed format, with a curation of sessions more tailored to suit the interests and preferences of our students from respective disciplines.</p>
@@ -32,7 +33,7 @@ In March 2022, Dr Nagarajan Raghavan, an alumnus from Jurong Junior College (Cla
 
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Alumni%20Speakers%20Series/Photo%205.jpg">
 
-<figcaption>In July 2022, Dr Goh Han Lin, our alumnus from Jurong Junior College (Class of 1999) shared his experiences in doing research and working in the IT sector with our JC2 Computing students. He is currently an AI Research Scientist based in the San Francisco Bay Area and works at Apple Inc. Our students benefitted greatly from Dr Goh’s sharing and gained a greater awareness and understanding about Artificial Intelligence, Machine Learning and Data Analytics. He also shared his thoughts with students on the ethical use of AI.
+<figcaption>In July 2022, Dr Goh Han Lin, our alumnus from Jurong Junior College (Class of 1999) shared his experiences in doing research and working in the IT sector with our J2 Computing students. He is currently an AI Research Scientist based in the San Francisco Bay Area and works at Apple Inc. Our students benefitted greatly from Dr Goh’s sharing and gained a greater awareness and understanding about Artificial Intelligence, Machine Learning and Data Analytics. He also shared his thoughts with students on the ethical use of AI.
 </figcaption></figure>
 
 <figure>

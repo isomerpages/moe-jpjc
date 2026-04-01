@@ -3,11 +3,11 @@ title: Arts and Social Sciences Day
 permalink: /life-at-jpjc/2022-Events/ArtsandSocialSciencesDay/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
+<div align="justify">
 
-<div align=justify>
-
-<p>On 3 August 2022, the Arts and Social Sciences Interest Programme (ASSIP) group hosted the annual Arts and Social Sciences Day. Organised by the teachers-in-charge and JC1 members of the interest programme, it was aimed at creating greater awareness and appreciation for the arts and social sciences.</p>
+<p>On 3 August 2022, the Arts and Social Sciences Interest Programme (ASSIP) group hosted the annual Arts and Social Sciences Day. Organised by the teachers-in-charge and J1 members of the interest programme, it was aimed at creating greater awareness and appreciation for the arts and social sciences.</p>
 
 <p>This year, the event was held physically at the concourse alongside the STEM booths. With ‘Connectedness’ as the theme, the J1 ASSIP students worked meticulously to set up booths to share about the topics they conducted research on. Connections were also made to their personal interests and passion in the arts and social sciences with the goal to pique the interest of the general student population.</p>
 
@@ -35,4 +35,4 @@ third_nav_title: 2022 Events
 	
 <figure>
 <img src="/images/Life%20%40%20JPJC/2022%20Events/Arts%20and%20Social%20Sciences%20Day/6%20A%20student%20voting%20on%20the%20impact%20of%20social%20media%20on%20his%20life.jpg">
-<figcaption>A student voting on the impact of social media on his life</figcaption></figure>
+<figcaption>A student voting on the impact of social media on his life</figcaption></figure></div>

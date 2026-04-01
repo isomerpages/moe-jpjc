@@ -3,10 +3,11 @@ title: Leadership Training Camp (Internal)
 permalink: /life-at-jpjc/2022-Events/LTCinternal/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
-137 newly elected CCA Leaders and Student Councillors took part in the Leadership Training Camp (LTC) organised by a Student Planning Committee (SPC) comprising 17 JC2 CCA Leaders and teachers from the Student Leadership (SLD) Committee. The LTC is the college’s annual leadership programme, with the objective of instilling leadership competencies and group management skills in  new leaders through numerous hands-on activities and reflections. The LTC also serves to create a community of supportive student leaders within the college and is one of the three programmes that JPJC CCA leaders would undergo during their leadership stint.</p>
+137 newly elected CCA Leaders and Student Councillors took part in the Leadership Training Camp (LTC) organised by a Student Planning Committee (SPC) comprising 17 J2 CCA Leaders and teachers from the Student Leadership (SLD) Committee. The LTC is the college’s annual leadership programme, with the objective of instilling leadership competencies and group management skills in  new leaders through numerous hands-on activities and reflections. The LTC also serves to create a community of supportive student leaders within the college and is one of the three programmes that JPJC CCA leaders would undergo during their leadership stint.</p>
 
 <p>
 With the resumption of outdoor learning journeys with no group size limits as part of the relaxation of Safe Management Measures (SMM), the SLD committee and SPC members worked collaboratively to conceptualise a face-to-face training camp that would fit the learning needs of these new leaders. This proved to be a refreshing challenge for the SPC members, who had limited prior exposure to attending or running an in-person leadership camp.</p>
@@ -14,12 +15,12 @@ With the resumption of outdoor learning journeys with no group size limits as pa
 <p>
 Reflecting on their experience as CCA leaders together, the SPC members integrated the following key experiences to conceptualize the camp’s many objectives. These include: 
 <style>ul.a {list-style-type: lower-alpha;}</style>
-<ul class="a">
+</p><ul class="a">
 	<li><b>Understanding the JPJC Leadership Competencies</b> – a segment that introduced the leadership competencies to new leaders, thereby providing them with guidance on how to work towards becoming effective leaders;</li>
 	<li><b>Understanding Yourselves as Leaders</b> – a segment that offered opportunities for leaders to reflect on their personalities, leadership and conflict management styles, and how these differences between them and their CCA peers could be used constructively to lead the CCA;</li>
-	<li><b>Debrief & Facilitation Skills</b> – an essential component that equipped students with the necessary skills to facilitate discussions and conduct debriefs;</li>
+	<li><b>Debrief &amp; Facilitation Skills</b> – an essential component that equipped students with the necessary skills to facilitate discussions and conduct debriefs;</li>
 	<li><b>Amazing Race</b> – an outdoor component held at Gardens by the Bay and Marina Barrage that tested the leaders’ readiness to lead and influence the team, through a series of vigorous activities;</li>
-	<li><b>Building Resilience, Grit & Drive</b> – a series of challenging games that required time to strategise and refine their approaches after repeated attempts.</li></ul>
+	<li><b>Building Resilience, Grit &amp; Drive</b> – a series of challenging games that required time to strategise and refine their approaches after repeated attempts.</li></ul>
 
 <p>
 In order to maximise learning, the entire camp was conducted using an experiential learning approach, in which the student leaders gained knowledge and skills primarily through gamification, case studies, simulation exercises and discussions which was facilitated by the SPC and the teachers.</p>

@@ -3,8 +3,9 @@ title: Mother Tongue Language Fortnight
 permalink: /life-at-jpjc/2022-events/mtl-fortnight/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 
 <p>
 The Mother Tongue Language Fortnight (MTLF) organised by the Mother Tongue Department took place between 27 March and 8 April 2022. This year’s MTLF comprised of a series of activities ranging from online sharing by experts, craft making, asynchronous lessons as well as poetry and essay competitions.</p>
@@ -57,4 +58,4 @@ Tamil Language and Indian culture-based learning activities were also organised 
 </figure>
 
 <p>	
-What better way to learn about culture than through a sensory-filled fortnight! Our students truly enjoyed themselves relishing the opportunity to immerse themselves in the rich cultural activities made available to them.</p>
+What better way to learn about culture than through a sensory-filled fortnight! Our students truly enjoyed themselves relishing the opportunity to immerse themselves in the rich cultural activities made available to them.</p></div>
