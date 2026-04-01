@@ -32,7 +32,7 @@ variant: markdown
 |  3 March 2021 | [Heightening college spirit through House Bonding Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/heightening-college-spirit-through-house-bonding-day/)  |
 |  1 March 2021 | [Inauguration Session of the JPJC Arts and Social Sciences Student Interest Programme](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jpjc-art-and-science-interest-programme/) |
 | 25 February 2021  |[Term 1 Stall Wellness Activities Day: An invigorating and fun start to the day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/term1-staff-wellness-activities-day/) |
-|  25 February 2021 | [Touching Base with the Parents of our JC1 Students](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc1-touching-base-with-parent/)  |
+|  25 February 2021 | [Touching Base with the Parents of our J1 Students](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/jc1-touching-base-with-parent/)  |
 |  25 February 2021 |[Floorball VIA Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/floorball-via/) |
 |  19 February 2021 | [GCE 'A' Level Results Release Day](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/a-level-result-release/) |
 | 18 February 2021  |[Total Defence Day Commemoration](https://www.jpjc.moe.edu.sg/life-at-jpjc/2021-events/total-defence-day-commemoration/) |
