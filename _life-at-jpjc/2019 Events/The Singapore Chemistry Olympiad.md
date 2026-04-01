@@ -3,10 +3,11 @@ title: The Singapore Chemistry Olympiad
 permalink: /life-at-jpjc/2019-events/singapore-chemistry-olympiad/
 description: ""
 third_nav_title: 2019 Events
+variant: markdown
 ---
-<div align=justify>
+<div align="justify">
 <p>
-The Singapore Chemistry Olympiad (SChO) 2018 was held on 19 November 2018 at the National University of Singapore, Faculty of Science. This is an annual competition jointly organised by the Singapore National Institute of Chemistry (SNIC), Chemistry Department of National University of Singapore and the Ministry of Education. This competition aims to promote an interest in Chemistry and to provide an opportunity for academically inclined Chemistry JC students to pit their knowledge in Chemistry and spar against students from other institutions. The competition consisted of a theory test and a practical test which was approximately 4-5 hours, taken over two days. The competition was open to all JC/MI and IB schools and was meant for students from JC1 and equivalent.</p>
+The Singapore Chemistry Olympiad (SChO) 2018 was held on 19 November 2018 at the National University of Singapore, Faculty of Science. This is an annual competition jointly organised by the Singapore National Institute of Chemistry (SNIC), Chemistry Department of National University of Singapore and the Ministry of Education. This competition aims to promote an interest in Chemistry and to provide an opportunity for academically inclined Chemistry JC students to pit their knowledge in Chemistry and spar against students from other institutions. The competition consisted of a theory test and a practical test which was approximately 4-5 hours, taken over two days. The competition was open to all JC/MI and IB schools and was meant for students from J1 and equivalent.</p>
 
 <p>
 JPJC was proudly represented by the following students:</p>
@@ -30,4 +31,4 @@ JPJC competed against the likes of Hwa Chong Institution and Raffles Institution
 
 <img src="/images/chemistry%20olympiad%203.jpg">
 <figcaption>Bronze medallist Chua Shan Hong of 18S24</figcaption>
-</figure>
+</figure></div>
