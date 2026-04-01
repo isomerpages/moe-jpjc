@@ -3,10 +3,11 @@ title: CCA Discovery Day
 permalink: /life-at-jpjc/2019-events/cca-discovery-day/
 description: ""
 third_nav_title: 2019 Events
+variant: markdown
 ---
-<div align=jusitfy>
+<div align="jusitfy">
 <p>
-During Enrichment Week, JC2 students from all CCAs took part in the CCA Discovery Day on 7 February 2019. The CCA Discovery Day served as a platform to provide opportunities for students to hone their leadership skills and learn from others through fun and experiential activities. Students signed up to experience CCA activities conducted by student facilitators over two sessions.</p>
+During Enrichment Week, J2 students from all CCAs took part in the CCA Discovery Day on 7 February 2019. The CCA Discovery Day served as a platform to provide opportunities for students to hone their leadership skills and learn from others through fun and experiential activities. Students signed up to experience CCA activities conducted by student facilitators over two sessions.</p>
 
 <p>
 For Sports and Games, practice drills on sports-specific fundamental skills and techniques as well as small-sided modified games were conducted.</p>
@@ -36,4 +37,4 @@ The slew of activities maximised the exposure of our students to the other CCAs 
 <figure>
 <img src="/images/cca%20discovery%20day%205.jpg">
 <figcaption>Students showing off their Rangoli Art</figcaption>
-</figure>
+</figure></figure></div>
