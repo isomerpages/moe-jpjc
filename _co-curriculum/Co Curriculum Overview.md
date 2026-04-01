@@ -14,75 +14,54 @@ variant: markdown
 
 <tbody><tr>
 <td colspan="6" align="center">
-<a href="#"><img width="90" src="iconA.png"></a>
+<a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:60%"></a>
 </td>
 </tr>
 
 <tr>
 <td colspan="6" align="center">
-<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
+<a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:60%"></a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="#"><img width="25" src="icon6.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
 </td>
 <td align="center">
-<a href="#"><img width="25" src="icon5.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
 </td>
 <td align="center">
-<a href="#"><img width="25" src="icon4.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/House_System.png"></a>
 </td>
 </tr>
 <tr>	
 <td align="center">
-<a href="#"><img width="25" src="icon3.png"></a>
+<a href="#"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
 </td>
 <td align="center">
-<a href="#"><img width="25" src="icon2.png"></a>
+<a href="#"><img src="/images/Co%20Curriculum/STEAM.png"></a>
 </td>
 <td align="center">
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Student_Leadership.png"></a>
 </td>
 </tr>
-
 </tbody></table>
 
-<div hidden="">
-	
-<div align="center">
+<a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Open%20House%202025/Subject_Combination.png" style="width:100%">
+</a>
 
-<div align="center">
-<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
-</div>
-<div>
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Co_Curricular_Activities.png"></a>
-</div>
-<div>
-<a href="#"><img width="25" src="/images/Co%20Curriculum/House_System.png"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
-</div>
-<div>
-<a href="#"><img width="90" src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png"></a>
-</div>
-<div>
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Student_Leadership.png"></a>
-</div>
 
-<div>
-<a href="#"><img width="25" src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
-</div>
-</div>
-<br><br>
-</div>
 
 
 
 <div hidden="">
 	
-![](/images/Co%20Curriculum/Internationalisation_Programme.png)![](/images/Co%20Curriculum/Talent_and_Leadership_Development.png)![](/images/Co%20Curriculum/Arts_and_Aesthetics.png)![](/images/Co%20Curriculum/Student_Leadership.png)![]
-(/images/Co%20Curriculum/STEAM.png)![](/images/Co%20Curriculum/Scholars_Development_Programme.png)![](/images/Co%20Curriculum/House_System.png)![](/images/Co%20Curriculum/Co_Curricular_Activities.png)		</div>
+/images/Co%20Curriculum/Internationalisation_Programme.png
+/images/Co%20Curriculum/Talent_and_Leadership_Development.png
+/images/Co%20Curriculum/Arts_and_Aesthetics.png
+/images/Co%20Curriculum/Student_Leadership.png
+/images/Co%20Curriculum/STEAM.png
+/images/Co%20Curriculum/Scholars_Development_Programme.png
+/images/Co%20Curriculum/House_System.png
+/images/Co%20Curriculum/Co_Curricular_Activities.png</div>
