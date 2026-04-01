@@ -10,7 +10,44 @@ variant: markdown
 
 
 
+<table cellspacing="0" cellpadding="10" border="0" align="center">
 
+<tbody><tr>
+<td colspan="6" align="center">
+<a href="#"><img width="90" src="iconA.png"></a>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" align="center">
+<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="#"><img width="25" src="icon6.png"></a>
+</td>
+<td align="center">
+<a href="#"><img width="25" src="icon5.png"></a>
+</td>
+<td align="center">
+<a href="#"><img width="25" src="icon4.png"></a>
+</td>
+</tr>
+<tr>	
+<td align="center">
+<a href="#"><img width="25" src="icon3.png"></a>
+</td>
+<td align="center">
+<a href="#"><img width="25" src="icon2.png"></a>
+</td>
+<td align="center">
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
+</td>
+</tr>
+
+</tbody></table>
 
 <div hidden="">
 	
