@@ -12,37 +12,41 @@ variant: markdown
 
 <a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:50%"></a><a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:50%"></a>
 
-<table align="center">
 
+<table>
 <tbody><tr>
 <td>
-<a href="#"><img src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
-</td>
-<td>
-<a href="#"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
-</td>
-<td>
-<a href="#"><img src="/images/Co%20Curriculum/House_System.png"></a>
-</td>
-</tr>
-
-<tr>	
-<td>
-<a href="#"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
-</td>
-<td>
-<a href="#"><img src="/images/Co%20Curriculum/STEAM.png"></a>
-</td>
-<td>
-<a href="#"><img src="/images/Co%20Curriculum/Student_Leadership.png"></a>
-</td>
-</tr>
+<a href="https://drive.google.com/file/d/1GgL71sj0Mx7A5O7ErI3ewUXtL-HKgpJw/view"><img src="/images/Co%20Curriculum/Arts_and_Aesthetics.png" style="width:100%">
+</a>
+        </td>
+        <td>
+       <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Co%20Curriculum/Co_Curricular_Activities.png" style="width:100%">
+</a>
+        </td>
+ <td>
+       <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Co%20Curriculum/House_System.png" style="width:100%">
+</a>
+        </td>				
+ </tr>
 </tbody></table>
 
 
-
-
-
+<table>
+<tbody><tr>
+<td>
+<a href="https://drive.google.com/file/d/1GgL71sj0Mx7A5O7ErI3ewUXtL-HKgpJw/view"><img src="/images/Co%20Curriculum/Scholars_Development_Programme.png" style="width:100%">
+</a>
+        </td>
+        <td>
+       <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Co%20Curriculum/STEAM.png" style="width:100%">
+</a>
+        </td>
+ <td>
+       <a href="https://www.jpjc.moe.edu.sg/about/subject-combination/"><img src="/images/Co%20Curriculum/Student_Leadership.png" style="width:100%">
+</a>
+        </td>				
+ </tr>
+</tbody></table>
 
 
 <div hidden="">
