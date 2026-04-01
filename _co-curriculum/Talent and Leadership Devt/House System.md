@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div align="justify">
 <h3><strong>Objectives of House</strong></h3>
-<p>The House system, comprising Taurus, Aries, Ursa, Pavo, Aquila and Volans, enhances the whole-college experience by fostering a vibrant JPFAM culture that nurtures a shared sense of pride and belonging among students and teachers. Through opportunities to lead and serve in House activities throughout the year, House Captains and House Executives develop key leadership competencies, becoming confident influencers who rally both teachers and peers to participate actively in House events.</p>
+<p>The House system, comprising Taurus, Aries, Ursa, Pavo, Aquila and Volans, enhances the whole-college experience by fostering a vibrant JPFam culture that nurtures a shared sense of pride and belonging among students and teachers. Through opportunities to lead and serve in House activities throughout the year, House Captains and House Executives develop key leadership competencies, becoming confident influencers who rally both teachers and peers to participate actively in House events.</p>
 
 <h3><strong>Programmes</strong></h3>
 <p>Students and teachers enjoy a vibrant college experience through House activities such as Road Run, House Bonding Day, and Inter-House Games, led by House Captains and House Executives. These events bring the House community together as students and teachers participate, collaborate, and compete for House points in the bid for the coveted Champion House title.</p>
