@@ -10,18 +10,11 @@ variant: markdown
 
 
 
-<a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:50%"></a><a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:50%"></a><table align="center">
+<a href="#"><img src="/images/Co%20Curriculum/Internationalisation_Programme.png" style="width:50%"></a><a href="#"><img src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png" style="width:50%"></a>
+
+<table align="center">
 
 <tbody><tr>
-
-
-</tr>
-
-<tr>
-
-</tr>
-
-<tr>
 <td>
 <a href="#"><img src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
 </td>
