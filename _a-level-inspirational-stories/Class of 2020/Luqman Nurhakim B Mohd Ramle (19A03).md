@@ -7,14 +7,14 @@ variant: markdown
 ---
 <figure>
 <img src="/images/Luqman%20Nurhakim%20B%20Mohd%20Ramle.jpg">
-<figcaption>Repeating JC1 provided Luqman with an opportunity to discover his strengths in the Arts stream and pursue new dreams.</figcaption></figure>
+<figcaption>Repeating J1 provided Luqman with an opportunity to discover his strengths in the Arts stream and pursue new dreams.</figcaption></figure>
 
 <div align="justify">
 
 <center><h5>A SILVER LINING BEHIND EVERY CLOUD</h5></center>
 
 <p>
-The worrying thoughts kept recurring in Luqman’s mind as he was about to receive his JC1 Promotional results. “What if I retain in JC1?”; “What would my parents think?”; “They have high such expectations of me as I am the only one in the family that ever made it to Junior College”; “Can I still fulfil my dreams of becoming a research scientist with A*Star?” Indeed, when these thoughts became hard reality, Luqman was devastated. Having to retain would possibly mean that his career ambitions of a scientist were to be crushed. He was determined to start afresh and made the unconventional decision to switch to the Arts stream.</p>
+The worrying thoughts kept recurring in Luqman’s mind as he was about to receive his J1 Promotional results. “What if I retain in J1?”; “What would my parents think?”; “They have high such expectations of me as I am the only one in the family that ever made it to Junior College”; “Can I still fulfil my dreams of becoming a research scientist with A*Star?” Indeed, when these thoughts became hard reality, Luqman was devastated. Having to retain would possibly mean that his career ambitions of a scientist were to be crushed. He was determined to start afresh and made the unconventional decision to switch to the Arts stream.</p>
 
 <p>
 This decision was to be his silver lining. Luqman was thankful to the college for allowing his switch as it gave him a second lease of life. Despite having to master new subjects such as English Literature, Luqman was more determined than ever to make good his second chance. He understood that he needed to restart on a fresh, clean slate; and therefore wholeheartedly embraced this new challenge.</p>
