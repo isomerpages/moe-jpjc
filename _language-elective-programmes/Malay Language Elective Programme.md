@@ -61,13 +61,13 @@ The Graduation Showcase is an annual performance by the JC2 MLEP students. After
 	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP05.jpeg">
 	<figcaption>Introduction to Dikir Barat and Malay drums</figcaption></figure>
 	
-<h3>JC2 LEP Graduation Ceremony</h3>
+<h3>J2 LEP Graduation Ceremony</h3>
 	
-<p>Annually, a JC2 LEP Graduation Ceremony is held to say goodbye to the graduating JC2 MLEP class. During this event, they will receive a JPJC MLEP Portfolio as a symbol marking the conclusion of their rewarding journey.</p>
+<p>Annually, a J2 LEP Graduation Ceremony is held to say goodbye to the graduating J2 MLEP class. During this event, they will receive a JPJC MLEP Portfolio as a symbol marking the conclusion of their rewarding journey.</p>
 
 <figure>
 	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP06.jpeg">
-	<figcaption>Class of 2023-JC2 MLEP Graduands</figcaption></figure>
+	<figcaption>Class of 2023-J2 MLEP Graduands</figcaption></figure>
 	
 <figure>
 	<img src="/images/JPJC%20Experience/Curriculum/Languages/Language%20Elective%20Programmes/MLEP/MLEP07.jpeg">
