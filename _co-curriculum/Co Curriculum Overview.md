@@ -10,49 +10,42 @@ variant: markdown
 
 
 
+	
+
 <div hidden="">
 	
-![](/images/Co%20Curriculum/Internationalisation_Programme.png)![](/images/Co%20Curriculum/Talent_and_Leadership_Development.png)![](/images/Co%20Curriculum/Arts_and_Aesthetics.png)![](/images/Co%20Curriculum/Student_Leadership.png)![](/images/Co%20Curriculum/STEAM.png)![](/images/Co%20Curriculum/Scholars_Development_Programme.png)![](/images/Co%20Curriculum/House_System.png)![](/images/Co%20Curriculum/Co_Curricular_Activities.png)	
-	
 <div align="center">
 
-
-<div>
-<a href="#"><img width="25" src="icon1.png"></a>
+<div align="center">
+<a href="#"><img width="90" src="/images/Co%20Curriculum/Internationalisation_Programme.png"></a>
 </div>
-
-
 <div>
-<a href="#"><img width="25" src="icon2.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Co_Curricular_Activities.png"></a>
+</div>
+<div>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/House_System.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon3.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
 </div>
-
-
 <div>
-<a href="#"><img width="90" src="iconB.png"></a>
+<a href="#"><img width="90" src="/images/Co%20Curriculum/Talent_and_Leadership_Development.png"></a>
 </div>
-
-
 <div>
-<a href="#"><img width="25" src="icon4.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Scholars_Development_Programme.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img width="25" src="icon5.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Student_Leadership.png"></a>
 </div>
-
 
 <div>
-<a href="#"><img width="25" src="icon6.png"></a>
+<a href="#"><img width="25" src="/images/Co%20Curriculum/Arts_and_Aesthetics.png"></a>
 </div>
-
 </div>
-
 <br><br>
-
-
-<div align="center">
-<a href="#"><img width="90" src="iconA.png"></a>
 </div>
 
 
-</div>
+
+<div hidden="">
+	
+![](/images/Co%20Curriculum/Internationalisation_Programme.png)![](/images/Co%20Curriculum/Talent_and_Leadership_Development.png)![](/images/Co%20Curriculum/Arts_and_Aesthetics.png)![](/images/Co%20Curriculum/Student_Leadership.png)![]
+(/images/Co%20Curriculum/STEAM.png)![](/images/Co%20Curriculum/Scholars_Development_Programme.png)![](/images/Co%20Curriculum/House_System.png)![](/images/Co%20Curriculum/Co_Curricular_Activities.png)		</div>
