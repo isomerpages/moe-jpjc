@@ -13,4 +13,4 @@ third_nav_title: 2026 Events
 4-11 February 2026|[Matriculation and Orientation](/life-at-jpjc/2026-events/matriculation-and-orientation/)
 16 January 2026|[Open House](/life-at-jpjc/2026-events/open-house/)
 16 January 2026|[Open House](/life-at-jpjc/2026-events/open-house/)
-|13 February (J2) and 6 March (J1) 2026
+|13 February (J2) and 6 March (J1) 2026|
