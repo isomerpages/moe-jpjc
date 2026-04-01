@@ -29,7 +29,7 @@ third_nav_title: Class of 2025
 
 <p>Among his many experiences, one stood out as particularly transformative — his participation in the Nanyang Technological University Physics Challenge 2024. Although the competition tested topics within the H2 Physics syllabus, the real challenge lay in the preparation.</p>
 
-<p>“I had to study almost the entire A-Level Physics syllabus in July of JC1,” Shyam recalled. Balancing this intense preparation alongside increasing junior college demands was difficult, but the experience proved to be a turning point.</p>
+<p>“I had to study almost the entire A-Level Physics syllabus in July of J1,” Shyam recalled. Balancing this intense preparation alongside increasing junior college demands was difficult, but the experience proved to be a turning point.</p>
 
 <p>“This competition taught me how to be a self-directed learner and how to manage my time,” he said. It also revealed the value of pre-reading. “Since I had briefly gone through the entire syllabus, when the topics were taught in class later, I could grasp the concepts more quickly.” For Shyam, the competition became one of his most memorable junior college experiences — not because of the result, but because of the growth it fostered.</p>
 
