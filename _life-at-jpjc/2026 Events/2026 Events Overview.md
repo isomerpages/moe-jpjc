@@ -14,3 +14,6 @@ third_nav_title: 2026 Events
 16 January 2026|[Open House](/life-at-jpjc/2026-events/open-house/)
 16 January 2026|[Open House](/life-at-jpjc/2026-events/open-house/)
 |13 February (J2) and 6 March (J1) 2026|
+
+
+J1 & J2 Parent Engagement Sessions 2026
