@@ -1,11 +1,10 @@
 ---
-title: DIRECT SCHOOL ADMISSION (DSA) 2025
-permalink: /direct-school-admission-dsa-2025/
+title: DIRECT SCHOOL ADMISSION (DSA) 2026
+permalink: /direct-school-admission-dsa-2026/
 variant: markdown
 description: ""
 third_nav_title: Admission Matters
 ---
-
 <div align="justify">	
 	
 <p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2026. Successful DSA-JC candidates will gain admission to JPJC in 2027 for their JC education if they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE’O’ Level examinations results.</p>
