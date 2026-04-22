@@ -54,13 +54,13 @@ sections:
       image: /images/Homepage/2026_Values_in_Action.jpg
       alt: Image alt text
   - infopic:
-      title: Hear from the Class of 2024!
+      title: Hear from the Class of 2025!
       subtitle: Highlights
       id: infopic
       description: Be inspired by how our students have overcome various difficulties
         in their lives and found varied pathways to success.
       button: Read more here
-      url: /a-level-inspirational-stories/2024/overview/
-      image: /images/Homepage/Hear_from_the_Class_of_2024_.jpg
+      url: /a-level-inspirational-stories/2025/overview/
+      image: /images/Accomplishment/2025 A Level Stories/2026_JP_Stories.jpg
       alt: Image alt text
 ---
