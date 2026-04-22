@@ -19,8 +19,8 @@ sections:
           description: 2025 Highlights
           url: /life-at-jpjc/2025-events/
         - title: A Level Inspiration Stories
-          description: Hear from the class of 2024!
-          url: /a-level-inspirational-stories/2024/overview/
+          description: Hear from the class of 2025!
+          url: /a-level-inspirational-stories/2025/overview/
       variant: center
       backgroundColor: white
       size: sm
