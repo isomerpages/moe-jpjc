@@ -34,12 +34,6 @@ sections:
           announcement: Direct School Admission 2026
           link_text: Find out more
           link_url: /direct-school-admission-dsa-2026/
-  - infobar:
-      title: DSA 2026
-      id: infobar
-      description: Direct School Admission
-      button: FIND OUT MORE
-      url: /direct-school-admission-dsa-2026/
   - infopic:
       title: Curriculum
       subtitle: Active learners
