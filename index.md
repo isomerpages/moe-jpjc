@@ -28,7 +28,9 @@ sections:
   - infobar:
       title: DSA 2026
       id: infobar
-      description: Direct School Admission
+      description: Apply for our Direct School Admission! We offer talent areas across
+        Language and Humanities, STEM, Arts, Performing Arts & Sports. Details
+        out 5 May 2026.
       button: FIND OUT MORE
       url: /direct-school-admission-dsa-2026/
   - infopic:
