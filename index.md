@@ -25,6 +25,15 @@ sections:
       backgroundColor: white
       size: sm
       alignment: right
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: DSA
+          date: 20 April 2026
+          announcement: Direct School Admission 2026
+          link_text: Find out more
+          link_url: /direct-school-admission-dsa-2026/
   - infobar:
       title: DSA 2026
       id: infobar
