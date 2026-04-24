@@ -25,6 +25,12 @@ sections:
       backgroundColor: white
       size: sm
       alignment: right
+  - infobar:
+      title: DSA 2026
+      id: infobar
+      description: Direct School Admission
+      button: FIND OUT MORE
+      url: /direct-school-admission-dsa-2026/
   - infopic:
       title: Curriculum
       subtitle: Active learners
@@ -34,12 +40,6 @@ sections:
       url: https://www.jpjc.moe.edu.sg/jpjc-experience/curriculum/
       image: /images/Homepage/2026_Curriculum.jpg
       alt: Image alt text
-  - infobar:
-      title: DSA 2026
-      id: infobar
-      description: Direct School Admission
-      button: FIND OUT MORE
-      url: /direct-school-admission-dsa-2026/
   - infopic:
       title: Co-curriculum
       subtitle: Innovative thinkers
