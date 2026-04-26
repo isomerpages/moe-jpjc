@@ -1,5 +1,5 @@
 ---
-title: DIRECT SCHOOL ADMISSION (DSA) 2026
+title: Direct School Admission (DSA) 2026
 permalink: /direct-school-admission-dsa-2026/
 variant: markdown
 description: ""
