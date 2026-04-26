@@ -8,7 +8,7 @@ third_nav_title: Open House 2026
 <div align="justify">
 <h3>Admission</h3>
 
-<p>Explore pathways and understand the posting processs:
+<p>Explore pathways and understand the posting process:
 a. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-the-posting-process">What to consider</a>
 b. <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-the-posting-process/how-posting-works">How posting works</a></p>
 	
