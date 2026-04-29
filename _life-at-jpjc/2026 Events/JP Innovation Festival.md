@@ -17,11 +17,15 @@ third_nav_title: 2026 Events
 	
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/jpspotlight.jpg"></figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/JP_Inno_Fest_1.jpg"></figure>
+	
+<div class="isomer-image-wrapper">
+<figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/JP_Inno_Fest_2.jpg"></figure>
 	
 <p>Photos by:<br>
 <a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
 
 <p>#JPFam #whyJP #whileiliveilearn #plusultra ❤️#infinitelove 🌱#infinitegrowth 🚀#infinitepossibilities</p>
 	
-</div></div>
+</div></div></div>
