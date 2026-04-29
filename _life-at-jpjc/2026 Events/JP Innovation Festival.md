@@ -19,4 +19,6 @@ third_nav_title: 2026 Events
 <figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/jpspotlight.jpg"></figure>
 	
+<p>#JPFam #whyJP #whileiliveilearn #plusultra ❤️#infinitelove 🌱#infinitegrowth 🚀#infinitepossibilities</p>
+	
 </div></div>
