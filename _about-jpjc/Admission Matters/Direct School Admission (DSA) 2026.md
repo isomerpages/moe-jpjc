@@ -50,7 +50,7 @@ third_nav_title: Admission Matters
 
 
 
-<div hidden="">
+
 	
 	<p></p><h5><b>Our DSA 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 
@@ -107,7 +107,11 @@ third_nav_title: Admission Matters
 <h5><b><u>	DIRECT SCHOOL ADMISSION FOR JURONG PIONEER JUNIOR COLLEGE (DSA-JPJC) 2026 </u></b></h5>
 <p>JPJC will consider direct admission for the following programmes and CCAs:</p>
 
-	
-<figure><center><iframe src="https://docs.google.com/document/d/e/2PACX-1vQbjjJlbfm_GECyMYJkX1buSmHZbAnmwkbLjWgtVRP7EJnBGgSlTWZ4XueYAAQndw/pub?embedded=true"></iframe>	</center></figure>
 
-</div></div>
+<figure><center><iframe scrolling="no" height="6200px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQbjjJlbfm_GECyMYJkX1buSmHZbAnmwkbLjWgtVRP7EJnBGgSlTWZ4XueYAAQndw/pub?embedded=true"></iframe>	</center></figure>
+	
+	
+	
+
+
+</div>
