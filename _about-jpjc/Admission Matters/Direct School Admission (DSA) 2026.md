@@ -50,7 +50,7 @@ third_nav_title: Admission Matters
 
 
 
-	
+<div hidden="">
 	
 	<p></p><h5><b>Our DSA 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 
@@ -111,4 +111,4 @@ third_nav_title: Admission Matters
 	
 <figure><center><iframe scrolling="no" height="5400px" width="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQfLHYcsNUtVaWByBrij-MItaNBaax7EAFoF4xUCxnhE8lynYzyLtiDxNJ6erTPyg/pub?embedded=true"></iframe>	</center></figure>
 
-</div></div>
+</div></div></div>
