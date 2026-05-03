@@ -49,12 +49,12 @@ third_nav_title: Admission Matters
 
 
 
-<div hidden="">
+
 	
 	
 	<p></p><h5><b>Our DSA 2025 has concluded. Stay tuned for updates in 2026.</b></h5><h5><p></p>
 
-<p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2025. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
+<p>Jurong Pioneer Junior College (JPJC) invites students with outstanding talents/skills to apply for DSA-JC Exercise 2026. DSA-JC is open to all SEC4E/Sec 5NA O-Level graduating cohort studying in mainstream secondary schools. </p>
 
 <p>DSA-JC applicants must fulfil the age requirement to be eligible for DSA-JC. As of 1 Jan of the year of J1 admission, applicants who are:</p>
 <ul><li> Singapore Citizen (SC) or Singapore Permanent Resident (SPR) - must be between 16 and 20+ years old.</li>
@@ -65,11 +65,11 @@ third_nav_title: Admission Matters
 </p>
 	
 <p></p></h5><h5><b>Application Procedures</b></h5> 
-<ol><li><ul>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>7 May 2025</b>, onward.  All applications must be submitted latest by:
-<ul><li>DSA Phase 1: <b>25 Jul 2025</b><br>
-<i>	(DSA Phase 1 applicants will receive notification from the school by 1 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i>
-</li><li>DSA Phase 2: <b>15 Aug 2025</b><br>
-<i>(DSA Phase 2 applicants will receive notification from the school by 22 Aug if they are shortlisted for Direct School Admission (DSA) selection.)</i></li></ul></ul>
+<ol><li><ul>All applicants are to submit their application form through the website using the link: <a href="https://dsa.jpjc.edu.sg"> https://dsa.jpjc.edu.sg</a> from <b>6 May 2026</b>, onward.  All applications must be submitted latest by:
+<ul><li>DSA Phase 1: <b>17 Jul 2026</b><br>
+<i>	(DSA Phase 1 applicants will receive notification from the school by 30 July 2026 if they are shortlisted for Direct School Admission (DSA) selection.)</i>
+</li><li>DSA Phase 2: <b>14 Aug 2026</b><br>
+<i>(DSA Phase 2 applicants will receive notification from the school by 21 August 2026 if they are shortlisted for Direct School Admission (DSA) selection.)</i></li></ul></ul>
 
 </li><li><ul>Applicants should clearly indicate their area of interest/talent/expertise and highlight their achievement for the college’s consideration. </ul>
 
@@ -92,9 +92,9 @@ third_nav_title: Admission Matters
 <p>	General information on the DSA-JC Exercise can be found on MOE’s website <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa"> https://www.moe.gov.sg/post-secondary/admissions/dsa</a></p>
 	
 <p>If you have any enquiries, please contact:<br>
-</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at tel no. 65646878 or email <a href="mailto:leo_ying_ching@moe.edu.sg"> leo_ying_ching@moe.edu.sg</a> or <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
+</p><ul><li>Ms Leo Ying Ching, Head of Department (Physical Education &amp; Co-Curricular Activities) at email <a href="mailto:leo_ying_ching@schools.gov.sg">leo_ying_ching@schools.gov.sg</a></li></ul>
 <p></p>
-</div>
+
 	
 	
 <div align="justify">	
