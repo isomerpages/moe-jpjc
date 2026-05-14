@@ -14,15 +14,11 @@ third_nav_title: 2026 Events
 <p>The sessions went beyond simply introducing careers. Students engaged professionals in honest conversations about their personal journeys, challenges in the workplace, misconceptions surrounding various industries, and the impact of technology and AI on the future of work. The audience was highly participative, with lively exchanges and thoughtful questions throughout all four lecture theatres.</p>
 	
 <p>Adding to the vibrancy of the event were JPJC’s very own student emcees and moderators, who confidently helmed the discussions with poise, warmth and professionalism. Their ability to engage both speakers and audience members elevated the experience tremendously, and they certainly did not disappoint. The JPJC Career Talks 2026 was truly an enriching and dynamic platform that empowered students to explore possibilities, discover their interests, and gain valuable insights into the ever-evolving world of work.</p>
-	
+		
 <div class="isomer-image-wrapper">
 <figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/JP_Inno_Fest_1.jpg"></figure>
-	
-<div class="isomer-image-wrapper">
-<figure>
-<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/JP_Inno_Fest_2.jpg"></figure>
+<img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Career_Talks.jpg"></figure>
 
 <p>#JPFam #whyJP #whileiliveilearn #plusultra ❤️#infinitelove 🌱#infinitegrowth 🚀#infinitepossibilities</p>
 	
-</div></div></div>
+</div></div>
