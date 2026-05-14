@@ -7,13 +7,13 @@ third_nav_title: 2026 Events
 ---
 <div align="justify">
 	
-<p>The inaugural JP Innovation Festival 2026, held on 15 April 2026, marked a significant milestone in bringing together innovation, service, and student agency on a single dynamic platform. Organised collaboratively by PW, STEAM, NESL, ECG, and Outreach, the Festival was made possible through the collective efforts and strong support of the entire school community. We were delighted to welcome 287 secondary school students from our feeder schools, alongside 90 parents who joined us to experience the vibrant learning environment firsthand.</p>
+<p>The JPJC Career Talks 2026, organised by the JPJC ECG Committee, brought energy, inspiration and meaningful conversations to the JP Fam across two exciting afternoons on 29 April and 6 May 2026. Featuring professionals from 10 different organisations and industries, the event exposed students to a diverse range of career pathways through engaging fireside chat sessions held across all four lecture theatres.</p>
 	
-<p>The Festival served as a powerful showcase of student learning, creativity, and purpose. Our J2 students took center stage in sharing their journeys through Project Work, offering valuable insights into problem identification, ideation, and the development of innovative solutions to real-world challenges. Through their student-led VIA initiatives, they demonstrated a strong commitment to serving the community, while their participation in STEAM programmes reflected curiosity, innovation, and a passion for lifelong learning. These authentic experiences also strengthened key 21st-century competencies such as collaboration, communication, critical thinking, and leadership.</p>
+<p>Students had the opportunity to hear from industry professionals including Mr Daniel Lai, Software Engineer from GXS Bank; Mr Ang Khim Wee, Lead of Business Development from Lim Kee Food Manufacturing; Mr Rick Teng, Head of Office of Compliance from Singapore Health Services; Ms Chen Ye, Senior Sales Executive from Olympus APAC; Mr Leo Kum Yuen, General Manager from Mitsubishi Chemical Methacrylates Singapore; Dr Ng Aik Seng, Scientist in Precision Medicine from A*STAR Genome Institute of Singapore; Dr Geraldine Tan, Director and Principal Clinical and Counselling Psychologist from The Therapy Room; Ms Ng Shan Yi, Family Coach from the Ministry of Social and Family Development; occupational therapists Ms Priyadarshini and Ms Emily Chan from Alexandra Hospital; as well as representatives from Sembcorp Solar Farm, Mr Mohammad Ghafar Bin Mohd Yusof) and Asian Detours.</p>
 	
-<p>For our J1 students and visiting secondary school students, the Festival provided meaningful opportunities to learn directly from their seniors and explore how ideas can be transformed into impactful action. Interactions with community partners and external organisations broadened their understanding of social causes and inspired deeper interest in volunteering, service, and community engagement.</p>
+<p>The sessions went beyond simply introducing careers. Students engaged professionals in honest conversations about their personal journeys, challenges in the workplace, misconceptions surrounding various industries, and the impact of technology and AI on the future of work. The audience was highly participative, with lively exchanges and thoughtful questions throughout all four lecture theatres.</p>
 	
-<p>More than just an event, the JP Innovation Festival embodies the spirit of innovation, empathy, and purposeful learning. It is a celebration of student voice and agency, empowering young people to become confident changemakers who can create meaningful impact within their communities and beyond.</p>
+<p>Adding to the vibrancy of the event were JPJC’s very own student emcees and moderators, who confidently helmed the discussions with poise, warmth and professionalism. Their ability to engage both speakers and audience members elevated the experience tremendously, and they certainly did not disappoint. The JPJC Career Talks 2026 was truly an enriching and dynamic platform that empowered students to explore possibilities, discover their interests, and gain valuable insights into the ever-evolving world of work.</p>
 	
 <div class="isomer-image-wrapper">
 <figure>
@@ -22,9 +22,6 @@ third_nav_title: 2026 Events
 <div class="isomer-image-wrapper">
 <figure>
 <img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/JP_Inno_Fest_2.jpg"></figure>
-	
-<p>Photos by:<br>
-<a href="https://www.instagram.com/jp_media.tech/">@jp_media.tech</a></p>
 
 <p>#JPFam #whyJP #whileiliveilearn #plusultra ❤️#infinitelove 🌱#infinitegrowth 🚀#infinitepossibilities</p>
 	
