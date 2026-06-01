@@ -7,6 +7,7 @@ third_nav_title: 2026 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+22 May 2026|[Dialogue with Distinguished Speaker 2026](/dialogue-with-distinguished-speaker-2026/)
 29 April and 6 May 2026|[Career Talks](/life-at-jpjc/2026-events/career-talks/)
 15 April 2026|[JP Innovation Festival](/life-at-jpjc/2026-events/jp-innovation-festival/)
 |15 March 2026|[CCK Connect](/life-at-jpjc/2026-events/cck-connect/)
