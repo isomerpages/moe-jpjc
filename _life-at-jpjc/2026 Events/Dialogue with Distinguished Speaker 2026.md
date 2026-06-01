@@ -33,7 +33,3 @@ our students to learn and grow in thought through such dialogues.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Life@JPJC/Dialogue_with_Distinguished_Speaker_Ms_Goh_Hanyan.png">
 </div>
 <p></p>
-<p>#JPFam #whyJP #whileiliveilearn #plusultra ❤️#infinitelove 🌱#infinitegrowth
-🚀#infinitepossibilities</p>
-<p></p>
-<p>&lt;/div&gt;&lt;/div&gt;</p>
