@@ -1,6 +1,6 @@
 ---
-title: Dialogue with Distinguished Speaker 2026
-permalink: /dialogue-with-distinguished-speaker-2026/
+title: Dialogue with Distinguished Speaker
+permalink: /dialogue-with-distinguished-speaker/
 variant: tiptap
 description: ""
 third_nav_title: 2026 Events
