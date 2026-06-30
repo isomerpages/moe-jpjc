@@ -30,7 +30,7 @@ third_nav_title: Civics Tutors
 26S15 | <a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a><br><a href="mailto: tay_shunwei_felicia@moe.edu.sg">Ms Tay Shunwei Felicia</a>
 26S16 | <a href="mailto: chay_chun_ho@moe.edu.sg">Mr Jack Chay Chun Ho</a> 
 26S17 | <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a>
-26S18 | <a href="mailto: har_choong_gin@moe.edu.sg">Mr Har Choong Gin</a><br><a href="mailto: kum_mun_fai@moe.edu.sg">Mr Kum Mun Fai</a>
+26S18 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a><br><a href="mailto: kum_mun_fai@moe.edu.sg">Mr Kum Mun Fai</a>
 26S19 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 26S20 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 26S21 | <a href="mailto: lim_han_ling@moe.edu.sg">Mr Lim Han Ling</a>
@@ -43,7 +43,7 @@ third_nav_title: Civics Tutors
 <div align="justify">
 <p></p><h5><b>J1 Civics Tutor list will be updated after 2027 J1 Matriculation</b></h5><h5><p></p>
 
-<a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
+
 
 
 
