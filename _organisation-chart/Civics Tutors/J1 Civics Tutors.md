@@ -15,7 +15,7 @@ third_nav_title: Civics Tutors
 26A06 | <a href="mailto: ng_yee_leen@moe.edu.sg">Ms Ng Yee Leen</a><br><a href="mailto: penny_lee_si_li@moe.edu.sg">Ms Penny Lee Si Li</a>    
 26S01 | <a href="mailto: sarizah_kiman@moe.edu.sg">Ms Sarizah Kiman</a><br><a href="mailto: lee_eng_seng@moe.edu.sg">Mr Lee Eng Seng</a>
 26S02 | <a href="mailto: lee_jing_ying@moe.edu.sg">Ms Charis Lee Jing Ying</a>
-26S03 | <a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a><br><a href="mailto: soh_hui_lian@moe.edu.sg">Ms Soh Hui Lian</a>
+26S03 | <a href="mailto: thia_shi_hui@moe.edu.sg">Ms Thia Shi Hui</a>
 26S04 | <a href="mailto: tan_lee_peng@moe.edu.sg">Mdm Tan Lee Peng</a><br><a href="mailto: lorena_ibrahim@moe.edu.sg">Mdm Lorena Binte Ibrahim</a>
 26S05 | <a href="mailto: s_k_seetha_letchimi@moe.edu.sg">Mdm S K Seetha Letchimi</a>
 26S06 | <a href="mailto: wong_mei_yee@moe.edu.sg">Ms Wong Mei Yee</a> 
@@ -30,7 +30,7 @@ third_nav_title: Civics Tutors
 26S15 | <a href="mailto: chua_zhu_yun_cynthia@moe.edu.sg">Ms Chua Zhu Yun Cynthia</a><br><a href="mailto: tay_shunwei_felicia@moe.edu.sg">Ms Tay Shunwei Felicia</a>
 26S16 | <a href="mailto: chay_chun_ho@moe.edu.sg">Mr Jack Chay Chun Ho</a> 
 26S17 | <a href="mailto: zhang_xiu_chen@moe.edu.sg">Ms Zhang Xiu Chen</a>
-26S18 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a><br><a href="mailto: kum_mun_fai@moe.edu.sg">Mr Kum Mun Fai</a>
+26S18 | <a href="mailto: tan_wang_ling@moe.edu.sg">Mrs Tay-Tan Wang Ling</a>
 26S19 | <a href="mailto: billy_erwin_wooton@moe.edu.sg">Mr Billy Erwin Wooton</a>
 26S20 | <a href="mailto: tan_keok_wen@moe.edu.sg">Mr Tan Keok Wen</a>
 26S21 | <a href="mailto: lim_han_ling@moe.edu.sg">Mr Lim Han Ling</a>
