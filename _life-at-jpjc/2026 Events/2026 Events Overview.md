@@ -7,6 +7,7 @@ third_nav_title: 2026 Events
 ---
 | Date | Events | 
 | -------- | -------- |
+19 May 2026|[Road Run](/life-at-jpjc/2026-events/road-run/)
 29 April and 6 May 2026|[Career Talks](/life-at-jpjc/2026-events/career-talks/)
 22 April 2026|[Dialogue with Distinguished Speaker](/dialogue-with-distinguished-speaker/)
 15 April 2026|[JP Innovation Festival](/life-at-jpjc/2026-events/jp-innovation-festival/)
