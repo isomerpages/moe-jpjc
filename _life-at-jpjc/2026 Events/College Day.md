@@ -19,6 +19,8 @@ College Day is a celebration of the people, partnerships, and shared purpose tha
 
 </p><p>📸 More photos from this memorable celebration can be viewed&nbsp;<a href="https://drive.google.com/drive/folders/1tduOXcCZa7rT82HOL9I6rAdfwNUCcydq?usp=sharing">here</a> [By external photographer].</p>
 	
-<div class="isomer-image-wrapper"><figure><img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Road%20Run/roadrun4.png"></figure>
+<div class="isomer-image-wrapper"><figure><img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Cd1.png"></figure>
 	
-</div></div>
+<div class="isomer-image-wrapper"><figure><img style="width: 100%" height="auto" width="100%" src="/images/2026%20Life@JPJC/Cd2.png"></figure>
+
+</div></div></div>
