@@ -94,7 +94,7 @@ All students are expected to play an active role in their CCAs for their develop
 	
 <div class="column">
 		<a href="https://www.instagram.com/jpjcfutbol/"><img alt="Football" src="/images/Co%20Curriculum/CCA/Football.png"></a>
-		<a href="https://www.instagram.com/jpnetball_/"><img alt="Netball" src="/images/Co%20Curriculum/CCA/Netball.png"></a><a href="https://www.instagram.com/jptabletennis/?igsh=MW0zY2hvcTY5bGlndA%3D%3D&amp;utm_source=qr"><img alt="Table Tennis" src="/images/Co%20Curriculum/CCA/Table_Tennis.png"></a></div>
+		<a href="https://www.instagram.com/jpnetball_/"><img alt="Netball" src="/images/Co%20Curriculum/CCA/Netball.png"></a><a href="https://www.instagram.com/jpjctabletennis?igsh=MXFxNWI0YmFsYjZnbQ=="><img alt="Table Tennis" src="/images/Co%20Curriculum/CCA/Table_Tennis.png"></a></div>
 		
 		
 <div class="column">
